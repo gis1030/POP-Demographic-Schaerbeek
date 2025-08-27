@@ -1,103 +1,107 @@
 <!doctype html>
 <html lang="en">
-    <head>
-		<title>POP Households Numbers 1030</title>
-		<link rel="shortcut icon" href="css/images/logo1030GeoData.ico" type="image/x-icon">
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <link rel="stylesheet" href="css/leaflet.css">
-        <link rel="stylesheet" href="css/L.Control.Layers.Tree.css">
-        <link rel="stylesheet" href="css/qgis2web.css">
-        <link rel="stylesheet" href="css/fontawesome-all.min.css">
-        <link rel="stylesheet" href="css/leaflet.photon.css">
-        <style>
-        html, body, #map {
+
+<head>
+    <title>POP Households Numbers 1030</title>
+    <link rel="shortcut icon" href="css/images/logo1030GeoData.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/L.Control.Layers.Tree.css">
+    <link rel="stylesheet" href="css/qgis2web.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="css/leaflet.photon.css">
+    <style>
+        html,
+        body,
+        #map {
             width: 100%;
             height: 100%;
             padding: 0;
             margin: 0;
         }
-        </style>
-        <title>Nombre des ménages à Schaerbeek</title>
-    </head>
-    <body>
-        <div id="map">
-        </div>
-        <script src="js/qgis2web_expressions.js"></script>
-        <script src="js/leaflet.js"></script>
-        <script src="js/L.Control.Layers.Tree.min.js"></script>
-        <script src="js/leaflet.rotatedMarker.js"></script>
-        <script src="js/leaflet.pattern.js"></script>
-        <script src="js/leaflet-hash.js"></script>
-        <script src="js/Autolinker.min.js"></script>
-        <script src="js/rbush.min.js"></script>
-        <script src="js/labelgun.min.js"></script>
-        <script src="js/labels.js"></script>
-        <script src="js/leaflet.photon.js"></script>
-		
-		<script src="js/Leaflet.Control.Custom.js"></script>
+    </style>
+    <title>Nombre des ménages à Schaerbeek</title>
+</head>
 
-        <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
-        <script src="data/SchaerbekBorders/LimitesScaherbeek.js"></script>
+<body>
+    <div id="map">
+    </div>
+    <script src="js/qgis2web_expressions.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/L.Control.Layers.Tree.min.js"></script>
+    <script src="js/leaflet.rotatedMarker.js"></script>
+    <script src="js/leaflet.pattern.js"></script>
+    <script src="js/leaflet-hash.js"></script>
+    <script src="js/Autolinker.min.js"></script>
+    <script src="js/rbush.min.js"></script>
+    <script src="js/labelgun.min.js"></script>
+    <script src="js/labels.js"></script>
+    <script src="js/leaflet.photon.js"></script>
 
-        <script src="data/SchaerbeekDemographicDistributionHouse.js"></script>
-        <script>
+    <script src="js/Leaflet.Control.Custom.js"></script>
+
+    <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
+    <script src="data/SchaerbekBorders/LimitesScaherbeek.js"></script>
+
+    <script src="data/SchaerbeekDemographicDistributionHouse.js"></script>
+    <script>
         var highlightLayer;
         function highlightFeature(e) {
             highlightLayer = e.target;
 
             if (e.target.feature.geometry.type === 'LineString' || e.target.feature.geometry.type === 'MultiLineString') {
-              highlightLayer.setStyle({
-                color: '#ffff00',
-              });
+                highlightLayer.setStyle({
+                    color: '#ffff00',
+                });
             } else {
-              highlightLayer.setStyle({
-                fillColor: '#ffff00',
-                fillOpacity: 1
-              });
+                highlightLayer.setStyle({
+                    fillColor: '#ffff00',
+                    fillOpacity: 1
+                });
             }
             highlightLayer.openPopup();
         }
         var map = L.map('map', {
             zoomControl: false, maxZoom: 23, minZoom: 1
         }).fitBounds([[50.84242805691727, 4.35343370855978], [50.88164566987217, 4.4308537948872715]]);
-		
+
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('©GeoData1030: geodata.gis1030@gmail.com <a href="https://www.1030.be/" target="_blank" >Commune de Schaerbeek</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({ truncate: { length: 30, location: 'smart' } });
-		
+
         // remove popup's row if "visible-with-data"
         function removeEmptyRowsFromPopupContent(content, feature) {
-         var tempDiv = document.createElement('div');
-         tempDiv.innerHTML = content;
-         var rows = tempDiv.querySelectorAll('tr');
-         for (var i = 0; i < rows.length; i++) {
-             var td = rows[i].querySelector('td.visible-with-data');
-             var key = td ? td.id : '';
-             if (td && td.classList.contains('visible-with-data') && feature.properties[key] == null) {
-                 rows[i].parentNode.removeChild(rows[i]);
-             }
-         }
-         return tempDiv.innerHTML;
+            var tempDiv = document.createElement('div');
+            tempDiv.innerHTML = content;
+            var rows = tempDiv.querySelectorAll('tr');
+            for (var i = 0; i < rows.length; i++) {
+                var td = rows[i].querySelector('td.visible-with-data');
+                var key = td ? td.id : '';
+                if (td && td.classList.contains('visible-with-data') && feature.properties[key] == null) {
+                    rows[i].parentNode.removeChild(rows[i]);
+                }
+            }
+            return tempDiv.innerHTML;
         }
         // add class to format popup if it contains media
-		function addClassToPopupIfMedia(content, popup) {
-			var tempDiv = document.createElement('div');
-			tempDiv.innerHTML = content;
-			if (tempDiv.querySelector('td img')) {
-				popup._contentNode.classList.add('media');
-					// Delay to force the redraw
-					setTimeout(function() {
-						popup.update();
-					}, 10);
-			} else {
-				popup._contentNode.classList.remove('media');
-			}
-		}
-        var title = new L.Control({'position':'bottomleft'});
+        function addClassToPopupIfMedia(content, popup) {
+            var tempDiv = document.createElement('div');
+            tempDiv.innerHTML = content;
+            if (tempDiv.querySelector('td img')) {
+                popup._contentNode.classList.add('media');
+                // Delay to force the redraw
+                setTimeout(function () {
+                    popup.update();
+                }, 10);
+            } else {
+                popup._contentNode.classList.remove('media');
+            }
+        }
+        var title = new L.Control({ 'position': 'bottomleft' });
         title.onAdd = function (map) {
             this._div = L.DomUtil.create('div', 'info');
             this.update();
@@ -107,25 +111,25 @@
             this._div.innerHTML = '<h2>Nombre des ménages schaerbeekoise inscrit au RN</h2>';
         };
         title.addTo(map);
-        var abstract = new L.Control({'position':'topleft'});
+        var abstract = new L.Control({ 'position': 'topleft' });
         abstract.onAdd = function (map) {
             this._div = L.DomUtil.create('div',
-            'leaflet-control abstract');
+                'leaflet-control abstract');
             this._div.id = 'abstract'
-                this._div.setAttribute("onmouseenter", "abstract.show()");
-                this._div.setAttribute("onmouseleave", "abstract.hide()");
-                this.hide();
-                return this._div;
-            };
-            abstract.hide = function () {
-                this._div.classList.remove("abstractUncollapsed");
-                this._div.classList.add("abstract");
-                this._div.innerHTML = 'i'
-            }
-            abstract.show = function () {
-                this._div.classList.remove("abstract");
-                this._div.classList.add("abstractUncollapsed");
-                this._div.innerHTML = 'Etude démographique de la population de Schaerbeek, basée sur le Registre national belge.<br /><br />Distribution de menages à Schaerbeek (mars 2025)<br /><br />Cartographie de la distribution de menages à schaerbeekoise en termes de ilots urbanistiques.';
+            this._div.setAttribute("onmouseenter", "abstract.show()");
+            this._div.setAttribute("onmouseleave", "abstract.hide()");
+            this.hide();
+            return this._div;
+        };
+        abstract.hide = function () {
+            this._div.classList.remove("abstractUncollapsed");
+            this._div.classList.add("abstract");
+            this._div.innerHTML = 'i'
+        }
+        abstract.show = function () {
+            this._div.classList.remove("abstract");
+            this._div.classList.add("abstractUncollapsed");
+            this._div.innerHTML = 'Etude démographique de la population de Schaerbeek, basée sur le Registre national belge.<br /><br />Distribution de menages à Schaerbeek (mars 2025)<br /><br />Cartographie de la distribution de menages à schaerbeekoise en termes de ilots urbanistiques.';
         };
         abstract.addTo(map);
         var zoomControl = L.control.zoom({
@@ -161,7 +165,7 @@
         map.addLayer(layer_GoogleTerrain_1);
         function pop_LimitesSchaerbeekQuartiers_2(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -170,7 +174,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -192,10 +196,10 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_LimitesSchaerbeekQuartiers_2_0() {
@@ -206,7 +210,7 @@
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
-                weight: 4.0, 
+                weight: 4.0,
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(40,164,38,1.0)',
@@ -229,7 +233,7 @@
         map.addLayer(layer_LimitesSchaerbeekQuartiers_2);
         function pop_LimitesScaherbeek_3(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -238,7 +242,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -252,10 +256,10 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_LimitesScaherbeek_3_0() {
@@ -266,7 +270,7 @@
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
-                weight: 4.0, 
+                weight: 4.0,
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(100,100,100,1.0)',
@@ -276,7 +280,7 @@
         map.createPane('pane_LimitesScaherbeek_3');
         map.getPane('pane_LimitesScaherbeek_3').style.zIndex = 403;
         map.getPane('pane_LimitesScaherbeek_3').style['mix-blend-mode'] = 'normal';
-		
+
         var layer_LimitesScaherbeek_3 = new L.geoJson(json_LimitesScaherbeek_3, {
             attribution: '',
             interactive: true,
@@ -288,10 +292,10 @@
         });
         bounds_group.addLayer(layer_LimitesScaherbeek_3);
         map.addLayer(layer_LimitesScaherbeek_3);
-		
+
         function pop_plusde600_4(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -300,7 +304,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -328,42 +332,42 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_plusde600_4_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] < 500.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] < 500.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 500.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 500.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_plusde600_4',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_plusde600_4');
@@ -380,10 +384,10 @@
         });
         bounds_group.addLayer(layer_plusde600_4);
         map.addLayer(layer_plusde600_4);
-		
+
         function pop_500600_5(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -392,7 +396,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -420,27 +424,27 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_500600_5_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] >= 500.000000 && feature.properties['Pop1030_Menages1030'] <= 600.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 500.000000 && feature.properties['Pop1030_Menages1030'] <= 600.000000) {
                 return {
-                pane: 'pane_500600_5',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(166,112,229,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_500600_5',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(166,112,229,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_500600_5');
@@ -457,10 +461,10 @@
         });
         bounds_group.addLayer(layer_500600_5);
         //map.addLayer(layer_500600_5);
-		
+
         function pop_400500_6(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -469,7 +473,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -497,57 +501,57 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_400500_6_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] < 400.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] < 400.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] > 500.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] > 500.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 400.000000 && feature.properties['Pop1030_Menages1030'] <= 500.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 400.000000 && feature.properties['Pop1030_Menages1030'] <= 500.000000) {
                 return {
-                pane: 'pane_400500_6',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(183,139,233,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_400500_6',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(183,139,233,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_400500_6');
@@ -564,10 +568,10 @@
         });
         bounds_group.addLayer(layer_400500_6);
         map.addLayer(layer_400500_6);
-		
+
         function pop_300400_7(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -576,7 +580,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -604,57 +608,57 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_300400_7_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] < 300.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] < 300.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] > 400.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] > 400.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 300.000000 && feature.properties['Pop1030_Menages1030'] <= 400.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 300.000000 && feature.properties['Pop1030_Menages1030'] <= 400.000000) {
                 return {
-                pane: 'pane_300400_7',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(200,167,238,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_300400_7',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(200,167,238,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_300400_7');
@@ -671,10 +675,10 @@
         });
         bounds_group.addLayer(layer_300400_7);
         map.addLayer(layer_300400_7);
-		
+
         function pop_200300_8(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -683,7 +687,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -711,57 +715,57 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_200300_8_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] < 200.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] < 200.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] > 300.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] > 300.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 200.000000 && feature.properties['Pop1030_Menages1030'] <= 300.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 200.000000 && feature.properties['Pop1030_Menages1030'] <= 300.000000) {
                 return {
-                pane: 'pane_200300_8',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(217,195,242,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_200300_8',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(217,195,242,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_200300_8');
@@ -778,10 +782,10 @@
         });
         bounds_group.addLayer(layer_200300_8);
         map.addLayer(layer_200300_8);
-		
+
         function pop_100200_9(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -790,7 +794,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -818,57 +822,57 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_100200_9_0(feature) {
-	            if (feature.properties['Pop1030_Menages1030'] < 100.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] < 100.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] > 200.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] > 200.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 100.000000 && feature.properties['Pop1030_Menages1030'] <= 200.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 100.000000 && feature.properties['Pop1030_Menages1030'] <= 200.000000) {
                 return {
-                pane: 'pane_100200_9',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(233,222,246,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_100200_9',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(233,222,246,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_100200_9');
@@ -885,10 +889,10 @@
         });
         bounds_group.addLayer(layer_100200_9);
         map.addLayer(layer_100200_9);
-		
+
         function pop_0100_10(feature, layer) {
             layer.on({
-                mouseout: function(e) {
+                mouseout: function (e) {
                     for (var i in e.target._eventParents) {
                         if (typeof e.target._eventParents[i].resetStyle === 'function') {
                             e.target._eventParents[i].resetStyle(e.target);
@@ -897,7 +901,7 @@
                     if (typeof layer.closePopup == 'function') {
                         layer.closePopup();
                     } else {
-                        layer.eachLayer(function(feature){
+                        layer.eachLayer(function (feature) {
                             feature.closePopup()
                         });
                     }
@@ -925,42 +929,42 @@
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-			layer.on('popupopen', function(e) {
-				addClassToPopupIfMedia(content, e.popup);
-			});
-			layer.bindPopup(content, { maxHeight: 400 });
+            layer.on('popupopen', function (e) {
+                addClassToPopupIfMedia(content, e.popup);
+            });
+            layer.bindPopup(content, { maxHeight: 400 });
         }
 
         function style_0100_10_0(feature) {
-            if (feature.properties['Pop1030_Menages1030'] > 100.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] > 100.000000) {
                 return {
-                pane: 'pane_plusde600_4',
-                opacity: 0,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 0.0, 
-                fill: false,
-                fillOpacity: 0,
-                fillColor: 'rgba(150,84,225,0.6)',
-                interactive: false,
+                    pane: 'pane_plusde600_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(150,84,225,0.6)',
+                    interactive: false,
+                }
             }
-            }
-            if (feature.properties['Pop1030_Menages1030'] >= 0.000000 && feature.properties['Pop1030_Menages1030'] <= 100.000000 ) {
+            if (feature.properties['Pop1030_Menages1030'] >= 0.000000 && feature.properties['Pop1030_Menages1030'] <= 100.000000) {
                 return {
-                pane: 'pane_0100_10',
-                opacity: 1,
-                color: 'rgba(35,35,35,0.6)',
-                dashArray: '',
-                lineCap: 'butt',
-                lineJoin: 'miter',
-                weight: 1.0, 
-                fill: true,
-                fillOpacity: 1,
-                fillColor: 'rgba(250,250,250,0.6)',
-                interactive: true,
-            }
+                    pane: 'pane_0100_10',
+                    opacity: 1,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 1.0,
+                    fill: true,
+                    fillOpacity: 1,
+                    fillColor: 'rgba(250,250,250,0.6)',
+                    interactive: true,
+                }
             }
         }
         map.createPane('pane_0100_10');
@@ -978,9 +982,11 @@
         bounds_group.addLayer(layer_0100_10);
         map.addLayer(layer_0100_10);
 
-		
-        const url = {"Nominatim": "https://nominatim.openstreetmap.org/search?format=geojson&addressdetails=1&",
-        "BAN": "https://api-adresse.data.gouv.fr/search/?"}
+
+        const url = {
+            "Nominatim": "https://nominatim.openstreetmap.org/search?format=geojson&addressdetails=1&",
+            "BAN": "https://api-adresse.data.gouv.fr/search/?"
+        }
         var photonControl = L.control.photon({
             url: url["Nominatim"],
             feedbackLabel: '',
@@ -989,14 +995,14 @@
             initial: true,
             // resultsHandler: myHandler,
         }).addTo(map);
-        photonControl._container.childNodes[0].style.borderRadius="10px"
+        photonControl._container.childNodes[0].style.borderRadius = "10px"
         // Create a variable to store the geoJSON data
         var x = null;
         // Create a variable to store the marker
         var marker = null;
         // Add an event listener to the Photon control to create a marker from the returned geoJSON data
         var z = null;
-        photonControl.on('selected', function(e) {
+        photonControl.on('selected', function (e) {
             console.log(photonControl.search.resultsContainer);
             if (x != null) {
                 map.removeLayer(obj3.marker);
@@ -1007,14 +1013,14 @@
             var label = typeof obj2.gcd.properties.label === 'undefined' ? obj2.gcd.properties.display_name : obj2.gcd.properties.label;
             obj3.marker = L.marker(x.getLayers()[0].getLatLng()).bindPopup(label).addTo(map);
             map.setView(x.getLayers()[0].getLatLng(), 17);
-            z = typeof e.choice.properties.label === 'undefined'? e.choice.properties.display_name : e.choice.properties.label;
+            z = typeof e.choice.properties.label === 'undefined' ? e.choice.properties.display_name : e.choice.properties.label;
             console.log(e);
             e.target.input.value = z;
         });
         var search = document.getElementsByClassName("leaflet-photon leaflet-control")[0];
         search.classList.add("leaflet-control-search")
         search.style.display = "flex";
-        search.style.backgroundColor="rgba(255,255,255,0.5)" 
+        search.style.backgroundColor = "rgba(255,255,255,0.5)"
 
         // Créer le nouvel élément bouton
         var button = document.createElement("div");
@@ -1034,39 +1040,42 @@
         });
 
         var overlaysTree = [
-        {label: '<b>Nombre de menages 1030</b>', collapsed: false, selectAllCheckbox: true, children: [
-            {label: '<td style="text-align: center;"><img src="legend/0100_10_01000.png" /></td><td> 0-100</td>', layer: layer_0100_10},
-            {label: '<td style="text-align: center;"><img src="legend/100200_9_1002000.png" /></td><td> 100-200</td>', layer: layer_100200_9},
-            {label: '<td style="text-align: center;"><img src="legend/200300_8_2003000.png" /></td><td> 200-300</td>', layer: layer_200300_8},
-            {label: '<td style="text-align: center;"><img src="legend/300400_7_3004000.png" /></td><td> 300-400</td>', layer: layer_300400_7},
-            {label: '<td style="text-align: center;"><img src="legend/400500_6_4005000.png" /></td><td> 400-500</td>', layer: layer_400500_6},
-            {label: '<td style="text-align: center;"><img src="legend/plusde600_4_plusde6000.png" /></td><td> plus de 500</td>', layer: layer_plusde600_4},]},
-		
-		{label: '<b>Schaerbeek</b>', children: [
-            {label: '<img src="legend/LimitesScaherbeek_3.png" /> Limites Scaherbeek', layer: layer_LimitesScaherbeek_3, radioGroup: 'bd'},
-            {label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> Limites Schaerbeek Quartiers', layer: layer_LimitesSchaerbeekQuartiers_2, radioGroup: 'bd'},]
-		},
-			
-			{label: "Google Terrain", layer: layer_GoogleTerrain_1, radioGroup: 'bm' },
-            {label: "OpenStreet Map", layer: layer_OpenStreetMap_0, radioGroup: 'bm' },]
-        var lay = L.control.layers.tree(null, overlaysTree,{
+            {
+                label: '<b>Nombre de menages 1030</b>', collapsed: false, selectAllCheckbox: true, children: [
+                    { label: '<td style="text-align: center;"><img src="legend/0100_10_01000.png" /></td><td> 0-100</td>', layer: layer_0100_10 },
+                    { label: '<td style="text-align: center;"><img src="legend/100200_9_1002000.png" /></td><td> 100-200</td>', layer: layer_100200_9 },
+                    { label: '<td style="text-align: center;"><img src="legend/200300_8_2003000.png" /></td><td> 200-300</td>', layer: layer_200300_8 },
+                    { label: '<td style="text-align: center;"><img src="legend/300400_7_3004000.png" /></td><td> 300-400</td>', layer: layer_300400_7 },
+                    { label: '<td style="text-align: center;"><img src="legend/400500_6_4005000.png" /></td><td> 400-500</td>', layer: layer_400500_6 },
+                    { label: '<td style="text-align: center;"><img src="legend/plusde600_4_plusde6000.png" /></td><td> plus de 500</td>', layer: layer_plusde600_4 },]
+            },
+
+            {
+                label: '<b>Schaerbeek</b>', children: [
+                    { label: '<img src="legend/LimitesScaherbeek_3.png" /> Limites Scaherbeek', layer: layer_LimitesScaherbeek_3, radioGroup: 'bd' },
+                    { label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> Limites Schaerbeek Quartiers', layer: layer_LimitesSchaerbeekQuartiers_2, radioGroup: 'bd' },]
+            },
+
+            { label: "Google Terrain", layer: layer_GoogleTerrain_1, radioGroup: 'bm' },
+            { label: "OpenStreet Map", layer: layer_OpenStreetMap_0, radioGroup: 'bm' },]
+        var lay = L.control.layers.tree(null, overlaysTree, {
             //namedToggle: true,
             //selectorBack: false,
             //closedSymbol: '&#8862; &#x1f5c0;',
             //openedSymbol: '&#8863; &#x1f5c1;',
             //collapseAll: 'Collapse all',
             //expandAll: 'Expand all',
-            collapsed: false, 
+            collapsed: false,
         });
         lay.addTo(map);
-		
-		document.addEventListener("DOMContentLoaded", function() {
+
+        document.addEventListener("DOMContentLoaded", function () {
             // set new Layers List height which considers toggle icon
             function newLayersListHeight() {
                 var layerScrollbarElement = document.querySelector('.leaflet-control-layers-scrollbar');
                 if (layerScrollbarElement) {
                     var layersListElement = document.querySelector('.leaflet-control-layers-list');
-                    var originalHeight = layersListElement.style.height 
+                    var originalHeight = layersListElement.style.height
                         || window.getComputedStyle(layersListElement).height;
                     var newHeight = parseFloat(originalHeight) - 50;
                     layersListElement.style.height = newHeight + 'px';
@@ -1076,7 +1085,7 @@
             var controlLayersElement = document.querySelector('.leaflet-control-layers');
             var toggleLayerControl = document.querySelector('.leaflet-control-layers-toggle');
             // toggle Collapsed/Expanded and apply new Layers List height
-            toggleLayerControl.addEventListener('click', function() {
+            toggleLayerControl.addEventListener('click', function () {
                 if (isLayersListExpanded) {
                     controlLayersElement.classList.remove('leaflet-control-layers-expanded');
                 } else {
@@ -1084,52 +1093,44 @@
                 }
                 isLayersListExpanded = !isLayersListExpanded;
                 newLayersListHeight()
-            });	
-			// apply new Layers List height if toggle layerstree
-			if (controlLayersElement) {
-				controlLayersElement.addEventListener('click', function(event) {
-					var toggleLayerHeaderPointer = event.target.closest('.leaflet-layerstree-header-pointer span');
-					if (toggleLayerHeaderPointer) {
-						newLayersListHeight();
-					}
-				});
-			}
+            });
+            // apply new Layers List height if toggle layerstree
+            if (controlLayersElement) {
+                controlLayersElement.addEventListener('click', function (event) {
+                    var toggleLayerHeaderPointer = event.target.closest('.leaflet-layerstree-header-pointer span');
+                    if (toggleLayerHeaderPointer) {
+                        newLayersListHeight();
+                    }
+                });
+            }
             // Collapsed/Expanded at Start to apply new height
-            setTimeout(function() {
+            setTimeout(function () {
                 toggleLayerControl.click();
             }, 10);
-            setTimeout(function() {
+            setTimeout(function () {
                 toggleLayerControl.click();
             }, 10);
             // Collapsed touch/small screen
             var isSmallScreen = window.innerWidth < 650;
             if (isSmallScreen) {
-                setTimeout(function() {
+                setTimeout(function () {
                     controlLayersElement.classList.remove('leaflet-control-layers-expanded');
                     isLayersListExpanded = !isLayersListExpanded;
                 }, 500);
-            }  
-        });       
+            }
+        });
         setBounds();
-        resetLabels([layer_plusde600_4,layer_500600_5,layer_400500_6,layer_300400_7,layer_200300_8,layer_100200_9,layer_0100_10]);
-        map.on("zoomend", function(){
-            resetLabels([layer_plusde600_4,layer_500600_5,layer_400500_6,layer_300400_7,layer_200300_8,layer_100200_9,layer_0100_10]);
+        resetLabels([layer_plusde600_4, layer_500600_5, layer_400500_6, layer_300400_7, layer_200300_8, layer_100200_9, layer_0100_10]);
+        map.on("zoomend", function () {
+            resetLabels([layer_plusde600_4, layer_500600_5, layer_400500_6, layer_300400_7, layer_200300_8, layer_100200_9, layer_0100_10]);
         });
-        map.on("layeradd", function(){
-            resetLabels([layer_plusde600_4,layer_500600_5,layer_400500_6,layer_300400_7,layer_200300_8,layer_100200_9,layer_0100_10]);
+        map.on("layeradd", function () {
+            resetLabels([layer_plusde600_4, layer_500600_5, layer_400500_6, layer_300400_7, layer_200300_8, layer_100200_9, layer_0100_10]);
         });
-        map.on("layerremove", function(){
-            resetLabels([layer_plusde600_4,layer_500600_5,layer_400500_6,layer_300400_7,layer_200300_8,layer_100200_9,layer_0100_10]);
+        map.on("layerremove", function () {
+            resetLabels([layer_plusde600_4, layer_500600_5, layer_400500_6, layer_300400_7, layer_200300_8, layer_100200_9, layer_0100_10]);
         });
-        </script>
-   <script>
-	L.MyLeafletControlTest = L.Control.extend({
-	  options: {
-		position: 'topright'
-	  },
-	}
-	L.MyLeafletControlTest({ position: 'bottomright' }).addTo(map);
-   </script>
+    </script>
     <script>
         let MyControlClass = L.Control.extend({
             options: {
@@ -1153,6 +1154,45 @@
         });
         let myControl = new MyControlClass().addTo(map);
     </script>
+    <script>
+        let ChartPopClass = L.Control.extend({
+            options: { position: 'topleft' },
 
-    </body>
+            onAdd: function (map) {
+                var div = L.DomUtil.create('div', 'leaflet-bar my-control');
+
+                var myButton = L.DomUtil.create('button', 'my-button-class', div);
+                myButton.innerHTML = 'Affichage des statistiques globales';
+
+                L.DomEvent.on(myButton, 'click', function () {
+                    window.open("PopulationCharts1030.html");
+                    window.close();
+                }, this);
+                return div;
+            },
+
+            onRemove: function (map) {
+            }
+        });
+        let ChartPopControl = new ChartPopClass().addTo(map);
+    </script>
+
+    <script>
+        L.Control.Watermark = L.Control.extend({
+            onAdd: function (map) {
+                var img = L.DomUtil.create('img');
+                img.src = 'css/images/schaerbeek1030_logo.png';
+                img.style.width = '75px';
+
+                return img;
+            },
+            onRemove: function (map) {
+                // Nothing to do here
+            }
+        });
+        L.control.watermark = function (opts) { return new L.Control.Watermark(opts); }
+        L.control.watermark({ position: 'bottomleft' }).addTo(map);
+    </script>
+</body>
+
 </html>
