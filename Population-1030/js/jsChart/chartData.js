@@ -39,6 +39,7 @@ function dataCharts_G01() {
         populationTotal += sumTotalPopByQuartier[label];
         densityPopulationByQuartier[Object.keys(densityPopulationByQuartier)[i]] = data01;
     }
+
     //console.log('Area de Schaerbeek:', areaTotal);
     //console.log('Población total de Schaerbeek:', populationTotal);
     //console.log('Densidad de población por barrio (hab/km2) - Calculada:', densityPopulationByQuartier);
@@ -47,7 +48,7 @@ function dataCharts_G01() {
     //console.log('nombre del barrio:', Object.keys(areaQuartier)[0])
     //console.log('area del barrio:', areaQuartier[Object.keys(areaQuartier)[0]])
     //console.log('total poblacion', sumTotalPopByQuartier['Bienfaiteurs'])
-    //console.log('Suma de población total por barrio:', sumTotalPopByQuartier.sort());
+    //console.log('Suma de población total por barrio:', sumTotalPopByQuartier);
     //console.log('Suma de población masculina por barrio:', sumTotalPopMenByQuartier);
     //console.log('Suma de población femenina por barrio:', sumTotalPopWomenByQuartier);
     //console.log('Densidad de población por barrio (hab/km2):', densityPopulationByQuartier);
@@ -132,9 +133,9 @@ function dataCharts_G01() {
     // e. Genera los datavalues a graficar en el buen orden
     // para las graficas piramidales >>  labelsUpgrade
     //==================================================
-    var dataValuesPopPyram = [];
+    var dataValuesPopPyram = []; var dataDensityPopPyram = [];
     var dataValuesMenPyram = []; var dataValuesWomenPyram = [];
-    var data01 = 0; var data02 = 0; var data03 = 0;
+    var data01 = 0; var data02 = 0; var data03 = 0; var data04 = 0;
 
     for (let i = 0; i < labelsUpgrade.length; i++) {
         if (sumTotalPopMenByQuartier[labelsUpgrade[i]] !== undefined) {
@@ -151,14 +152,23 @@ function dataCharts_G01() {
         }
         dataValuesWomenPyram[i] = data02; // Total Chefs Femmes
 
-        if (densityPopulationByQuartier[labelsUpgrade[i]] !== undefined) {
-            data03 = densityPopulationByQuartier[labelsUpgrade[i]];
+        if (sumTotalPopByQuartier[labelsUpgrade[i]] !== undefined) {
+            data03 = sumTotalPopByQuartier[labelsUpgrade[i]];
         } else {
             data03 = 0;
         }
         dataValuesPopPyram[i] = data03; // Densidad de población
+
+        if (densityPopulationByQuartier[labelsUpgrade[i]] !== undefined) {
+            data04 = densityPopulationByQuartier[labelsUpgrade[i]];
+        } else {
+            data04 = 0;
+        }
+        dataDensityPopPyram[i] = data04; // Total Chefs Hommes
     }
     //console.log('DataValues Total Menages:', dataValues01);
+    //console.log('Lista de Barrios:', labelsUpgrade)
+    //console.log('Densidad de población por Barrio:', dataDensityPopPyram)
 
     //Data011 >> json_SchaerbeekDemographicDistributionHouse
     //-----------------------------------------------------------------------
@@ -209,12 +219,15 @@ function dataCharts_G01() {
     }
     //console.log('DataValues Total Menages:', dataValuesHouse);
 
+
+
     return {
         // json_SchaerbeekDemographicDistribution
         labelsDownward: labelsDownward,
         dataValuesPop: dataValuesPop,
         dataValuesMen: dataValuesMen,
         dataValuesWomen: dataValuesWomen,
+        densityPopulationByQuartier: densityPopulationByQuartier,
         // json_json_SchaerbeekDemographicDistributionHouse
         dataValuesHouse: dataValuesHouse,
         dataValuesChefMen: dataValuesChefMen,
@@ -224,6 +237,7 @@ function dataCharts_G01() {
         dataValuesPopPyram: dataValuesPopPyram,
         dataValuesMenPyram: dataValuesMenPyram,
         dataValuesWomenPyram: dataValuesWomenPyram,
+        dataDensityPopPyram: dataDensityPopPyram,
         //KPI Data Total1010
         sumTotalPopHommes: sumTotalPopHommes,
         sumTotalPopFemmes: sumTotalPopFemmes,

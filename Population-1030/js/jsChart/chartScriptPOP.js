@@ -79,7 +79,6 @@ function QuartersBarPopulationChart(labelsDownward, dataValuesPop, dataValuesMen
     };
 
     new Chart(id, { type: 'line', data, options });
-
 }
 
 function QuartersBarHouseChart(labelsDownward, dataValuesHouse, dataValuesChefMen, dataValuesChefWomen, id) {
@@ -155,6 +154,108 @@ function QuartersBarHouseChart(labelsDownward, dataValuesHouse, dataValuesChefMe
 
 }
 
+function QuartersBarHouseChart2(labelsDownward, dataValuesHouse, dataValuesPop, densityPopulationByQuartier, id) {
+    const data = {
+        labels: labelsDownward,
+        datasets: [
+            {
+                label: 'ménages',
+                type: 'line',
+                tension: 0.25,
+                data: dataValuesHouse,
+                backgroundColor: styles.color.alphas[5], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[5], //styles.color.solids.map(eachColor => eachColor),
+                borderWidth: 2,
+                yAxisID: 'y',
+            },
+            {
+                label: 'population',
+                type: 'bar',
+                data: dataValuesPop,
+                backgroundColor: styles.color.alphas[0], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[0], //styles.color.solids.map(eachColor => eachColor),
+                borderWidth: 2,
+                yAxisID: 'y',
+            },
+            {
+                type: 'bar',
+                label: 'densité (hab/km²)',
+                data: densityPopulationByQuartier,
+                backgroundColor: styles.color.alphas[2],
+                borderColor: styles.color.solids[2],
+                borderWidth: 2,
+                yAxisID: 'y1',
+            },
+        ]
+    };
+
+    const options = {
+        plugins: {
+            legend: {
+                position: 'right',
+            }
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: {
+            mode: 'index',
+            intersect: false,
+        },
+        stacked: false,
+        scales: {
+            x: {
+                display: true,
+                title: { display: true },
+                //stacked: true,
+                padding: 0,
+            },
+            y: {
+                type: 'linear',
+                display: true,
+                position: 'left',
+                title: {
+                    display: true,
+                    text: 'total habitants'
+                },
+                beginAtZero: true, //min: 0, //suggestedMin
+                max: 20000, // suggestedMax
+                stepSize: 5000,
+                padding: 0,
+                stacked: 'single',
+                grid: { drawOnChartArea: true, },
+                ticks: {
+                    stepSize: 5000
+                },
+                stacked: true,
+            },
+            y1: {
+                display: true,
+                position: 'right',
+                title: {
+                    display: true,
+                    text: 'densité (hab/km²)'
+                },
+                beginAtZero: true, //min: 0, //suggestedMin
+                max: 35000, // suggestedMax
+                stepSize: 5000,
+                padding: 0,
+                stacked: 'single',
+                grid: { drawOnChartArea: true, },
+                ticks: {
+                    stepSize: 5000
+                },
+                stacked: true,
+                grid: {
+                    drawOnChartArea: false, // only want the grid lines for one axis to show up
+                },
+            },
+        },
+    };
+
+    new Chart(id, { type: 'line', data, options });
+
+}
+
 // 1.3. Gráfico de radar
 function heightRadarChart(labelsData, dataValues, id) {
 
@@ -222,6 +323,77 @@ function heightRadarChart(labelsData, dataValues, id) {
 
     new Chart(id, { type: 'radar', data, options, plugins: [ChartDataLabels] });
     //new Chart(id, { type: 'polarArea', data, options, plugins: [ChartDataLabels] });
+    //new Chart(id, { type: 'doughnut', data, options, plugins: [ChartDataLabels] });
+}
+
+function QuartersDensitePop(labelsData, dataValues, id) {
+
+    const data = {
+        labels: labelsData,
+        datasets: [{
+            // label: 'hab/km²',
+            data: dataValues,
+            borderColor: styles.color.solids.map(eachColor => eachColor),
+            backgroundColor: styles.color.alphas.map(eachColor => eachColor),
+            borderWidth: 1
+        }]
+    };
+
+    // Configuración base del plugin de etiquetas de datos
+    const datalabelsBaseConfig = {
+        color: '#000000ff',
+        font: {
+            size: 10,
+        },
+        align: 'center', //center, start, end, right, bottom, left, top
+        anchor: 'center', // 'end', 'start', 'center'
+        offset: 0,
+        rotation: 10,
+        display: 'auto',
+        //clamp: false,
+        formatter: (value) => new Intl.NumberFormat().format(Math.abs(value / 1000).toFixed(1)) + "K",
+        /*
+        formatter: (value) => {
+            let sum = 0;
+            let dataArr = data.datasets[0].data;
+            dataArr.map(data => {
+                sum += data;
+            });
+            let percentage = (value * 100 / sum).toFixed(2) + "%";
+            return percentage;
+        },
+        */
+    };
+
+    // Aplica la configuración base y la específica a cada dataset
+    data.datasets.forEach(dataset => {
+        dataset.datalabels = { ...datalabelsBaseConfig, ...dataset.datalabels };
+    });
+
+    // Configuración base del plugin de etiquetas de datos
+    const options = {
+        borderRadius: 10,
+        padding: 4,
+        responsive: true,
+        maintainAspectRatio: true,
+        padding: 4,
+        rotation: 45,
+        tooltips: {
+            enabled: false
+        },
+        plugins: {
+            legend: {
+                position: 'right',
+                labels: { color: Chart.defaults.color },
+                legend: { display: false, labels: { font: { size: 10 } }, position: 'right', padding: 0 },
+                title: { display: false, text: data.datasets[0].label },
+                datalabels: {} // Deja un objeto vacío para el plugin,
+            },
+        }
+    };
+
+    new Chart(id, { type: 'doughnut', data, options, plugins: [ChartDataLabels] });
+    //new Chart(id, { type: 'pie', data, options, plugins: [ChartDataLabels] });
 }
 
 // 1.1. Gráfico de barras por Genero
@@ -432,9 +604,9 @@ const printCharts = () => {
     const Data013 = json_SchaerbeekDemographicDistributionWomen;
     //console.log(DataALL);
 
-    const { labelsDownward, dataValuesPop, dataValuesMen, dataValuesWomen, //DataALL
+    const { labelsDownward, dataValuesPop, dataValuesMen, dataValuesWomen, densityPopulationByQuartier,//DataALL
         dataValuesHouse, dataValuesChefMen, dataValuesChefWomen, //Data ALL
-        labelsUpgrade, dataValuesPopPyram, dataValuesMenPyram, dataValuesWomenPyram, //Data011
+        labelsUpgrade, dataValuesPopPyram, dataValuesMenPyram, dataValuesWomenPyram, dataDensityPopPyram, //Data011
         sumTotalPopHommes, sumTotalPopFemmes, sumTotalPop, sumAreaTotal, densityPopulation1030, //KPI Population1030
         sumTotalHouse, sumTotalChefHommes, sumTotalChefFemmes, densityHouse //KPI Menages1030
     } = dataCharts_G01();
@@ -457,10 +629,12 @@ const printCharts = () => {
     // Call each chart function passing the coasters and DOM Canvas tag ID to be rendered
     QuartersBarPopulationChart(labelsDownward, dataValuesPop, dataValuesMen, dataValuesWomen, 'chart020')
     QuartersBarHouseChart(labelsDownward, dataValuesHouse, dataValuesChefMen, dataValuesChefWomen, 'chart030')
+    QuartersBarHouseChart2(labelsDownward, dataValuesHouse, dataValuesPop, densityPopulationByQuartier, 'chart050')
+    console.log(densityPopulationByQuartier)
 
-    heightRadarChart(labelsUpgrade, dataValuesPopPyram, 'chart032')
-
+    QuartersDensitePop(labelsUpgrade, dataDensityPopPyram, 'chart032')
     createOptimizedPopulationPyramid('chart031', labelsUpgrade, dataValuesWomenPyram, dataValuesMenPyram);
+
 
     //Schaerbeek >> pyramid population
     /*
@@ -482,7 +656,6 @@ const printCharts = () => {
         //chart.data.datasets[0].label = label
         chart.update()
     }
-
 
     document.querySelector('#featuresOptions').onchange = e => {
         const { value: property, text: label } = e.target.selectedOptions[0]
