@@ -9,6 +9,182 @@ Chart.defaults.font.family = 'Verdana';
 // -----------------------------------------------------------
 
 // 1.1. Gráfico de barras por quartier
+function QuartersBubblesPopFamChart(uniqueQuartiers, datasetsBienfaiteurs, datasetsCerisiers, datasetsColignon,
+    datasetsCoteauxJosaphat, datasetsHelmetHamoir, datasetsJardin, datasetsLinthout, datasetsNord,
+    datasetsPalaisReine, datasetsParcJosaphat, datasetsPlasky, datasetsReyers, datasetsTerdeltFleur, XYregressionLinear, id) {
+
+    const data = {
+        datasets: [
+            {
+                label: uniqueQuartiers[0],
+                data: datasetsBienfaiteurs,
+                backgroundColor: styles.color.alphas[0], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[0], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsBienfaiteurs.map(item => item.z),
+                pointHoverRadius: 15, // Rayon visuel agrandi lors du survol
+            },
+            {
+                label: uniqueQuartiers[1],
+                data: datasetsCerisiers,
+                backgroundColor: styles.color.alphas[1], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[1], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsCerisiers.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[2],
+                data: datasetsColignon,
+                backgroundColor: styles.color.alphas[2], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[2], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsColignon.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[3],
+                data: datasetsCoteauxJosaphat,
+                backgroundColor: styles.color.alphas[3], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[3], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsCoteauxJosaphat.map(item => item.z),
+            },
+
+            {
+                label: uniqueQuartiers[4],
+                data: datasetsHelmetHamoir,
+                backgroundColor: styles.color.alphas[4], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[4], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsHelmetHamoir.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[5],
+                data: datasetsJardin,
+                backgroundColor: styles.color.alphas[5], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[5], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsJardin.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[6],
+                data: datasetsLinthout,
+                backgroundColor: styles.color.alphas[6], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[6], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsLinthout.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[7],
+                data: datasetsNord,
+                backgroundColor: styles.color.alphas[7], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[7], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsNord.map(item => item.z),
+            },
+
+            {
+                label: uniqueQuartiers[8],
+                data: datasetsPalaisReine,
+                backgroundColor: styles.color.alphas[8], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[8], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsPalaisReine.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[9],
+                data: datasetsParcJosaphat,
+                backgroundColor: styles.color.alphas[9], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[9], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsParcJosaphat.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[10],
+                data: datasetsPlasky,
+                backgroundColor: styles.color.alphas[10], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[10], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsPlasky.map(item => item.z),
+            },
+            {
+                label: uniqueQuartiers[11],
+                data: datasetsReyers,
+                backgroundColor: styles.color.alphas[11], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[11], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsReyers.map(item => item.r) * 10,
+            },
+
+            {
+                label: uniqueQuartiers[12],
+                data: datasetsTerdeltFleur,
+                backgroundColor: styles.color.alphas[12], // styles.color.alphas.map(eachColor => eachColor),
+                borderColor: styles.color.solids[12], //styles.color.solids.map(eachColor => eachColor),
+                //radius: datasetsTerdeltFleur.map(item => item.r),
+            },
+            {
+                type: 'line',
+                label: 'régression linéaire',
+                data: XYregressionLinear,
+                backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                borderColor: 'rgba(0, 0, 0, 0.7)',
+                borderWidth: 1,
+                fill: false,
+                pointRadius: 0,
+                tension: 0.1
+            },
+        ],
+    };
+
+    const options = {
+        //responsive: false,
+        elements: {
+            point: {
+                borderWidth: 2,
+                hoverBorderWidth: 3, // Ancho del trazo cuando se pasa el cursor sobre él.
+                pointHoverRadius: 20, // Rayon visuel agrandi lors du survol,
+                pointStyle: 'rectRounded', // 'cross', 'crossRot', 'dash', "line", 'rect', 'rectRounded', 'rectRot', 'star', 'triangle', 
+                hitRadius: 10,
+                radius: function (context) {
+                    var value = context.dataset.data[context.dataIndex];
+                    var size = context.chart.width;
+                    var base = Math.abs(value.v) / 10;
+                    var rFinal = (size / 50) * base;
+                    //console.log(rFinal)
+                    return rFinal;
+                }
+            }
+        },
+        plugins: {
+            tooltip: {
+                callbacks: {
+                    label: function (context) {
+                        // Calcula el radio de la burbuja
+                        const radius = context.dataset.data[context.dataIndex].r;
+                        // Devuelve el tamaño deseado (por ejemplo, el radio multiplicado por un factor)
+                        //return `${context.raw.quartier}, Pop: ${context.raw.x}, Mén: ${context.raw.y}, Rel: ${context.raw.r}`;
+                        return `${context.raw.quartier}, ${context.raw.block}, Pop: ${context.raw.x}, Mén: ${context.raw.y.toFixed(0)}, Rel: ${context.raw.v.toFixed(2)}`;
+                    }
+                }
+            },
+            legend: { position: 'right', labels: { font: { size: 10 } }, position: 'right', padding: 0 },
+            title: { display: true },
+        },
+        aspectRatio: 5 / 3,
+        layout: {
+            padding: 16
+        },
+        scales: {
+            y: {
+                display: true,
+                title: {
+                    display: true,
+                    text: 'total ménages'
+                },
+            },
+            x: {
+                display: true,
+                title: {
+                    display: true,
+                    text: 'total habitants'
+                },
+            },
+        },
+        maintainAspectRatio: false,
+        scaleFontColor: Chart.defaults.color,
+    };
+
+    new Chart(id, { type: 'bubble', data, options });
+}
+
 function QuartersBarPopulationChart(labelsDownward, dataValuesPop, dataValuesMen, dataValuesWomen, id) {
     const data = {
         labels: labelsDownward,
@@ -630,11 +806,10 @@ const printCharts = () => {
     QuartersBarPopulationChart(labelsDownward, dataValuesPop, dataValuesMen, dataValuesWomen, 'chart020')
     QuartersBarHouseChart(labelsDownward, dataValuesHouse, dataValuesChefMen, dataValuesChefWomen, 'chart030')
     QuartersBarHouseChart2(labelsDownward, dataValuesHouse, dataValuesPop, densityPopulationByQuartier, 'chart050')
-    console.log(densityPopulationByQuartier)
+    //console.log(densityPopulationByQuartier)
 
     QuartersDensitePop(labelsUpgrade, dataDensityPopPyram, 'chart032')
     createOptimizedPopulationPyramid('chart031', labelsUpgrade, dataValuesWomenPyram, dataValuesMenPyram);
-
 
     //Schaerbeek >> pyramid population
     /*
@@ -661,9 +836,9 @@ const printCharts = () => {
         const { value: property, text: label } = e.target.selectedOptions[0]
         //console.log(property, label)
         const { labelsAges, PopulationAgesHommes_Quartier, PopulationAgesFemmes_Quartier } = dataCharts_G02(label);
-        console.log(labelsAges)
-        console.log(PopulationAgesHommes_Quartier)
-        console.log(PopulationAgesFemmes_Quartier)
+        //console.log(labelsAges)
+        //console.log(PopulationAgesHommes_Quartier)
+        //console.log(PopulationAgesFemmes_Quartier)
 
         const chart = Chart.getChart('chart022')
         chart.destroy()
@@ -676,15 +851,35 @@ const printCharts = () => {
     createOptimizedPopulationPyramid('chart021', labelsAges, PopulationAgesFemmes_Schaerbeek, PopulationAgesHommes_Schaerbeek);
     createOptimizedPopulationPyramid('chart022', labelsAges, PopulationAgesFemmes_Quartier, PopulationAgesHommes_Quartier);
 
-    createLabelsDataKPI_02('kpi012', '0 à 9 ans', 12799);
-    createLabelsDataKPI_02('kpi013', '10 à 19 ans', 13148);
-    createLabelsDataKPI_02('kpi014', '20 à 29 ans', 15293);
-    createLabelsDataKPI_02('kpi015', '30 à 39 ans', 19901);
-    createLabelsDataKPI_02('kpi016', '40 à 49 ans', 15775);
-    createLabelsDataKPI_02('kpi017', '50 à 59 ans', 12338);
-    createLabelsDataKPI_02('kpi018', '60 à 69 ans', 7832);
-    createLabelsDataKPI_02('kpi019', '70 ans et plus', 6647);
+    // Grafico bubble
+    const {
+        // Labels
+        uniqueQuartiers, uniqueBlockParcel, uniqueBlockParcelQuartier,
+        // datasets
+        datasetsBienfaiteurs, datasetsCerisiers, datasetsColignon, datasetsCoteauxJosaphat, datasetsHelmetHamoir,
+        datasetsJardin, datasetsLinthout, datasetsNord, datasetsPalaisReine, datasetsParcJosaphat,
+        datasetsPlasky, datasetsReyers, datasetsTerdeltFleur,
+        // regresion Data
+        XYregressionLinear,
+        // KPI Data
+        sumTotal_0009, sumTotal_1019, sumTotal_2029, sumTotal_3039, sumTotal_4049, sumTotal_5059, sumTotal_6069, sumTotal_7099,
+    } = dataCharts_G03();
+    //console.log("valores de regresion lineal :", XYregressionLinear);
 
+    //console.log(datasetsBienfaiteurs)
+    QuartersBubblesPopFamChart(uniqueQuartiers, datasetsBienfaiteurs, datasetsCerisiers, datasetsColignon,
+        datasetsCoteauxJosaphat, datasetsHelmetHamoir, datasetsJardin, datasetsLinthout, datasetsNord,
+        datasetsPalaisReine, datasetsParcJosaphat, datasetsPlasky, datasetsReyers, datasetsTerdeltFleur, XYregressionLinear, chart060)
+
+    // KPI Data
+    createLabelsDataKPI_02('kpi012', '0 à 9 ans', sumTotal_0009);
+    createLabelsDataKPI_02('kpi013', '10 à 19 ans', sumTotal_1019);
+    createLabelsDataKPI_02('kpi014', '20 à 29 ans', sumTotal_2029);
+    createLabelsDataKPI_02('kpi015', '30 à 39 ans', sumTotal_3039);
+    createLabelsDataKPI_02('kpi016', '40 à 49 ans', sumTotal_4049);
+    createLabelsDataKPI_02('kpi017', '50 à 59 ans', sumTotal_5059);
+    createLabelsDataKPI_02('kpi018', '60 à 69 ans', sumTotal_6069);
+    createLabelsDataKPI_02('kpi019', '70 ans et plus', sumTotal_7099);
 }
 
 // -----------------------------------------------------------

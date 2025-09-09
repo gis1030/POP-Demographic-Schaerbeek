@@ -1,7 +1,390 @@
 
 // ----------------------------------------------------------------------
-// 1. Funciones javascript a usar con archivos GeoJSON
+// 1. Funciones javascript a usar con solo archivos GeoJSON
 // ----------------------------------------------------------------------
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Función para calcular la linea de regresion lineal a partir de los resultados
+// obtenidos en la funcion getAllCoordinatesAsArray
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/**
+ * Calcula la línea de regresión lineal y devuelve sus coordenadas para graficarla.
+ * @param {Array<Object>} coordinates - Un array de objetos con pares { x, y }.
+ * @returns {Object} Un objeto que contiene las propiedades 'm' (pendiente), 'b' (intercepto) y 'line' (coordenadas para la gráfica).
+ */
+function calculateLinearRegressionAndLine(coordinates) {
+    let sumX = 0;
+    let sumY = 0;
+    let sumXY = 0;
+    let sumXX = 0;
+    let n = coordinates.length;
+
+    if (n === 0) {
+        return { m: 0, b: 0, line: [] };
+    }
+
+    coordinates.forEach(point => {
+        sumX += point.x;
+        sumY += point.y;
+        sumXY += point.x * point.y;
+        sumXX += point.x * point.x;
+    });
+
+    const m = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+    const b = (sumY / n) - (m * sumX / n);
+
+    // Obtener los puntos inicial y final para graficar la línea
+    const firstPoint = coordinates[0];
+    const lastPoint = coordinates[n - 1];
+
+    const line = [];
+    if (firstPoint && lastPoint) {
+        const x1 = firstPoint.x;
+        const y1 = m * x1 + b;
+        const x2 = lastPoint.x;
+        const y2 = m * x2 + b;
+
+        line.push({ x: x1, y: y1 });
+        line.push({ x: x2, y: y2 });
+    }
+
+    return { m: m, b: b, line: line };
+}
+// ----------------------------------------------------------------------
+// Ejemplo de uso:
+// 1. Obtén el array de coordenadas usando la función anterior.
+//    (Asegúrate de haber ordenado las coordenadas primero)
+// const allRegressionCoordinates = [
+//  { x: 10, y: 15 },
+//  { x: 20, y: 30 },
+//  { x: 30, y: 32 },
+//  { x: 40, y: 45 },
+//  { x: 50, y: 55 }
+// ];
+// 2. Llama a la función de regresión
+// const regressionLine = calculateLinearRegression(allRegressionCoordinates);
+// console.log('Parámetros de la línea de regresión:');
+// console.log('Pendiente (m):', regressionLine.m);
+// console.log('Intercepto (b):', regressionLine.b);
+// La ecuación de la línea de regresión es: y = mx + b
+// console.log(`Ecuación: y = ${regressionLine.m.toFixed(2)}x + ${regressionLine.b.toFixed(2)}`);
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Función para Obtener una funcion de regresion lineal
+// con multiples archivos geojson con todas las Coordenadas en un Array Simple
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Ejemplo de uso:
+// Suponiendo que 'json_PrimesVelo1030' contiene 'NTotal' y 'json_SchaerbeekDemographicDistribution' contiene 'Pop1030_Population'.
+// Ambos archivos deben tener una propiedad común como 'BlockParcel' o 'Quartier' para emparejar.
+// NOTA: Para este ejemplo, usaremos 'Quartier' como propiedad de referencia.
+
+//const regressionData = getAllCoordinatesAsArray(
+//  json_SchaerbeekDemographicDistributionHouse, // Primer archivo (eje X)
+//  json_SchaerbeekDemographicDistribution,  // Segundo archivo (eje Y)
+//  'Pop1030_Menages1030',   // Propiedad para el eje X
+//  'Pop1030_Population',   // Propiedad para el eje Y
+//  'BlockParcel' // Propiedad de referencia para agrupar y emparejar
+//);
+// Muestra el resultado final
+// console.log(regressionData);
+
+/**
+ * Recopila todos los pares de coordenadas (x, y) de dos archivos en un único array.
+ * @param {Object} dataX - El primer conjunto de datos (para el eje X).
+ * @param {Object} dataY - El segundo conjunto de datos (para el eje Y).
+ * @param {string} xAxisProperty - La propiedad para el eje X.
+ * @param {string} yAxisProperty - La propiedad para el eje Y.
+ * @param {string} referenceProperty - La propiedad común usada para emparejar los datos.
+ * @returns {Array<Array<number>>} Un array de arrays, donde cada array interno es un par [x, y].
+ */
+function getAllCoordinatesAsArray(dataX, dataY, xAxisProperty, yAxisProperty, referenceProperty) {
+    const allCoordinates = [];
+    const xValuesMap = {};
+
+    // 1. Recorre el primer archivo para mapear los valores de X
+    if (dataX?.type === 'FeatureCollection' && Array.isArray(dataX?.features)) {
+        dataX.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const xValue = subFeature?.properties?.[xAxisProperty];
+                    if (refValue !== undefined && typeof xValue === 'number') {
+                        xValuesMap[refValue] = xValue;
+                    }
+                });
+            }
+        });
+    }
+
+    // 2. Recorre el segundo archivo, empareja y crea el array de objetos
+    if (dataY?.type === 'FeatureCollection' && Array.isArray(dataY?.features)) {
+        dataY.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const yValue = subFeature?.properties?.[yAxisProperty];
+
+                    if (xValuesMap.hasOwnProperty(refValue) && typeof yValue === 'number') {
+                        const xValue = xValuesMap[refValue];
+
+                        // Crea un objeto con claves descriptivas 'x' y 'y'
+                        allCoordinates.push({ x: xValue, y: yValue });
+                    }
+                });
+            }
+        });
+    }
+
+    // 3. Ordena el array de coordenadas en base al valor de x
+    allCoordinates.sort((a, b) => a.x - b.x);
+
+    return allCoordinates;
+}
+
+function getAllCoordinatesAsArray_01(dataX, dataY, xAxisProperty, yAxisProperty, referenceProperty) {
+    const allCoordinates = [];
+    const xValuesMap = {};
+
+    // 1. Recorre el primer archivo para mapear los valores de X por la propiedad de referencia
+    if (dataX?.type === 'FeatureCollection' && Array.isArray(dataX?.features)) {
+        dataX.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const xValue = subFeature?.properties?.[xAxisProperty];
+                    if (refValue !== undefined && typeof xValue === 'number') {
+                        xValuesMap[refValue] = xValue;
+                    }
+                });
+            }
+        });
+    }
+
+    // 2. Recorre el segundo archivo, empareja los valores y crea un array simple de coordenadas
+    if (dataY?.type === 'FeatureCollection' && Array.isArray(dataY?.features)) {
+        dataY.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const yValue = subFeature?.properties?.[yAxisProperty];
+
+                    if (xValuesMap.hasOwnProperty(refValue) && typeof yValue === 'number') {
+                        const xValue = xValuesMap[refValue];
+                        allCoordinates.push([xValue, yValue]);
+                    }
+                });
+            }
+        });
+    }
+    return allCoordinates;
+}
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Regresion lineal a partir de multiples archivos geojson
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Ejemplo de uso:
+// Suponiendo que 'json_PrimesVelo1030' contiene 'NTotal' y 'json_SchaerbeekDemographicDistribution' contiene 'Pop1030_Population'.
+// Ambos archivos deben tener una propiedad común como 'BlockParcel' o 'Quartier' para emparejar.
+// NOTA: Para este ejemplo, usaremos 'Quartier' como propiedad de referencia.
+
+//const regressionData = getCoordinatesFromMultipleFiles(
+//  json_SchaerbeekDemographicDistributionHouse, // Primer archivo (eje X)
+//  json_SchaerbeekDemographicDistribution,  // Segundo archivo (eje Y)
+//  'Pop1030_Menages1030',   // Propiedad para el eje X
+//  'Pop1030_Population',   // Propiedad para el eje Y
+//  'BlockParcel' // Propiedad de referencia para agrupar y emparejar
+//);
+// Muestra el resultado final
+// console.log(regressionData);
+
+/**
+ * Genera pares de coordenadas (x, y) para una regresión lineal a partir de dos archivos.
+ * * @param {Object} dataX - El primer conjunto de datos (para el eje X).
+ * @param {Object} dataY - El segundo conjunto de datos (para el eje Y).
+ * @param {string} xAxisProperty - El nombre de la propiedad para el eje X.
+ * @param {string} yAxisProperty - El nombre de la propiedad para el eje Y.
+ * @param {string} referenceProperty - La propiedad común usada para emparejar los datos.
+ * @returns {Object} Un objeto con las coordenadas agrupadas por la propiedad de referencia.
+ */
+function getCoordinatesFromMultipleFiles(dataX, dataY, xAxisProperty, yAxisProperty, referenceProperty) {
+    const coordinates = {};
+    const xValuesMap = {};
+
+    // 1. Recorre el primer archivo para mapear los valores de X por la propiedad de referencia
+    if (dataX?.type === 'FeatureCollection' && Array.isArray(dataX?.features)) {
+        dataX.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const xValue = subFeature?.properties?.[xAxisProperty];
+                    if (refValue !== undefined && typeof xValue === 'number') {
+                        xValuesMap[refValue] = xValue;
+                    }
+                });
+            }
+        });
+    }
+
+    // 2. Recorre el segundo archivo y empareja los valores con los datos de X
+    if (dataY?.type === 'FeatureCollection' && Array.isArray(dataY?.features)) {
+        dataY.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const refValue = subFeature?.properties?.[referenceProperty];
+                    const yValue = subFeature?.properties?.[yAxisProperty];
+
+                    // Si el valor de referencia existe en el mapa de X y el valor Y es numérico
+                    if (xValuesMap.hasOwnProperty(refValue) && typeof yValue === 'number') {
+                        const xValue = xValuesMap[refValue];
+
+                        if (!coordinates[refValue]) {
+                            coordinates[refValue] = [];
+                        }
+                        // Agrega el par de coordenadas [x, y]
+                        coordinates[refValue].push([xValue, yValue]);
+                    }
+                });
+            }
+        });
+    }
+    return coordinates;
+}
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Regresion lineal apartir de datos de un archivo geojson
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Ejemplo de uso con el archivo 'SchaerbeekDemographicDistribution.js'
+// Obtener las coordenadas para la regresión
+//const regressionData = getCoordinatesForRegression(
+//  json_SchaerbeekDemographicDistribution,
+//  'Pop1030_Homme',
+//  'Pop1030_Population',
+//  'BlockParcel'
+//);
+// Imprime el resultado
+//console.log(regressionData);
+
+function getCoordinatesForRegression(data, xAxisProperty, yAxisProperty, referenceProperty) {
+    const coordinates = {};
+
+    if (data?.type === 'FeatureCollection' && Array.isArray(data?.features)) {
+        data.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const xValue = subFeature?.properties?.[xAxisProperty];
+                    const yValue = subFeature?.properties?.[yAxisProperty];
+                    const referenceValue = subFeature?.properties?.[referenceProperty];
+
+                    // Verifica si los valores de las propiedades existen y son números
+                    if (typeof xValue === 'number' && typeof yValue === 'number' && referenceValue !== undefined) {
+                        if (!coordinates[referenceValue]) {
+                            coordinates[referenceValue] = [];
+                        }
+                        // Agrega el par de coordenadas [x, y] al grupo correspondiente
+                        coordinates[referenceValue].push([xValue, yValue]);
+                    }
+                });
+            }
+        });
+    }
+    return coordinates;
+}
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Función para agrupar elementos en base a una Propiedad de Referencia 
+// con detalles de propoiedades
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Ejemplo de uso con el archivo 'SchaerbeekDemographicDistribution.js'
+// Propiedades de población que deseas incluir
+
+// const populationDetails = ['Pop1030_Population', 'Pop1030_Femme', 'Pop1030_Homme'];
+// Agrupar 'BlockParcel' por 'Quartier' e incluir los detalles de población
+//const blockParcelsWithPopulation = groupValuesWithDetails(
+//  json_SchaerbeekDemographicDistribution,
+//  'Quartier',
+//  'BlockParcel',
+//  populationDetails
+//);
+// Muestra el resultado en la consola
+// console.log(blockParcelsWithPopulation);
+
+function groupValuesWithDetails(data, referenceProperty, valueProperty, detailProperties) {
+    const groupedData = {};
+
+    if (data?.type === 'FeatureCollection' && Array.isArray(data?.features)) {
+        data.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    const referenceValue = subFeature?.properties?.[referenceProperty];
+                    const value = subFeature?.properties?.[valueProperty];
+
+                    if (referenceValue !== undefined && value !== undefined) {
+                        if (!groupedData[referenceValue]) {
+                            groupedData[referenceValue] = [];
+                        }
+
+                        // Crea un objeto para cada BlockParcel con sus propiedades de detalle
+                        const blockParcelDetails = {
+                            [valueProperty]: value
+                        };
+
+                        detailProperties.forEach(detailProp => {
+                            blockParcelDetails[detailProp] = subFeature?.properties?.[detailProp] || 0;
+                        });
+
+                        groupedData[referenceValue].push(blockParcelDetails);
+                    }
+                });
+            }
+        });
+    }
+    return groupedData;
+}
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Función para agrupar elementos en base a una Propiedad de Referencia
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Ejemplo de uso con tu archivo 'SchaerbeekDemographicDistribution.js'
+// 1. Llama a la función para agrupar los 'BlockParcel' por 'Quartier'
+// const blockParcelsByQuartier = groupValuesByProperty(json_SchaerbeekDemographicDistribution,'Quartier','BlockParcel');
+// 2. Muestra el resultado en la consola
+// console.log(blockParcelsByQuartier);
+function groupValuesByProperty(data, referenceProperty, valueProperty) {
+    const groupedData = {};
+
+    if (data?.type === 'FeatureCollection' && Array.isArray(data?.features)) {
+        data.features.forEach(feature => {
+            if (feature?.type === 'FeatureCollection' && Array.isArray(feature?.features)) {
+                feature.features.forEach(subFeature => {
+                    // Accede a los valores de forma segura
+                    const referenceValue = subFeature?.properties?.[referenceProperty];
+                    const value = subFeature?.properties?.[valueProperty];
+
+                    // Agrupa los valores si existen y son válidos
+                    if (referenceValue !== undefined && value !== undefined) {
+                        // Si el barrio no existe en el objeto, lo crea con un array vacío
+                        if (!groupedData[referenceValue]) {
+                            groupedData[referenceValue] = [];
+                        }
+                        // Añade el BlockParcel al array del barrio correspondiente
+                        groupedData[referenceValue].push(value);
+                    }
+                });
+            }
+        });
+    }
+    return groupedData;
+}
+
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Función para Contar Valores Específicos por Propiedad de Referencia

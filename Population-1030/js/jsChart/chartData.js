@@ -367,3 +367,499 @@ function dataCharts_G02(Quartier) {
 
 }
 
+function dataCharts_G03() {
+    // All data
+    const DataALL = json_SchaerbeekDemographicDistribution;
+    const Data011 = json_SchaerbeekDemographicDistributionHouse;
+
+    // label > Quartier List
+    const uniqueQuartiers = getUniqueValues(DataALL, 'Quartier');
+    // label > Block Parcel List
+    const uniqueBlockParcel = getUniqueValues(DataALL, 'BlockParcel');
+    // label BlockParcel With Quartier
+    const uniqueBlockParcelQuartier = groupValuesByProperty(DataALL, 'Quartier', 'BlockParcel');
+    // Datavalues > Total población por 'BlockParcel'
+    // const sumTotalPopBlockParcel = sumValuesByProperty(DataALL, 'BlockParcel', 'Pop1030_Population');
+    // Datavalues > Total familias por 'BlockParcel'
+    // const sumTotalFamBlockParcel = sumValuesByProperty(Data011, 'BlockParcel', 'Pop1030_Menages1030');
+
+    //console.log('liste Quartier', uniqueQuartiers);
+    //console.log('liste ilot urbanistique', uniqueBlockParcel);
+    //console.log('liste ilot urbanistique avec Quartier', uniqueBlockParcelQuartier);
+    //console.log('Total población por ilot urbanistique', sumTotalPopBlockParcel);
+    //console.log('Total familias por ilot urbanistique', sumTotalFamBlockParcel);
+    //console.log('Detalles de los datos par ilot urbanistiaue y quartier', blockParcelsWithPopulation);
+
+    // Population par Quartier et ilot Urbanistique 
+    // BEGIN +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    // Propiedades de población que deseas incluir
+    const populationDetails01 = ['Pop1030_Population', 'Pop1030_Femme', 'Pop1030_Homme'];
+    const blockParcelsWithPopulation = groupValuesWithDetails(
+        DataALL,
+        'Quartier',
+        'BlockParcel',
+        populationDetails01
+    );
+    //console.log('Detalles de los datos de familia para el barrio Bienfaiteurs:', blockParcelsWithPopulation);
+
+    // 1. Accede al array de objetos par Quartier
+    const bienfaiteursDataPop = blockParcelsWithPopulation['Bienfaiteurs']; // 'Bienfaiteurs', 
+    const cerisiersDataPop = blockParcelsWithPopulation['Cerisiers']; // 'Cerisiers'
+    const colignonDataPop = blockParcelsWithPopulation['Colignon']; // 'Colignon',
+    const coteauxjosaphatDataPop = blockParcelsWithPopulation['Coteaux-Josaphat']; // 'Coteaux-Josaphat'
+    const helmethamoirDataPop = blockParcelsWithPopulation['Helmet-Hamoir']; // 'Helmet-Hamoir'
+    const jardinDataPop = blockParcelsWithPopulation['Jardin']; // 'Jardin'
+    const linthoutDataPop = blockParcelsWithPopulation['Linthout']; // 'Linthout'
+    const nordDataPop = blockParcelsWithPopulation['Nord']; // 'Nord'
+    const palaisreineDataPop = blockParcelsWithPopulation['Palais-Reine']; // 'Palais-Reine'
+    const parcjosaphatDataPop = blockParcelsWithPopulation['Parc Josaphat']; // 'Parc Josaphat'
+    const plaskyDataPop = blockParcelsWithPopulation['Plasky']; // 'Plasky'
+    const reyersDataPop = blockParcelsWithPopulation['Reyers']; // 'Reyers'
+    const terdeltfleurDataPop = blockParcelsWithPopulation['Terdelt-Fleur']; // 'Terdelt-Fleur'
+
+    // 2. Utiliza .map() para crear un nuevo array con solo los valores de 'Pop1030_Population'
+    const bienfaiteursValuesPop = bienfaiteursDataPop.map(item => item.Pop1030_Population);
+    const cerisiersValuesPop = cerisiersDataPop.map(item => item.Pop1030_Population);
+    const colignonValuesPop = colignonDataPop.map(item => item.Pop1030_Population);
+    const coteauxjosaphatValuesPop = coteauxjosaphatDataPop.map(item => item.Pop1030_Population);
+    const helmethamoirValuesPop = helmethamoirDataPop.map(item => item.Pop1030_Population);
+    const jardinValuesPop = jardinDataPop.map(item => item.Pop1030_Population);
+    const linthoutValuesPop = linthoutDataPop.map(item => item.Pop1030_Population);
+    const nordValuesPop = nordDataPop.map(item => item.Pop1030_Population);
+    const palaisreineValuesPop = palaisreineDataPop.map(item => item.Pop1030_Population);
+    const parcjosaphatValuesPop = parcjosaphatDataPop.map(item => item.Pop1030_Population);
+    const plaskyValuesPop = plaskyDataPop.map(item => item.Pop1030_Population);
+    const reyersValuesPop = reyersDataPop.map(item => item.Pop1030_Population);
+    const terdeltfleurValuesPop = terdeltfleurDataPop.map(item => item.Pop1030_Population);
+
+    //console.log('Detalles de los datos poblacion para el barrio Bienfaiteurs:', bienfaiteursDataPop);
+    //console.log('Detalles de los datos de pobalcion total para el barrio Bienfaiteurs:', bienfaiteursValuesPop);
+    //console.log('liste ilot urbanistique avec Quartier', uniqueBlockParcelQuartier['Bienfaiteurs']);
+    // END +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+    // Menages par Quartier et ilot Urbanistique
+    // BEGIN +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    // Propiedades de población que deseas incluir
+    const populationDetails02 = ['Pop1030_Menages1030'];
+    const blockParcelsWithFamilies = groupValuesWithDetails(
+        Data011,
+        'Quartier',
+        'BlockParcel',
+        populationDetails02
+    );
+    //console.log('Detalles de los datos de familia para el barrio Bienfaiteurs:', blockParcelsWithFamilies);
+
+    // 1. Accede al array de objetos par Quartier
+    const bienfaiteursDataFam = blockParcelsWithFamilies['Bienfaiteurs']; // 'Bienfaiteurs', 
+    const cerisiersDataFam = blockParcelsWithFamilies['Cerisiers']; // 'Cerisiers'
+    const colignonDataFam = blockParcelsWithFamilies['Colignon']; // 'Colignon',
+    const coteauxjosaphatDataFam = blockParcelsWithFamilies['Coteaux-Josaphat']; // 'Coteaux-Josaphat'
+    const helmethamoirDataFam = blockParcelsWithFamilies['Helmet-Hamoir']; // 'Helmet-Hamoir'
+    const jardinDataFam = blockParcelsWithFamilies['Jardin']; // 'Jardin'
+    const linthoutDataFam = blockParcelsWithFamilies['Linthout']; // 'Linthout'
+    const nordDataFam = blockParcelsWithFamilies['Nord']; // 'Nord'
+    const palaisreineDataFam = blockParcelsWithFamilies['Palais-Reine']; // 'Palais-Reine'
+    const parcjosaphatDataFam = blockParcelsWithFamilies['Parc Josaphat']; // 'Parc Josaphat'
+    const plaskyDataFam = blockParcelsWithFamilies['Plasky']; // 'Plasky'
+    const reyersDataFam = blockParcelsWithFamilies['Reyers']; // 'Reyers'
+    const terdeltfleurDataFam = blockParcelsWithFamilies['Terdelt-Fleur']; // 'Terdelt-Fleur'
+
+    // 2. Utiliza .map() para crear un nuevo array con solo los valores de 'Pop1030_Menages1030'
+    const bienfaiteursValuesFam = bienfaiteursDataFam.map(item => item.Pop1030_Menages1030);
+    const cerisiersValuesFam = cerisiersDataFam.map(item => item.Pop1030_Menages1030);
+    const colignonValuesFam = colignonDataFam.map(item => item.Pop1030_Menages1030);
+    const coteauxjosaphatValuesFam = coteauxjosaphatDataFam.map(item => item.Pop1030_Menages1030);
+    const helmethamoirValuesFam = helmethamoirDataFam.map(item => item.Pop1030_Menages1030);
+    const jardinValuesFam = jardinDataFam.map(item => item.Pop1030_Menages1030);
+    const linthoutValuesFam = linthoutDataFam.map(item => item.Pop1030_Menages1030);
+    const nordValuesFam = nordDataFam.map(item => item.Pop1030_Menages1030);
+    const palaisreineValuesFam = palaisreineDataFam.map(item => item.Pop1030_Menages1030);
+    const parcjosaphatValuesFam = parcjosaphatDataFam.map(item => item.Pop1030_Menages1030);
+    const plaskyValuesFam = plaskyDataFam.map(item => item.Pop1030_Menages1030);
+    const reyersValuesFam = reyersDataFam.map(item => item.Pop1030_Menages1030);
+    const terdeltfleurValuesFam = terdeltfleurDataFam.map(item => item.Pop1030_Menages1030);
+
+    //console.log('Detalles de los datos de familia para el barrio Bienfaiteurs:', bienfaiteursDataFam);
+    //console.log('Detalles de los datos de familia totales para el barrio Bienfaiteurs:', bienfaiteursValuesFam);
+    //console.log('liste ilot urbanistique avec Quartier', uniqueBlockParcelQuartier['Bienfaiteurs']);
+    // END +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+    //console.log('Detalles de los datos de pobalcion total para el barrio Bienfaiteurs:', bienfaiteursValuesPop);
+    //console.log('Detalles de los datos de familia totales para el barrio Bienfaiteurs:', bienfaiteursValuesFam);
+    //console.log('liste ilot urbanistique avec Quartier', uniqueBlockParcelQuartier['Bienfaiteurs']);
+
+    //console.log(Object.keys(uniqueBlockParcelQuartier).length); // numero de Quartiers
+    //console.log(Object.keys(bienfaiteursValuesPop).length); // numero de ilots par Quartiers
+    //console.log(bienfaiteursValuesPop[0]); // valor de population para el ilot 0
+    //console.log(bienfaiteursValuesFam[0]); // valor de familias para el ilot 0
+    //console.log(uniqueBlockParcelQuartier['Bienfaiteurs'][0]); // nombre del ilot
+
+    // Bienfaiteurs
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsBienfaiteurs = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Bienfaiteurs']).length; i++) {
+        const label = Object.keys(bienfaiteursValuesPop)[i];
+
+        data00 = bienfaiteursValuesPop[i];
+        data01 = bienfaiteursValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Bienfaiteurs'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsBienfaiteurs.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Bienfaiteurs'
+        });
+    }
+    //console.log(datasetsBienfaiteurs)
+
+    // Cerisiers
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsCerisiers = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Cerisiers']).length; i++) {
+        const label = Object.keys(cerisiersValuesPop)[i];
+
+        data00 = cerisiersValuesPop[i];
+        data01 = cerisiersValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Cerisiers'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsCerisiers.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Cerisiers'
+        });
+    }
+    //console.log(datasetsCerisiers)
+
+    // Colignon
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsColignon = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Colignon']).length; i++) {
+        const label = Object.keys(colignonValuesPop)[i];
+
+        data00 = colignonValuesPop[i];
+        data01 = colignonValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Colignon'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsColignon.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Colignon'
+        });
+    }
+    //console.log(datasetsColignon)
+
+    // Coteaux-Josaphat
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsCoteauxJosaphat = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Coteaux-Josaphat']).length; i++) {
+        const label = Object.keys(coteauxjosaphatValuesPop)[i];
+
+        data00 = coteauxjosaphatValuesPop[i];
+        data01 = coteauxjosaphatValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Coteaux-Josaphat'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsCoteauxJosaphat.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Coteaux-Josaphat'
+        });
+    }
+    //console.log(datasetsCoteauxJosaphat)
+
+    // Helmet-Hamoir
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsHelmetHamoir = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Helmet-Hamoir']).length; i++) {
+        const label = Object.keys(helmethamoirValuesPop)[i];
+
+        data00 = helmethamoirValuesPop[i];
+        data01 = helmethamoirValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Helmet-Hamoir'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsHelmetHamoir.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Helmet-Hamoir'
+        });
+    }
+    //console.log(datasetsHelmetHamoir)
+
+    // Jardin
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsJardin = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Jardin']).length; i++) {
+        const label = Object.keys(jardinValuesPop)[i];
+
+        data00 = jardinValuesPop[i];
+        data01 = jardinValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Jardin'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsJardin.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Jardin'
+        });
+    }
+    //console.log(datasetsJardin)
+
+    // Linthout
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsLinthout = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Linthout']).length; i++) {
+        const label = Object.keys(linthoutValuesPop)[i];
+
+        data00 = linthoutValuesPop[i];
+        data01 = linthoutValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Linthout'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsLinthout.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Linthout'
+        });
+    }
+    //console.log(datasetsLinthout)
+
+    // Nord
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsNord = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Nord']).length; i++) {
+        const label = Object.keys(nordValuesPop)[i];
+
+        data00 = nordValuesPop[i];
+        data01 = nordValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Nord'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsNord.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Nord'
+        });
+    }
+    //console.log(datasetsNord)
+
+    // Palais-Reine
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsPalaisReine = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Palais-Reine']).length; i++) {
+        const label = Object.keys(palaisreineValuesPop)[i];
+
+        data00 = palaisreineValuesPop[i];
+        data01 = palaisreineValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Palais-Reine'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsPalaisReine.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Palais-Reine'
+        });
+    }
+    //console.log(datasetsPalaisReine)
+
+    // Parc Josaphat
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsParcJosaphat = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Parc Josaphat']).length; i++) {
+        const label = Object.keys(parcjosaphatValuesPop)[i];
+
+        data00 = parcjosaphatValuesPop[i];
+        data01 = parcjosaphatValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Parc Josaphat'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsParcJosaphat.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Parc Josaphat'
+        });
+    }
+    //console.log(datasetsParcJosaphat)
+
+    // Plasky
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsPlasky = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Plasky']).length; i++) {
+        const label = Object.keys(plaskyValuesPop)[i];
+
+        data00 = plaskyValuesPop[i];
+        data01 = plaskyValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Plasky'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsPlasky.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Plasky'
+        });
+    }
+    //console.log(datasetsPlasky)
+
+    // Reyers
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsReyers = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Reyers']).length; i++) {
+        const label = Object.keys(reyersValuesPop)[i];
+
+        data00 = reyersValuesPop[i];
+        data01 = reyersValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Reyers'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsReyers.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Reyers'
+        });
+    }
+    //console.log(datasetsReyers)
+
+    // Terdelt-Fleur
+    //=============================
+    var data00 = 0; var data01 = 0; var data02 = 0; var data03 = 0;
+    datasetsTerdeltFleur = [];
+    for (let i = 0; i < Object.keys(uniqueBlockParcelQuartier['Terdelt-Fleur']).length; i++) {
+        const label = Object.keys(terdeltfleurValuesPop)[i];
+
+        data00 = terdeltfleurValuesPop[i];
+        data01 = terdeltfleurValuesFam[i];
+        data02 = uniqueBlockParcelQuartier['Terdelt-Fleur'][i];
+        data03 = Math.round((data00 / data01) * 100) / 100;
+
+        datasetsTerdeltFleur.push({
+            x: data00,
+            y: data01,
+            v: isNaN(data03) ? 0 : data03,
+            block: data02,
+            quartier: 'Terdelt-Fleur'
+        });
+    }
+    //console.log(datasetsTerdeltFleur)
+
+    // Regresion Lineal
+    // DataALL = json_SchaerbeekDemographicDistribution;
+    // Data011 = json_SchaerbeekDemographicDistributionHouse;
+    //===================================================================
+    const regressionData01 = getCoordinatesFromMultipleFiles(
+        DataALL,  // Segundo archivo (eje X)
+        Data011, // Primer archivo (eje Y)
+        'Pop1030_Population',   // Propiedad para el eje X
+        'Pop1030_Menages1030',   // Propiedad para el eje Y
+        'BlockParcel' // Propiedad de referencia para agrupar y emparejar
+    );
+    // Muestra el resultado final
+    //console.log("valores de regresion lineal", regressionData);
+
+    const regressionDataXY = getAllCoordinatesAsArray(
+        DataALL,
+        Data011,
+        'Pop1030_Population',
+        'Pop1030_Menages1030',
+        'BlockParcel'
+    );
+    //console.log("valores de regresion lineal simple array", regressionDataXY);
+
+    //Llama a la función de regresión
+    const regressionResult = calculateLinearRegressionAndLine(regressionDataXY);
+    const XYregressionLinear = regressionResult.line
+    //console.log('Resultados de la regresión:');
+    //console.log('Pendiente (m):', regressionResult.m.toFixed(2));
+    //console.log('Intercepto (b):', regressionResult.b.toFixed(2));
+    //console.log('Coordenadas para la línea de regresión:', XYregressionLinear);
+    //console.log(`Ecuación: y = ${regressionResult.m.toFixed(2)}x + ${regressionResult.b.toFixed(2)}`);
+
+    XYregressionLinear[0]['v'] = (1 / regressionResult.m.toFixed(2));
+    XYregressionLinear[1]['v'] = (1 / regressionResult.m.toFixed(2));
+    XYregressionLinear[0]['quartier'] = 'Schaerbeek';
+    XYregressionLinear[1]['quartier'] = 'Schaerbeek';
+    //console.log(XYregressionLinear);
+
+
+    //KPI Calculo del total de la poblacion por edades
+    //===================================================================
+    const sumTotal_0009 = sumAllValues(DataALL, 'Pop1030_de 0-9 ans');
+    const sumTotal_1019 = sumAllValues(DataALL, 'Pop1030_de 10-19 ans');
+    const sumTotal_2029 = sumAllValues(DataALL, 'Pop1030_de 20-29 ans');
+    const sumTotal_3039 = sumAllValues(DataALL, 'Pop1030_de 30-39 ans');
+    const sumTotal_4049 = sumAllValues(DataALL, 'Pop1030_de 40-49 ans');
+    const sumTotal_5059 = sumAllValues(DataALL, 'Pop1030_de 50-59 ans');
+    const sumTotal_6069 = sumAllValues(DataALL, 'Pop1030_de 60-69 ans');
+    const sumTotal_7099 = sumAllValues(DataALL, 'Pop1030_de 70 ans et plus');
+    //console.log(sumTotal_0009)
+
+    return {
+        uniqueQuartiers: uniqueQuartiers,
+        uniqueBlockParcel: uniqueBlockParcel,
+        uniqueBlockParcelQuartier: uniqueBlockParcelQuartier,
+
+        // datasets
+        datasetsBienfaiteurs,
+        datasetsCerisiers,
+        datasetsColignon,
+        datasetsCoteauxJosaphat,
+        datasetsHelmetHamoir,
+        datasetsJardin,
+        datasetsLinthout,
+        datasetsNord,
+        datasetsPalaisReine,
+        datasetsParcJosaphat,
+        datasetsPlasky,
+        datasetsReyers,
+        datasetsTerdeltFleur,
+        // regresion Data
+        XYregressionLinear,
+        // KPI Data
+        sumTotal_0009,
+        sumTotal_1019,
+        sumTotal_2029,
+        sumTotal_3039,
+        sumTotal_4049,
+        sumTotal_5059,
+        sumTotal_6069,
+        sumTotal_7099,
+    }
+}
