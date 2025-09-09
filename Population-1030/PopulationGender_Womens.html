@@ -17,7 +17,7 @@
     <style>
         html,
         body,
-        #map2 {
+        #map {
             width: 100%;
             height: 100%;
             padding: 0;
@@ -28,7 +28,7 @@
 </head>
 
 <body>
-    <div id="map2">
+    <div id="map">
     </div>
 
     <script src="js/qgis2web_expressions.js"></script>
@@ -48,7 +48,7 @@
 
 	<script src="data/SchaerbeekDemographicDistributionWomen.js"></script>
 
-    <!-- BEGIN: SCRIPT MAP2 -->
+    <!-- BEGIN: SCRIPT map -->
     <script>
         var highlightLayer;
         function highlightFeature(e) {
@@ -66,12 +66,12 @@
             }
             highlightLayer.openPopup();
         }
-        var map01 = L.map('map2', {
+        var map = L.map('map', {
             zoomControl: false, maxZoom: 23, minZoom: 1
         }).fitBounds([[50.84242805691727, 4.35343370855978], [50.88164566987217, 4.4308537948872715]]);
 		
-        var hash = new L.Hash(map01);
-        map01.attributionControl.setPrefix('©GeoData1030: geodata.gis1030@gmail.com <a href="https://www.1030.be/" target="_blank" >Commune de Schaerbeek</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('©GeoData1030: geodata.gis1030@gmail.com <a href="https://www.1030.be/" target="_blank" >Commune de Schaerbeek</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({ truncate: { length: 30, location: 'smart' } });
 		
         // remove popup's row if "visible-with-data"
@@ -103,7 +103,7 @@
             }
         }
         var title = new L.Control({ 'position': 'bottomleft' });
-        title.onAdd = function (map01) {
+        title.onAdd = function (map) {
             this._div = L.DomUtil.create('div', 'info');
             this.update();
             return this._div;
@@ -111,9 +111,9 @@
         title.update = function () {
             this._div.innerHTML = '<h2>Nombre de femmes à Schaerbeek inscrit au RN</h2>';
         };
-        title.addTo(map01);
+        title.addTo(map);
         var abstract = new L.Control({ 'position': 'topleft' });
-        abstract.onAdd = function (map01) {
+        abstract.onAdd = function (map) {
             this._div = L.DomUtil.create('div',
                 'leaflet-control abstract');
             this._div.id = 'abstract'
@@ -130,19 +130,19 @@
         abstract.show = function () {
             this._div.classList.remove("abstract");
             this._div.classList.add("abstractUncollapsed");
-            this._div.innerHTML = 'Etude démographique de la population de Schaerbeek, basée sur le Registre national belge.<br /><br />Densité de population de Schaerbeek (mars 2025)<br /><br />Cette recherche analyse les caractéristiques de la population schaerbeekoise et détermine sa taille, sa répartition, sa structure et sa répartition par âge.<br />Il se concentre sur des facteurs tels que l’âge, le sexe et le nombre de familles en fonction de la répartition géographique des personnes.';
+            this._div.innerHTML = 'Etude démographique de la population de Schaerbeek, basée sur le Registre national belge.<br /><br />Distribution de population de Schaerbeek (mars 2025)<br /><br />Cette recherche analyse les caractéristiques de la population schaerbeekoise et détermine sa taille, sa distributuion, sa structure et sa répartition par âge.<br />Il se concentre sur des facteurs tels que l’âge, le sexe et le nombre de familles en fonction de la répartition géographique des personnes.';
         };
-        abstract.addTo(map01);
+        abstract.addTo(map);
 
         var zoomControl = L.control.zoom({
             position: 'topleft'
-        }).addTo(map01);
+        }).addTo(map);
 
         var bounds_group = new L.featureGroup([]);
         function setBounds() {
         }
-        map01.createPane('pane_OpenStreetMap_0');
-        map01.getPane('pane_OpenStreetMap_0').style.zIndex = 400;
+        map.createPane('pane_OpenStreetMap_0');
+        map.getPane('pane_OpenStreetMap_0').style.zIndex = 400;
         var layer_OpenStreetMap_0 = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             pane: 'pane_OpenStreetMap_0',
             opacity: 1.0,
@@ -153,8 +153,8 @@
             maxNativeZoom: 19
         });
         layer_OpenStreetMap_0;
-        map01.createPane('pane_GoogleTerrain_1');
-        map01.getPane('pane_GoogleTerrain_1').style.zIndex = 401;
+        map.createPane('pane_GoogleTerrain_1');
+        map.getPane('pane_GoogleTerrain_1').style.zIndex = 401;
         var layer_GoogleTerrain_1 = L.tileLayer('http://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}', {
             pane: 'pane_GoogleTerrain_1',
             opacity: 1.0,
@@ -165,7 +165,7 @@
             maxNativeZoom: 18
         });
         layer_GoogleTerrain_1;
-        map01.addLayer(layer_GoogleTerrain_1);
+        map.addLayer(layer_GoogleTerrain_1);
 
         function pop_LimitesSchaerbeekQuartiers_2(feature, layer) {
             layer.on({
@@ -221,9 +221,9 @@
                 interactive: true,
             }
         }
-        map01.createPane('pane_LimitesSchaerbeekQuartiers_2');
-        map01.getPane('pane_LimitesSchaerbeekQuartiers_2').style.zIndex = 402;
-        map01.getPane('pane_LimitesSchaerbeekQuartiers_2').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_LimitesSchaerbeekQuartiers_2');
+        map.getPane('pane_LimitesSchaerbeekQuartiers_2').style.zIndex = 402;
+        map.getPane('pane_LimitesSchaerbeekQuartiers_2').style['mix-blend-mode'] = 'normal';
         var layer_LimitesSchaerbeekQuartiers_2 = new L.geoJson(json_LimitesSchaerbeekQuartiers_2, {
             attribution: '',
             interactive: true,
@@ -234,7 +234,7 @@
             style: style_LimitesSchaerbeekQuartiers_2_0,
         });
         bounds_group.addLayer(layer_LimitesSchaerbeekQuartiers_2);
-        map01.addLayer(layer_LimitesSchaerbeekQuartiers_2);
+        map.addLayer(layer_LimitesSchaerbeekQuartiers_2);
 
         function pop_LimitesScaherbeek_3(feature, layer) {
             layer.on({
@@ -282,9 +282,9 @@
                 interactive: true,
             }
         }
-        map01.createPane('pane_LimitesScaherbeek_3');
-        map01.getPane('pane_LimitesScaherbeek_3').style.zIndex = 403;
-        map01.getPane('pane_LimitesScaherbeek_3').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_LimitesScaherbeek_3');
+        map.getPane('pane_LimitesScaherbeek_3').style.zIndex = 403;
+        map.getPane('pane_LimitesScaherbeek_3').style['mix-blend-mode'] = 'normal';
         var layer_LimitesScaherbeek_3 = new L.geoJson(json_LimitesScaherbeek_3, {
             attribution: '',
             interactive: true,
@@ -295,7 +295,7 @@
             style: style_LimitesScaherbeek_3_0,
         });
         bounds_group.addLayer(layer_LimitesScaherbeek_3);
-        map01.addLayer(layer_LimitesScaherbeek_3);
+        map.addLayer(layer_LimitesScaherbeek_3);
 
         function pop_plusde700_4(feature, layer) {
             layer.on({
@@ -367,9 +367,9 @@
                 }
             }
         }
-        map01.createPane('pane_plusde700_4');
-        map01.getPane('pane_plusde700_4').style.zIndex = 404;
-        map01.getPane('pane_plusde700_4').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_plusde700_4');
+        map.getPane('pane_plusde700_4').style.zIndex = 404;
+        map.getPane('pane_plusde700_4').style['mix-blend-mode'] = 'normal';
         var layer_plusde700_4 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -380,7 +380,7 @@
             style: style_plusde700_4_0,
         });
         bounds_group.addLayer(layer_plusde700_4);
-        map01.addLayer(layer_plusde700_4);
+        map.addLayer(layer_plusde700_4);
 
         function pop_600700_5(feature, layer) {
             layer.on({
@@ -467,9 +467,9 @@
                 }
             }
         }
-        map01.createPane('pane_600700_5');
-        map01.getPane('pane_600700_5').style.zIndex = 405;
-        map01.getPane('pane_600700_5').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_600700_5');
+        map.getPane('pane_600700_5').style.zIndex = 405;
+        map.getPane('pane_600700_5').style['mix-blend-mode'] = 'normal';
         var layer_600700_5 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -480,7 +480,7 @@
             style: style_600700_5_0,
         });
         bounds_group.addLayer(layer_600700_5);
-        map01.addLayer(layer_600700_5);
+        map.addLayer(layer_600700_5);
 
         function pop_500600_6(feature, layer) {
             layer.on({
@@ -567,9 +567,9 @@
                 }
             }
         }
-        map01.createPane('pane_500600_6');
-        map01.getPane('pane_500600_6').style.zIndex = 406;
-        map01.getPane('pane_500600_6').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_500600_6');
+        map.getPane('pane_500600_6').style.zIndex = 406;
+        map.getPane('pane_500600_6').style['mix-blend-mode'] = 'normal';
         var layer_500600_6 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -580,7 +580,7 @@
             style: style_500600_6_0,
         });
         bounds_group.addLayer(layer_500600_6);
-        map01.addLayer(layer_500600_6);
+        map.addLayer(layer_500600_6);
 
         function pop_400500_7(feature, layer) {
             layer.on({
@@ -667,9 +667,9 @@
                 }
             }
         }
-        map01.createPane('pane_400500_7');
-        map01.getPane('pane_400500_7').style.zIndex = 407;
-        map01.getPane('pane_400500_7').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_400500_7');
+        map.getPane('pane_400500_7').style.zIndex = 407;
+        map.getPane('pane_400500_7').style['mix-blend-mode'] = 'normal';
         var layer_400500_7 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -680,7 +680,7 @@
             style: style_400500_7_0,
         });
         bounds_group.addLayer(layer_400500_7);
-        map01.addLayer(layer_400500_7);
+        map.addLayer(layer_400500_7);
 
         function pop_300400_8(feature, layer) {
             layer.on({
@@ -767,9 +767,9 @@
                 }
             }
         }
-        map01.createPane('pane_300400_8');
-        map01.getPane('pane_300400_8').style.zIndex = 408;
-        map01.getPane('pane_300400_8').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_300400_8');
+        map.getPane('pane_300400_8').style.zIndex = 408;
+        map.getPane('pane_300400_8').style['mix-blend-mode'] = 'normal';
         var layer_300400_8 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -780,7 +780,7 @@
             style: style_300400_8_0,
         });
         bounds_group.addLayer(layer_300400_8);
-        map01.addLayer(layer_300400_8);
+        map.addLayer(layer_300400_8);
 
         function pop_200300_9(feature, layer) {
             layer.on({
@@ -867,9 +867,9 @@
                 }
             }
         }
-        map01.createPane('pane_200300_9');
-        map01.getPane('pane_200300_9').style.zIndex = 409;
-        map01.getPane('pane_200300_9').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_200300_9');
+        map.getPane('pane_200300_9').style.zIndex = 409;
+        map.getPane('pane_200300_9').style['mix-blend-mode'] = 'normal';
         var layer_200300_9 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -880,7 +880,7 @@
             style: style_200300_9_0,
         });
         bounds_group.addLayer(layer_200300_9);
-        map01.addLayer(layer_200300_9);
+        map.addLayer(layer_200300_9);
 
         function pop_100200_10(feature, layer) {
             layer.on({
@@ -967,9 +967,9 @@
                 }
             }
         }
-        map01.createPane('pane_100200_10');
-        map01.getPane('pane_100200_10').style.zIndex = 410;
-        map01.getPane('pane_100200_10').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_100200_10');
+        map.getPane('pane_100200_10').style.zIndex = 410;
+        map.getPane('pane_100200_10').style['mix-blend-mode'] = 'normal';
         var layer_100200_10 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -980,7 +980,7 @@
             style: style_100200_10_0,
         });
         bounds_group.addLayer(layer_100200_10);
-        map01.addLayer(layer_100200_10);
+        map.addLayer(layer_100200_10);
 
         function pop_0100_11(feature, layer) {
             layer.on({
@@ -1052,9 +1052,9 @@
                 }
             }
         }
-        map01.createPane('pane_0100_11');
-        map01.getPane('pane_0100_11').style.zIndex = 411;
-        map01.getPane('pane_0100_11').style['mix-blend-mode'] = 'normal';
+        map.createPane('pane_0100_11');
+        map.getPane('pane_0100_11').style.zIndex = 411;
+        map.getPane('pane_0100_11').style['mix-blend-mode'] = 'normal';
         var layer_0100_11 = new L.geoJson(json_SchaerbeekDemographicDistributionWomen, {
             attribution: '',
             interactive: true,
@@ -1065,20 +1065,20 @@
             style: style_0100_11_0,
         });
         bounds_group.addLayer(layer_0100_11);
-        map01.addLayer(layer_0100_11);
+        map.addLayer(layer_0100_11);
 
-        const url1 = {
+        const url = {
             "Nominatim": "https://nominatim.openstreetmap.org/search?format=geojson&addressdetails=1&",
             "BAN": "https://api-adresse.data.gouv.fr/search/?"
         }
         var photonControl = L.control.photon({
-            url: url1["Nominatim"],
+            url: url["Nominatim"],
             feedbackLabel: '',
             position: 'topleft',
             includePosition: true,
             initial: true,
             // resultsHandler: myHandler,
-        }).addTo(map01);
+        }).addTo(map);
         photonControl._container.childNodes[0].style.borderRadius = "10px"
 
         // Create a variable to store the geoJSON data
@@ -1090,14 +1090,14 @@
         photonControl.on('selected', function (e) {
             console.log(photonControl.search.resultsContainer);
             if (x != null) {
-                map01.removeLayer(obj3.marker);
-                map01.removeLayer(x);
+                map.removeLayer(obj3.marker);
+                map.removeLayer(x);
             }
             obj2.gcd = e.choice;
-            x = L.geoJSON(obj2.gcd).addTo(map01);
+            x = L.geoJSON(obj2.gcd).addTo(map);
             var label = typeof obj2.gcd.properties.label === 'undefined' ? obj2.gcd.properties.display_name : obj2.gcd.properties.label;
-            obj3.marker = L.marker(x.getLayers()[0].getLatLng()).bindPopup(label).addTo(map01);
-            map01.setView(x.getLayers()[0].getLatLng(), 17);
+            obj3.marker = L.marker(x.getLayers()[0].getLatLng()).bindPopup(label).addTo(map);
+            map.setView(x.getLayers()[0].getLatLng(), 17);
             z = typeof e.choice.properties.label === 'undefined' ? e.choice.properties.display_name : e.choice.properties.label;
             console.log(e);
             e.target.input.value = z;
@@ -1156,7 +1156,7 @@
             //expandAll: 'Expand all',
             collapsed: false,
         });
-        lay.addTo(map01);
+        lay.addTo(map);
         document.addEventListener("DOMContentLoaded", function () {
             // set new Layers List height which considers toggle icon
             function newLayersListHeight() {
@@ -1209,13 +1209,13 @@
         });
         setBounds();
         resetLabels([layer_plusde700_4, layer_600700_5, layer_500600_6, layer_400500_7, layer_300400_8, layer_200300_9, layer_100200_10, layer_0100_11, layer_plusde600_12, layer_500600_13, layer_400500_14, layer_300400_15, layer_200300_16, layer_100200_17, layer_0100_18]);
-        map01.on("zoomend", function () {
+        map.on("zoomend", function () {
             resetLabels([layer_plusde700_4, layer_600700_5, layer_500600_6, layer_400500_7, layer_300400_8, layer_200300_9, layer_100200_10, layer_0100_11, layer_plusde600_12, layer_500600_13, layer_400500_14, layer_300400_15, layer_200300_16, layer_100200_17, layer_0100_18]);
         });
-        map01.on("layeradd", function () {
+        map.on("layeradd", function () {
             resetLabels([layer_plusde700_4, layer_600700_5, layer_500600_6, layer_400500_7, layer_300400_8, layer_200300_9, layer_100200_10, layer_0100_11, layer_plusde600_12, layer_500600_13, layer_400500_14, layer_300400_15, layer_200300_16, layer_100200_17, layer_0100_18]);
         });
-        map01.on("layerremove", function () {
+        map.on("layerremove", function () {
             resetLabels([layer_plusde700_4, layer_600700_5, layer_500600_6, layer_400500_7, layer_300400_8, layer_200300_9, layer_100200_10, layer_0100_11, layer_plusde600_12, layer_500600_13, layer_400500_14, layer_300400_15, layer_200300_16, layer_100200_17, layer_0100_18]);
         });
     </script>
@@ -1226,7 +1226,7 @@
                 position: 'topleft'
             },
 
-            onAdd: function (map01) {
+            onAdd: function (map) {
                 var div = L.DomUtil.create('div', 'leaflet-bar my-control');
 
                 var myButton = L.DomUtil.create('button', 'my-button-class', div);
@@ -1238,11 +1238,34 @@
                 return div;
             },
 
-            onRemove: function (map01) {
+            onRemove: function (map) {
             }
         });
-        let myControl1 = new MyControlClass1().addTo(map01);
+        let myControl1 = new MyControlClass1().addTo(map);
     </script>
+    <script>
+        let ChartPopClass = L.Control.extend({
+            options: { position: 'topleft' },
+
+            onAdd: function (map) {
+                var div = L.DomUtil.create('div', 'leaflet-bar my-control');
+
+                var myButton = L.DomUtil.create('button', 'my-button-class', div);
+                myButton.innerHTML = 'Affichage des statistiques globales';
+
+                L.DomEvent.on(myButton, 'click', function () {
+                    window.open("PopulationCharts1030.html");
+                    window.close();
+                }, this);
+                return div;
+            },
+
+            onRemove: function (map) {
+            }
+        });
+        let ChartPopControl = new ChartPopClass().addTo(map);
+    </script>
+	
 		<script>		
 		L.Control.Watermark = L.Control.extend({
 			onAdd: function(map) {
@@ -1257,7 +1280,7 @@
 			}
 		});
 		L.control.watermark = function(opts) {return new L.Control.Watermark(opts);}
-		L.control.watermark({ position: 'bottomleft' }).addTo(map01);
+		L.control.watermark({ position: 'bottomleft' }).addTo(map);
 		</script>
 		<script>
 			let Pop_WomenClass = L.Control.extend({
@@ -1279,9 +1302,9 @@
 				onRemove: function (map) {
 				}
 			});
-			let Pop_WomenControl = new Pop_WomenClass().addTo(map01);
+			let Pop_WomenControl = new Pop_WomenClass().addTo(map);
 		</script>
-    <!-- END: SCRIPT MAP2 -->
+    <!-- END: SCRIPT map -->
 </body>
 
 </html>
