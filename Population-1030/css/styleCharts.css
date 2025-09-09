@@ -1,3 +1,7 @@
+
+/*
+ * General styles and fonts
+ */
 html {
     font-size: 10px;
     height: 100%;
@@ -9,32 +13,31 @@ body {
     font-family: "Calibri", sans-serif;
     margin: 0px;
     color: #070707;
-
     min-height: 100%;
     margin: 4px;
     padding: 4px;
     text-align: left;
 }
 
+/*
+ * Logo container styles
+ */
 .containerLogo {
     display: flex;
     justify-content: center;
-    /* Centra horizontalmente */
     align-items: flex-start;
-    /* Alinea al inicio (arriba) */
     width: 100%;
-    /* Ocupa todo el ancho */
     height: 100px;
-    /* Ajusta la altura deseada */
 }
 
 img {
     max-width: 100%;
-    /* Asegura que la imagen no exceda el ancho del contenedor */
     max-height: 100%;
-    /* Asegura que la imagen no exceda la altura del contenedor */
 }
 
+/*
+ * Main content styles
+ */
 main {
     padding: 60px;
 }
@@ -43,21 +46,9 @@ section {
     margin-bottom: 40px;
 }
 
-select {
-    border: 2px solid #dddddd;
-    background: #f5f2f2f8;
-    padding: 5px;
-    transition: 0.1s;
-    font-size: 1.65rem;
-    font-weight: bold;
-    color: #00537e;
-}
-
-select:hover,
-select:focus {
-    background: #f5f2f2f8;
-}
-
+/*
+ * Typography styles
+ */
 p {
     font-size: 2em;
 }
@@ -100,6 +91,9 @@ hr {
     margin-bottom: 50px;
 }
 
+/*
+ * Figure and canvas styles
+ */
 figure {
     background-color: rgb(255, 255, 255);
     padding: 0px 0px 10px;
@@ -118,7 +112,9 @@ canvas {
     border: 1px solid rgb(255, 255, 255);
 }
 
-/* grid */
+/*
+ * Grid and layout styles
+ */
 [class*='cols'] {
     display: flex;
     flex-direction: row;
@@ -130,15 +126,15 @@ canvas {
     margin: 10px;
 }
 
+.cols-2>* {
+    width: 50%;
+    margin: 10px;
+}
+
 .cols-3>* {
     width: 33.33%;
     height: 100px;
-    margin: 10px
-}
-
-.cols-2>* {
-    width: 50%;
-    margin: 10px
+    margin: 10px;
 }
 
 .cols-4>* {
@@ -183,16 +179,19 @@ section {
 }
 
 /*
-.running section {
-    opacity: 1
+ * Select input styles
+ */
+select {
+    border: 2px solid #dddddd;
+    background: #f5f2f2f8;
+    padding: 5px;
+    transition: 0.1s;
+    font-size: 1.65rem;
+    font-weight: bold;
+    color: #00537e;
 }
 
-.loading {
-    position: absolute;
-    border: none;
+select:hover,
+select:focus {
+    background: #f5f2f2f8;
 }
-
-.running .loading {
-    display: none;
-}
-*/
