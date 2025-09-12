@@ -239,7 +239,7 @@ function QuartersBarPopulationChart(labelsDownward, dataValuesPop, dataValuesMen
                     text: 'total habitants'
                 },
                 beginAtZero: true, //min: 0, //suggestedMin
-                max: 20000, // suggestedMax
+                max: 25000, // suggestedMax
                 stepSize: 5000,
                 padding: 0,
                 stacked: 'single',
@@ -311,7 +311,7 @@ function QuartersBarHouseChart(labelsDownward, dataValuesHouse, dataValuesChefMe
                     text: 'total habitants'
                 },
                 beginAtZero: true, //min: 0, //suggestedMin
-                max: 8000, // suggestedMax
+                max: 10000, // suggestedMax
                 stepSize: 2000,
                 padding: 0,
                 stacked: 'single',
@@ -394,7 +394,7 @@ function QuartersBarHouseChart2(labelsDownward, dataValuesHouse, dataValuesPop, 
                     text: 'total habitants'
                 },
                 beginAtZero: true, //min: 0, //suggestedMin
-                max: 20000, // suggestedMax
+                max: 25000, // suggestedMax
                 stepSize: 5000,
                 padding: 0,
                 stacked: 'single',
@@ -412,7 +412,7 @@ function QuartersBarHouseChart2(labelsDownward, dataValuesHouse, dataValuesPop, 
                     text: 'densité (hab/km²)'
                 },
                 beginAtZero: true, //min: 0, //suggestedMin
-                max: 35000, // suggestedMax
+                max: 40000, // suggestedMax
                 stepSize: 5000,
                 padding: 0,
                 stacked: 'single',
@@ -592,7 +592,7 @@ function createOptimizedPopulationPyramid(id, labelsData, dataValuesWomen, dataV
                 borderColor: styles.color.solids[2],
                 borderWidth: 1,
                 barPercentage: 1,
-                barThickness: 25,
+                barThickness: 20,
                 datalabels: {
                     color: '#000',
                     anchor: 'end',
@@ -608,7 +608,7 @@ function createOptimizedPopulationPyramid(id, labelsData, dataValuesWomen, dataV
                 borderColor: styles.color.solids[3],
                 borderWidth: 1,
                 barPercentage: 1,
-                barThickness: 25,
+                barThickness: 20,
                 datalabels: {
                     color: '#000',
                     anchor: 'start',
