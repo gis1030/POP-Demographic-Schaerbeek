@@ -339,7 +339,7 @@
         }
 
         function style_plusde1000_4_0(feature) {
-            if (feature.properties['Pop1030_Population'] < 1200.000000) {
+            if (feature.properties['Pop1030_Population'] < 1000.000000) {
                 return {
                     pane: 'pane_plusde1000_4',
                     opacity: 0,
@@ -354,7 +354,22 @@
                     interactive: false,
                 }
             }
-            if (feature.properties['Pop1030_Population'] >= 1200.000000 && feature.properties['Pop1030_Population'] <= 1377.000000) {
+            if (feature.properties['Pop1030_Population'] < 1000.000000) {
+                return {
+                    pane: 'pane_plusde1000_4',
+                    opacity: 0,
+                    color: 'rgba(35,35,35,0.6)',
+                    dashArray: '',
+                    lineCap: 'butt',
+                    lineJoin: 'miter',
+                    weight: 0.0,
+                    fill: false,
+                    fillOpacity: 0,
+                    fillColor: 'rgba(227,47,217,0.6)',
+                    interactive: false,
+                }
+            }
+            if (feature.properties['Pop1030_Population'] >= 1000.000000) {
                 return {
                     pane: 'pane_plusde1000_4',
                     opacity: 1,
@@ -984,7 +999,7 @@
                     { label: '<td style="text-align: center;"><img src="legend/400600_7_4006000.png" /></td><td> 400-600</td></tr></table>', layer: layer_400600_7 },
                     { label: '<td style="text-align: center;"><img src="legend/600800_6_6008000.png" /></td><td> 600-800</td></tr></table>', layer: layer_600800_6 },
                     { label: '<td style="text-align: center;"><img src="legend/8001000_5_80010000.png" /></td><td> 800-1000</td></tr></table>', layer: layer_8001000_5 },
-                    { label: '<td style="text-align: center;"><img src="legend/plusde1000_4_plusde12000.png" /></td><td> plus de 1000</td></tr></table>', layer: layer_plusde1000_4 },]
+                    { label: '<td style="text-align: center;"><img src="legend/plusde1000_4_plusde12000.png" /></td><td> plus de 1000</td></tr></table>', layer: layer_plusde1000_4 }]
             },
             {
                 label: '<b>Schaerbeek</b>', children: [
