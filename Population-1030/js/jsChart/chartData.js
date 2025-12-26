@@ -505,6 +505,7 @@ function dataCharts_G03() {
         data01 = bienfaiteursValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Bienfaiteurs'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsBienfaiteurs.push({
             x: data00,
@@ -527,6 +528,7 @@ function dataCharts_G03() {
         data01 = cerisiersValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Cerisiers'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsCerisiers.push({
             x: data00,
@@ -549,6 +551,7 @@ function dataCharts_G03() {
         data01 = colignonValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Colignon'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsColignon.push({
             x: data00,
@@ -571,6 +574,7 @@ function dataCharts_G03() {
         data01 = coteauxjosaphatValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Coteaux-Josaphat'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsCoteauxJosaphat.push({
             x: data00,
@@ -593,6 +597,7 @@ function dataCharts_G03() {
         data01 = helmethamoirValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Helmet-Hamoir'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsHelmetHamoir.push({
             x: data00,
@@ -615,6 +620,7 @@ function dataCharts_G03() {
         data01 = jardinValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Jardin'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsJardin.push({
             x: data00,
@@ -637,6 +643,7 @@ function dataCharts_G03() {
         data01 = linthoutValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Linthout'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsLinthout.push({
             x: data00,
@@ -659,6 +666,12 @@ function dataCharts_G03() {
         data01 = nordValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Nord'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
+
+        //console.log('data00 :', data00)
+        //console.log('data01 :', data01)
+        //console.log('data02 :', data02)
+        //console.log('data03 :', data03)
 
         datasetsNord.push({
             x: data00,
@@ -681,6 +694,7 @@ function dataCharts_G03() {
         data01 = palaisreineValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Palais-Reine'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsPalaisReine.push({
             x: data00,
@@ -703,6 +717,7 @@ function dataCharts_G03() {
         data01 = parcjosaphatValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Parc Josaphat'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsParcJosaphat.push({
             x: data00,
@@ -725,6 +740,7 @@ function dataCharts_G03() {
         data01 = plaskyValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Plasky'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsPlasky.push({
             x: data00,
@@ -747,6 +763,7 @@ function dataCharts_G03() {
         data01 = reyersValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Reyers'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsReyers.push({
             x: data00,
@@ -769,6 +786,7 @@ function dataCharts_G03() {
         data01 = terdeltfleurValuesFam[i];
         data02 = uniqueBlockParcelQuartier['Terdelt-Fleur'][i];
         data03 = Math.round((data00 / data01) * 100) / 100;
+        if (data03 === Infinity) { data03 = NaN }
 
         datasetsTerdeltFleur.push({
             x: data00,
