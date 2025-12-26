@@ -13,6 +13,8 @@ The data represented correspond to the results of the analysis of the Belgian Na
 ### Previous Updates
 March 2025
 
-### Last Update
-August 2025
+### Last Updates
+December 18, 2025
 
+### Publication date
+December 26, 2025
