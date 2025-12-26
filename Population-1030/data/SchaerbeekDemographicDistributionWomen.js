@@ -206,16 +206,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.381853868882,
 				"BlockParcel.Latitude" : 50.8608290685138,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 7,
+				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 35,
-				"Pop1030_de 30-39 ans" : 31,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 21,
-				"Pop1030_Population" : 166,
-				"DensityPopulation (hab/km2)" : 15898.677536509493
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 168,
+				"DensityPopulation (hab/km2)" : 16090.227868274667
 			}
 		},
 		{
@@ -280,16 +280,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38081814638207,
 				"BlockParcel.Latitude" : 50.8576692096674,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 12,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 11,
+				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 106,
-				"DensityPopulation (hab/km2)" : 29829.829266439472
+				"Pop1030_Population" : 103,
+				"DensityPopulation (hab/km2)" : 28985.588815502506
 			}
 		},
 		{
@@ -409,16 +409,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38027831512279,
 				"BlockParcel.Latitude" : 50.8608064762657,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 34,
+				"Pop1030_de 0-9 ans" : 35,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 56,
+				"Pop1030_de 20-29 ans" : 54,
 				"Pop1030_de 30-39 ans" : 61,
-				"Pop1030_de 40-49 ans" : 44,
-				"Pop1030_de 50-59 ans" : 41,
+				"Pop1030_de 40-49 ans" : 45,
+				"Pop1030_de 50-59 ans" : 40,
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 31,
-				"Pop1030_Population" : 322,
-				"DensityPopulation (hab/km2)" : 15092.295008434343
+				"Pop1030_Population" : 321,
+				"DensityPopulation (hab/km2)" : 15045.42452704169
 			}
 		},
 		{
@@ -583,16 +583,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37877903718173,
 				"BlockParcel.Latitude" : 50.8621166643484,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 50,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 53,
+				"Pop1030_de 0-9 ans" : 35,
+				"Pop1030_de 10-19 ans" : 53,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 54,
 				"Pop1030_de 50-59 ans" : 43,
-				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 300,
-				"DensityPopulation (hab/km2)" : 16768.366811377673
+				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 70 ans et plus" : 20,
+				"Pop1030_Population" : 315,
+				"DensityPopulation (hab/km2)" : 17606.785151946555
 			}
 		},
 		{
@@ -671,16 +671,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3784752156935,
 				"BlockParcel.Latitude" : 50.8600866001064,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 39,
+				"Pop1030_de 0-9 ans" : 36,
 				"Pop1030_de 10-19 ans" : 32,
-				"Pop1030_de 20-29 ans" : 45,
+				"Pop1030_de 20-29 ans" : 38,
 				"Pop1030_de 30-39 ans" : 61,
-				"Pop1030_de 40-49 ans" : 45,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 40-49 ans" : 43,
+				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 274,
-				"DensityPopulation (hab/km2)" : 26786.95377588509
+				"Pop1030_Population" : 264,
+				"DensityPopulation (hab/km2)" : 25809.327725670308
 			}
 		},
 		{
@@ -745,16 +745,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37918340931843,
 				"BlockParcel.Latitude" : 50.8579557722434,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 31,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 41,
+				"Pop1030_de 0-9 ans" : 32,
+				"Pop1030_de 10-19 ans" : 29,
+				"Pop1030_de 20-29 ans" : 38,
 				"Pop1030_de 30-39 ans" : 53,
-				"Pop1030_de 40-49 ans" : 50,
+				"Pop1030_de 40-49 ans" : 49,
 				"Pop1030_de 50-59 ans" : 42,
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 29,
-				"Pop1030_Population" : 293,
-				"DensityPopulation (hab/km2)" : 27176.231834590428
+				"Pop1030_Population" : 292,
+				"DensityPopulation (hab/km2)" : 27083.48019010377
 			}
 		},
 		{
@@ -843,11 +843,11 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 6,
 				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 20-29 ans" : 13,
 				"Pop1030_de 30-39 ans" : 16,
 				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 10,
-				"Pop1030_de 60-69 ans" : 7,
+				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 70,
 				"DensityPopulation (hab/km2)" : 11252.95189041554
@@ -941,16 +941,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37859736271241,
 				"BlockParcel.Latitude" : 50.8632826961262,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 36,
-				"Pop1030_de 30-39 ans" : 41,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 27,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 39,
+				"Pop1030_de 40-49 ans" : 27,
+				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 190,
-				"DensityPopulation (hab/km2)" : 38267.489753376096
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 181,
+				"DensityPopulation (hab/km2)" : 36454.819186110915
 			}
 		},
 		{
@@ -1169,16 +1169,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37709520650541,
 				"BlockParcel.Latitude" : 50.8645063404891,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 0-9 ans" : 20,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 28,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 30,
 				"Pop1030_de 40-49 ans" : 44,
 				"Pop1030_de 50-59 ans" : 27,
 				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 208,
-				"DensityPopulation (hab/km2)" : 36404.30480904367
+				"Pop1030_de 70 ans et plus" : 21,
+				"Pop1030_Population" : 213,
+				"DensityPopulation (hab/km2)" : 37279.4082900303
 			}
 		},
 		{
@@ -1313,16 +1313,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37721055247848,
 				"BlockParcel.Latitude" : 50.8619977922732,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 50,
-				"Pop1030_de 10-19 ans" : 58,
-				"Pop1030_de 20-29 ans" : 66,
-				"Pop1030_de 30-39 ans" : 92,
-				"Pop1030_de 40-49 ans" : 63,
+				"Pop1030_de 0-9 ans" : 56,
+				"Pop1030_de 10-19 ans" : 60,
+				"Pop1030_de 20-29 ans" : 68,
+				"Pop1030_de 30-39 ans" : 87,
+				"Pop1030_de 40-49 ans" : 65,
 				"Pop1030_de 50-59 ans" : 49,
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 430,
-				"DensityPopulation (hab/km2)" : 13734.285023464867
+				"Pop1030_Population" : 437,
+				"DensityPopulation (hab/km2)" : 13957.866407567784
 			}
 		},
 		{
@@ -1467,16 +1467,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38312862589844,
 				"BlockParcel.Latitude" : 50.8689584868551,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 32,
-				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 40,
-				"Pop1030_de 40-49 ans" : 23,
-				"Pop1030_de 50-59 ans" : 20,
-				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 194,
-				"DensityPopulation (hab/km2)" : 14866.857330280263
+				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 48,
+				"Pop1030_de 30-39 ans" : 39,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 220,
+				"DensityPopulation (hab/km2)" : 16859.322745678648
 			}
 		},
 		{
@@ -1599,16 +1599,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37854532740841,
 				"BlockParcel.Latitude" : 50.8671927761359,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 0-9 ans" : 27,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 26,
-				"Pop1030_de 40-49 ans" : 36,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 40-49 ans" : 34,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 19,
+				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 188,
-				"DensityPopulation (hab/km2)" : 16423.78968463703
+				"Pop1030_Population" : 197,
+				"DensityPopulation (hab/km2)" : 17210.034935497315
 			}
 		},
 		{
@@ -1730,9 +1730,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 10-19 ans" : 24,
 				"Pop1030_de 20-29 ans" : 22,
 				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 11,
+				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 133,
 				"DensityPopulation (hab/km2)" : 11130.945954654368
@@ -1789,15 +1789,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.866938374651,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 14,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 15,
 				"Pop1030_de 30-39 ans" : 15,
 				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 88,
-				"DensityPopulation (hab/km2)" : 49063.0627616929
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 91,
+				"DensityPopulation (hab/km2)" : 50735.66717402334
 			}
 		},
 		{
@@ -1869,14 +1869,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 20-29 ans" : 11,
 				"Pop1030_de 30-39 ans" : 9,
 				"Pop1030_de 40-49 ans" : 9,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 5,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 74,
-				"DensityPopulation (hab/km2)" : 21941.0733928905
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 73,
+				"DensityPopulation (hab/km2)" : 21644.572401094683
 			}
 		},
 		{
@@ -1951,15 +1951,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8692408107978,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 10-19 ans" : 20,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 40-49 ans" : 17,
 				"Pop1030_de 50-59 ans" : 9,
-				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 139,
-				"DensityPopulation (hab/km2)" : 13159.539056375845
+				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 140,
+				"DensityPopulation (hab/km2)" : 13254.21199922747
 			}
 		},
 		{
@@ -2044,16 +2044,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37626134214118,
 				"BlockParcel.Latitude" : 50.8691319799129,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 33,
-				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 40-49 ans" : 31,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 10,
-				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 188,
-				"DensityPopulation (hab/km2)" : 29760.208701378466
+				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 70 ans et plus" : 17,
+				"Pop1030_Population" : 194,
+				"DensityPopulation (hab/km2)" : 30710.00259610331
 			}
 		},
 		{
@@ -2124,16 +2124,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37629216585395,
 				"BlockParcel.Latitude" : 50.8659544605903,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 29,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 28,
 				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 148,
-				"DensityPopulation (hab/km2)" : 33159.915935132034
+				"Pop1030_Population" : 146,
+				"DensityPopulation (hab/km2)" : 32711.80896303565
 			}
 		},
 		{
@@ -2236,16 +2236,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37765618474368,
 				"BlockParcel.Latitude" : 50.8725030774084,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 24,
-				"Pop1030_de 20-29 ans" : 37,
-				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 10-19 ans" : 28,
+				"Pop1030_de 20-29 ans" : 42,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 223,
-				"DensityPopulation (hab/km2)" : 13209.60925028063
+				"Pop1030_Population" : 241,
+				"DensityPopulation (hab/km2)" : 14275.855736850366
 			}
 		},
 		{
@@ -2370,16 +2370,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37719301132486,
 				"BlockParcel.Latitude" : 50.8565418544018,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 6,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 28,
-				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 138,
-				"DensityPopulation (hab/km2)" : 27866.45908173959
+				"Pop1030_Population" : 131,
+				"DensityPopulation (hab/km2)" : 26452.943041361497
 			}
 		},
 		{
@@ -2517,16 +2517,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37648802668489,
 				"BlockParcel.Latitude" : 50.8555688874333,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 28,
-				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 15528.432560017392
+				"Pop1030_Population" : 153,
+				"DensityPopulation (hab/km2)" : 15328.065688275232
 			}
 		},
 		{
@@ -2588,15 +2588,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8561209846358,
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 10-19 ans" : 26,
 				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 16,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 34934.91704957291
+				"Pop1030_Population" : 135,
+				"DensityPopulation (hab/km2)" : 36001.632073987355
 			}
 		},
 		{
@@ -2690,15 +2690,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8649169602357,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 33,
-				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 10-19 ans" : 24,
 				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 22,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 30-39 ans" : 41,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 208,
-				"DensityPopulation (hab/km2)" : 28104.42414980739
+				"Pop1030_Population" : 203,
+				"DensityPopulation (hab/km2)" : 27428.837030821636
 			}
 		},
 		{
@@ -2832,15 +2832,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8612121905707,
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 40,
-				"Pop1030_de 10-19 ans" : 69,
-				"Pop1030_de 20-29 ans" : 56,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 48,
-				"Pop1030_de 50-59 ans" : 43,
-				"Pop1030_de 60-69 ans" : 35,
-				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 358,
-				"DensityPopulation (hab/km2)" : 36507.44119548613
+				"Pop1030_de 10-19 ans" : 71,
+				"Pop1030_de 20-29 ans" : 53,
+				"Pop1030_de 30-39 ans" : 45,
+				"Pop1030_de 40-49 ans" : 50,
+				"Pop1030_de 50-59 ans" : 41,
+				"Pop1030_de 60-69 ans" : 37,
+				"Pop1030_de 70 ans et plus" : 25,
+				"Pop1030_Population" : 362,
+				"DensityPopulation (hab/km2)" : 36915.34556638541
 			}
 		},
 		{
@@ -2956,16 +2956,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37413700104279,
 				"BlockParcel.Latitude" : 50.861659980564,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 42,
-				"Pop1030_de 20-29 ans" : 33,
-				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 10-19 ans" : 43,
+				"Pop1030_de 20-29 ans" : 36,
+				"Pop1030_de 30-39 ans" : 36,
 				"Pop1030_de 40-49 ans" : 44,
-				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 50-59 ans" : 30,
 				"Pop1030_de 60-69 ans" : 20,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 246,
-				"DensityPopulation (hab/km2)" : 21006.878471792286
+				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_Population" : 254,
+				"DensityPopulation (hab/km2)" : 21690.028991200164
 			}
 		},
 		{
@@ -3075,16 +3075,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37356779695881,
 				"BlockParcel.Latitude" : 50.8630677409017,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 22,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 152,
-				"DensityPopulation (hab/km2)" : 9531.14300978447
+				"Pop1030_Population" : 156,
+				"DensityPopulation (hab/km2)" : 9781.962562673534
 			}
 		},
 		{
@@ -3151,12 +3151,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 10-19 ans" : 13,
 				"Pop1030_de 20-29 ans" : 18,
 				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 40-49 ans" : 16,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 117,
-				"DensityPopulation (hab/km2)" : 38746.85388793218
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 118,
+				"DensityPopulation (hab/km2)" : 39078.023579282024
 			}
 		},
 		{
@@ -3228,15 +3228,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8634389157433,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 23452.157598499063
+				"Pop1030_Population" : 151,
+				"DensityPopulation (hab/km2)" : 22846.940628215216
 			}
 		},
 		{
@@ -3320,15 +3320,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8653658318696,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 21,
-				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 31,
-				"Pop1030_de 40-49 ans" : 19,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 30,
+				"Pop1030_de 40-49 ans" : 21,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 150,
-				"DensityPopulation (hab/km2)" : 20804.49599028014
+				"Pop1030_Population" : 149,
+				"DensityPopulation (hab/km2)" : 20665.799350344936
 			}
 		},
 		{
@@ -3361,8 +3361,8 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 3,
-				"Pop1030_de 30-39 ans" : 6,
+				"Pop1030_de 20-29 ans" : 4,
+				"Pop1030_de 30-39 ans" : 5,
 				"Pop1030_de 40-49 ans" : 2,
 				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 3,
@@ -3470,16 +3470,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37596089438801,
 				"BlockParcel.Latitude" : 50.8730742166584,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 40,
-				"Pop1030_de 10-19 ans" : 36,
+				"Pop1030_de 0-9 ans" : 41,
+				"Pop1030_de 10-19 ans" : 38,
 				"Pop1030_de 20-29 ans" : 53,
 				"Pop1030_de 30-39 ans" : 33,
 				"Pop1030_de 40-49 ans" : 39,
 				"Pop1030_de 50-59 ans" : 27,
-				"Pop1030_de 60-69 ans" : 21,
+				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 267,
-				"DensityPopulation (hab/km2)" : 17059.056921664425
+				"Pop1030_Population" : 271,
+				"DensityPopulation (hab/km2)" : 17314.623317494606
 			}
 		},
 		{
@@ -3538,16 +3538,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37183833290558,
 				"BlockParcel.Latitude" : 50.871225252805,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 16,
 				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 109,
-				"DensityPopulation (hab/km2)" : 44404.249771868075
+				"Pop1030_Population" : 105,
+				"DensityPopulation (hab/km2)" : 42774.736018772
 			}
 		},
 		{
@@ -3653,16 +3653,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37333404421205,
 				"BlockParcel.Latitude" : 50.8694099842347,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 0-9 ans" : 22,
 				"Pop1030_de 10-19 ans" : 33,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 21,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 192,
-				"DensityPopulation (hab/km2)" : 14549.79743953877
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 191,
+				"DensityPopulation (hab/km2)" : 14474.017244541174
 			}
 		},
 		{
@@ -3777,16 +3777,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36999273757222,
 				"BlockParcel.Latitude" : 50.8688805076301,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 27,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 31,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 9,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 29,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 30,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 181,
-				"DensityPopulation (hab/km2)" : 9956.756869749666
+				"Pop1030_Population" : 185,
+				"DensityPopulation (hab/km2)" : 10176.795695600487
 			}
 		},
 		{
@@ -3884,16 +3884,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37525841773874,
 				"BlockParcel.Latitude" : 50.8690263203661,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 37,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 37,
-				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 38,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 201,
-				"DensityPopulation (hab/km2)" : 18737.57237503857
+				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_Population" : 200,
+				"DensityPopulation (hab/km2)" : 18644.350621928927
 			}
 		},
 		{
@@ -4008,12 +4008,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 20-29 ans" : 32,
 				"Pop1030_de 30-39 ans" : 31,
 				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 21,
-				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_de 50-59 ans" : 23,
+				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 195,
 				"DensityPopulation (hab/km2)" : 24231.037349348182
 			}
@@ -4078,16 +4078,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36874561699053,
 				"BlockParcel.Latitude" : 50.8600251121845,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 40-49 ans" : 31,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 5,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 130,
-				"DensityPopulation (hab/km2)" : 22789.865171651512
+				"Pop1030_de 70 ans et plus" : 8,
+				"Pop1030_Population" : 142,
+				"DensityPopulation (hab/km2)" : 24893.545033650113
 			}
 		},
 		{
@@ -4139,14 +4139,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 0,
 				"Pop1030_de 10-19 ans" : 1,
-				"Pop1030_de 20-29 ans" : 2,
+				"Pop1030_de 20-29 ans" : 4,
 				"Pop1030_de 30-39 ans" : 1,
 				"Pop1030_de 40-49 ans" : 4,
 				"Pop1030_de 50-59 ans" : 4,
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 2,
-				"Pop1030_Population" : 15,
-				"DensityPopulation (hab/km2)" : 6435.6690521546625
+				"Pop1030_Population" : 17,
+				"DensityPopulation (hab/km2)" : 7293.7582591086175
 			}
 		},
 		{
@@ -4265,16 +4265,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37234891323104,
 				"BlockParcel.Latitude" : 50.8587092993003,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 42,
-				"Pop1030_de 40-49 ans" : 34,
+				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 10-19 ans" : 29,
+				"Pop1030_de 20-29 ans" : 38,
+				"Pop1030_de 30-39 ans" : 41,
+				"Pop1030_de 40-49 ans" : 35,
 				"Pop1030_de 50-59 ans" : 46,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 239,
-				"DensityPopulation (hab/km2)" : 19391.11886755866
+				"Pop1030_Population" : 240,
+				"DensityPopulation (hab/km2)" : 19472.25325612585
 			}
 		},
 		{
@@ -4368,12 +4368,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 10-19 ans" : 11,
 				"Pop1030_de 20-29 ans" : 6,
 				"Pop1030_de 30-39 ans" : 13,
-				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 40-49 ans" : 10,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 68,
-				"DensityPopulation (hab/km2)" : 21584.08110535888
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 70,
+				"DensityPopulation (hab/km2)" : 22218.907020222377
 			}
 		},
 		{
@@ -4442,16 +4442,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36960836591541,
 				"BlockParcel.Latitude" : 50.8585951217832,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 11,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 13,
 				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 21,
-				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 122,
-				"DensityPopulation (hab/km2)" : 20637.181434656257
+				"Pop1030_Population" : 132,
+				"DensityPopulation (hab/km2)" : 22328.753683398572
 			}
 		},
 		{
@@ -4588,16 +4588,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37195276750845,
 				"BlockParcel.Latitude" : 50.8580703912564,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 45,
+				"Pop1030_de 0-9 ans" : 49,
 				"Pop1030_de 10-19 ans" : 55,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 52,
-				"Pop1030_de 40-49 ans" : 51,
-				"Pop1030_de 50-59 ans" : 36,
-				"Pop1030_de 60-69 ans" : 37,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 54,
+				"Pop1030_de 40-49 ans" : 52,
+				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 25,
-				"Pop1030_Population" : 343,
-				"DensityPopulation (hab/km2)" : 17677.824483426135
+				"Pop1030_Population" : 350,
+				"DensityPopulation (hab/km2)" : 18038.596411659324
 			}
 		},
 		{
@@ -4890,16 +4890,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37565229553051,
 				"BlockParcel.Latitude" : 50.858957279691,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 53,
-				"Pop1030_de 20-29 ans" : 44,
+				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 10-19 ans" : 52,
+				"Pop1030_de 20-29 ans" : 40,
 				"Pop1030_de 30-39 ans" : 51,
-				"Pop1030_de 40-49 ans" : 49,
-				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 40-49 ans" : 47,
+				"Pop1030_de 50-59 ans" : 32,
 				"Pop1030_de 60-69 ans" : 26,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 297,
-				"DensityPopulation (hab/km2)" : 16898.92734485419
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 288,
+				"DensityPopulation (hab/km2)" : 16386.838637434368
 			}
 		},
 		{
@@ -5013,16 +5013,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.371532246251,
 				"BlockParcel.Latitude" : 50.8574974284991,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 46,
+				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 10-19 ans" : 43,
 				"Pop1030_de 20-29 ans" : 37,
 				"Pop1030_de 30-39 ans" : 36,
-				"Pop1030_de 40-49 ans" : 36,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 50-59 ans" : 35,
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 251,
-				"DensityPopulation (hab/km2)" : 25928.17173333443
+				"Pop1030_Population" : 245,
+				"DensityPopulation (hab/km2)" : 25308.374799469864
 			}
 		},
 		{
@@ -5090,16 +5090,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37652569210056,
 				"BlockParcel.Latitude" : 50.8570256563819,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 14,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 13,
 				"Pop1030_de 40-49 ans" : 20,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 115,
-				"DensityPopulation (hab/km2)" : 25078.780080906326
+				"Pop1030_Population" : 122,
+				"DensityPopulation (hab/km2)" : 26605.31452061367
 			}
 		},
 		{
@@ -5218,14 +5218,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 16,
-				"Pop1030_de 40-49 ans" : 14,
-				"Pop1030_de 50-59 ans" : 10,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 112,
-				"DensityPopulation (hab/km2)" : 27653.50162464322
+				"Pop1030_Population" : 117,
+				"DensityPopulation (hab/km2)" : 28888.032947171938
 			}
 		},
 		{
@@ -5308,16 +5308,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37115489963437,
 				"BlockParcel.Latitude" : 50.8678871892436,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 30-39 ans" : 36,
 				"Pop1030_de 40-49 ans" : 20,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 21431.721990467722
+				"Pop1030_Population" : 158,
+				"DensityPopulation (hab/km2)" : 21846.52951286387
 			}
 		},
 		{
@@ -5465,15 +5465,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.868200731293,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 53,
-				"Pop1030_de 10-19 ans" : 47,
-				"Pop1030_de 20-29 ans" : 53,
-				"Pop1030_de 30-39 ans" : 56,
-				"Pop1030_de 40-49 ans" : 43,
-				"Pop1030_de 50-59 ans" : 45,
+				"Pop1030_de 10-19 ans" : 49,
+				"Pop1030_de 20-29 ans" : 56,
+				"Pop1030_de 30-39 ans" : 52,
+				"Pop1030_de 40-49 ans" : 44,
+				"Pop1030_de 50-59 ans" : 44,
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 25,
-				"Pop1030_Population" : 344,
-				"DensityPopulation (hab/km2)" : 13623.017831104677
+				"Pop1030_Population" : 345,
+				"DensityPopulation (hab/km2)" : 13662.619627125328
 			}
 		},
 		{
@@ -5662,16 +5662,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37501022917066,
 				"BlockParcel.Latitude" : 50.8672472214291,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 10-19 ans" : 27,
 				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 32,
-				"Pop1030_de 40-49 ans" : 34,
-				"Pop1030_de 50-59 ans" : 23,
+				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 24,
 				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 191,
-				"DensityPopulation (hab/km2)" : 11548.153988284972
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 192,
+				"DensityPopulation (hab/km2)" : 11608.615527490654
 			}
 		},
 		{
@@ -5756,16 +5756,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37586616919744,
 				"BlockParcel.Latitude" : 50.8656196553501,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 33,
-				"Pop1030_de 10-19 ans" : 32,
+				"Pop1030_de 0-9 ans" : 32,
+				"Pop1030_de 10-19 ans" : 35,
 				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 30-39 ans" : 35,
 				"Pop1030_de 40-49 ans" : 31,
 				"Pop1030_de 50-59 ans" : 27,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 214,
-				"DensityPopulation (hab/km2)" : 28079.45699053827
+				"Pop1030_Population" : 218,
+				"DensityPopulation (hab/km2)" : 28604.30665391282
 			}
 		},
 		{
@@ -5853,16 +5853,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37001954377455,
 				"BlockParcel.Latitude" : 50.8662531030315,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 10-19 ans" : 15,
 				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 29,
-				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 30-39 ans" : 30,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 145,
-				"DensityPopulation (hab/km2)" : 19732.589392032118
+				"Pop1030_Population" : 148,
+				"DensityPopulation (hab/km2)" : 20140.849862212093
 			}
 		},
 		{
@@ -5948,9 +5948,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 13,
 				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 30-39 ans" : 24,
 				"Pop1030_de 40-49 ans" : 24,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 133,
@@ -6008,16 +6008,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37090429897559,
 				"BlockParcel.Latitude" : 50.8636892261825,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 12,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 14,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 9,
+				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 40-49 ans" : 12,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 102,
-				"DensityPopulation (hab/km2)" : 32940.52297924424
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 94,
+				"DensityPopulation (hab/km2)" : 30356.952549499594
 			}
 		},
 		{
@@ -6130,16 +6130,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36909341637527,
 				"BlockParcel.Latitude" : 50.8647230833751,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 28,
+				"Pop1030_de 0-9 ans" : 32,
 				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 49,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 27,
-				"Pop1030_de 60-69 ans" : 26,
+				"Pop1030_de 20-29 ans" : 48,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 50-59 ans" : 25,
+				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 263,
-				"DensityPopulation (hab/km2)" : 19062.84723556098
+				"Pop1030_Population" : 264,
+				"DensityPopulation (hab/km2)" : 19135.32954444144
 			}
 		},
 		{
@@ -6234,15 +6234,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8629425436857,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 35,
-				"Pop1030_de 20-29 ans" : 33,
-				"Pop1030_de 30-39 ans" : 26,
-				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 10-19 ans" : 32,
+				"Pop1030_de 20-29 ans" : 34,
+				"Pop1030_de 30-39 ans" : 28,
+				"Pop1030_de 40-49 ans" : 33,
 				"Pop1030_de 50-59 ans" : 32,
-				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 225,
-				"DensityPopulation (hab/km2)" : 20464.107773996213
+				"Pop1030_Population" : 228,
+				"DensityPopulation (hab/km2)" : 20736.96254431616
 			}
 		},
 		{
@@ -6353,16 +6353,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36856400666648,
 				"BlockParcel.Latitude" : 50.8635150203322,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 34,
-				"Pop1030_de 10-19 ans" : 43,
-				"Pop1030_de 20-29 ans" : 48,
-				"Pop1030_de 30-39 ans" : 44,
-				"Pop1030_de 40-49 ans" : 40,
+				"Pop1030_de 0-9 ans" : 35,
+				"Pop1030_de 10-19 ans" : 42,
+				"Pop1030_de 20-29 ans" : 45,
+				"Pop1030_de 30-39 ans" : 46,
+				"Pop1030_de 40-49 ans" : 39,
 				"Pop1030_de 50-59 ans" : 36,
-				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 282,
-				"DensityPopulation (hab/km2)" : 25188.91687657431
+				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_Population" : 279,
+				"DensityPopulation (hab/km2)" : 24920.94967575969
 			}
 		},
 		{
@@ -6424,15 +6424,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8615758551665,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 29,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 20,
 				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 13,
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 158,
-				"DensityPopulation (hab/km2)" : 40836.68685239605
+				"Pop1030_Population" : 161,
+				"DensityPopulation (hab/km2)" : 41612.06698250484
 			}
 		},
 		{
@@ -6540,16 +6540,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36955777046469,
 				"BlockParcel.Latitude" : 50.8652417654932,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 34,
-				"Pop1030_de 40-49 ans" : 33,
-				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 50-59 ans" : 20,
 				"Pop1030_de 60-69 ans" : 19,
-				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 207,
-				"DensityPopulation (hab/km2)" : 18094.53212959531
+				"Pop1030_de 70 ans et plus" : 21,
+				"Pop1030_Population" : 210,
+				"DensityPopulation (hab/km2)" : 18356.7717256764
 			}
 		},
 		{
@@ -6718,16 +6718,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36792485028257,
 				"BlockParcel.Latitude" : 50.8666069987498,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 77,
-				"Pop1030_de 10-19 ans" : 60,
-				"Pop1030_de 20-29 ans" : 80,
-				"Pop1030_de 30-39 ans" : 75,
-				"Pop1030_de 40-49 ans" : 71,
+				"Pop1030_de 0-9 ans" : 73,
+				"Pop1030_de 10-19 ans" : 59,
+				"Pop1030_de 20-29 ans" : 81,
+				"Pop1030_de 30-39 ans" : 78,
+				"Pop1030_de 40-49 ans" : 68,
 				"Pop1030_de 50-59 ans" : 48,
-				"Pop1030_de 60-69 ans" : 34,
-				"Pop1030_de 70 ans et plus" : 28,
-				"Pop1030_Population" : 473,
-				"DensityPopulation (hab/km2)" : 10300.563024855062
+				"Pop1030_de 60-69 ans" : 33,
+				"Pop1030_de 70 ans et plus" : 29,
+				"Pop1030_Population" : 469,
+				"DensityPopulation (hab/km2)" : 10213.454669465167
 			}
 		},
 		{
@@ -6808,16 +6808,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36668740276197,
 				"BlockParcel.Latitude" : 50.8625143150606,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 27,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 40,
-				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 44,
+				"Pop1030_de 30-39 ans" : 23,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 12,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 159,
-				"DensityPopulation (hab/km2)" : 20131.831844759516
+				"Pop1030_Population" : 161,
+				"DensityPopulation (hab/km2)" : 20385.062434001775
 			}
 		},
 		{
@@ -6905,16 +6905,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36841943964106,
 				"BlockParcel.Latitude" : 50.8623758027351,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 36,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 37,
 				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 30-39 ans" : 29,
 				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 179,
-				"DensityPopulation (hab/km2)" : 28413.329820027746
+				"Pop1030_Population" : 176,
+				"DensityPopulation (hab/km2)" : 27937.128761591528
 			}
 		},
 		{
@@ -6998,16 +6998,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36518215095501,
 				"BlockParcel.Latitude" : 50.8649534526961,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 9,
 				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 13,
-				"Pop1030_de 50-59 ans" : 21,
+				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 40-49 ans" : 12,
+				"Pop1030_de 50-59 ans" : 22,
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 128,
-				"DensityPopulation (hab/km2)" : 23579.996057719407
+				"Pop1030_Population" : 127,
+				"DensityPopulation (hab/km2)" : 23395.777338518474
 			}
 		},
 		{
@@ -7090,13 +7090,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36522887922541,
 				"BlockParcel.Latitude" : 50.864048904777,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 15,
 				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 18,
-				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 146,
 				"DensityPopulation (hab/km2)" : 17606.44058067488
@@ -7182,16 +7182,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36516726970996,
 				"BlockParcel.Latitude" : 50.8672061528173,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 0-9 ans" : 26,
 				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 20-29 ans" : 12,
 				"Pop1030_de 30-39 ans" : 14,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 13,
-				"Pop1030_de 60-69 ans" : 6,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 111,
-				"DensityPopulation (hab/km2)" : 20417.923625928925
+				"Pop1030_Population" : 113,
+				"DensityPopulation (hab/km2)" : 20785.814141711428
 			}
 		},
 		{
@@ -7285,16 +7285,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36681160985268,
 				"BlockParcel.Latitude" : 50.8686553613262,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 46,
+				"Pop1030_de 0-9 ans" : 50,
 				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 37,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 40-49 ans" : 40,
 				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 234,
-				"DensityPopulation (hab/km2)" : 17811.919828092137
+				"Pop1030_Population" : 243,
+				"DensityPopulation (hab/km2)" : 18496.993667634142
 			}
 		},
 		{
@@ -7392,16 +7392,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36448063097876,
 				"BlockParcel.Latitude" : 50.8684386468847,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 9,
+				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 6,
-				"Pop1030_de 30-39 ans" : 14,
-				"Pop1030_de 40-49 ans" : 12,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 20-29 ans" : 7,
+				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 86,
-				"DensityPopulation (hab/km2)" : 17716.03259749998
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 90,
+				"DensityPopulation (hab/km2)" : 18540.03411366277
 			}
 		},
 		{
@@ -7484,16 +7484,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37916483374019,
 				"BlockParcel.Latitude" : 50.8753047905932,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 38,
-				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 36,
-				"Pop1030_de 30-39 ans" : 37,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 0-9 ans" : 39,
+				"Pop1030_de 10-19 ans" : 32,
+				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 30-39 ans" : 36,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 204,
-				"DensityPopulation (hab/km2)" : 21228.83750261458
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 205,
+				"DensityPopulation (hab/km2)" : 21332.900431548966
 			}
 		},
 		{
@@ -7606,16 +7606,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38099995026341,
 				"BlockParcel.Latitude" : 50.8761588903799,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 43,
-				"Pop1030_de 10-19 ans" : 46,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 93,
+				"Pop1030_de 0-9 ans" : 47,
+				"Pop1030_de 10-19 ans" : 47,
+				"Pop1030_de 20-29 ans" : 46,
+				"Pop1030_de 30-39 ans" : 95,
 				"Pop1030_de 40-49 ans" : 62,
-				"Pop1030_de 50-59 ans" : 49,
-				"Pop1030_de 60-69 ans" : 24,
-				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 380,
-				"DensityPopulation (hab/km2)" : 17305.75767111865
+				"Pop1030_de 50-59 ans" : 52,
+				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 70 ans et plus" : 24,
+				"Pop1030_Population" : 396,
+				"DensityPopulation (hab/km2)" : 18034.421152007853
 			}
 		},
 		{
@@ -7666,16 +7666,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37557765365049,
 				"BlockParcel.Latitude" : 50.8754229550411,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 9,
-				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 20-29 ans" : 10,
+				"Pop1030_de 30-39 ans" : 17,
 				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 5,
+				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 81,
-				"DensityPopulation (hab/km2)" : 25883.969514435907
+				"Pop1030_Population" : 87,
+				"DensityPopulation (hab/km2)" : 27801.300589579307
 			}
 		},
 		{
@@ -7767,16 +7767,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38160598966659,
 				"BlockParcel.Latitude" : 50.8750836902167,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 52,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 14,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 51,
+				"Pop1030_de 40-49 ans" : 17,
 				"Pop1030_de 50-59 ans" : 22,
 				"Pop1030_de 60-69 ans" : 20,
-				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 204,
-				"DensityPopulation (hab/km2)" : 20416.047012952182
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 196,
+				"DensityPopulation (hab/km2)" : 19615.417718326604
 			}
 		},
 		{
@@ -7900,16 +7900,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37933544595594,
 				"BlockParcel.Latitude" : 50.8736937015904,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 33,
-				"Pop1030_de 20-29 ans" : 47,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 36,
-				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 0-9 ans" : 33,
+				"Pop1030_de 10-19 ans" : 35,
+				"Pop1030_de 20-29 ans" : 48,
+				"Pop1030_de 30-39 ans" : 45,
+				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 248,
-				"DensityPopulation (hab/km2)" : 10667.919286866801
+				"Pop1030_Population" : 249,
+				"DensityPopulation (hab/km2)" : 10710.935090442877
 			}
 		},
 		{
@@ -7992,16 +7992,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37853867404508,
 				"BlockParcel.Latitude" : 50.8744248928422,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 42,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 27,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 208,
-				"DensityPopulation (hab/km2)" : 24949.201985380725
+				"Pop1030_Population" : 218,
+				"DensityPopulation (hab/km2)" : 26148.68285006249
 			}
 		},
 		{
@@ -8061,16 +8061,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3744702518997,
 				"BlockParcel.Latitude" : 50.8741796282272,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 36,
-				"Pop1030_de 10-19 ans" : 39,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 0-9 ans" : 48,
+				"Pop1030_de 10-19 ans" : 44,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 179,
-				"DensityPopulation (hab/km2)" : 28695.41658851574
+				"Pop1030_Population" : 218,
+				"DensityPopulation (hab/km2)" : 34947.49059383482
 			}
 		},
 		{
@@ -8163,15 +8163,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8792237840695,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 24,
-				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 17,
 				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 135,
-				"DensityPopulation (hab/km2)" : 16199.364984892592
+				"Pop1030_Population" : 129,
+				"DensityPopulation (hab/km2)" : 15479.393207786256
 			}
 		},
 		{
@@ -8292,16 +8292,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36505971538869,
 				"BlockParcel.Latitude" : 50.8615128215891,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 24,
-				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 20-29 ans" : 36,
 				"Pop1030_de 30-39 ans" : 25,
-				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 15,
-				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 171,
-				"DensityPopulation (hab/km2)" : 16069.027278818297
+				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 70 ans et plus" : 11,
+				"Pop1030_Population" : 176,
+				"DensityPopulation (hab/km2)" : 16538.881877614156
 			}
 		},
 		{
@@ -8386,16 +8386,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3640771038823996,
 				"BlockParcel.Latitude" : 50.8598075750583,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 45,
+				"Pop1030_de 0-9 ans" : 47,
 				"Pop1030_de 10-19 ans" : 45,
 				"Pop1030_de 20-29 ans" : 44,
-				"Pop1030_de 30-39 ans" : 31,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 30-39 ans" : 32,
+				"Pop1030_de 40-49 ans" : 29,
 				"Pop1030_de 50-59 ans" : 25,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 238,
-				"DensityPopulation (hab/km2)" : 23531.738184694485
+				"Pop1030_Population" : 244,
+				"DensityPopulation (hab/km2)" : 24124.97528178762
 			}
 		},
 		{
@@ -8449,7 +8449,7 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36235350879179,
 				"BlockParcel.Latitude" : 50.8594422482618,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 0-9 ans" : 7,
 				"Pop1030_de 10-19 ans" : 1,
 				"Pop1030_de 20-29 ans" : 2,
 				"Pop1030_de 30-39 ans" : 2,
@@ -8457,8 +8457,8 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 50-59 ans" : 4,
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 1,
-				"Pop1030_Population" : 19,
-				"DensityPopulation (hab/km2)" : 17818.95937277263
+				"Pop1030_Population" : 20,
+				"DensityPopulation (hab/km2)" : 18756.799339760662
 			}
 		},
 		{
@@ -8606,15 +8606,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8589366217119,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 7,
-				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 5,
+				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 20-29 ans" : 6,
 				"Pop1030_de 30-39 ans" : 7,
 				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 50-59 ans" : 7,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 47,
-				"DensityPopulation (hab/km2)" : 17310.91508443675
+				"Pop1030_Population" : 48,
+				"DensityPopulation (hab/km2)" : 17679.232426658808
 			}
 		},
 		{
@@ -8700,16 +8700,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36074635830167,
 				"BlockParcel.Latitude" : 50.8625455747157,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 0-9 ans" : 29,
 				"Pop1030_de 10-19 ans" : 26,
 				"Pop1030_de 20-29 ans" : 44,
-				"Pop1030_de 30-39 ans" : 53,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 40,
-				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 30-39 ans" : 55,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 39,
+				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 36,
-				"Pop1030_Population" : 278,
-				"DensityPopulation (hab/km2)" : 26996.52929511868
+				"Pop1030_Population" : 283,
+				"DensityPopulation (hab/km2)" : 27482.07838316038
 			}
 		},
 		{
@@ -8809,15 +8809,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8665630641734,
 				"Quartier" : "Nord",
 				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 45,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 37,
-				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 10-19 ans" : 42,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 40-49 ans" : 32,
 				"Pop1030_de 50-59 ans" : 26,
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 244,
-				"DensityPopulation (hab/km2)" : 22936.297254412417
+				"Pop1030_Population" : 240,
+				"DensityPopulation (hab/km2)" : 22560.292381389263
 			}
 		},
 		{
@@ -8891,15 +8891,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8597007352207,
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 6,
-				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 2,
+				"Pop1030_de 10-19 ans" : 10,
+				"Pop1030_de 20-29 ans" : 3,
 				"Pop1030_de 30-39 ans" : 1,
-				"Pop1030_de 40-49 ans" : 9,
-				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 4,
+				"Pop1030_de 40-49 ans" : 10,
+				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 42,
-				"DensityPopulation (hab/km2)" : 8210.774491078602
+				"Pop1030_Population" : 48,
+				"DensityPopulation (hab/km2)" : 9383.742275518403
 			}
 		},
 		{
@@ -8964,16 +8964,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40034311634137,
 				"BlockParcel.Latitude" : 50.8582669492481,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 19,
-				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 30-39 ans" : 35,
 				"Pop1030_de 40-49 ans" : 35,
-				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 50-59 ans" : 28,
 				"Pop1030_de 60-69 ans" : 19,
-				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 200,
-				"DensityPopulation (hab/km2)" : 24444.170126535246
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 211,
+				"DensityPopulation (hab/km2)" : 25788.599483494683
 			}
 		},
 		{
@@ -9096,14 +9096,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 6,
 				"Pop1030_de 10-19 ans" : 3,
-				"Pop1030_de 20-29 ans" : 9,
+				"Pop1030_de 20-29 ans" : 7,
 				"Pop1030_de 30-39 ans" : 8,
 				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 7,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 50,
-				"DensityPopulation (hab/km2)" : 4787.822842894297
+				"Pop1030_Population" : 48,
+				"DensityPopulation (hab/km2)" : 4596.309929178525
 			}
 		},
 		{
@@ -9199,15 +9199,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8568799070008,
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 10-19 ans" : 11,
+				"Pop1030_de 20-29 ans" : 36,
 				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 20,
-				"Pop1030_de 50-59 ans" : 25,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 24,
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 173,
-				"DensityPopulation (hab/km2)" : 12440.01110253014
+				"Pop1030_Population" : 175,
+				"DensityPopulation (hab/km2)" : 12583.826259784822
 			}
 		},
 		{
@@ -9469,11 +9469,11 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 4,
 				"Pop1030_de 10-19 ans" : 4,
-				"Pop1030_de 20-29 ans" : 2,
+				"Pop1030_de 20-29 ans" : 3,
 				"Pop1030_de 30-39 ans" : 2,
 				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 1,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 31,
 				"DensityPopulation (hab/km2)" : 4553.453133216412
@@ -9534,15 +9534,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8581079319074,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 5,
-				"Pop1030_de 10-19 ans" : 5,
+				"Pop1030_de 10-19 ans" : 4,
 				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 5,
-				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 30-39 ans" : 6,
+				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 4,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 48,
-				"DensityPopulation (hab/km2)" : 2014.1519350335293
+				"Pop1030_Population" : 49,
+				"DensityPopulation (hab/km2)" : 2056.113433680061
 			}
 		},
 		{
@@ -9600,16 +9600,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39762675209168,
 				"BlockParcel.Latitude" : 50.8584939047931,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 19,
-				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 18,
-				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 25317.923543736233
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 126,
+				"DensityPopulation (hab/km2)" : 24351.590584051643
 			}
 		},
 		{
@@ -9677,11 +9677,11 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8671024405151,
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 2,
-				"Pop1030_de 10-19 ans" : 0,
+				"Pop1030_de 10-19 ans" : 1,
 				"Pop1030_de 20-29 ans" : 5,
 				"Pop1030_de 30-39 ans" : 1,
 				"Pop1030_de 40-49 ans" : 3,
-				"Pop1030_de 50-59 ans" : 10,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 30,
@@ -10218,16 +10218,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39369064213226,
 				"BlockParcel.Latitude" : 50.8720985070722,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 0-9 ans" : 22,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 9,
-				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 140,
-				"DensityPopulation (hab/km2)" : 19235.12884101479
+				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 70 ans et plus" : 7,
+				"Pop1030_Population" : 142,
+				"DensityPopulation (hab/km2)" : 19509.91639588643
 			}
 		},
 		{
@@ -10305,16 +10305,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39350072084243,
 				"BlockParcel.Latitude" : 50.8715593756335,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 19,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 10,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 117,
-				"DensityPopulation (hab/km2)" : 23056.731383167404
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 121,
+				"DensityPopulation (hab/km2)" : 23844.99570395945
 			}
 		},
 		{
@@ -10404,16 +10404,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39417452888118,
 				"BlockParcel.Latitude" : 50.8708931864867,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 0-9 ans" : 23,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 20-29 ans" : 17,
 				"Pop1030_de 30-39 ans" : 18,
 				"Pop1030_de 40-49 ans" : 24,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 150,
-				"DensityPopulation (hab/km2)" : 14149.608527497407
+				"Pop1030_de 70 ans et plus" : 13,
+				"Pop1030_Population" : 151,
+				"DensityPopulation (hab/km2)" : 14243.939251014057
 			}
 		},
 		{
@@ -10481,16 +10481,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39022870047679,
 				"BlockParcel.Latitude" : 50.856108398437,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 5,
-				"Pop1030_de 10-19 ans" : 7,
-				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 24,
 				"Pop1030_de 40-49 ans" : 9,
 				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 88,
-				"DensityPopulation (hab/km2)" : 24681.939551686224
+				"Pop1030_Population" : 83,
+				"DensityPopulation (hab/km2)" : 23279.556622613145
 			}
 		},
 		{
@@ -10566,15 +10566,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.856671851847,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 11,
-				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 13,
-				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 130,
-				"DensityPopulation (hab/km2)" : 26064.065472932467
+				"Pop1030_Population" : 140,
+				"DensityPopulation (hab/km2)" : 28068.993586234963
 			}
 		},
 		{
@@ -10639,16 +10639,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38925246595076,
 				"BlockParcel.Latitude" : 50.8561134685657,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 10,
+				"Pop1030_de 20-29 ans" : 14,
 				"Pop1030_de 30-39 ans" : 24,
 				"Pop1030_de 40-49 ans" : 17,
 				"Pop1030_de 50-59 ans" : 7,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 100,
-				"DensityPopulation (hab/km2)" : 29009.387437774865
+				"Pop1030_Population" : 105,
+				"DensityPopulation (hab/km2)" : 30459.856809663608
 			}
 		},
 		{
@@ -10714,16 +10714,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38839293405608,
 				"BlockParcel.Latitude" : 50.8545865274008,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 107,
-				"DensityPopulation (hab/km2)" : 24998.247786370113
+				"Pop1030_Population" : 115,
+				"DensityPopulation (hab/km2)" : 26867.275658248254
 			}
 		},
 		{
@@ -10825,16 +10825,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38801462477862,
 				"BlockParcel.Latitude" : 50.8553132495858,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 30-39 ans" : 34,
+				"Pop1030_de 40-49 ans" : 26,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 174,
-				"DensityPopulation (hab/km2)" : 12734.257274444468
+				"Pop1030_Population" : 180,
+				"DensityPopulation (hab/km2)" : 13173.3695942529
 			}
 		},
 		{
@@ -10945,16 +10945,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38939880721497,
 				"BlockParcel.Latitude" : 50.8544832650192,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 0-9 ans" : 24,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 12,
-				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 52,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 172,
-				"DensityPopulation (hab/km2)" : 24352.499600024352
+				"Pop1030_Population" : 176,
+				"DensityPopulation (hab/km2)" : 24918.836800024917
 			}
 		},
 		{
@@ -11062,16 +11062,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39079765964941,
 				"BlockParcel.Latitude" : 50.8554032556669,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 0-9 ans" : 17,
 				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 43,
-				"Pop1030_de 30-39 ans" : 41,
+				"Pop1030_de 20-29 ans" : 47,
+				"Pop1030_de 30-39 ans" : 42,
 				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 26,
-				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 200,
-				"DensityPopulation (hab/km2)" : 14659.038103237743
+				"Pop1030_Population" : 208,
+				"DensityPopulation (hab/km2)" : 15245.399627367251
 			}
 		},
 		{
@@ -11172,16 +11172,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3938444709321,
 				"BlockParcel.Latitude" : 50.853614769595,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 0-9 ans" : 27,
 				"Pop1030_de 10-19 ans" : 37,
-				"Pop1030_de 20-29 ans" : 44,
-				"Pop1030_de 30-39 ans" : 58,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 20-29 ans" : 48,
+				"Pop1030_de 30-39 ans" : 62,
+				"Pop1030_de 40-49 ans" : 45,
+				"Pop1030_de 50-59 ans" : 32,
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 270,
-				"DensityPopulation (hab/km2)" : 15326.096766704453
+				"Pop1030_Population" : 285,
+				"DensityPopulation (hab/km2)" : 16177.546587076922
 			}
 		},
 		{
@@ -11262,16 +11262,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39013775319071,
 				"BlockParcel.Latitude" : 50.8537203831431,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 0-9 ans" : 29,
 				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 51,
+				"Pop1030_de 40-49 ans" : 34,
 				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 230,
-				"DensityPopulation (hab/km2)" : 18474.578177185664
+				"Pop1030_Population" : 232,
+				"DensityPopulation (hab/km2)" : 18635.226683074234
 			}
 		},
 		{
@@ -11369,16 +11369,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39107020999061,
 				"BlockParcel.Latitude" : 50.8528187442977,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 18,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 20-29 ans" : 9,
+				"Pop1030_de 30-39 ans" : 14,
+				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 86,
-				"DensityPopulation (hab/km2)" : 18799.293496318835
+				"Pop1030_Population" : 83,
+				"DensityPopulation (hab/km2)" : 18143.50418830771
 			}
 		},
 		{
@@ -11467,16 +11467,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39226081812578,
 				"BlockParcel.Latitude" : 50.8520502394035,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 20-29 ans" : 31,
 				"Pop1030_de 30-39 ans" : 37,
-				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 13,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 137,
-				"DensityPopulation (hab/km2)" : 17227.568636771175
+				"Pop1030_de 70 ans et plus" : 3,
+				"Pop1030_Population" : 130,
+				"DensityPopulation (hab/km2)" : 16347.327903505495
 			}
 		},
 		{
@@ -11537,15 +11537,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8525243583067,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 20,
-				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 5,
+				"Pop1030_de 10-19 ans" : 7,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 21,
+				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 50-59 ans" : 6,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 114,
-				"DensityPopulation (hab/km2)" : 23800.07933359778
+				"Pop1030_Population" : 109,
+				"DensityPopulation (hab/km2)" : 22756.21620493121
 			}
 		},
 		{
@@ -11624,14 +11624,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 13,
-				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 2,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 104,
-				"DensityPopulation (hab/km2)" : 11535.0743901384
+				"Pop1030_Population" : 103,
+				"DensityPopulation (hab/km2)" : 11424.160213310146
 			}
 		},
 		{
@@ -11712,14 +11712,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 20-29 ans" : 13,
 				"Pop1030_de 30-39 ans" : 18,
 				"Pop1030_de 40-49 ans" : 12,
-				"Pop1030_de 50-59 ans" : 7,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 6,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 95,
-				"DensityPopulation (hab/km2)" : 12232.352899518302
+				"Pop1030_de 70 ans et plus" : 15,
+				"Pop1030_Population" : 99,
+				"DensityPopulation (hab/km2)" : 12747.399337392757
 			}
 		},
 		{
@@ -11805,16 +11805,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38673580942659,
 				"BlockParcel.Latitude" : 50.8668497795431,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 24,
-				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 7,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 132,
-				"DensityPopulation (hab/km2)" : 10514.108021308592
+				"Pop1030_Population" : 134,
+				"DensityPopulation (hab/km2)" : 10673.412688298116
 			}
 		},
 		{
@@ -11879,16 +11879,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3879253075983,
 				"BlockParcel.Latitude" : 50.8656528858606,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 4,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 20-29 ans" : 12,
 				"Pop1030_de 30-39 ans" : 6,
 				"Pop1030_de 40-49 ans" : 10,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 77,
-				"DensityPopulation (hab/km2)" : 8738.064598128465
+				"Pop1030_Population" : 74,
+				"DensityPopulation (hab/km2)" : 8397.620522876707
 			}
 		},
 		{
@@ -11964,16 +11964,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39198027929697,
 				"BlockParcel.Latitude" : 50.8655577547154,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 42,
-				"Pop1030_de 20-29 ans" : 46,
-				"Pop1030_de 30-39 ans" : 57,
-				"Pop1030_de 40-49 ans" : 58,
-				"Pop1030_de 50-59 ans" : 46,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 43,
+				"Pop1030_de 20-29 ans" : 50,
+				"Pop1030_de 30-39 ans" : 58,
+				"Pop1030_de 40-49 ans" : 60,
+				"Pop1030_de 50-59 ans" : 45,
 				"Pop1030_de 60-69 ans" : 50,
 				"Pop1030_de 70 ans et plus" : 139,
-				"Pop1030_Population" : 466,
-				"DensityPopulation (hab/km2)" : 12115.50811037072
+				"Pop1030_Population" : 475,
+				"DensityPopulation (hab/km2)" : 12349.498610356419
 			}
 		},
 		{
@@ -12092,16 +12092,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39407306260974,
 				"BlockParcel.Latitude" : 50.8662976036178,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 2,
+				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 3,
-				"Pop1030_de 20-29 ans" : 3,
+				"Pop1030_de 20-29 ans" : 6,
 				"Pop1030_de 30-39 ans" : 3,
-				"Pop1030_de 40-49 ans" : 1,
+				"Pop1030_de 40-49 ans" : 2,
 				"Pop1030_de 50-59 ans" : 4,
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 24,
-				"DensityPopulation (hab/km2)" : 3101.167848125473
+				"Pop1030_Population" : 29,
+				"DensityPopulation (hab/km2)" : 3747.2444831516136
 			}
 		},
 		{
@@ -12189,16 +12189,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38864422046977,
 				"BlockParcel.Latitude" : 50.8646073865971,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 7,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 9,
-				"Pop1030_de 50-59 ans" : 12,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 40-49 ans" : 10,
+				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 88,
-				"DensityPopulation (hab/km2)" : 6701.330823380335
+				"Pop1030_Population" : 93,
+				"DensityPopulation (hab/km2)" : 7082.088256526944
 			}
 		},
 		{
@@ -12276,13 +12276,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 12,
 				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 12,
-				"Pop1030_de 40-49 ans" : 8,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 30-39 ans" : 13,
+				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 4855.968324466405
+				"Pop1030_Population" : 92,
+				"DensityPopulation (hab/km2)" : 4803.7536113001
 			}
 		},
 		{
@@ -12360,16 +12360,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38351751406381,
 				"BlockParcel.Latitude" : 50.8613637977662,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 20-29 ans" : 13,
 				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 13,
-				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 17735.09489229267
+				"Pop1030_Population" : 96,
+				"DensityPopulation (hab/km2)" : 18307.194727527916
 			}
 		},
 		{
@@ -12450,9 +12450,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 20-29 ans" : 21,
 				"Pop1030_de 30-39 ans" : 6,
-				"Pop1030_de 40-49 ans" : 19,
+				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 8,
@@ -12652,9 +12652,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 40-49 ans" : 30,
 				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 6,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 132,
-				"DensityPopulation (hab/km2)" : 19119.406487272558
+				"Pop1030_de 70 ans et plus" : 11,
+				"Pop1030_Population" : 133,
+				"DensityPopulation (hab/km2)" : 19264.2504758125
 			}
 		},
 		{
@@ -12743,16 +12743,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38443365952325,
 				"BlockParcel.Latitude" : 50.876715834856,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 0-9 ans" : 15,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 20,
 				"Pop1030_de 40-49 ans" : 15,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 122,
-				"DensityPopulation (hab/km2)" : 15083.049495892341
+				"Pop1030_Population" : 126,
+				"DensityPopulation (hab/km2)" : 15577.575708872419
 			}
 		},
 		{
@@ -12829,16 +12829,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39167482308654,
 				"BlockParcel.Latitude" : 50.8764840936857,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 21,
-				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 21,
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 20,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 153,
-				"DensityPopulation (hab/km2)" : 17255.5353050508
+				"Pop1030_Population" : 147,
+				"DensityPopulation (hab/km2)" : 16578.847646029197
 			}
 		},
 		{
@@ -12902,16 +12902,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38837939298407,
 				"BlockParcel.Latitude" : 50.8752491200636,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 20-29 ans" : 21,
 				"Pop1030_de 30-39 ans" : 21,
 				"Pop1030_de 40-49 ans" : 14,
-				"Pop1030_de 50-59 ans" : 15,
-				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 110,
-				"DensityPopulation (hab/km2)" : 27058.34024140959
+				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 112,
+				"DensityPopulation (hab/km2)" : 27550.310063980676
 			}
 		},
 		{
@@ -12989,12 +12989,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 7,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 20-29 ans" : 14,
 				"Pop1030_de 30-39 ans" : 9,
-				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 83,
 				"DensityPopulation (hab/km2)" : 10678.757249975555
 			}
@@ -13073,16 +13073,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39205871620553,
 				"BlockParcel.Latitude" : 50.8753707303668,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 121,
-				"DensityPopulation (hab/km2)" : 19912.909819203942
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 124,
+				"DensityPopulation (hab/km2)" : 20406.61832711809
 			}
 		},
 		{
@@ -13201,16 +13201,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38547560985585,
 				"BlockParcel.Latitude" : 50.8757220846453,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 29,
-				"Pop1030_de 10-19 ans" : 33,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 44,
-				"Pop1030_de 40-49 ans" : 34,
-				"Pop1030_de 50-59 ans" : 33,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 35,
+				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 232,
-				"DensityPopulation (hab/km2)" : 14306.469237391191
+				"Pop1030_Population" : 240,
+				"DensityPopulation (hab/km2)" : 14799.795762818474
 			}
 		},
 		{
@@ -13297,16 +13297,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39005735773879,
 				"BlockParcel.Latitude" : 50.8742173648864,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 27,
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 14,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 34,
+				"Pop1030_de 40-49 ans" : 26,
 				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 16182.682650284918
+				"Pop1030_Population" : 159,
+				"DensityPopulation (hab/km2)" : 16600.300267066465
 			}
 		},
 		{
@@ -13442,16 +13442,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39204624025899,
 				"BlockParcel.Latitude" : 50.8745169586997,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 11,
-				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 40-49 ans" : 25,
 				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 20,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 137,
-				"DensityPopulation (hab/km2)" : 10195.030183242645
+				"Pop1030_de 70 ans et plus" : 13,
+				"Pop1030_Population" : 134,
+				"DensityPopulation (hab/km2)" : 9971.781347113243
 			}
 		},
 		{
@@ -13546,14 +13546,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 14,
 				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 138,
-				"DensityPopulation (hab/km2)" : 15229.804506697803
+				"Pop1030_Population" : 144,
+				"DensityPopulation (hab/km2)" : 15891.96992003249
 			}
 		},
 		{
@@ -13695,14 +13695,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 14,
 				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 57,
-				"Pop1030_de 30-39 ans" : 53,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 28,
+				"Pop1030_de 20-29 ans" : 55,
+				"Pop1030_de 30-39 ans" : 51,
+				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 50-59 ans" : 29,
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 253,
-				"DensityPopulation (hab/km2)" : 11717.905097937139
+				"Pop1030_Population" : 249,
+				"DensityPopulation (hab/km2)" : 11532.641776230623
 			}
 		},
 		{
@@ -13796,16 +13796,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3884472944433,
 				"BlockParcel.Latitude" : 50.8739385510254,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 0-9 ans" : 23,
 				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 20-29 ans" : 18,
 				"Pop1030_de 30-39 ans" : 26,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 161,
-				"DensityPopulation (hab/km2)" : 11505.867992676263
+				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 70 ans et plus" : 3,
+				"Pop1030_Population" : 154,
+				"DensityPopulation (hab/km2)" : 11005.612862559905
 			}
 		},
 		{
@@ -14052,16 +14052,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39263413982178,
 				"BlockParcel.Latitude" : 50.8729323341887,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 27,
-				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 26,
 				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 41,
-				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 30-39 ans" : 39,
+				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 25,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 188,
-				"DensityPopulation (hab/km2)" : 13414.390501469876
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 192,
+				"DensityPopulation (hab/km2)" : 13699.803065330936
 			}
 		},
 		{
@@ -14164,16 +14164,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39060309615928,
 				"BlockParcel.Latitude" : 50.8735421917937,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 14,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 22,
 				"Pop1030_de 40-49 ans" : 32,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 162,
-				"DensityPopulation (hab/km2)" : 20328.136273802425
+				"Pop1030_Population" : 158,
+				"DensityPopulation (hab/km2)" : 19826.206983091255
 			}
 		},
 		{
@@ -14269,16 +14269,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38506826408893,
 				"BlockParcel.Latitude" : 50.8603538726048,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 0-9 ans" : 29,
+				"Pop1030_de 10-19 ans" : 27,
+				"Pop1030_de 20-29 ans" : 41,
+				"Pop1030_de 30-39 ans" : 36,
 				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 50-59 ans" : 25,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 205,
-				"DensityPopulation (hab/km2)" : 16007.208709795552
+				"Pop1030_Population" : 212,
+				"DensityPopulation (hab/km2)" : 16553.796324276376
 			}
 		},
 		{
@@ -14348,15 +14348,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8609183785101,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 7,
-				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 10-19 ans" : 12,
 				"Pop1030_de 20-29 ans" : 19,
-				"Pop1030_de 30-39 ans" : 20,
-				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 21,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 105,
-				"DensityPopulation (hab/km2)" : 22791.849634570674
+				"Pop1030_Population" : 100,
+				"DensityPopulation (hab/km2)" : 21706.523461495883
 			}
 		},
 		{
@@ -14442,15 +14442,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8590613283831,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 10-19 ans" : 21,
 				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 21,
+				"Pop1030_de 30-39 ans" : 16,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 15,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 7499.345953988363
+				"Pop1030_Population" : 123,
+				"DensityPopulation (hab/km2)" : 7041.370628553959
 			}
 		},
 		{
@@ -14588,11 +14588,11 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 20-29 ans" : 18,
 				"Pop1030_de 30-39 ans" : 24,
 				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 13,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 99,
 				"DensityPopulation (hab/km2)" : 26179.53342253767
@@ -14667,16 +14667,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38854980481821,
 				"BlockParcel.Latitude" : 50.8591825318497,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 39,
+				"Pop1030_de 20-29 ans" : 42,
 				"Pop1030_de 30-39 ans" : 32,
-				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 158,
-				"DensityPopulation (hab/km2)" : 21111.14080329227
+				"Pop1030_Population" : 164,
+				"DensityPopulation (hab/km2)" : 21912.829694556534
 			}
 		},
 		{
@@ -14775,16 +14775,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39005591559018,
 				"BlockParcel.Latitude" : 50.8585213233762,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 0-9 ans" : 22,
 				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 39,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 40,
 				"Pop1030_de 40-49 ans" : 29,
 				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 175,
-				"DensityPopulation (hab/km2)" : 13705.217223777221
+				"Pop1030_de 70 ans et plus" : 20,
+				"Pop1030_Population" : 179,
+				"DensityPopulation (hab/km2)" : 14018.479331749271
 			}
 		},
 		{
@@ -14859,16 +14859,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39175913736136,
 				"BlockParcel.Latitude" : 50.8581950913165,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 29,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 37,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 43,
-				"Pop1030_de 50-59 ans" : 31,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 45,
+				"Pop1030_de 50-59 ans" : 32,
 				"Pop1030_de 60-69 ans" : 39,
-				"Pop1030_de 70 ans et plus" : 40,
-				"Pop1030_Population" : 290,
-				"DensityPopulation (hab/km2)" : 18797.297078316667
+				"Pop1030_de 70 ans et plus" : 41,
+				"Pop1030_Population" : 292,
+				"DensityPopulation (hab/km2)" : 18926.933609891268
 			}
 		},
 		{
@@ -14945,16 +14945,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38557347066246,
 				"BlockParcel.Latitude" : 50.8572653651985,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 14,
 				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 10,
-				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 11,
+				"Pop1030_de 50-59 ans" : 7,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 16200.36895033803
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 91,
+				"DensityPopulation (hab/km2)" : 15851.973919147964
 			}
 		},
 		{
@@ -15036,13 +15036,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38944771711386,
 				"BlockParcel.Latitude" : 50.8574703096537,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 27,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 30,
 				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 152,
 				"DensityPopulation (hab/km2)" : 14140.46881235877
@@ -15160,16 +15160,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38296980871556,
 				"BlockParcel.Latitude" : 50.8571033417658,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 33,
-				"Pop1030_de 30-39 ans" : 54,
-				"Pop1030_de 40-49 ans" : 41,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 20,
+				"Pop1030_de 20-29 ans" : 38,
+				"Pop1030_de 30-39 ans" : 51,
+				"Pop1030_de 40-49 ans" : 44,
 				"Pop1030_de 50-59 ans" : 25,
-				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 225,
-				"DensityPopulation (hab/km2)" : 12735.558301404817
+				"Pop1030_Population" : 236,
+				"DensityPopulation (hab/km2)" : 13358.185596140163
 			}
 		},
 		{
@@ -15229,16 +15229,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39055804068566,
 				"BlockParcel.Latitude" : 50.8728037095743,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 14,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 11,
-				"Pop1030_de 60-69 ans" : 4,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 92,
-				"DensityPopulation (hab/km2)" : 34375.945805574134
+				"Pop1030_Population" : 93,
+				"DensityPopulation (hab/km2)" : 34749.59739041733
 			}
 		},
 		{
@@ -15307,15 +15307,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8730519351178,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 25,
-				"Pop1030_de 40-49 ans" : 13,
-				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 110,
-				"DensityPopulation (hab/km2)" : 21336.767906397537
+				"Pop1030_de 10-19 ans" : 10,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 114,
+				"DensityPopulation (hab/km2)" : 22112.650375721085
 			}
 		},
 		{
@@ -15425,16 +15425,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3906565188828,
 				"BlockParcel.Latitude" : 50.8717569369065,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 43,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 33,
-				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 45,
+				"Pop1030_de 30-39 ans" : 34,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 215,
-				"DensityPopulation (hab/km2)" : 16999.58173122159
+				"Pop1030_Population" : 212,
+				"DensityPopulation (hab/km2)" : 16762.378265204545
 			}
 		},
 		{
@@ -15552,16 +15552,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38735910367701,
 				"BlockParcel.Latitude" : 50.8726421386637,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 40,
+				"Pop1030_de 0-9 ans" : 38,
 				"Pop1030_de 10-19 ans" : 38,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 57,
+				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 30-39 ans" : 58,
 				"Pop1030_de 40-49 ans" : 40,
-				"Pop1030_de 50-59 ans" : 35,
+				"Pop1030_de 50-59 ans" : 36,
 				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 284,
-				"DensityPopulation (hab/km2)" : 10188.611285106761
+				"Pop1030_de 70 ans et plus" : 13,
+				"Pop1030_Population" : 275,
+				"DensityPopulation (hab/km2)" : 9865.732758466054
 			}
 		},
 		{
@@ -15633,14 +15633,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38218288347837,
 				"BlockParcel.Latitude" : 50.8698150411129,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 24,
-				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 46,
 				"Pop1030_de 40-49 ans" : 39,
-				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 221,
 				"DensityPopulation (hab/km2)" : 23614.971250642466
 			}
@@ -15733,16 +15733,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38507714592561,
 				"BlockParcel.Latitude" : 50.8713554071046,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 0-9 ans" : 30,
 				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 30-39 ans" : 32,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 22,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 179,
-				"DensityPopulation (hab/km2)" : 21529.897690888403
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 185,
+				"DensityPopulation (hab/km2)" : 22251.570239186338
 			}
 		},
 		{
@@ -15851,15 +15851,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8703239147291,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 41,
-				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 10-19 ans" : 19,
 				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 55,
-				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 30-39 ans" : 52,
+				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 68,
-				"Pop1030_Population" : 255,
-				"DensityPopulation (hab/km2)" : 4052.403456652473
+				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 70 ans et plus" : 73,
+				"Pop1030_Population" : 258,
+				"DensityPopulation (hab/km2)" : 4100.07879143662
 			}
 		},
 		{
@@ -15993,16 +15993,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38981682529444,
 				"BlockParcel.Latitude" : 50.8714592037342,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 45,
+				"Pop1030_de 0-9 ans" : 47,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 38,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 32,
+				"Pop1030_de 20-29 ans" : 39,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 50-59 ans" : 34,
 				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 231,
-				"DensityPopulation (hab/km2)" : 10124.030328264014
+				"Pop1030_de 70 ans et plus" : 17,
+				"Pop1030_Population" : 238,
+				"DensityPopulation (hab/km2)" : 10430.819126090195
 			}
 		},
 		{
@@ -16072,16 +16072,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3903762151235,
 				"BlockParcel.Latitude" : 50.8698803493695,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 65,
-				"Pop1030_de 20-29 ans" : 74,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 66,
+				"Pop1030_de 20-29 ans" : 73,
 				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 44,
-				"Pop1030_de 50-59 ans" : 55,
-				"Pop1030_de 60-69 ans" : 20,
-				"Pop1030_de 70 ans et plus" : 30,
-				"Pop1030_Population" : 341,
-				"DensityPopulation (hab/km2)" : 30741.048585280714
+				"Pop1030_de 40-49 ans" : 47,
+				"Pop1030_de 50-59 ans" : 56,
+				"Pop1030_de 60-69 ans" : 19,
+				"Pop1030_de 70 ans et plus" : 32,
+				"Pop1030_Population" : 349,
+				"DensityPopulation (hab/km2)" : 31462.246206049764
 			}
 		},
 		{
@@ -16149,16 +16149,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39244375387339,
 				"BlockParcel.Latitude" : 50.870444462967,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 11,
-				"Pop1030_de 10-19 ans" : 51,
-				"Pop1030_de 20-29 ans" : 48,
+				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 10-19 ans" : 50,
+				"Pop1030_de 20-29 ans" : 49,
 				"Pop1030_de 30-39 ans" : 13,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 48,
+				"Pop1030_de 40-49 ans" : 40,
+				"Pop1030_de 50-59 ans" : 47,
 				"Pop1030_de 60-69 ans" : 38,
-				"Pop1030_de 70 ans et plus" : 46,
-				"Pop1030_Population" : 296,
-				"DensityPopulation (hab/km2)" : 30135.078453011676
+				"Pop1030_de 70 ans et plus" : 48,
+				"Pop1030_Population" : 298,
+				"DensityPopulation (hab/km2)" : 30338.693847964456
 			}
 		},
 		{
@@ -16253,16 +16253,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39107591155765,
 				"BlockParcel.Latitude" : 50.8692379021719,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 27,
 				"Pop1030_de 20-29 ans" : 35,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 28,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 29,
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 212,
-				"DensityPopulation (hab/km2)" : 15352.350937362407
+				"Pop1030_Population" : 213,
+				"DensityPopulation (hab/km2)" : 15424.767687066947
 			}
 		},
 		{
@@ -16377,16 +16377,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38734446926049,
 				"BlockParcel.Latitude" : 50.8689724668478,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 34,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 16,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 182,
-				"DensityPopulation (hab/km2)" : 10273.489317264542
+				"Pop1030_de 70 ans et plus" : 15,
+				"Pop1030_Population" : 177,
+				"DensityPopulation (hab/km2)" : 9991.250599757275
 			}
 		},
 		{
@@ -16511,14 +16511,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 9,
-				"Pop1030_de 30-39 ans" : 7,
-				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 20-29 ans" : 11,
+				"Pop1030_de 30-39 ans" : 9,
+				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 73,
-				"DensityPopulation (hab/km2)" : 18921.86823640412
+				"Pop1030_Population" : 78,
+				"DensityPopulation (hab/km2)" : 20217.886608760564
 			}
 		},
 		{
@@ -16614,16 +16614,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38624896390475,
 				"BlockParcel.Latitude" : 50.8776053119571,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 42,
+				"Pop1030_de 0-9 ans" : 40,
 				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 36,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 26,
-				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 243,
-				"DensityPopulation (hab/km2)" : 14548.816067640619
+				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 39,
+				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 70 ans et plus" : 25,
+				"Pop1030_Population" : 238,
+				"DensityPopulation (hab/km2)" : 14249.45771233937
 			}
 		},
 		{
@@ -16670,9 +16670,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 3,
 				"Pop1030_de 20-29 ans" : 5,
-				"Pop1030_de 30-39 ans" : 8,
+				"Pop1030_de 30-39 ans" : 7,
 				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 49,
@@ -16787,16 +16787,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38700957000559,
 				"BlockParcel.Latitude" : 50.856331755736,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 40,
-				"Pop1030_de 30-39 ans" : 36,
+				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 38,
+				"Pop1030_de 30-39 ans" : 38,
 				"Pop1030_de 40-49 ans" : 32,
 				"Pop1030_de 50-59 ans" : 28,
-				"Pop1030_de 60-69 ans" : 22,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 207,
-				"DensityPopulation (hab/km2)" : 8880.312689966835
+				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 206,
+				"DensityPopulation (hab/km2)" : 8837.412628662647
 			}
 		},
 		{
@@ -16886,16 +16886,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38535010714321,
 				"BlockParcel.Latitude" : 50.8556599395897,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 0-9 ans" : 24,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 34,
-				"Pop1030_de 30-39 ans" : 36,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 20-29 ans" : 41,
+				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 40-49 ans" : 20,
 				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 170,
-				"DensityPopulation (hab/km2)" : 8756.92827560629
+				"Pop1030_Population" : 181,
+				"DensityPopulation (hab/km2)" : 9323.553046380814
 			}
 		},
 		{
@@ -17019,16 +17019,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38029925029423,
 				"BlockParcel.Latitude" : 50.8556841097954,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 47,
-				"Pop1030_de 30-39 ans" : 44,
-				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 24,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 51,
+				"Pop1030_de 30-39 ans" : 50,
+				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 50-59 ans" : 25,
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 243,
-				"DensityPopulation (hab/km2)" : 8496.610446844787
+				"Pop1030_Population" : 259,
+				"DensityPopulation (hab/km2)" : 9056.058048283125
 			}
 		},
 		{
@@ -17116,14 +17116,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38431831395436,
 				"BlockParcel.Latitude" : 50.8547958320101,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 37,
-				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 33,
 				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 10,
+				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 155,
 				"DensityPopulation (hab/km2)" : 19185.803990399672
 			}
@@ -17193,16 +17193,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38491357357281,
 				"BlockParcel.Latitude" : 50.8541385955529,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 8,
 				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 40-49 ans" : 15,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 79,
-				"DensityPopulation (hab/km2)" : 15308.26782105216
+				"Pop1030_Population" : 83,
+				"DensityPopulation (hab/km2)" : 16083.369989206702
 			}
 		},
 		{
@@ -17357,16 +17357,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40068644519474,
 				"BlockParcel.Latitude" : 50.8460882223833,
 				"Quartier" : "Linthout",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 50,
-				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 47,
+				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 40-49 ans" : 35,
 				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 221,
-				"DensityPopulation (hab/km2)" : 8415.620457802137
+				"Pop1030_Population" : 224,
+				"DensityPopulation (hab/km2)" : 8529.859649537007
 			}
 		},
 		{
@@ -17453,16 +17453,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40954585811849,
 				"BlockParcel.Latitude" : 50.8489468676847,
 				"Quartier" : "Cerisiers",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 15,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 23,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 8311.818835342869
+				"Pop1030_Population" : 129,
+				"DensityPopulation (hab/km2)" : 8184.920837856718
 			}
 		},
 		{
@@ -17575,15 +17575,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8475062596939,
 				"Quartier" : "Cerisiers",
 				"Pop1030_de 0-9 ans" : 35,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 50,
 				"Pop1030_de 40-49 ans" : 38,
-				"Pop1030_de 50-59 ans" : 25,
-				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 21,
-				"Pop1030_Population" : 235,
-				"DensityPopulation (hab/km2)" : 7088.0037497047915
+				"Pop1030_Population" : 241,
+				"DensityPopulation (hab/km2)" : 7268.974058207893
 			}
 		},
 		{
@@ -17662,14 +17662,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 23,
 				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 56,
-				"Pop1030_de 30-39 ans" : 75,
-				"Pop1030_de 40-49 ans" : 33,
-				"Pop1030_de 50-59 ans" : 41,
-				"Pop1030_de 60-69 ans" : 16,
-				"Pop1030_de 70 ans et plus" : 32,
-				"Pop1030_Population" : 291,
-				"DensityPopulation (hab/km2)" : 21466.968532079838
+				"Pop1030_de 20-29 ans" : 54,
+				"Pop1030_de 30-39 ans" : 77,
+				"Pop1030_de 40-49 ans" : 37,
+				"Pop1030_de 50-59 ans" : 42,
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 33,
+				"Pop1030_Population" : 298,
+				"DensityPopulation (hab/km2)" : 21983.35609127076
 			}
 		},
 		{
@@ -17735,16 +17735,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40671311774074,
 				"BlockParcel.Latitude" : 50.8476294694626,
 				"Quartier" : "Cerisiers",
-				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 29,
 				"Pop1030_de 30-39 ans" : 28,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 20,
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 145,
-				"DensityPopulation (hab/km2)" : 12858.086628033288
+				"Pop1030_Population" : 146,
+				"DensityPopulation (hab/km2)" : 12946.763087536967
 			}
 		},
 		{
@@ -17809,16 +17809,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40183177164233,
 				"BlockParcel.Latitude" : 50.8561588096708,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 8,
+				"Pop1030_de 0-9 ans" : 12,
+				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 40-49 ans" : 9,
 				"Pop1030_de 50-59 ans" : 9,
-				"Pop1030_de 60-69 ans" : 6,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 75,
-				"DensityPopulation (hab/km2)" : 16946.969542906336
+				"Pop1030_Population" : 79,
+				"DensityPopulation (hab/km2)" : 17850.807918528008
 			}
 		},
 		{
@@ -18023,16 +18023,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40587561605286,
 				"BlockParcel.Latitude" : 50.8534350296989,
 				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 98,
-				"Pop1030_de 10-19 ans" : 107,
-				"Pop1030_de 20-29 ans" : 118,
-				"Pop1030_de 30-39 ans" : 157,
-				"Pop1030_de 40-49 ans" : 112,
-				"Pop1030_de 50-59 ans" : 119,
+				"Pop1030_de 0-9 ans" : 94,
+				"Pop1030_de 10-19 ans" : 109,
+				"Pop1030_de 20-29 ans" : 111,
+				"Pop1030_de 30-39 ans" : 158,
+				"Pop1030_de 40-49 ans" : 110,
+				"Pop1030_de 50-59 ans" : 121,
 				"Pop1030_de 60-69 ans" : 100,
-				"Pop1030_de 70 ans et plus" : 140,
-				"Pop1030_Population" : 951,
-				"DensityPopulation (hab/km2)" : 3302.9567819045483
+				"Pop1030_de 70 ans et plus" : 141,
+				"Pop1030_Population" : 944,
+				"DensityPopulation (hab/km2)" : 3278.644797179699
 			}
 		},
 		{
@@ -18107,16 +18107,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39587587385319,
 				"BlockParcel.Latitude" : 50.8549407448357,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 119,
-				"DensityPopulation (hab/km2)" : 6311.577661046003
+				"Pop1030_Population" : 122,
+				"DensityPopulation (hab/km2)" : 6470.69306426565
 			}
 		},
 		{
@@ -18181,14 +18181,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 20-29 ans" : 22,
 				"Pop1030_de 30-39 ans" : 31,
 				"Pop1030_de 40-49 ans" : 21,
-				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 132,
-				"DensityPopulation (hab/km2)" : 22392.237357715992
+				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 137,
+				"DensityPopulation (hab/km2)" : 23240.428166720387
 			}
 		},
 		{
@@ -18277,16 +18277,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40020209560357,
 				"BlockParcel.Latitude" : 50.8504061264449,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 29,
+				"Pop1030_de 0-9 ans" : 28,
 				"Pop1030_de 10-19 ans" : 30,
 				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 59,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 37,
-				"Pop1030_de 60-69 ans" : 22,
-				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 280,
-				"DensityPopulation (hab/km2)" : 33252.419113490505
+				"Pop1030_de 30-39 ans" : 56,
+				"Pop1030_de 40-49 ans" : 40,
+				"Pop1030_de 50-59 ans" : 38,
+				"Pop1030_de 60-69 ans" : 21,
+				"Pop1030_de 70 ans et plus" : 22,
+				"Pop1030_Population" : 274,
+				"DensityPopulation (hab/km2)" : 32539.867275344284
 			}
 		},
 		{
@@ -18386,15 +18386,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8502171054107,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 3,
-				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 30-39 ans" : 14,
 				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 87,
-				"DensityPopulation (hab/km2)" : 20341.788814821917
+				"Pop1030_Population" : 80,
+				"DensityPopulation (hab/km2)" : 18705.093163054637
 			}
 		},
 		{
@@ -18467,16 +18467,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39380250308795,
 				"BlockParcel.Latitude" : 50.8511914817243,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 9,
+				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 9,
 				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 108,
-				"DensityPopulation (hab/km2)" : 14941.127806130566
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 118,
+				"DensityPopulation (hab/km2)" : 16324.56556595747
 			}
 		},
 		{
@@ -18573,16 +18573,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39398605445292,
 				"BlockParcel.Latitude" : 50.8479597978348,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 8,
-				"Pop1030_de 10-19 ans" : 7,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 10-19 ans" : 9,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 23,
 				"Pop1030_de 40-49 ans" : 12,
-				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 111,
-				"DensityPopulation (hab/km2)" : 8928.384702379133
+				"Pop1030_Population" : 102,
+				"DensityPopulation (hab/km2)" : 8204.461618402445
 			}
 		},
 		{
@@ -18688,16 +18688,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39465298016622,
 				"BlockParcel.Latitude" : 50.8492667927135,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 38,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 28,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 50-59 ans" : 27,
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 218,
-				"DensityPopulation (hab/km2)" : 12378.704313069924
+				"Pop1030_Population" : 216,
+				"DensityPopulation (hab/km2)" : 12265.138218454604
 			}
 		},
 		{
@@ -18807,16 +18807,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39185858994965,
 				"BlockParcel.Latitude" : 50.8481145487628,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 52,
-				"Pop1030_de 30-39 ans" : 37,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 50,
+				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 40-49 ans" : 27,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 183,
-				"DensityPopulation (hab/km2)" : 12477.984539572599
+				"Pop1030_Population" : 187,
+				"DensityPopulation (hab/km2)" : 12750.727371038667
 			}
 		},
 		{
@@ -18929,15 +18929,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.846205018085,
 				"Quartier" : "Linthout",
 				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 40,
-				"Pop1030_de 30-39 ans" : 64,
-				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 35,
+				"Pop1030_de 10-19 ans" : 31,
+				"Pop1030_de 20-29 ans" : 42,
+				"Pop1030_de 30-39 ans" : 63,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 39,
 				"Pop1030_de 60-69 ans" : 23,
-				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 261,
-				"DensityPopulation (hab/km2)" : 6823.0085441843385
+				"Pop1030_de 70 ans et plus" : 17,
+				"Pop1030_Population" : 269,
+				"DensityPopulation (hab/km2)" : 7032.142905691905
 			}
 		},
 		{
@@ -19034,16 +19034,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39718101320119,
 				"BlockParcel.Latitude" : 50.8443013695897,
 				"Quartier" : "Linthout",
-				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 35,
-				"Pop1030_de 30-39 ans" : 32,
-				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 34,
+				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 142,
-				"DensityPopulation (hab/km2)" : 7779.381133795495
+				"Pop1030_Population" : 147,
+				"DensityPopulation (hab/km2)" : 8053.303004703786
 			}
 		},
 		{
@@ -19111,14 +19111,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 20-29 ans" : 16,
 				"Pop1030_de 30-39 ans" : 12,
-				"Pop1030_de 40-49 ans" : 8,
+				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 3,
 				"Pop1030_de 60-69 ans" : 2,
 				"Pop1030_de 70 ans et plus" : 2,
-				"Pop1030_Population" : 57,
-				"DensityPopulation (hab/km2)" : 18877.860244219897
+				"Pop1030_Population" : 59,
+				"DensityPopulation (hab/km2)" : 19540.241305420594
 			}
 		},
 		{
@@ -19195,10 +19195,10 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 12,
-				"Pop1030_de 50-59 ans" : 9,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 99,
@@ -19307,16 +19307,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38210503412787,
 				"BlockParcel.Latitude" : 50.8532730849091,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 28,
 				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 37,
-				"Pop1030_Population" : 185,
-				"DensityPopulation (hab/km2)" : 9204.163266930685
+				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 70 ans et plus" : 21,
+				"Pop1030_Population" : 166,
+				"DensityPopulation (hab/km2)" : 8258.870823299967
 			}
 		},
 		{
@@ -19429,16 +19429,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38585720409314,
 				"BlockParcel.Latitude" : 50.8527239343357,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 27,
-				"Pop1030_de 10-19 ans" : 32,
-				"Pop1030_de 20-29 ans" : 55,
-				"Pop1030_de 30-39 ans" : 47,
-				"Pop1030_de 40-49 ans" : 40,
-				"Pop1030_de 50-59 ans" : 32,
-				"Pop1030_de 60-69 ans" : 25,
-				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 276,
-				"DensityPopulation (hab/km2)" : 12633.619985288242
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 58,
+				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 40-49 ans" : 38,
+				"Pop1030_de 50-59 ans" : 33,
+				"Pop1030_de 60-69 ans" : 24,
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 279,
+				"DensityPopulation (hab/km2)" : 12770.94194165007
 			}
 		},
 		{
@@ -19525,16 +19525,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38344095434581,
 				"BlockParcel.Latitude" : 50.8518913418442,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 16,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 10-19 ans" : 28,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 29,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 15370.283024402379
+				"Pop1030_Population" : 140,
+				"DensityPopulation (hab/km2)" : 16426.25666730025
 			}
 		},
 		{
@@ -19648,16 +19648,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38856904040857,
 				"BlockParcel.Latitude" : 50.8504143540086,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 21,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 53,
-				"Pop1030_de 30-39 ans" : 87,
-				"Pop1030_de 40-49 ans" : 49,
+				"Pop1030_de 0-9 ans" : 22,
+				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 20-29 ans" : 58,
+				"Pop1030_de 30-39 ans" : 82,
+				"Pop1030_de 40-49 ans" : 50,
 				"Pop1030_de 50-59 ans" : 46,
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 33,
-				"Pop1030_Population" : 336,
-				"DensityPopulation (hab/km2)" : 17207.98409490613
+				"Pop1030_Population" : 339,
+				"DensityPopulation (hab/km2)" : 17361.62681003922
 			}
 		},
 		{
@@ -19700,16 +19700,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38863748363115,
 				"BlockParcel.Latitude" : 50.8518342024159,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 0-9 ans" : 7,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 6,
-				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 40-49 ans" : 11,
 				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 56,
-				"DensityPopulation (hab/km2)" : 4826.812252518131
+				"Pop1030_Population" : 57,
+				"DensityPopulation (hab/km2)" : 4913.005328455954
 			}
 		},
 		{
@@ -19759,14 +19759,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Reyers",
 				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 2,
-				"Pop1030_de 20-29 ans" : 3,
+				"Pop1030_de 20-29 ans" : 4,
 				"Pop1030_de 30-39 ans" : 15,
 				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 1,
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 1,
-				"Pop1030_Population" : 40,
-				"DensityPopulation (hab/km2)" : 4618.207050385794
+				"Pop1030_Population" : 41,
+				"DensityPopulation (hab/km2)" : 4733.662226645439
 			}
 		},
 		{
@@ -19847,15 +19847,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8581992965297,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 38,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 36,
+				"Pop1030_de 40-49 ans" : 21,
 				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 27600.009971616506
+				"Pop1030_Population" : 159,
+				"DensityPopulation (hab/km2)" : 28312.268293464676
 			}
 		},
 		{
@@ -19940,16 +19940,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38259854968159,
 				"BlockParcel.Latitude" : 50.8587171017323,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 34,
-				"Pop1030_de 40-49 ans" : 32,
-				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 198,
-				"DensityPopulation (hab/km2)" : 19638.298252191456
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 50-59 ans" : 25,
+				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 204,
+				"DensityPopulation (hab/km2)" : 20233.39819922756
 			}
 		},
 		{
@@ -20070,16 +20070,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38109678024705,
 				"BlockParcel.Latitude" : 50.8660534402247,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 40,
+				"Pop1030_de 0-9 ans" : 22,
+				"Pop1030_de 10-19 ans" : 30,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 42,
 				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 23,
-				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 26,
-				"Pop1030_Population" : 205,
-				"DensityPopulation (hab/km2)" : 11729.191841517448
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 25,
+				"Pop1030_Population" : 211,
+				"DensityPopulation (hab/km2)" : 12072.485261269177
 			}
 		},
 		{
@@ -20225,16 +20225,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37954043974908,
 				"BlockParcel.Latitude" : 50.8618468512917,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 36,
-				"Pop1030_de 10-19 ans" : 35,
-				"Pop1030_de 20-29 ans" : 38,
-				"Pop1030_de 30-39 ans" : 61,
-				"Pop1030_de 40-49 ans" : 47,
-				"Pop1030_de 50-59 ans" : 23,
-				"Pop1030_de 60-69 ans" : 30,
+				"Pop1030_de 0-9 ans" : 38,
+				"Pop1030_de 10-19 ans" : 33,
+				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 30-39 ans" : 59,
+				"Pop1030_de 40-49 ans" : 44,
+				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 29,
-				"Pop1030_Population" : 299,
-				"DensityPopulation (hab/km2)" : 21565.496359830766
+				"Pop1030_Population" : 285,
+				"DensityPopulation (hab/km2)" : 20555.740677430662
 			}
 		},
 		{
@@ -20303,16 +20303,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37828716102769,
 				"BlockParcel.Latitude" : 50.8641394151774,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 18,
-				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 30-39 ans" : 14,
+				"Pop1030_de 40-49 ans" : 19,
+				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 0,
-				"Pop1030_Population" : 102,
-				"DensityPopulation (hab/km2)" : 21462.794666285103
+				"Pop1030_Population" : 100,
+				"DensityPopulation (hab/km2)" : 21041.955555181474
 			}
 		},
 		{
@@ -20421,16 +20421,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37927414953325,
 				"BlockParcel.Latitude" : 50.8655112029951,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 41,
-				"Pop1030_de 10-19 ans" : 67,
-				"Pop1030_de 20-29 ans" : 49,
+				"Pop1030_de 0-9 ans" : 43,
+				"Pop1030_de 10-19 ans" : 70,
+				"Pop1030_de 20-29 ans" : 47,
 				"Pop1030_de 30-39 ans" : 83,
-				"Pop1030_de 40-49 ans" : 72,
-				"Pop1030_de 50-59 ans" : 65,
-				"Pop1030_de 60-69 ans" : 32,
-				"Pop1030_de 70 ans et plus" : 89,
-				"Pop1030_Population" : 498,
-				"DensityPopulation (hab/km2)" : 13648.405027655836
+				"Pop1030_de 40-49 ans" : 75,
+				"Pop1030_de 50-59 ans" : 67,
+				"Pop1030_de 60-69 ans" : 30,
+				"Pop1030_de 70 ans et plus" : 85,
+				"Pop1030_Population" : 500,
+				"DensityPopulation (hab/km2)" : 13703.217899252846
 			}
 		},
 		{
@@ -20482,16 +20482,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37811023104595,
 				"BlockParcel.Latitude" : 50.8646690157879,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 0-9 ans" : 12,
+				"Pop1030_de 10-19 ans" : 14,
+				"Pop1030_de 20-29 ans" : 18,
 				"Pop1030_de 30-39 ans" : 13,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 133,
-				"DensityPopulation (hab/km2)" : 37618.76073053936
+				"Pop1030_Population" : 129,
+				"DensityPopulation (hab/km2)" : 36487.36943037276
 			}
 		},
 		{
@@ -20567,16 +20567,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37745235943964,
 				"BlockParcel.Latitude" : 50.8659422948273,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 0-9 ans" : 31,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 27,
 				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 167,
-				"DensityPopulation (hab/km2)" : 24733.70537565611
+				"Pop1030_Population" : 172,
+				"DensityPopulation (hab/km2)" : 25474.235476723657
 			}
 		},
 		{
@@ -20633,16 +20633,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37781895901903,
 				"BlockParcel.Latitude" : 50.8591710706055,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 7,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 20-29 ans" : 14,
 				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 77,
-				"DensityPopulation (hab/km2)" : 36857.624262847516
+				"Pop1030_Population" : 81,
+				"DensityPopulation (hab/km2)" : 38772.3060427357
 			}
 		},
 		{
@@ -20739,16 +20739,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37722768265972,
 				"BlockParcel.Latitude" : 50.858072285096,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 34,
-				"Pop1030_de 10-19 ans" : 34,
-				"Pop1030_de 20-29 ans" : 49,
-				"Pop1030_de 30-39 ans" : 62,
+				"Pop1030_de 0-9 ans" : 37,
+				"Pop1030_de 10-19 ans" : 35,
+				"Pop1030_de 20-29 ans" : 53,
+				"Pop1030_de 30-39 ans" : 63,
 				"Pop1030_de 40-49 ans" : 49,
-				"Pop1030_de 50-59 ans" : 36,
-				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 50-59 ans" : 37,
+				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 27,
-				"Pop1030_Population" : 313,
-				"DensityPopulation (hab/km2)" : 17669.041355717884
+				"Pop1030_Population" : 322,
+				"DensityPopulation (hab/km2)" : 18177.09685795897
 			}
 		},
 		{
@@ -20801,12 +20801,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 10-19 ans" : 22,
 				"Pop1030_de 20-29 ans" : 4,
 				"Pop1030_de 30-39 ans" : 9,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 105,
-				"DensityPopulation (hab/km2)" : 36986.93832692227
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 108,
+				"DensityPopulation (hab/km2)" : 38043.707993405755
 			}
 		},
 		{
@@ -20910,16 +20910,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38200395160292,
 				"BlockParcel.Latitude" : 50.8723494397729,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 46,
-				"Pop1030_de 10-19 ans" : 41,
-				"Pop1030_de 20-29 ans" : 59,
-				"Pop1030_de 30-39 ans" : 69,
-				"Pop1030_de 40-49 ans" : 38,
-				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 314,
-				"DensityPopulation (hab/km2)" : 13943.403105115942
+				"Pop1030_de 0-9 ans" : 43,
+				"Pop1030_de 10-19 ans" : 39,
+				"Pop1030_de 20-29 ans" : 55,
+				"Pop1030_de 30-39 ans" : 65,
+				"Pop1030_de 40-49 ans" : 36,
+				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 296,
+				"DensityPopulation (hab/km2)" : 13144.09974240229
 			}
 		},
 		{
@@ -20983,7 +20983,7 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38042692466874,
 				"BlockParcel.Latitude" : 50.8686658872989,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 15,
 				"Pop1030_de 20-29 ans" : 9,
 				"Pop1030_de 30-39 ans" : 22,
@@ -20991,8 +20991,8 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 91,
-				"DensityPopulation (hab/km2)" : 8795.542303175578
+				"Pop1030_Population" : 90,
+				"DensityPopulation (hab/km2)" : 8698.88799215167
 			}
 		},
 		{
@@ -21049,9 +21049,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8676046227212,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 3,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 7,
-				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 10-19 ans" : 9,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 9,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 5,
@@ -21147,16 +21147,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37811795191488,
 				"BlockParcel.Latitude" : 50.8682659530861,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 43,
-				"Pop1030_de 20-29 ans" : 34,
-				"Pop1030_de 30-39 ans" : 32,
+				"Pop1030_de 0-9 ans" : 31,
+				"Pop1030_de 10-19 ans" : 42,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 30,
 				"Pop1030_de 40-49 ans" : 51,
 				"Pop1030_de 50-59 ans" : 35,
 				"Pop1030_de 60-69 ans" : 24,
-				"Pop1030_de 70 ans et plus" : 29,
-				"Pop1030_Population" : 280,
-				"DensityPopulation (hab/km2)" : 17926.355968772288
+				"Pop1030_de 70 ans et plus" : 30,
+				"Pop1030_Population" : 276,
+				"DensityPopulation (hab/km2)" : 17670.265169218397
 			}
 		},
 		{
@@ -21271,16 +21271,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38078554235877,
 				"BlockParcel.Latitude" : 50.8710889310179,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 35,
-				"Pop1030_de 10-19 ans" : 29,
-				"Pop1030_de 20-29 ans" : 47,
-				"Pop1030_de 30-39 ans" : 57,
-				"Pop1030_de 40-49 ans" : 45,
-				"Pop1030_de 50-59 ans" : 33,
-				"Pop1030_de 60-69 ans" : 24,
+				"Pop1030_de 0-9 ans" : 32,
+				"Pop1030_de 10-19 ans" : 32,
+				"Pop1030_de 20-29 ans" : 44,
+				"Pop1030_de 30-39 ans" : 56,
+				"Pop1030_de 40-49 ans" : 46,
+				"Pop1030_de 50-59 ans" : 32,
+				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 284,
-				"DensityPopulation (hab/km2)" : 11193.843070991432
+				"Pop1030_Population" : 278,
+				"DensityPopulation (hab/km2)" : 10957.353428646542
 			}
 		},
 		{
@@ -21388,16 +21388,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3781248693557,
 				"BlockParcel.Latitude" : 50.8715818212166,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 30,
-				"Pop1030_de 10-19 ans" : 31,
-				"Pop1030_de 20-29 ans" : 38,
-				"Pop1030_de 30-39 ans" : 46,
-				"Pop1030_de 40-49 ans" : 35,
+				"Pop1030_de 0-9 ans" : 29,
+				"Pop1030_de 10-19 ans" : 30,
+				"Pop1030_de 20-29 ans" : 40,
+				"Pop1030_de 30-39 ans" : 50,
+				"Pop1030_de 40-49 ans" : 37,
 				"Pop1030_de 50-59 ans" : 27,
 				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 240,
-				"DensityPopulation (hab/km2)" : 13832.733434581256
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 247,
+				"DensityPopulation (hab/km2)" : 14236.188159756543
 			}
 		},
 		{
@@ -21536,16 +21536,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37800032610251,
 				"BlockParcel.Latitude" : 50.8701549043584,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 30,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 35,
-				"Pop1030_de 30-39 ans" : 62,
-				"Pop1030_de 40-49 ans" : 23,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 57,
+				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 208,
-				"DensityPopulation (hab/km2)" : 14563.266540685076
+				"Pop1030_Population" : 192,
+				"DensityPopulation (hab/km2)" : 13443.015268324685
 			}
 		},
 		{
@@ -21615,15 +21615,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8668472505854,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 24,
-				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 13,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 10-19 ans" : 35,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 40-49 ans" : 35,
+				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 168,
-				"DensityPopulation (hab/km2)" : 34420.79835763619
+				"Pop1030_Population" : 176,
+				"DensityPopulation (hab/km2)" : 36059.8839937141
 			}
 		},
 		{
@@ -21682,8 +21682,8 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 15,
 				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 7,
-				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 30-39 ans" : 6,
+				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 3,
@@ -21776,16 +21776,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.379438974645,
 				"BlockParcel.Latitude" : 50.8543960655453,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 10,
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 11,
 				"Pop1030_de 20-29 ans" : 35,
-				"Pop1030_de 30-39 ans" : 46,
+				"Pop1030_de 30-39 ans" : 49,
 				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 35,
-				"Pop1030_de 60-69 ans" : 25,
+				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 41,
-				"Pop1030_Population" : 240,
-				"DensityPopulation (hab/km2)" : 11033.66094111611
+				"Pop1030_Population" : 245,
+				"DensityPopulation (hab/km2)" : 11263.528877389363
 			}
 		},
 		{
@@ -21869,16 +21869,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37712471805551,
 				"BlockParcel.Latitude" : 50.8550635211826,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 9,
+				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 24,
-				"Pop1030_de 20-29 ans" : 34,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 150,
-				"DensityPopulation (hab/km2)" : 20671.834625322997
+				"Pop1030_Population" : 152,
+				"DensityPopulation (hab/km2)" : 20947.459086993968
 			}
 		},
 		{
@@ -21983,16 +21983,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37556445295233,
 				"BlockParcel.Latitude" : 50.8561092910375,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 21,
-				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 25,
-				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 0-9 ans" : 22,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 40-49 ans" : 31,
 				"Pop1030_de 50-59 ans" : 26,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 188,
-				"DensityPopulation (hab/km2)" : 15721.626853876678
+				"Pop1030_Population" : 186,
+				"DensityPopulation (hab/km2)" : 15554.375504367352
 			}
 		},
 		{
@@ -22054,14 +22054,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 30-39 ans" : 25,
 				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 115,
-				"DensityPopulation (hab/km2)" : 29120.26415877887
+				"Pop1030_Population" : 119,
+				"DensityPopulation (hab/km2)" : 30133.142912127703
 			}
 		},
 		{
@@ -22145,16 +22145,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37626171308977,
 				"BlockParcel.Latitude" : 50.8644539764747,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 20,
 				"Pop1030_de 40-49 ans" : 25,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 144,
-				"DensityPopulation (hab/km2)" : 33246.59972710083
+				"Pop1030_Population" : 143,
+				"DensityPopulation (hab/km2)" : 33015.7205623293
 			}
 		},
 		{
@@ -22284,16 +22284,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37487610782042,
 				"BlockParcel.Latitude" : 50.8626740020173,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 39,
-				"Pop1030_de 10-19 ans" : 50,
-				"Pop1030_de 20-29 ans" : 45,
-				"Pop1030_de 30-39 ans" : 59,
-				"Pop1030_de 40-49 ans" : 48,
-				"Pop1030_de 50-59 ans" : 46,
+				"Pop1030_de 0-9 ans" : 37,
+				"Pop1030_de 10-19 ans" : 49,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 61,
+				"Pop1030_de 40-49 ans" : 47,
+				"Pop1030_de 50-59 ans" : 43,
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 26,
-				"Pop1030_Population" : 337,
-				"DensityPopulation (hab/km2)" : 12253.364675767607
+				"Pop1030_Population" : 330,
+				"DensityPopulation (hab/km2)" : 11998.843747784304
 			}
 		},
 		{
@@ -22399,13 +22399,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37430613012215,
 				"BlockParcel.Latitude" : 50.8651366831634,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 28,
+				"Pop1030_de 0-9 ans" : 31,
+				"Pop1030_de 10-19 ans" : 27,
 				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 29,
-				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 174,
 				"DensityPopulation (hab/km2)" : 24134.31997392384
@@ -22534,15 +22534,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8606539540471,
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 55,
-				"Pop1030_de 10-19 ans" : 46,
-				"Pop1030_de 20-29 ans" : 68,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 58,
-				"Pop1030_de 50-59 ans" : 50,
+				"Pop1030_de 10-19 ans" : 44,
+				"Pop1030_de 20-29 ans" : 66,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 55,
+				"Pop1030_de 50-59 ans" : 48,
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 29,
-				"Pop1030_Population" : 384,
-				"DensityPopulation (hab/km2)" : 21040.669312457772
+				"Pop1030_Population" : 373,
+				"DensityPopulation (hab/km2)" : 20437.941806111325
 			}
 		},
 		{
@@ -22642,16 +22642,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37336174186719,
 				"BlockParcel.Latitude" : 50.8653040504319,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 7,
-				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 10-19 ans" : 5,
 				"Pop1030_de 20-29 ans" : 11,
-				"Pop1030_de 30-39 ans" : 14,
-				"Pop1030_de 40-49 ans" : 10,
+				"Pop1030_de 30-39 ans" : 13,
+				"Pop1030_de 40-49 ans" : 11,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 69,
-				"DensityPopulation (hab/km2)" : 4016.4055614993185
+				"Pop1030_Population" : 66,
+				"DensityPopulation (hab/km2)" : 3841.7792327384786
 			}
 		},
 		{
@@ -22752,13 +22752,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37155210518238,
 				"BlockParcel.Latitude" : 50.862337020489,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 28,
+				"Pop1030_de 0-9 ans" : 31,
+				"Pop1030_de 10-19 ans" : 31,
 				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 30,
 				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 204,
 				"DensityPopulation (hab/km2)" : 11656.290282767888
@@ -22810,14 +22810,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 1,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 11,
-				"Pop1030_de 50-59 ans" : 3,
+				"Pop1030_de 20-29 ans" : 2,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 12,
+				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 5,
-				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 60,
-				"DensityPopulation (hab/km2)" : 33911.141505541644
+				"Pop1030_de 70 ans et plus" : 3,
+				"Pop1030_Population" : 65,
+				"DensityPopulation (hab/km2)" : 36737.069964336784
 			}
 		},
 		{
@@ -22875,15 +22875,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.856477930501796,
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 20-29 ans" : 15,
+				"Pop1030_de 30-39 ans" : 8,
+				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 6,
-				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 72,
-				"DensityPopulation (hab/km2)" : 21581.698719485878
+				"Pop1030_Population" : 70,
+				"DensityPopulation (hab/km2)" : 20982.20708838905
 			}
 		},
 		{
@@ -22952,15 +22952,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8723951427056,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 10-19 ans" : 24,
 				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 4,
 				"Pop1030_de 70 ans et plus" : 2,
-				"Pop1030_Population" : 106,
-				"DensityPopulation (hab/km2)" : 22248.622054681236
+				"Pop1030_Population" : 105,
+				"DensityPopulation (hab/km2)" : 22038.729393788017
 			}
 		},
 		{
@@ -23070,15 +23070,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.871018425716,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 22,
 				"Pop1030_de 30-39 ans" : 14,
 				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 131,
-				"DensityPopulation (hab/km2)" : 21243.714049878945
+				"Pop1030_de 70 ans et plus" : 8,
+				"Pop1030_Population" : 126,
+				"DensityPopulation (hab/km2)" : 20432.88526934921
 			}
 		},
 		{
@@ -23177,16 +23177,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37398413816721,
 				"BlockParcel.Latitude" : 50.8704997852193,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 36,
+				"Pop1030_de 0-9 ans" : 33,
+				"Pop1030_de 10-19 ans" : 37,
 				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 42,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 246,
-				"DensityPopulation (hab/km2)" : 21753.067315132084
+				"Pop1030_Population" : 249,
+				"DensityPopulation (hab/km2)" : 22018.34862385321
 			}
 		},
 		{
@@ -23284,16 +23284,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36966848152014,
 				"BlockParcel.Latitude" : 50.8702843421601,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 34,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 31,
-				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 0-9 ans" : 33,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 30-39 ans" : 28,
 				"Pop1030_de 40-49 ans" : 15,
 				"Pop1030_de 50-59 ans" : 22,
-				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 189,
-				"DensityPopulation (hab/km2)" : 19276.0565879748
+				"Pop1030_Population" : 186,
+				"DensityPopulation (hab/km2)" : 18970.087435784724
 			}
 		},
 		{
@@ -23359,16 +23359,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37571157746205,
 				"BlockParcel.Latitude" : 50.8704404896118,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 31,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 10-19 ans" : 33,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 153,
-				"DensityPopulation (hab/km2)" : 36820.534788185665
+				"Pop1030_de 70 ans et plus" : 11,
+				"Pop1030_Population" : 159,
+				"DensityPopulation (hab/km2)" : 38264.47732889883
 			}
 		},
 		{
@@ -23481,16 +23481,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37355388639826,
 				"BlockParcel.Latitude" : 50.8709839696969,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 0-9 ans" : 26,
 				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 40,
-				"Pop1030_de 30-39 ans" : 28,
-				"Pop1030_de 40-49 ans" : 37,
-				"Pop1030_de 50-59 ans" : 28,
-				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 213,
-				"DensityPopulation (hab/km2)" : 8971.8662492713
+				"Pop1030_de 20-29 ans" : 41,
+				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 40-49 ans" : 38,
+				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_Population" : 223,
+				"DensityPopulation (hab/km2)" : 9393.08062717136
 			}
 		},
 		{
@@ -23567,16 +23567,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37103640469643,
 				"BlockParcel.Latitude" : 50.8702643206905,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 24,
 				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 20,
-				"Pop1030_de 40-49 ans" : 25,
-				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 50-59 ans" : 9,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 143,
-				"DensityPopulation (hab/km2)" : 23349.149797042006
+				"Pop1030_Population" : 137,
+				"DensityPopulation (hab/km2)" : 22369.46519017311
 			}
 		},
 		{
@@ -23668,16 +23668,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37166703224512,
 				"BlockParcel.Latitude" : 50.8688372401122,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 11,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 120,
-				"DensityPopulation (hab/km2)" : 9783.985898014993
+				"Pop1030_Population" : 119,
+				"DensityPopulation (hab/km2)" : 9702.4526821982
 			}
 		},
 		{
@@ -23755,16 +23755,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37252285819943,
 				"BlockParcel.Latitude" : 50.8691802545119,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 22,
 				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 15,
-				"Pop1030_de 40-49 ans" : 17,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 2,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 121,
-				"DensityPopulation (hab/km2)" : 28678.966229924725
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 128,
+				"DensityPopulation (hab/km2)" : 30338.079978763344
 			}
 		},
 		{
@@ -23836,15 +23836,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8685786320273,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 7,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 103,
-				"DensityPopulation (hab/km2)" : 20017.1408915207
+				"Pop1030_Population" : 107,
+				"DensityPopulation (hab/km2)" : 20794.505586337036
 			}
 		},
 		{
@@ -23942,15 +23942,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8602897235005,
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 30,
-				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 10-19 ans" : 35,
 				"Pop1030_de 20-29 ans" : 44,
-				"Pop1030_de 30-39 ans" : 50,
-				"Pop1030_de 40-49 ans" : 38,
-				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 40-49 ans" : 39,
+				"Pop1030_de 50-59 ans" : 29,
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 263,
-				"DensityPopulation (hab/km2)" : 17384.40691410252
+				"Pop1030_Population" : 259,
+				"DensityPopulation (hab/km2)" : 17120.00528803252
 			}
 		},
 		{
@@ -24020,21 +24020,21 @@ var json_SchaerbeekDemographicDistributionWomen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.263",
 				"BlockParcel.Area (m2)" : 10739.5,
-				"BlockParcel.Area (km2)" : 0.010739499999999999,
+				"BlockParcel.Area (km2)" : 0.0107395,
 				"BlockParcel.Perimeter (m)" : 398.69,
 				"BlockParcel.Longitude" : 4.37006116358495,
 				"BlockParcel.Latitude" : 50.8597313772399,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 14,
 				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 9,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 107,
-				"DensityPopulation (hab/km2)" : 9963.219889194097
+				"Pop1030_Population" : 109,
+				"DensityPopulation (hab/km2)" : 10149.448298337911
 			}
 		},
 		{
@@ -24163,16 +24163,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37315639224242,
 				"BlockParcel.Latitude" : 50.8596185970764,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 40,
-				"Pop1030_de 10-19 ans" : 56,
-				"Pop1030_de 20-29 ans" : 55,
-				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 42,
+				"Pop1030_de 0-9 ans" : 42,
+				"Pop1030_de 10-19 ans" : 61,
+				"Pop1030_de 20-29 ans" : 51,
+				"Pop1030_de 30-39 ans" : 47,
+				"Pop1030_de 40-49 ans" : 43,
 				"Pop1030_de 50-59 ans" : 48,
-				"Pop1030_de 60-69 ans" : 39,
+				"Pop1030_de 60-69 ans" : 41,
 				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 348,
-				"DensityPopulation (hab/km2)" : 8444.415002231219
+				"Pop1030_Population" : 356,
+				"DensityPopulation (hab/km2)" : 8638.539485041132
 			}
 		},
 		{
@@ -24244,12 +24244,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8578159604503,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 10,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 120,
 				"DensityPopulation (hab/km2)" : 11684.927611873445
@@ -24349,16 +24349,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37414506496548,
 				"BlockParcel.Latitude" : 50.8573594414457,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 0-9 ans" : 26,
 				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 20-29 ans" : 27,
 				"Pop1030_de 30-39 ans" : 32,
 				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 182,
-				"DensityPopulation (hab/km2)" : 16113.980737595333
+				"Pop1030_Population" : 189,
+				"DensityPopulation (hab/km2)" : 16733.749227502845
 			}
 		},
 		{
@@ -24468,16 +24468,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37542825014878,
 				"BlockParcel.Latitude" : 50.8580015691349,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_de 0-9 ans" : 36,
-				"Pop1030_de 10-19 ans" : 41,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 45,
-				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 25,
+				"Pop1030_de 0-9 ans" : 34,
+				"Pop1030_de 10-19 ans" : 39,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 44,
+				"Pop1030_de 40-49 ans" : 41,
+				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 272,
-				"DensityPopulation (hab/km2)" : 19984.57073582896
+				"Pop1030_Population" : 269,
+				"DensityPopulation (hab/km2)" : 19764.152676242607
 			}
 		},
 		{
@@ -24565,14 +24565,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 6,
+				"Pop1030_de 20-29 ans" : 5,
 				"Pop1030_de 30-39 ans" : 9,
-				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 55,
-				"DensityPopulation (hab/km2)" : 13645.03556392451
+				"Pop1030_Population" : 54,
+				"DensityPopulation (hab/km2)" : 13396.944008216791
 			}
 		},
 		{
@@ -24660,14 +24660,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Coteaux-Josaphat",
 				"Pop1030_de 0-9 ans" : 22,
 				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 20-29 ans" : 21,
 				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 146,
-				"DensityPopulation (hab/km2)" : 31259.09939537194
+				"Pop1030_Population" : 143,
+				"DensityPopulation (hab/km2)" : 30616.7891338232
 			}
 		},
 		{
@@ -24738,14 +24738,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 20-29 ans" : 14,
+				"Pop1030_de 30-39 ans" : 20,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 105,
-				"DensityPopulation (hab/km2)" : 26669.308198145343
+				"Pop1030_Population" : 101,
+				"DensityPopulation (hab/km2)" : 25653.33455250171
 			}
 		},
 		{
@@ -24831,16 +24831,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37187705156715,
 				"BlockParcel.Latitude" : 50.867480086627,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 0-9 ans" : 21,
 				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 21,
-				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 147,
-				"DensityPopulation (hab/km2)" : 21434.383083459947
+				"Pop1030_Population" : 145,
+				"DensityPopulation (hab/km2)" : 21142.758823821034
 			}
 		},
 		{
@@ -24907,16 +24907,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37383810378115,
 				"BlockParcel.Latitude" : 50.8664814260003,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 11,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 12,
-				"Pop1030_de 30-39 ans" : 10,
-				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 0-9 ans" : 12,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 30-39 ans" : 9,
+				"Pop1030_de 40-49 ans" : 10,
 				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 5,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 80,
-				"DensityPopulation (hab/km2)" : 13920.984492023275
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 82,
+				"DensityPopulation (hab/km2)" : 14269.009104323857
 			}
 		},
 		{
@@ -25048,15 +25048,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8668363315464,
 				"Quartier" : "Colignon",
 				"Pop1030_de 0-9 ans" : 35,
-				"Pop1030_de 10-19 ans" : 52,
-				"Pop1030_de 20-29 ans" : 46,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 37,
-				"Pop1030_de 60-69 ans" : 26,
+				"Pop1030_de 10-19 ans" : 51,
+				"Pop1030_de 20-29 ans" : 52,
+				"Pop1030_de 30-39 ans" : 40,
+				"Pop1030_de 40-49 ans" : 44,
+				"Pop1030_de 50-59 ans" : 40,
+				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 295,
-				"DensityPopulation (hab/km2)" : 15943.395002745508
+				"Pop1030_Population" : 301,
+				"DensityPopulation (hab/km2)" : 16267.667443479315
 			}
 		},
 		{
@@ -25143,13 +25143,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 17,
 				"Pop1030_de 10-19 ans" : 18,
 				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 137,
-				"DensityPopulation (hab/km2)" : 20261.206887627206
+				"Pop1030_Population" : 139,
+				"DensityPopulation (hab/km2)" : 20556.990929782347
 			}
 		},
 		{
@@ -25228,16 +25228,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3705313965997,
 				"BlockParcel.Latitude" : 50.8605483506202,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 21,
+				"Pop1030_de 0-9 ans" : 20,
 				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 32,
+				"Pop1030_de 20-29 ans" : 33,
 				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 50-59 ans" : 19,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 162,
-				"DensityPopulation (hab/km2)" : 19637.48237778395
+				"Pop1030_Population" : 163,
+				"DensityPopulation (hab/km2)" : 19758.701404807303
 			}
 		},
 		{
@@ -25310,16 +25310,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37094326333764,
 				"BlockParcel.Latitude" : 50.8612718317136,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 0-9 ans" : 20,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 18,
 				"Pop1030_de 40-49 ans" : 18,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 143,
-				"DensityPopulation (hab/km2)" : 20956.126956027307
+				"Pop1030_Population" : 142,
+				"DensityPopulation (hab/km2)" : 20809.580613677463
 			}
 		},
 		{
@@ -25413,13 +25413,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 24,
 				"Pop1030_de 10-19 ans" : 26,
 				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 210,
-				"DensityPopulation (hab/km2)" : 24603.387534986603
+				"Pop1030_de 30-39 ans" : 39,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 70 ans et plus" : 20,
+				"Pop1030_Population" : 211,
+				"DensityPopulation (hab/km2)" : 24720.546523248442
 			}
 		},
 		{
@@ -25540,15 +25540,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8641111571988,
 				"Quartier" : "Palais-Reine",
 				"Pop1030_de 0-9 ans" : 46,
-				"Pop1030_de 10-19 ans" : 50,
-				"Pop1030_de 20-29 ans" : 61,
-				"Pop1030_de 30-39 ans" : 45,
+				"Pop1030_de 10-19 ans" : 53,
+				"Pop1030_de 20-29 ans" : 62,
+				"Pop1030_de 30-39 ans" : 47,
 				"Pop1030_de 40-49 ans" : 54,
-				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 50-59 ans" : 29,
 				"Pop1030_de 60-69 ans" : 29,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 328,
-				"DensityPopulation (hab/km2)" : 20588.659916766577
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 334,
+				"DensityPopulation (hab/km2)" : 20965.281744512307
 			}
 		},
 		{
@@ -25612,16 +25612,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36916698553578,
 				"BlockParcel.Latitude" : 50.8608580819751,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 14,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 21,
 				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 13,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 132,
-				"DensityPopulation (hab/km2)" : 28819.19882627263
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 131,
+				"DensityPopulation (hab/km2)" : 28600.87156243723
 			}
 		},
 		{
@@ -25687,16 +25687,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36833991622274,
 				"BlockParcel.Latitude" : 50.8618098276866,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 6,
 				"Pop1030_de 10-19 ans" : 18,
 				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 8,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 89,
-				"DensityPopulation (hab/km2)" : 13582.954460474364
+				"Pop1030_Population" : 95,
+				"DensityPopulation (hab/km2)" : 14498.659255562525
 			}
 		},
 		{
@@ -25768,16 +25768,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36821894728771,
 				"BlockParcel.Latitude" : 50.860790521643096,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 31,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 0-9 ans" : 33,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 41,
 				"Pop1030_de 40-49 ans" : 32,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 183,
-				"DensityPopulation (hab/km2)" : 26912.51667325999
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 195,
+				"DensityPopulation (hab/km2)" : 28677.27186494917
 			}
 		},
 		{
@@ -25903,16 +25903,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36580574903205,
 				"BlockParcel.Latitude" : 50.8656790041308,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 55,
-				"Pop1030_de 10-19 ans" : 51,
-				"Pop1030_de 20-29 ans" : 64,
+				"Pop1030_de 0-9 ans" : 54,
+				"Pop1030_de 10-19 ans" : 50,
+				"Pop1030_de 20-29 ans" : 65,
 				"Pop1030_de 30-39 ans" : 44,
-				"Pop1030_de 40-49 ans" : 44,
-				"Pop1030_de 50-59 ans" : 49,
+				"Pop1030_de 40-49 ans" : 47,
+				"Pop1030_de 50-59 ans" : 50,
 				"Pop1030_de 60-69 ans" : 36,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 357,
-				"DensityPopulation (hab/km2)" : 27775.875912635922
+				"Pop1030_Population" : 360,
+				"DensityPopulation (hab/km2)" : 28009.286634590844
 			}
 		},
 		{
@@ -26001,16 +26001,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36582013123916,
 				"BlockParcel.Latitude" : 50.8628558779477,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 16,
-				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 0-9 ans" : 33,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 25,
 				"Pop1030_de 50-59 ans" : 25,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 167,
-				"DensityPopulation (hab/km2)" : 25186.979387398365
+				"Pop1030_Population" : 178,
+				"DensityPopulation (hab/km2)" : 26846.0019817779
 			}
 		},
 		{
@@ -26096,16 +26096,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3649406766153795,
 				"BlockParcel.Latitude" : 50.8634213527426,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 32,
-				"Pop1030_de 10-19 ans" : 35,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 0-9 ans" : 30,
+				"Pop1030_de 10-19 ans" : 34,
+				"Pop1030_de 20-29 ans" : 16,
 				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 164,
-				"DensityPopulation (hab/km2)" : 20256.74185129328
+				"Pop1030_Population" : 163,
+				"DensityPopulation (hab/km2)" : 20133.225132687836
 			}
 		},
 		{
@@ -26226,16 +26226,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36381224283309,
 				"BlockParcel.Latitude" : 50.8689515629655,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 49,
-				"Pop1030_de 10-19 ans" : 47,
-				"Pop1030_de 20-29 ans" : 45,
-				"Pop1030_de 30-39 ans" : 61,
-				"Pop1030_de 40-49 ans" : 33,
-				"Pop1030_de 50-59 ans" : 34,
+				"Pop1030_de 0-9 ans" : 53,
+				"Pop1030_de 10-19 ans" : 45,
+				"Pop1030_de 20-29 ans" : 44,
+				"Pop1030_de 30-39 ans" : 60,
+				"Pop1030_de 40-49 ans" : 34,
+				"Pop1030_de 50-59 ans" : 31,
 				"Pop1030_de 60-69 ans" : 29,
-				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 322,
-				"DensityPopulation (hab/km2)" : 20454.587322348416
+				"Pop1030_de 70 ans et plus" : 23,
+				"Pop1030_Population" : 319,
+				"DensityPopulation (hab/km2)" : 20264.016633009767
 			}
 		},
 		{
@@ -26329,16 +26329,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36351400834576,
 				"BlockParcel.Latitude" : 50.8701766005378,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 10-19 ans" : 20,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 133,
-				"DensityPopulation (hab/km2)" : 8860.511564633101
+				"Pop1030_Population" : 132,
+				"DensityPopulation (hab/km2)" : 8793.891176929093
 			}
 		},
 		{
@@ -26406,16 +26406,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36296355496098,
 				"BlockParcel.Latitude" : 50.8678567324299,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 45,
-				"Pop1030_de 10-19 ans" : 55,
-				"Pop1030_de 20-29 ans" : 38,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 47,
-				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 12,
+				"Pop1030_de 0-9 ans" : 46,
+				"Pop1030_de 10-19 ans" : 54,
+				"Pop1030_de 20-29 ans" : 40,
+				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 40-49 ans" : 45,
+				"Pop1030_de 50-59 ans" : 23,
+				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 270,
-				"DensityPopulation (hab/km2)" : 35263.41773044643
+				"Pop1030_Population" : 273,
+				"DensityPopulation (hab/km2)" : 35655.23348300695
 			}
 		},
 		{
@@ -26495,16 +26495,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36244812462639,
 				"BlockParcel.Latitude" : 50.8664097862445,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 44,
-				"Pop1030_de 10-19 ans" : 44,
-				"Pop1030_de 20-29 ans" : 46,
-				"Pop1030_de 30-39 ans" : 32,
+				"Pop1030_de 0-9 ans" : 46,
+				"Pop1030_de 10-19 ans" : 43,
+				"Pop1030_de 20-29 ans" : 47,
+				"Pop1030_de 30-39 ans" : 33,
 				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 55,
+				"Pop1030_de 50-59 ans" : 56,
 				"Pop1030_de 60-69 ans" : 48,
 				"Pop1030_de 70 ans et plus" : 37,
-				"Pop1030_Population" : 337,
-				"DensityPopulation (hab/km2)" : 21114.07111870744
+				"Pop1030_Population" : 341,
+				"DensityPopulation (hab/km2)" : 21364.683238810794
 			}
 		},
 		{
@@ -26628,16 +26628,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3645150725871495,
 				"BlockParcel.Latitude" : 50.8627434895306,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 9,
-				"Pop1030_de 50-59 ans" : 12,
-				"Pop1030_de 60-69 ans" : 5,
+				"Pop1030_de 20-29 ans" : 15,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 99,
-				"DensityPopulation (hab/km2)" : 12772.364216221935
+				"Pop1030_Population" : 95,
+				"DensityPopulation (hab/km2)" : 12256.309096374584
 			}
 		},
 		{
@@ -26731,21 +26731,21 @@ var json_SchaerbeekDemographicDistributionWomen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.291",
 				"BlockParcel.Area (m2)" : 11678.3,
-				"BlockParcel.Area (km2)" : 0.011678299999999999,
+				"BlockParcel.Area (km2)" : 0.0116783,
 				"BlockParcel.Perimeter (m)" : 483.65,
 				"BlockParcel.Longitude" : 4.3616553252173595,
 				"BlockParcel.Latitude" : 50.8681767441981,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 32,
+				"Pop1030_de 0-9 ans" : 31,
 				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 37,
+				"Pop1030_de 20-29 ans" : 40,
+				"Pop1030_de 30-39 ans" : 35,
 				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 50-59 ans" : 32,
 				"Pop1030_de 60-69 ans" : 28,
-				"Pop1030_de 70 ans et plus" : 27,
-				"Pop1030_Population" : 254,
-				"DensityPopulation (hab/km2)" : 21749.740972573065
+				"Pop1030_de 70 ans et plus" : 28,
+				"Pop1030_Population" : 253,
+				"DensityPopulation (hab/km2)" : 21664.11207110624
 			}
 		},
 		{
@@ -26829,16 +26829,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36195761665961,
 				"BlockParcel.Latitude" : 50.8649035924312,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 0-9 ans" : 27,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 20-29 ans" : 27,
 				"Pop1030_de 30-39 ans" : 21,
 				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 7,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 150,
-				"DensityPopulation (hab/km2)" : 14437.889642546728
+				"Pop1030_Population" : 154,
+				"DensityPopulation (hab/km2)" : 14822.900033014641
 			}
 		},
 		{
@@ -26918,16 +26918,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36124827785302,
 				"BlockParcel.Latitude" : 50.8638442603419,
 				"Quartier" : "Nord",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 44,
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 31,
+				"Pop1030_de 20-29 ans" : 42,
+				"Pop1030_de 30-39 ans" : 43,
 				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 25,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 237,
-				"DensityPopulation (hab/km2)" : 18626.979411293138
+				"Pop1030_Population" : 236,
+				"DensityPopulation (hab/km2)" : 18548.384561456456
 			}
 		},
 		{
@@ -26989,16 +26989,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37758231805373,
 				"BlockParcel.Latitude" : 50.8762220714973,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 20,
+				"Pop1030_de 0-9 ans" : 24,
 				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 20-29 ans" : 24,
 				"Pop1030_de 30-39 ans" : 25,
 				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 134,
-				"DensityPopulation (hab/km2)" : 33060.134905087805
+				"Pop1030_Population" : 140,
+				"DensityPopulation (hab/km2)" : 34540.43945307682
 			}
 		},
 		{
@@ -27075,15 +27075,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8767289694168,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 30,
+				"Pop1030_de 10-19 ans" : 28,
 				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 34,
-				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 40-49 ans" : 29,
+				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 173,
-				"DensityPopulation (hab/km2)" : 23459.153951714823
+				"Pop1030_Population" : 164,
+				"DensityPopulation (hab/km2)" : 22238.735538041798
 			}
 		},
 		{
@@ -27162,15 +27162,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8764105871155,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 37,
-				"Pop1030_de 20-29 ans" : 45,
-				"Pop1030_de 30-39 ans" : 40,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 10-19 ans" : 36,
+				"Pop1030_de 20-29 ans" : 41,
+				"Pop1030_de 30-39 ans" : 37,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 222,
-				"DensityPopulation (hab/km2)" : 27486.371340876813
+				"Pop1030_Population" : 216,
+				"DensityPopulation (hab/km2)" : 26743.496439772032
 			}
 		},
 		{
@@ -27240,14 +27240,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 20,
 				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 23,
+				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 148,
-				"DensityPopulation (hab/km2)" : 26901.55847271855
+				"Pop1030_Population" : 150,
+				"DensityPopulation (hab/km2)" : 27265.093046674203
 			}
 		},
 		{
@@ -27317,16 +27317,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37704836130134,
 				"BlockParcel.Latitude" : 50.8752699213877,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 10,
 				"Pop1030_de 50-59 ans" : 10,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 101,
-				"DensityPopulation (hab/km2)" : 31337.555112210168
+				"Pop1030_Population" : 104,
+				"DensityPopulation (hab/km2)" : 32268.373580889678
 			}
 		},
 		{
@@ -27384,9 +27384,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 40-49 ans" : 9,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 11,
-				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 82,
-				"DensityPopulation (hab/km2)" : 41463.14331078143
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 81,
+				"DensityPopulation (hab/km2)" : 40957.495221625555
 			}
 		},
 		{
@@ -27470,15 +27470,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.874741438139,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 53,
-				"Pop1030_de 10-19 ans" : 39,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 39,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 10-19 ans" : 37,
+				"Pop1030_de 20-29 ans" : 40,
+				"Pop1030_de 30-39 ans" : 40,
+				"Pop1030_de 40-49 ans" : 37,
+				"Pop1030_de 50-59 ans" : 24,
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 277,
-				"DensityPopulation (hab/km2)" : 32620.97139835623
+				"Pop1030_Population" : 270,
+				"DensityPopulation (hab/km2)" : 31796.614720419428
 			}
 		},
 		{
@@ -27563,14 +27563,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 14,
+				"Pop1030_de 20-29 ans" : 16,
 				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 50-59 ans" : 13,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 129,
-				"DensityPopulation (hab/km2)" : 22423.317468981077
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 132,
+				"DensityPopulation (hab/km2)" : 22944.78996825971
 			}
 		},
 		{
@@ -27655,14 +27655,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.37460737854502,
 				"BlockParcel.Latitude" : 50.8727792757677,
 				"Quartier" : "Colignon",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 18,
 				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 25,
 				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 6,
-				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 148,
 				"DensityPopulation (hab/km2)" : 11974.943240387274
 			}
@@ -27771,16 +27771,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38262373720499,
 				"BlockParcel.Latitude" : 50.8772547611993,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 47,
+				"Pop1030_de 0-9 ans" : 45,
 				"Pop1030_de 10-19 ans" : 51,
-				"Pop1030_de 20-29 ans" : 51,
-				"Pop1030_de 30-39 ans" : 52,
-				"Pop1030_de 40-49 ans" : 43,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 20-29 ans" : 49,
+				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 40-49 ans" : 42,
+				"Pop1030_de 50-59 ans" : 37,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 309,
-				"DensityPopulation (hab/km2)" : 18047.684435361545
+				"Pop1030_Population" : 302,
+				"DensityPopulation (hab/km2)" : 17638.837215143
 			}
 		},
 		{
@@ -27859,11 +27859,11 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 23,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 20-29 ans" : 17,
 				"Pop1030_de 30-39 ans" : 23,
 				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 144,
 				"DensityPopulation (hab/km2)" : 9321.015783586727
@@ -27951,16 +27951,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36395747671718,
 				"BlockParcel.Latitude" : 50.8619059065168,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 0-9 ans" : 28,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 132,
-				"DensityPopulation (hab/km2)" : 14983.96035153279
+				"Pop1030_de 70 ans et plus" : 10,
+				"Pop1030_Population" : 134,
+				"DensityPopulation (hab/km2)" : 15210.990053828742
 			}
 		},
 		{
@@ -28053,16 +28053,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36458682352255,
 				"BlockParcel.Latitude" : 50.8605699913028,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 172,
-				"DensityPopulation (hab/km2)" : 16151.918181143763
+				"Pop1030_Population" : 165,
+				"DensityPopulation (hab/km2)" : 15494.572673771634
 			}
 		},
 		{
@@ -28224,16 +28224,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36311632012651,
 				"BlockParcel.Latitude" : 50.8605331140398,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 0-9 ans" : 15,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 4,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 50-59 ans" : 3,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 91,
-				"DensityPopulation (hab/km2)" : 12068.821459690798
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 84,
+				"DensityPopulation (hab/km2)" : 11140.450578176122
 			}
 		},
 		{
@@ -28335,16 +28335,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36612158533807,
 				"BlockParcel.Latitude" : 50.8585623078913,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 36,
-				"Pop1030_de 40-49 ans" : 22,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 17,
+				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 30-39 ans" : 34,
+				"Pop1030_de 40-49 ans" : 24,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 21,
-				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 183,
-				"DensityPopulation (hab/km2)" : 21492.36903454634
+				"Pop1030_de 70 ans et plus" : 21,
+				"Pop1030_Population" : 180,
+				"DensityPopulation (hab/km2)" : 21140.03511594722
 			}
 		},
 		{
@@ -28474,16 +28474,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36646355560386,
 				"BlockParcel.Latitude" : 50.8603123122961,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 46,
+				"Pop1030_de 0-9 ans" : 34,
 				"Pop1030_de 10-19 ans" : 41,
-				"Pop1030_de 20-29 ans" : 56,
-				"Pop1030_de 30-39 ans" : 45,
-				"Pop1030_de 40-49 ans" : 39,
-				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 22,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 288,
-				"DensityPopulation (hab/km2)" : 6249.928114976108
+				"Pop1030_de 20-29 ans" : 55,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 33,
+				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 60-69 ans" : 20,
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 268,
+				"DensityPopulation (hab/km2)" : 5815.905329213878
 			}
 		},
 		{
@@ -28542,16 +28542,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36372828272048,
 				"BlockParcel.Latitude" : 50.8591175622034,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 11,
-				"Pop1030_de 10-19 ans" : 2,
+				"Pop1030_de 0-9 ans" : 12,
+				"Pop1030_de 10-19 ans" : 3,
 				"Pop1030_de 20-29 ans" : 11,
-				"Pop1030_de 30-39 ans" : 8,
+				"Pop1030_de 30-39 ans" : 10,
 				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 67,
-				"DensityPopulation (hab/km2)" : 16362.17553439598
+				"Pop1030_Population" : 71,
+				"DensityPopulation (hab/km2)" : 17339.021834956933
 			}
 		},
 		{
@@ -28604,16 +28604,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.36290988944673,
 				"BlockParcel.Latitude" : 50.8592974501551,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_de 0-9 ans" : 7,
-				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 5,
+				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 6,
 				"Pop1030_de 30-39 ans" : 4,
 				"Pop1030_de 40-49 ans" : 6,
-				"Pop1030_de 50-59 ans" : 7,
-				"Pop1030_de 60-69 ans" : 7,
+				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 48,
-				"DensityPopulation (hab/km2)" : 14582.97255666852
+				"Pop1030_Population" : 53,
+				"DensityPopulation (hab/km2)" : 16102.032197988157
 			}
 		},
 		{
@@ -28692,10 +28692,10 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 30-39 ans" : 15,
 				"Pop1030_de 40-49 ans" : 11,
 				"Pop1030_de 50-59 ans" : 10,
-				"Pop1030_de 60-69 ans" : 4,
+				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 15627.415527937786
+				"Pop1030_Population" : 94,
+				"DensityPopulation (hab/km2)" : 15795.452254044643
 			}
 		},
 		{
@@ -28892,14 +28892,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Nord",
 				"Pop1030_de 0-9 ans" : 27,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 43,
 				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 3,
-				"Pop1030_de 60-69 ans" : 5,
+				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 126,
-				"DensityPopulation (hab/km2)" : 11793.965046806128
+				"Pop1030_Population" : 129,
+				"DensityPopulation (hab/km2)" : 12074.77373839675
 			}
 		},
 		{
@@ -29055,13 +29055,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 22,
 				"Pop1030_de 20-29 ans" : 9,
-				"Pop1030_de 30-39 ans" : 11,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 30-39 ans" : 10,
+				"Pop1030_de 40-49 ans" : 17,
 				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 14,
-				"Pop1030_Population" : 107,
-				"DensityPopulation (hab/km2)" : 8615.71264424273
+				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 70 ans et plus" : 13,
+				"Pop1030_Population" : 109,
+				"DensityPopulation (hab/km2)" : 8776.754002079044
 			}
 		},
 		{
@@ -29233,16 +29233,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40406333856458,
 				"BlockParcel.Latitude" : 50.8579370977644,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 0-9 ans" : 25,
 				"Pop1030_de 10-19 ans" : 41,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 48,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 40-49 ans" : 47,
 				"Pop1030_de 50-59 ans" : 31,
 				"Pop1030_de 60-69 ans" : 25,
-				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 267,
-				"DensityPopulation (hab/km2)" : 2739.1967669681185
+				"Pop1030_de 70 ans et plus" : 24,
+				"Pop1030_Population" : 266,
+				"DensityPopulation (hab/km2)" : 2728.9376030468898
 			}
 		},
 		{
@@ -29318,15 +29318,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8603474821736,
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 35,
-				"Pop1030_de 10-19 ans" : 31,
+				"Pop1030_de 10-19 ans" : 30,
 				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 51,
-				"Pop1030_de 40-49 ans" : 42,
-				"Pop1030_de 50-59 ans" : 34,
-				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 30-39 ans" : 54,
+				"Pop1030_de 40-49 ans" : 43,
+				"Pop1030_de 50-59 ans" : 35,
+				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 31,
-				"Pop1030_Population" : 270,
-				"DensityPopulation (hab/km2)" : 13182.14551623967
+				"Pop1030_Population" : 276,
+				"DensityPopulation (hab/km2)" : 13475.08208326722
 			}
 		},
 		{
@@ -29476,16 +29476,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39840586226123,
 				"BlockParcel.Latitude" : 50.8611035154899,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 54,
-				"Pop1030_de 10-19 ans" : 60,
-				"Pop1030_de 20-29 ans" : 55,
+				"Pop1030_de 0-9 ans" : 55,
+				"Pop1030_de 10-19 ans" : 61,
+				"Pop1030_de 20-29 ans" : 58,
 				"Pop1030_de 30-39 ans" : 89,
 				"Pop1030_de 40-49 ans" : 83,
-				"Pop1030_de 50-59 ans" : 61,
-				"Pop1030_de 60-69 ans" : 40,
-				"Pop1030_de 70 ans et plus" : 79,
-				"Pop1030_Population" : 521,
-				"DensityPopulation (hab/km2)" : 5150.187270101225
+				"Pop1030_de 50-59 ans" : 63,
+				"Pop1030_de 60-69 ans" : 42,
+				"Pop1030_de 70 ans et plus" : 78,
+				"Pop1030_Population" : 529,
+				"DensityPopulation (hab/km2)" : 5229.268840467463
 			}
 		},
 		{
@@ -29676,16 +29676,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39550729545946,
 				"BlockParcel.Latitude" : 50.863924686404204,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 15,
 				"Pop1030_de 30-39 ans" : 24,
 				"Pop1030_de 40-49 ans" : 37,
 				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 32,
+				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 38,
-				"Pop1030_Population" : 214,
-				"DensityPopulation (hab/km2)" : 3728.695904288906
+				"Pop1030_Population" : 220,
+				"DensityPopulation (hab/km2)" : 3833.2387801100904
 			}
 		},
 		{
@@ -29845,14 +29845,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_de 0-9 ans" : 4,
 				"Pop1030_de 10-19 ans" : 1,
-				"Pop1030_de 20-29 ans" : 9,
-				"Pop1030_de 30-39 ans" : 10,
+				"Pop1030_de 20-29 ans" : 14,
+				"Pop1030_de 30-39 ans" : 9,
 				"Pop1030_de 40-49 ans" : 4,
 				"Pop1030_de 50-59 ans" : 7,
 				"Pop1030_de 60-69 ans" : 3,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 43,
-				"DensityPopulation (hab/km2)" : 3552.8586879375493
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 46,
+				"DensityPopulation (hab/km2)" : 3800.7325498866803
 			}
 		},
 		{
@@ -29924,15 +29924,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8575026301992,
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 33,
-				"Pop1030_de 10-19 ans" : 40,
-				"Pop1030_de 20-29 ans" : 46,
-				"Pop1030_de 30-39 ans" : 56,
-				"Pop1030_de 40-49 ans" : 48,
+				"Pop1030_de 10-19 ans" : 45,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 52,
+				"Pop1030_de 40-49 ans" : 51,
 				"Pop1030_de 50-59 ans" : 33,
-				"Pop1030_de 60-69 ans" : 28,
-				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 307,
-				"DensityPopulation (hab/km2)" : 41906.57155103456
+				"Pop1030_de 60-69 ans" : 27,
+				"Pop1030_de 70 ans et plus" : 24,
+				"Pop1030_Population" : 308,
+				"DensityPopulation (hab/km2)" : 42043.075041428805
 			}
 		},
 		{
@@ -30032,16 +30032,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3992422551123695,
 				"BlockParcel.Latitude" : 50.8562072520401,
 				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 19,
-				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 19,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 7,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 35,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 161,
-				"DensityPopulation (hab/km2)" : 9931.509595627174
+				"Pop1030_Population" : 153,
+				"DensityPopulation (hab/km2)" : 9438.01843559601
 			}
 		},
 		{
@@ -30095,14 +30095,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 0,
 				"Pop1030_de 10-19 ans" : 0,
-				"Pop1030_de 20-29 ans" : 3,
+				"Pop1030_de 20-29 ans" : 2,
 				"Pop1030_de 30-39 ans" : 0,
 				"Pop1030_de 40-49 ans" : 1,
 				"Pop1030_de 50-59 ans" : 1,
 				"Pop1030_de 60-69 ans" : 2,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 13,
-				"DensityPopulation (hab/km2)" : 8671.464877232069
+				"Pop1030_Population" : 12,
+				"DensityPopulation (hab/km2)" : 8004.429117444986
 			}
 		},
 		{
@@ -30194,14 +30194,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 4,
 				"Pop1030_de 10-19 ans" : 3,
-				"Pop1030_de 20-29 ans" : 6,
+				"Pop1030_de 20-29 ans" : 5,
 				"Pop1030_de 30-39 ans" : 4,
 				"Pop1030_de 40-49 ans" : 4,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 48,
-				"DensityPopulation (hab/km2)" : 6717.401709018952
+				"Pop1030_Population" : 47,
+				"DensityPopulation (hab/km2)" : 6577.4558400810565
 			}
 		},
 		{
@@ -30279,14 +30279,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39557289508256,
 				"BlockParcel.Latitude" : 50.8664364026907,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 4,
-				"Pop1030_de 10-19 ans" : 2,
+				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 10-19 ans" : 1,
 				"Pop1030_de 20-29 ans" : 5,
 				"Pop1030_de 30-39 ans" : 3,
-				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 4,
+				"Pop1030_de 40-49 ans" : 9,
+				"Pop1030_de 50-59 ans" : 3,
 				"Pop1030_de 60-69 ans" : 5,
-				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 35,
 				"DensityPopulation (hab/km2)" : 6429.39150401837
 			}
@@ -30390,14 +30390,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 5,
-				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 20-29 ans" : 4,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 5,
-				"Pop1030_de 50-59 ans" : 7,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 51,
-				"DensityPopulation (hab/km2)" : 7515.9603628882505
+				"Pop1030_Population" : 53,
+				"DensityPopulation (hab/km2)" : 7810.703906530927
 			}
 		},
 		{
@@ -30535,16 +30535,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39352070575239,
 				"BlockParcel.Latitude" : 50.868196746706,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 9,
 				"Pop1030_de 30-39 ans" : 10,
 				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 9738.882751182018
+				"Pop1030_Population" : 94,
+				"DensityPopulation (hab/km2)" : 9843.601920549567
 			}
 		},
 		{
@@ -30814,15 +30814,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8635622860785,
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 18,
 				"Pop1030_de 30-39 ans" : 20,
 				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 127,
-				"DensityPopulation (hab/km2)" : 3975.823238029406
+				"Pop1030_Population" : 128,
+				"DensityPopulation (hab/km2)" : 4007.128932817039
 			}
 		},
 		{
@@ -31146,9 +31146,9 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 40-49 ans" : 4,
 				"Pop1030_de 50-59 ans" : 6,
 				"Pop1030_de 60-69 ans" : 4,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 30,
-				"DensityPopulation (hab/km2)" : 4998.1173757884535
+				"Pop1030_de 70 ans et plus" : 4,
+				"Pop1030_Population" : 29,
+				"DensityPopulation (hab/km2)" : 4831.513463262171
 			}
 		},
 		{
@@ -31264,14 +31264,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 22,
 				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 21,
-				"Pop1030_Population" : 118,
-				"DensityPopulation (hab/km2)" : 15028.248011941088
+				"Pop1030_Population" : 120,
+				"DensityPopulation (hab/km2)" : 15282.96407994009
 			}
 		},
 		{
@@ -31473,16 +31473,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39474872665243,
 				"BlockParcel.Latitude" : 50.8696999038711,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 18,
 				"Pop1030_de 10-19 ans" : 22,
 				"Pop1030_de 20-29 ans" : 26,
-				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 30-39 ans" : 15,
 				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 152,
-				"DensityPopulation (hab/km2)" : 8277.703895639937
+				"Pop1030_Population" : 151,
+				"DensityPopulation (hab/km2)" : 8223.24531737915
 			}
 		},
 		{
@@ -31575,16 +31575,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39303002055818,
 				"BlockParcel.Latitude" : 50.8694638069239,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 24,
-				"Pop1030_de 10-19 ans" : 39,
-				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 40,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 17,
 				"Pop1030_de 40-49 ans" : 31,
 				"Pop1030_de 50-59 ans" : 41,
-				"Pop1030_de 60-69 ans" : 25,
-				"Pop1030_de 70 ans et plus" : 33,
-				"Pop1030_Population" : 237,
-				"DensityPopulation (hab/km2)" : 17068.791551164242
+				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 70 ans et plus" : 31,
+				"Pop1030_Population" : 235,
+				"DensityPopulation (hab/km2)" : 16924.75111613332
 			}
 		},
 		{
@@ -31652,14 +31652,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 1,
-				"Pop1030_de 20-29 ans" : 12,
-				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 20-29 ans" : 10,
+				"Pop1030_de 30-39 ans" : 9,
 				"Pop1030_de 40-49 ans" : 5,
 				"Pop1030_de 50-59 ans" : 4,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 53,
-				"DensityPopulation (hab/km2)" : 7474.14720685478
+				"Pop1030_de 70 ans et plus" : 7,
+				"Pop1030_Population" : 47,
+				"DensityPopulation (hab/km2)" : 6628.017334380654
 			}
 		},
 		{
@@ -31786,15 +31786,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8550833033674,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 30,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 59,
-				"Pop1030_de 40-49 ans" : 38,
-				"Pop1030_de 50-59 ans" : 30,
-				"Pop1030_de 60-69 ans" : 16,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 247,
-				"DensityPopulation (hab/km2)" : 12786.439540847758
+				"Pop1030_de 10-19 ans" : 32,
+				"Pop1030_de 20-29 ans" : 34,
+				"Pop1030_de 30-39 ans" : 61,
+				"Pop1030_de 40-49 ans" : 37,
+				"Pop1030_de 50-59 ans" : 31,
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 256,
+				"DensityPopulation (hab/km2)" : 13252.342196182291
 			}
 		},
 		{
@@ -31882,14 +31882,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 22,
+				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 143,
-				"DensityPopulation (hab/km2)" : 5352.6457791206385
+				"Pop1030_Population" : 145,
+				"DensityPopulation (hab/km2)" : 5427.507957849599
 			}
 		},
 		{
@@ -31966,16 +31966,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39451794946091,
 				"BlockParcel.Latitude" : 50.852164435514,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 7,
+				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 21,
+				"Pop1030_de 20-29 ans" : 16,
+				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 102,
-				"DensityPopulation (hab/km2)" : 21082.830721404862
+				"Pop1030_Population" : 103,
+				"DensityPopulation (hab/km2)" : 21289.525140242164
 			}
 		},
 		{
@@ -32065,16 +32065,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3932814687979,
 				"BlockParcel.Latitude" : 50.8525279494101,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 0-9 ans" : 25,
 				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 20-29 ans" : 40,
+				"Pop1030_de 30-39 ans" : 42,
 				"Pop1030_de 40-49 ans" : 34,
-				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 13,
+				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 209,
-				"DensityPopulation (hab/km2)" : 18348.591635851568
+				"Pop1030_Population" : 208,
+				"DensityPopulation (hab/km2)" : 18260.79933137381
 			}
 		},
 		{
@@ -32112,16 +32112,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38905290132438,
 				"BlockParcel.Latitude" : 50.8511266798903,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 28,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 28,
-				"Pop1030_de 30-39 ans" : 18,
-				"Pop1030_de 40-49 ans" : 40,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 30-39 ans" : 21,
+				"Pop1030_de 40-49 ans" : 34,
+				"Pop1030_de 50-59 ans" : 35,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 191,
-				"DensityPopulation (hab/km2)" : 28611.660375097374
+				"Pop1030_Population" : 184,
+				"DensityPopulation (hab/km2)" : 27563.0654922404
 			}
 		},
 		{
@@ -32195,16 +32195,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38231898159971,
 				"BlockParcel.Latitude" : 50.8679372005219,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 15,
-				"Pop1030_de 70 ans et plus" : 1,
-				"Pop1030_Population" : 89,
-				"DensityPopulation (hab/km2)" : 12145.229654011064
+				"Pop1030_de 70 ans et plus" : 2,
+				"Pop1030_Population" : 90,
+				"DensityPopulation (hab/km2)" : 12281.692908550514
 			}
 		},
 		{
@@ -32280,16 +32280,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39151712589118,
 				"BlockParcel.Latitude" : 50.8683351966572,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 16,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 17,
 				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 21,
-				"Pop1030_de 50-59 ans" : 22,
-				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 76,
-				"Pop1030_Population" : 213,
-				"DensityPopulation (hab/km2)" : 17830.265913721603
+				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 50-59 ans" : 23,
+				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 70 ans et plus" : 74,
+				"Pop1030_Population" : 215,
+				"DensityPopulation (hab/km2)" : 17997.686250939645
 			}
 		},
 		{
@@ -32408,16 +32408,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38785685831761,
 				"BlockParcel.Latitude" : 50.8683781525448,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 45,
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 20,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 41,
 				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 25,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 184,
-				"DensityPopulation (hab/km2)" : 12744.632881845477
+				"Pop1030_Population" : 185,
+				"DensityPopulation (hab/km2)" : 12813.897190985941
 			}
 		},
 		{
@@ -32469,15 +32469,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8679272631962,
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 11,
-				"Pop1030_de 10-19 ans" : 5,
-				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 10-19 ans" : 4,
+				"Pop1030_de 20-29 ans" : 24,
 				"Pop1030_de 30-39 ans" : 27,
 				"Pop1030_de 40-49 ans" : 20,
-				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 38,
-				"Pop1030_Population" : 169,
-				"DensityPopulation (hab/km2)" : 21833.863676590092
+				"Pop1030_Population" : 163,
+				"DensityPopulation (hab/km2)" : 21058.69691884133
 			}
 		},
 		{
@@ -32665,14 +32665,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 30,
-				"Pop1030_de 30-39 ans" : 44,
-				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 42,
+				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 25,
-				"Pop1030_de 60-69 ans" : 23,
-				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 195,
-				"DensityPopulation (hab/km2)" : 13289.081826669484
+				"Pop1030_de 60-69 ans" : 24,
+				"Pop1030_de 70 ans et plus" : 22,
+				"Pop1030_Population" : 192,
+				"DensityPopulation (hab/km2)" : 13084.634413951491
 			}
 		},
 		{
@@ -32844,16 +32844,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39045542128785,
 				"BlockParcel.Latitude" : 50.8632588177994,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 11,
-				"Pop1030_de 30-39 ans" : 11,
+				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 10-19 ans" : 20,
+				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 30-39 ans" : 13,
 				"Pop1030_de 40-49 ans" : 16,
-				"Pop1030_de 50-59 ans" : 14,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 112,
-				"DensityPopulation (hab/km2)" : 10762.069853520543
+				"Pop1030_Population" : 113,
+				"DensityPopulation (hab/km2)" : 10858.159762926976
 			}
 		},
 		{
@@ -32918,12 +32918,12 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38908093328528,
 				"BlockParcel.Latitude" : 50.8637123793981,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 4,
 				"Pop1030_de 10-19 ans" : 4,
-				"Pop1030_de 20-29 ans" : 7,
-				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 11,
 				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 7,
+				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 59,
@@ -32988,16 +32988,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3863076757282,
 				"BlockParcel.Latitude" : 50.8656105557225,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 4,
+				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 7,
-				"Pop1030_de 20-29 ans" : 9,
-				"Pop1030_de 30-39 ans" : 3,
-				"Pop1030_de 40-49 ans" : 7,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 4,
+				"Pop1030_de 40-49 ans" : 8,
 				"Pop1030_de 50-59 ans" : 9,
-				"Pop1030_de 60-69 ans" : 2,
+				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 44,
-				"DensityPopulation (hab/km2)" : 4833.295252825281
+				"Pop1030_Population" : 47,
+				"DensityPopulation (hab/km2)" : 5162.838110972459
 			}
 		},
 		{
@@ -33082,16 +33082,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39147526524918,
 				"BlockParcel.Latitude" : 50.8620435601204,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 9,
+				"Pop1030_de 0-9 ans" : 14,
 				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 20,
-				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 158,
-				"DensityPopulation (hab/km2)" : 11073.327857409178
+				"Pop1030_de 20-29 ans" : 23,
+				"Pop1030_de 30-39 ans" : 34,
+				"Pop1030_de 40-49 ans" : 27,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 167,
+				"DensityPopulation (hab/km2)" : 11704.087039160333
 			}
 		},
 		{
@@ -33159,14 +33159,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Terdelt-Fleur",
 				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 12,
+				"Pop1030_de 20-29 ans" : 10,
 				"Pop1030_de 30-39 ans" : 8,
-				"Pop1030_de 40-49 ans" : 9,
-				"Pop1030_de 50-59 ans" : 11,
+				"Pop1030_de 40-49 ans" : 10,
+				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 3,
-				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 58,
-				"DensityPopulation (hab/km2)" : 5110.812099230822
+				"Pop1030_de 70 ans et plus" : 7,
+				"Pop1030_Population" : 57,
+				"DensityPopulation (hab/km2)" : 5022.694649244084
 			}
 		},
 		{
@@ -33402,14 +33402,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 6,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 9,
+				"Pop1030_de 20-29 ans" : 8,
 				"Pop1030_de 30-39 ans" : 8,
 				"Pop1030_de 40-49 ans" : 7,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 67,
-				"DensityPopulation (hab/km2)" : 15765.633272545443
+				"Pop1030_de 70 ans et plus" : 8,
+				"Pop1030_Population" : 65,
+				"DensityPopulation (hab/km2)" : 15295.017353961997
 			}
 		},
 		{
@@ -33482,14 +33482,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3875557749738,
 				"BlockParcel.Latitude" : 50.8758610191765,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 16,
-				"Pop1030_de 30-39 ans" : 13,
+				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 12,
 				"Pop1030_de 50-59 ans" : 10,
 				"Pop1030_de 60-69 ans" : 6,
-				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 85,
 				"DensityPopulation (hab/km2)" : 20493.483072382984
 			}
@@ -33595,15 +33595,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8765197895788,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 29,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 28,
 				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 170,
-				"DensityPopulation (hab/km2)" : 16796.228159963324
+				"Pop1030_Population" : 173,
+				"DensityPopulation (hab/km2)" : 17092.63218631562
 			}
 		},
 		{
@@ -33693,16 +33693,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3905887569290805,
 				"BlockParcel.Latitude" : 50.8749907784232,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 0-9 ans" : 17,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 25,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 20-29 ans" : 25,
+				"Pop1030_de 30-39 ans" : 28,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 25,
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 22,
-				"Pop1030_Population" : 154,
-				"DensityPopulation (hab/km2)" : 14102.990291831164
+				"Pop1030_Population" : 162,
+				"DensityPopulation (hab/km2)" : 14835.613164134082
 			}
 		},
 		{
@@ -33804,15 +33804,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8761249782692,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 10,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 14,
-				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 40-49 ans" : 20,
 				"Pop1030_de 50-59 ans" : 22,
-				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 147,
-				"DensityPopulation (hab/km2)" : 14254.24136406302
+				"Pop1030_Population" : 145,
+				"DensityPopulation (hab/km2)" : 14060.306107409102
 			}
 		},
 		{
@@ -33900,15 +33900,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8746455454754,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 18,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 20,
 				"Pop1030_de 40-49 ans" : 22,
 				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 140,
-				"DensityPopulation (hab/km2)" : 11517.837016024601
+				"Pop1030_Population" : 138,
+				"DensityPopulation (hab/km2)" : 11353.29648722425
 			}
 		},
 		{
@@ -34021,16 +34021,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38335899262072,
 				"BlockParcel.Latitude" : 50.8745450211044,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 16,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 20-29 ans" : 26,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 24,
-				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 146,
-				"DensityPopulation (hab/km2)" : 6818.545884377077
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 153,
+				"DensityPopulation (hab/km2)" : 7145.462467874608
 			}
 		},
 		{
@@ -34120,16 +34120,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38347732458226,
 				"BlockParcel.Latitude" : 50.8600320490948,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 14,
-				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 10-19 ans" : 21,
 				"Pop1030_de 20-29 ans" : 33,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 21,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 20,
 				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 149,
-				"DensityPopulation (hab/km2)" : 12715.024721762831
+				"Pop1030_Population" : 146,
+				"DensityPopulation (hab/km2)" : 12459.017512599821
 			}
 		},
 		{
@@ -34200,16 +34200,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38225401374586,
 				"BlockParcel.Latitude" : 50.8596568155651,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 5,
+				"Pop1030_de 0-9 ans" : 7,
 				"Pop1030_de 10-19 ans" : 2,
-				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 11,
-				"Pop1030_de 40-49 ans" : 12,
+				"Pop1030_de 20-29 ans" : 14,
+				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 40-49 ans" : 11,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 67,
-				"DensityPopulation (hab/km2)" : 14109.451437163452
+				"Pop1030_Population" : 70,
+				"DensityPopulation (hab/km2)" : 14741.217919424502
 			}
 		},
 		{
@@ -34286,16 +34286,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38609695452375,
 				"BlockParcel.Latitude" : 50.8580445858418,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 0-9 ans" : 14,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 33,
-				"Pop1030_de 30-39 ans" : 34,
-				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 20,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 20-29 ans" : 29,
+				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 21,
+				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 155,
-				"DensityPopulation (hab/km2)" : 21143.754339585063
+				"Pop1030_Population" : 152,
+				"DensityPopulation (hab/km2)" : 20734.520384625353
 			}
 		},
 		{
@@ -34378,14 +34378,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38787508151248,
 				"BlockParcel.Latitude" : 50.8578204025396,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 13,
 				"Pop1030_de 10-19 ans" : 9,
-				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 33,
-				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 30-39 ans" : 31,
+				"Pop1030_de 40-49 ans" : 15,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 10,
-				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 122,
 				"DensityPopulation (hab/km2)" : 12437.024819000511
 			}
@@ -34469,16 +34469,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38409718979797,
 				"BlockParcel.Latitude" : 50.8589665082737,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 14,
-				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 24,
-				"Pop1030_de 40-49 ans" : 19,
+				"Pop1030_de 0-9 ans" : 13,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 25,
+				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 106,
-				"DensityPopulation (hab/km2)" : 12287.760810621261
+				"Pop1030_Population" : 111,
+				"DensityPopulation (hab/km2)" : 12867.37216961283
 			}
 		},
 		{
@@ -34543,16 +34543,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38529685021664,
 				"BlockParcel.Latitude" : 50.858723141157,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 0-9 ans" : 11,
 				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 22,
 				"Pop1030_de 40-49 ans" : 15,
 				"Pop1030_de 50-59 ans" : 17,
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 129,
-				"DensityPopulation (hab/km2)" : 22300.78398492536
+				"Pop1030_Population" : 123,
+				"DensityPopulation (hab/km2)" : 21263.538218184647
 			}
 		},
 		{
@@ -34655,15 +34655,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8570300973131,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 29,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 38,
 				"Pop1030_de 30-39 ans" : 40,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 10,
+				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 20,
-				"Pop1030_Population" : 194,
-				"DensityPopulation (hab/km2)" : 15098.62750362873
+				"Pop1030_Population" : 200,
+				"DensityPopulation (hab/km2)" : 15565.595364565701
 			}
 		},
 		{
@@ -34742,15 +34742,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8571441331775,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 10-19 ans" : 7,
+				"Pop1030_de 20-29 ans" : 21,
 				"Pop1030_de 30-39 ans" : 29,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 11,
-				"Pop1030_de 60-69 ans" : 16,
-				"Pop1030_de 70 ans et plus" : 33,
-				"Pop1030_Population" : 158,
-				"DensityPopulation (hab/km2)" : 9671.665326100396
+				"Pop1030_de 40-49 ans" : 27,
+				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 70 ans et plus" : 31,
+				"Pop1030_Population" : 161,
+				"DensityPopulation (hab/km2)" : 9855.304541152935
 			}
 		},
 		{
@@ -34781,15 +34781,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8728505629735,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 8,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 5,
-				"Pop1030_de 40-49 ans" : 24,
-				"Pop1030_de 50-59 ans" : 26,
-				"Pop1030_de 60-69 ans" : 21,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 10,
+				"Pop1030_de 30-39 ans" : 7,
+				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 50-59 ans" : 24,
+				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 35,
-				"Pop1030_Population" : 152,
-				"DensityPopulation (hab/km2)" : 36081.3729911933
+				"Pop1030_Population" : 155,
+				"DensityPopulation (hab/km2)" : 36793.50535286159
 			}
 		},
 		{
@@ -34912,16 +34912,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38543371536518,
 				"BlockParcel.Latitude" : 50.8727846469926,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 45,
-				"Pop1030_de 10-19 ans" : 47,
-				"Pop1030_de 20-29 ans" : 54,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 55,
-				"Pop1030_de 50-59 ans" : 32,
-				"Pop1030_de 60-69 ans" : 23,
+				"Pop1030_de 0-9 ans" : 43,
+				"Pop1030_de 10-19 ans" : 48,
+				"Pop1030_de 20-29 ans" : 47,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 57,
+				"Pop1030_de 50-59 ans" : 30,
+				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 19,
-				"Pop1030_Population" : 324,
-				"DensityPopulation (hab/km2)" : 11981.016744580254
+				"Pop1030_Population" : 317,
+				"DensityPopulation (hab/km2)" : 11722.167617382533
 			}
 		},
 		{
@@ -35011,16 +35011,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39220311996921,
 				"BlockParcel.Latitude" : 50.8713994137451,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 22,
-				"Pop1030_de 10-19 ans" : 28,
+				"Pop1030_de 0-9 ans" : 23,
+				"Pop1030_de 10-19 ans" : 29,
 				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 30-39 ans" : 23,
 				"Pop1030_de 40-49 ans" : 35,
-				"Pop1030_de 50-59 ans" : 20,
-				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 173,
-				"DensityPopulation (hab/km2)" : 19111.1440063365
+				"Pop1030_de 50-59 ans" : 21,
+				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 175,
+				"DensityPopulation (hab/km2)" : 19332.082087334613
 			}
 		},
 		{
@@ -35103,16 +35103,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38288516260449,
 				"BlockParcel.Latitude" : 50.8714998069683,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 36,
-				"Pop1030_de 10-19 ans" : 33,
-				"Pop1030_de 20-29 ans" : 27,
-				"Pop1030_de 30-39 ans" : 52,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 0-9 ans" : 31,
+				"Pop1030_de 10-19 ans" : 35,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 32,
 				"Pop1030_de 60-69 ans" : 19,
-				"Pop1030_de 70 ans et plus" : 15,
-				"Pop1030_Population" : 239,
-				"DensityPopulation (hab/km2)" : 16376.503349303279
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 236,
+				"DensityPopulation (hab/km2)" : 16170.940545755539
 			}
 		},
 		{
@@ -35204,15 +35204,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8719097936834,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 41,
-				"Pop1030_de 10-19 ans" : 32,
-				"Pop1030_de 20-29 ans" : 43,
-				"Pop1030_de 30-39 ans" : 60,
-				"Pop1030_de 40-49 ans" : 51,
+				"Pop1030_de 10-19 ans" : 31,
+				"Pop1030_de 20-29 ans" : 42,
+				"Pop1030_de 30-39 ans" : 62,
+				"Pop1030_de 40-49 ans" : 50,
 				"Pop1030_de 50-59 ans" : 27,
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 287,
-				"DensityPopulation (hab/km2)" : 20928.770715472267
+				"Pop1030_Population" : 286,
+				"DensityPopulation (hab/km2)" : 20855.848169425328
 			}
 		},
 		{
@@ -35296,15 +35296,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8775902061899,
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 17,
 				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 141,
-				"DensityPopulation (hab/km2)" : 16239.468819643997
+				"Pop1030_Population" : 138,
+				"DensityPopulation (hab/km2)" : 15893.948206460083
 			}
 		},
 		{
@@ -35397,14 +35397,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Helmet-Hamoir",
 				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 22,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 23,
+				"Pop1030_de 40-49 ans" : 20,
 				"Pop1030_de 50-59 ans" : 21,
 				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 140,
-				"DensityPopulation (hab/km2)" : 14907.271447570594
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 135,
+				"DensityPopulation (hab/km2)" : 14374.868895871645
 			}
 		},
 		{
@@ -35502,16 +35502,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38731737946026,
 				"BlockParcel.Latitude" : 50.8793683790163,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 14,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 15,
 				"Pop1030_de 30-39 ans" : 20,
-				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 40-49 ans" : 19,
 				"Pop1030_de 50-59 ans" : 20,
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 4,
-				"Pop1030_Population" : 124,
-				"DensityPopulation (hab/km2)" : 1474.0720241101124
+				"Pop1030_Population" : 125,
+				"DensityPopulation (hab/km2)" : 1485.9597017239034
 			}
 		},
 		{
@@ -35591,16 +35591,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38509563097057,
 				"BlockParcel.Latitude" : 50.8783229027347,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 15,
-				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 10,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 30-39 ans" : 28,
+				"Pop1030_de 40-49 ans" : 18,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 126,
-				"DensityPopulation (hab/km2)" : 11025.946853186018
+				"Pop1030_Population" : 123,
+				"DensityPopulation (hab/km2)" : 10763.42430906254
 			}
 		},
 		{
@@ -35675,16 +35675,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38419486991676,
 				"BlockParcel.Latitude" : 50.8790877608078,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 0-9 ans" : 19,
 				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 23,
-				"Pop1030_de 30-39 ans" : 19,
-				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 25,
 				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 159,
-				"DensityPopulation (hab/km2)" : 11598.152465373314
+				"Pop1030_Population" : 154,
+				"DensityPopulation (hab/km2)" : 11233.430689732644
 			}
 		},
 		{
@@ -35777,15 +35777,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8567990008023,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 30,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 36,
 				"Pop1030_de 30-39 ans" : 30,
 				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 24,
+				"Pop1030_de 50-59 ans" : 26,
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 12,
-				"Pop1030_Population" : 190,
-				"DensityPopulation (hab/km2)" : 22762.09655681359
+				"Pop1030_Population" : 189,
+				"DensityPopulation (hab/km2)" : 22642.296048619835
 			}
 		},
 		{
@@ -35929,16 +35929,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38127047131381,
 				"BlockParcel.Latitude" : 50.8568937418191,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 36,
-				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 45,
 				"Pop1030_de 40-49 ans" : 28,
 				"Pop1030_de 50-59 ans" : 21,
-				"Pop1030_de 60-69 ans" : 23,
-				"Pop1030_de 70 ans et plus" : 23,
-				"Pop1030_Population" : 226,
-				"DensityPopulation (hab/km2)" : 12581.256266272825
+				"Pop1030_de 60-69 ans" : 24,
+				"Pop1030_de 70 ans et plus" : 24,
+				"Pop1030_Population" : 224,
+				"DensityPopulation (hab/km2)" : 12469.917715243862
 			}
 		},
 		{
@@ -36020,15 +36020,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8545117796136,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 25,
-				"Pop1030_de 30-39 ans" : 22,
-				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 30,
 				"Pop1030_de 50-59 ans" : 16,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 154,
-				"DensityPopulation (hab/km2)" : 13354.735597914927
+				"Pop1030_Population" : 161,
+				"DensityPopulation (hab/km2)" : 13961.769034183788
 			}
 		},
 		{
@@ -36150,16 +36150,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38168115683452,
 				"BlockParcel.Latitude" : 50.8551310104013,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 19,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 52,
-				"Pop1030_de 40-49 ans" : 40,
+				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 10-19 ans" : 18,
+				"Pop1030_de 20-29 ans" : 36,
+				"Pop1030_de 30-39 ans" : 54,
+				"Pop1030_de 40-49 ans" : 39,
 				"Pop1030_de 50-59 ans" : 25,
-				"Pop1030_de 60-69 ans" : 24,
+				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 242,
-				"DensityPopulation (hab/km2)" : 12602.10569729742
+				"Pop1030_Population" : 240,
+				"DensityPopulation (hab/km2)" : 12497.956063435458
 			}
 		},
 		{
@@ -36248,16 +36248,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38737397503787,
 				"BlockParcel.Latitude" : 50.8535385802453,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 39,
-				"Pop1030_de 30-39 ans" : 43,
-				"Pop1030_de 40-49 ans" : 26,
-				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 188,
-				"DensityPopulation (hab/km2)" : 12850.94881699497
+				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 10-19 ans" : 23,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 51,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 17,
+				"Pop1030_de 60-69 ans" : 14,
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 208,
+				"DensityPopulation (hab/km2)" : 14218.071031568903
 			}
 		},
 		{
@@ -36356,13 +36356,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38230847991247,
 				"BlockParcel.Latitude" : 50.854787320712504,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 31,
-				"Pop1030_de 50-59 ans" : 26,
-				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 38,
+				"Pop1030_de 30-39 ans" : 30,
+				"Pop1030_de 40-49 ans" : 30,
+				"Pop1030_de 50-59 ans" : 27,
+				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 189,
 				"DensityPopulation (hab/km2)" : 11657.714693161546
@@ -36481,16 +36481,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40101215566551,
 				"BlockParcel.Latitude" : 50.8448032908131,
 				"Quartier" : "Linthout",
-				"Pop1030_de 0-9 ans" : 17,
-				"Pop1030_de 10-19 ans" : 20,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 49,
-				"Pop1030_de 40-49 ans" : 36,
-				"Pop1030_de 50-59 ans" : 37,
-				"Pop1030_de 60-69 ans" : 24,
-				"Pop1030_de 70 ans et plus" : 36,
-				"Pop1030_Population" : 261,
-				"DensityPopulation (hab/km2)" : 6247.244390764418
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 22,
+				"Pop1030_de 20-29 ans" : 39,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 35,
+				"Pop1030_de 50-59 ans" : 40,
+				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 70 ans et plus" : 34,
+				"Pop1030_Population" : 256,
+				"DensityPopulation (hab/km2)" : 6127.565379447092
 			}
 		},
 		{
@@ -36581,16 +36581,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.4041197427137195,
 				"BlockParcel.Latitude" : 50.8489580392244,
 				"Quartier" : "Cerisiers",
-				"Pop1030_de 0-9 ans" : 5,
-				"Pop1030_de 10-19 ans" : 7,
-				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 16,
+				"Pop1030_de 0-9 ans" : 3,
+				"Pop1030_de 10-19 ans" : 5,
+				"Pop1030_de 20-29 ans" : 15,
+				"Pop1030_de 30-39 ans" : 12,
 				"Pop1030_de 40-49 ans" : 7,
-				"Pop1030_de 50-59 ans" : 8,
+				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 3,
-				"Pop1030_Population" : 67,
-				"DensityPopulation (hab/km2)" : 13545.587979604792
+				"Pop1030_de 70 ans et plus" : 2,
+				"Pop1030_Population" : 61,
+				"DensityPopulation (hab/km2)" : 12332.550250087945
 			}
 		},
 		{
@@ -36731,14 +36731,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40017583260394,
 				"BlockParcel.Latitude" : 50.8488344166097,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 34,
-				"Pop1030_de 10-19 ans" : 30,
+				"Pop1030_de 0-9 ans" : 35,
+				"Pop1030_de 10-19 ans" : 28,
 				"Pop1030_de 20-29 ans" : 78,
-				"Pop1030_de 30-39 ans" : 105,
+				"Pop1030_de 30-39 ans" : 106,
 				"Pop1030_de 40-49 ans" : 60,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 50-59 ans" : 38,
 				"Pop1030_de 60-69 ans" : 24,
-				"Pop1030_de 70 ans et plus" : 32,
+				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 399,
 				"DensityPopulation (hab/km2)" : 26243.887936625288
 			}
@@ -36869,10 +36869,10 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8495691149538,
 				"Quartier" : "Cerisiers",
 				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 36,
-				"Pop1030_de 20-29 ans" : 41,
-				"Pop1030_de 30-39 ans" : 34,
-				"Pop1030_de 40-49 ans" : 37,
+				"Pop1030_de 10-19 ans" : 35,
+				"Pop1030_de 20-29 ans" : 42,
+				"Pop1030_de 30-39 ans" : 33,
+				"Pop1030_de 40-49 ans" : 38,
 				"Pop1030_de 50-59 ans" : 30,
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 23,
@@ -36954,16 +36954,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40701058781832,
 				"BlockParcel.Latitude" : 50.8486420484531,
 				"Quartier" : "Cerisiers",
-				"Pop1030_de 0-9 ans" : 11,
+				"Pop1030_de 0-9 ans" : 10,
 				"Pop1030_de 10-19 ans" : 11,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 20-29 ans" : 17,
+				"Pop1030_de 30-39 ans" : 15,
 				"Pop1030_de 40-49 ans" : 13,
-				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 50-59 ans" : 15,
 				"Pop1030_de 60-69 ans" : 8,
-				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 104,
-				"DensityPopulation (hab/km2)" : 8095.754088355815
+				"Pop1030_de 70 ans et plus" : 9,
+				"Pop1030_Population" : 98,
+				"DensityPopulation (hab/km2)" : 7628.691352489133
 			}
 		},
 		{
@@ -37131,16 +37131,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39957892423968,
 				"BlockParcel.Latitude" : 50.8473023389373,
 				"Quartier" : "Linthout",
-				"Pop1030_de 0-9 ans" : 61,
-				"Pop1030_de 10-19 ans" : 46,
-				"Pop1030_de 20-29 ans" : 83,
-				"Pop1030_de 30-39 ans" : 116,
+				"Pop1030_de 0-9 ans" : 64,
+				"Pop1030_de 10-19 ans" : 49,
+				"Pop1030_de 20-29 ans" : 91,
+				"Pop1030_de 30-39 ans" : 118,
 				"Pop1030_de 40-49 ans" : 82,
 				"Pop1030_de 50-59 ans" : 56,
-				"Pop1030_de 60-69 ans" : 45,
+				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 52,
-				"Pop1030_Population" : 541,
-				"DensityPopulation (hab/km2)" : 6208.676010743189
+				"Pop1030_Population" : 555,
+				"DensityPopulation (hab/km2)" : 6369.344151501793
 			}
 		},
 		{
@@ -37217,15 +37217,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8565183175981,
 				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 8,
-				"Pop1030_de 10-19 ans" : 7,
-				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 13,
-				"Pop1030_de 40-49 ans" : 11,
+				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 30-39 ans" : 12,
+				"Pop1030_de 40-49 ans" : 10,
 				"Pop1030_de 50-59 ans" : 9,
 				"Pop1030_de 60-69 ans" : 7,
-				"Pop1030_de 70 ans et plus" : 5,
-				"Pop1030_Population" : 70,
-				"DensityPopulation (hab/km2)" : 16226.541057785033
+				"Pop1030_de 70 ans et plus" : 6,
+				"Pop1030_Population" : 71,
+				"DensityPopulation (hab/km2)" : 16458.34878718196
 			}
 		},
 		{
@@ -37300,14 +37300,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.4050330235757,
 				"BlockParcel.Latitude" : 50.856059672955,
 				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 42,
+				"Pop1030_de 0-9 ans" : 44,
 				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 46,
-				"Pop1030_de 30-39 ans" : 129,
+				"Pop1030_de 20-29 ans" : 52,
+				"Pop1030_de 30-39 ans" : 122,
 				"Pop1030_de 40-49 ans" : 45,
-				"Pop1030_de 50-59 ans" : 28,
-				"Pop1030_de 60-69 ans" : 20,
-				"Pop1030_de 70 ans et plus" : 13,
+				"Pop1030_de 50-59 ans" : 26,
+				"Pop1030_de 60-69 ans" : 22,
+				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 341,
 				"DensityPopulation (hab/km2)" : 14859.125899935769
 			}
@@ -37467,16 +37467,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39605587958573,
 				"BlockParcel.Latitude" : 50.8559547220621,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 31,
-				"Pop1030_de 10-19 ans" : 25,
-				"Pop1030_de 20-29 ans" : 29,
-				"Pop1030_de 30-39 ans" : 65,
+				"Pop1030_de 0-9 ans" : 32,
+				"Pop1030_de 10-19 ans" : 24,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 63,
 				"Pop1030_de 40-49 ans" : 27,
 				"Pop1030_de 50-59 ans" : 26,
 				"Pop1030_de 60-69 ans" : 17,
-				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 237,
-				"DensityPopulation (hab/km2)" : 16963.649833047624
+				"Pop1030_de 70 ans et plus" : 18,
+				"Pop1030_Population" : 235,
+				"DensityPopulation (hab/km2)" : 16820.49666989954
 			}
 		},
 		{
@@ -37607,16 +37607,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40179187196725,
 				"BlockParcel.Latitude" : 50.8549764489797,
 				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 48,
+				"Pop1030_de 0-9 ans" : 45,
 				"Pop1030_de 10-19 ans" : 40,
-				"Pop1030_de 20-29 ans" : 71,
-				"Pop1030_de 30-39 ans" : 86,
-				"Pop1030_de 40-49 ans" : 39,
-				"Pop1030_de 50-59 ans" : 42,
+				"Pop1030_de 20-29 ans" : 73,
+				"Pop1030_de 30-39 ans" : 89,
+				"Pop1030_de 40-49 ans" : 40,
+				"Pop1030_de 50-59 ans" : 43,
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 27,
-				"Pop1030_Population" : 372,
-				"DensityPopulation (hab/km2)" : 7860.113642030141
+				"Pop1030_Population" : 376,
+				"DensityPopulation (hab/km2)" : 7944.630993019712
 			}
 		},
 		{
@@ -37675,16 +37675,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39868633268784,
 				"BlockParcel.Latitude" : 50.8530841708356,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 34,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 34,
-				"Pop1030_de 30-39 ans" : 50,
-				"Pop1030_de 40-49 ans" : 30,
-				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 30,
-				"Pop1030_de 70 ans et plus" : 68,
-				"Pop1030_Population" : 299,
-				"DensityPopulation (hab/km2)" : 31850.153019213416
+				"Pop1030_de 0-9 ans" : 35,
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 33,
+				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 33,
+				"Pop1030_de 60-69 ans" : 29,
+				"Pop1030_de 70 ans et plus" : 69,
+				"Pop1030_Population" : 300,
+				"DensityPopulation (hab/km2)" : 31956.675270113796
 			}
 		},
 		{
@@ -37741,14 +37741,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 24,
 				"Pop1030_de 10-19 ans" : 21,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 47,
-				"Pop1030_de 40-49 ans" : 40,
-				"Pop1030_de 50-59 ans" : 30,
-				"Pop1030_de 60-69 ans" : 13,
-				"Pop1030_de 70 ans et plus" : 25,
-				"Pop1030_Population" : 232,
-				"DensityPopulation (hab/km2)" : 30414.263240692188
+				"Pop1030_de 20-29 ans" : 35,
+				"Pop1030_de 30-39 ans" : 43,
+				"Pop1030_de 40-49 ans" : 39,
+				"Pop1030_de 50-59 ans" : 29,
+				"Pop1030_de 60-69 ans" : 16,
+				"Pop1030_de 70 ans et plus" : 24,
+				"Pop1030_Population" : 231,
+				"DensityPopulation (hab/km2)" : 30283.167278447825
 			}
 		},
 		{
@@ -37823,14 +37823,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 23,
 				"Pop1030_de 10-19 ans" : 28,
-				"Pop1030_de 20-29 ans" : 19,
-				"Pop1030_de 30-39 ans" : 40,
-				"Pop1030_de 40-49 ans" : 35,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 20-29 ans" : 21,
+				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 40-49 ans" : 38,
+				"Pop1030_de 50-59 ans" : 35,
 				"Pop1030_de 60-69 ans" : 21,
-				"Pop1030_de 70 ans et plus" : 25,
-				"Pop1030_Population" : 227,
-				"DensityPopulation (hab/km2)" : 13829.472250280549
+				"Pop1030_de 70 ans et plus" : 26,
+				"Pop1030_Population" : 230,
+				"DensityPopulation (hab/km2)" : 14012.24060601113
 			}
 		},
 		{
@@ -37899,16 +37899,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39647668130938,
 				"BlockParcel.Latitude" : 50.853230213742,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 14,
+				"Pop1030_de 0-9 ans" : 12,
 				"Pop1030_de 10-19 ans" : 6,
-				"Pop1030_de 20-29 ans" : 11,
-				"Pop1030_de 30-39 ans" : 20,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 19,
 				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 11,
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 90,
-				"DensityPopulation (hab/km2)" : 10575.954744314542
+				"Pop1030_Population" : 84,
+				"DensityPopulation (hab/km2)" : 9870.891094693572
 			}
 		},
 		{
@@ -37984,16 +37984,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.3969150852627,
 				"BlockParcel.Latitude" : 50.8541793815007,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 25,
-				"Pop1030_de 10-19 ans" : 14,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 57,
-				"Pop1030_de 40-49 ans" : 29,
-				"Pop1030_de 50-59 ans" : 25,
+				"Pop1030_de 0-9 ans" : 27,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 31,
+				"Pop1030_de 30-39 ans" : 58,
+				"Pop1030_de 40-49 ans" : 31,
+				"Pop1030_de 50-59 ans" : 26,
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 24,
-				"Pop1030_Population" : 217,
-				"DensityPopulation (hab/km2)" : 19913.2808736149
+				"Pop1030_Population" : 231,
+				"DensityPopulation (hab/km2)" : 21198.008671912638
 			}
 		},
 		{
@@ -38046,16 +38046,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.41188684212306,
 				"BlockParcel.Latitude" : 50.8547821902332,
 				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 4,
+				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 6,
 				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 15,
+				"Pop1030_de 30-39 ans" : 16,
 				"Pop1030_de 40-49 ans" : 12,
-				"Pop1030_de 50-59 ans" : 4,
+				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 1,
-				"Pop1030_Population" : 58,
-				"DensityPopulation (hab/km2)" : 4127.740766492992
+				"Pop1030_Population" : 61,
+				"DensityPopulation (hab/km2)" : 4341.24459924263
 			}
 		},
 		{
@@ -38150,15 +38150,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8518982788944,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 37,
-				"Pop1030_de 10-19 ans" : 22,
-				"Pop1030_de 20-29 ans" : 51,
-				"Pop1030_de 30-39 ans" : 74,
-				"Pop1030_de 40-49 ans" : 51,
-				"Pop1030_de 50-59 ans" : 31,
-				"Pop1030_de 60-69 ans" : 31,
-				"Pop1030_de 70 ans et plus" : 46,
-				"Pop1030_Population" : 343,
-				"DensityPopulation (hab/km2)" : 14297.093605114274
+				"Pop1030_de 10-19 ans" : 21,
+				"Pop1030_de 20-29 ans" : 53,
+				"Pop1030_de 30-39 ans" : 79,
+				"Pop1030_de 40-49 ans" : 49,
+				"Pop1030_de 50-59 ans" : 28,
+				"Pop1030_de 60-69 ans" : 30,
+				"Pop1030_de 70 ans et plus" : 47,
+				"Pop1030_Population" : 344,
+				"DensityPopulation (hab/km2)" : 14338.776093758923
 			}
 		},
 		{
@@ -38242,15 +38242,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8497157461874,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 6,
-				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 10-19 ans" : 10,
 				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 107,
-				"DensityPopulation (hab/km2)" : 9882.691527947236
+				"Pop1030_de 70 ans et plus" : 14,
+				"Pop1030_Population" : 110,
+				"DensityPopulation (hab/km2)" : 10159.776337142019
 			}
 		},
 		{
@@ -38333,16 +38333,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39782556375235,
 				"BlockParcel.Latitude" : 50.850026651804,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 13,
-				"Pop1030_de 10-19 ans" : 9,
+				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 10-19 ans" : 10,
 				"Pop1030_de 20-29 ans" : 27,
 				"Pop1030_de 30-39 ans" : 27,
-				"Pop1030_de 40-49 ans" : 17,
-				"Pop1030_de 50-59 ans" : 14,
+				"Pop1030_de 40-49 ans" : 16,
+				"Pop1030_de 50-59 ans" : 12,
 				"Pop1030_de 60-69 ans" : 12,
-				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 128,
-				"DensityPopulation (hab/km2)" : 19013.637828820814
+				"Pop1030_de 70 ans et plus" : 10,
+				"Pop1030_Population" : 124,
+				"DensityPopulation (hab/km2)" : 18419.461646670163
 			}
 		},
 		{
@@ -38449,16 +38449,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39890987586479,
 				"BlockParcel.Latitude" : 50.8509560907019,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 41,
-				"Pop1030_de 10-19 ans" : 29,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 73,
+				"Pop1030_de 0-9 ans" : 43,
+				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 20-29 ans" : 43,
+				"Pop1030_de 30-39 ans" : 71,
 				"Pop1030_de 40-49 ans" : 46,
 				"Pop1030_de 50-59 ans" : 37,
-				"Pop1030_de 60-69 ans" : 28,
-				"Pop1030_de 70 ans et plus" : 26,
-				"Pop1030_Population" : 322,
-				"DensityPopulation (hab/km2)" : 13911.76914067175
+				"Pop1030_de 60-69 ans" : 29,
+				"Pop1030_de 70 ans et plus" : 27,
+				"Pop1030_Population" : 321,
+				"DensityPopulation (hab/km2)" : 13868.564888682085
 			}
 		},
 		{
@@ -38542,16 +38542,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.40633030516987,
 				"BlockParcel.Latitude" : 50.851362519669,
 				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 18,
+				"Pop1030_de 0-9 ans" : 17,
 				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 27,
+				"Pop1030_de 20-29 ans" : 26,
 				"Pop1030_de 30-39 ans" : 12,
-				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 40-49 ans" : 23,
 				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 18,
-				"Pop1030_de 70 ans et plus" : 9,
-				"Pop1030_Population" : 154,
-				"DensityPopulation (hab/km2)" : 5926.05134500201
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 8,
+				"Pop1030_Population" : 148,
+				"DensityPopulation (hab/km2)" : 5695.166227664269
 			}
 		},
 		{
@@ -38614,14 +38614,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 5,
 				"Pop1030_de 10-19 ans" : 8,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 16,
 				"Pop1030_de 40-49 ans" : 18,
 				"Pop1030_de 50-59 ans" : 5,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 7,
-				"Pop1030_Population" : 85,
-				"DensityPopulation (hab/km2)" : 20357.37978967234
+				"Pop1030_Population" : 86,
+				"DensityPopulation (hab/km2)" : 20596.878375433193
 			}
 		},
 		{
@@ -38679,16 +38679,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39131820811172,
 				"BlockParcel.Latitude" : 50.8516606007565,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 4,
+				"Pop1030_de 0-9 ans" : 3,
 				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 21,
-				"Pop1030_de 30-39 ans" : 13,
+				"Pop1030_de 20-29 ans" : 20,
+				"Pop1030_de 30-39 ans" : 14,
 				"Pop1030_de 40-49 ans" : 9,
 				"Pop1030_de 50-59 ans" : 14,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 91,
-				"DensityPopulation (hab/km2)" : 7869.290224612027
+				"Pop1030_Population" : 90,
+				"DensityPopulation (hab/km2)" : 7782.814507858048
 			}
 		},
 		{
@@ -38765,15 +38765,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8507393095486,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 12,
-				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 32,
-				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 10-19 ans" : 13,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 28,
 				"Pop1030_de 40-49 ans" : 19,
-				"Pop1030_de 50-59 ans" : 15,
-				"Pop1030_de 60-69 ans" : 19,
-				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 153,
-				"DensityPopulation (hab/km2)" : 22156.156008300593
+				"Pop1030_de 50-59 ans" : 13,
+				"Pop1030_de 60-69 ans" : 17,
+				"Pop1030_de 70 ans et plus" : 16,
+				"Pop1030_Population" : 146,
+				"DensityPopulation (hab/km2)" : 21142.475668051546
 			}
 		},
 		{
@@ -38821,16 +38821,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39084179183298,
 				"BlockParcel.Latitude" : 50.8507736859412,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 15,
-				"Pop1030_de 10-19 ans" : 27,
-				"Pop1030_de 20-29 ans" : 20,
-				"Pop1030_de 30-39 ans" : 25,
-				"Pop1030_de 40-49 ans" : 41,
-				"Pop1030_de 50-59 ans" : 36,
+				"Pop1030_de 0-9 ans" : 16,
+				"Pop1030_de 10-19 ans" : 29,
+				"Pop1030_de 20-29 ans" : 19,
+				"Pop1030_de 30-39 ans" : 26,
+				"Pop1030_de 40-49 ans" : 45,
+				"Pop1030_de 50-59 ans" : 34,
 				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 31,
-				"Pop1030_Population" : 209,
-				"DensityPopulation (hab/km2)" : 12244.197334280061
+				"Pop1030_de 70 ans et plus" : 35,
+				"Pop1030_Population" : 218,
+				"DensityPopulation (hab/km2)" : 12771.459420445231
 			}
 		},
 		{
@@ -38911,16 +38911,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39308765856387,
 				"BlockParcel.Latitude" : 50.8493732233811,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 16,
-				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 5,
 				"Pop1030_de 20-29 ans" : 13,
-				"Pop1030_de 30-39 ans" : 26,
-				"Pop1030_de 40-49 ans" : 15,
-				"Pop1030_de 50-59 ans" : 13,
-				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 40-49 ans" : 16,
+				"Pop1030_de 50-59 ans" : 12,
+				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 10,
-				"Pop1030_Population" : 108,
-				"DensityPopulation (hab/km2)" : 9550.642280693377
+				"Pop1030_Population" : 106,
+				"DensityPopulation (hab/km2)" : 9373.77853475461
 			}
 		},
 		{
@@ -39009,13 +39009,13 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Pop1030_de 0-9 ans" : 8,
 				"Pop1030_de 10-19 ans" : 11,
 				"Pop1030_de 20-29 ans" : 17,
-				"Pop1030_de 30-39 ans" : 27,
+				"Pop1030_de 30-39 ans" : 26,
 				"Pop1030_de 40-49 ans" : 24,
 				"Pop1030_de 50-59 ans" : 23,
 				"Pop1030_de 60-69 ans" : 9,
-				"Pop1030_de 70 ans et plus" : 16,
-				"Pop1030_Population" : 135,
-				"DensityPopulation (hab/km2)" : 15873.03453619581
+				"Pop1030_de 70 ans et plus" : 15,
+				"Pop1030_Population" : 133,
+				"DensityPopulation (hab/km2)" : 15637.878468992909
 			}
 		},
 		{
@@ -39138,16 +39138,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39130067001107,
 				"BlockParcel.Latitude" : 50.8492332062525,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 9,
-				"Pop1030_de 10-19 ans" : 13,
-				"Pop1030_de 20-29 ans" : 18,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 28,
-				"Pop1030_de 50-59 ans" : 17,
-				"Pop1030_de 60-69 ans" : 4,
+				"Pop1030_de 0-9 ans" : 8,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 15,
+				"Pop1030_de 30-39 ans" : 18,
+				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 50-59 ans" : 16,
+				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 119,
-				"DensityPopulation (hab/km2)" : 14309.815932476908
+				"Pop1030_Population" : 113,
+				"DensityPopulation (hab/km2)" : 13588.312608150341
 			}
 		},
 		{
@@ -39225,15 +39225,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8486235521337,
 				"Quartier" : "Plasky",
 				"Pop1030_de 0-9 ans" : 6,
-				"Pop1030_de 10-19 ans" : 12,
-				"Pop1030_de 20-29 ans" : 40,
-				"Pop1030_de 30-39 ans" : 30,
-				"Pop1030_de 40-49 ans" : 20,
+				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 29,
+				"Pop1030_de 40-49 ans" : 16,
 				"Pop1030_de 50-59 ans" : 16,
 				"Pop1030_de 60-69 ans" : 6,
-				"Pop1030_de 70 ans et plus" : 13,
-				"Pop1030_Population" : 143,
-				"DensityPopulation (hab/km2)" : 15177.599137318002
+				"Pop1030_de 70 ans et plus" : 12,
+				"Pop1030_Population" : 130,
+				"DensityPopulation (hab/km2)" : 13797.817397561821
 			}
 		},
 		{
@@ -39338,16 +39338,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.39687820566494,
 				"BlockParcel.Latitude" : 50.8481045188214,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 20,
-				"Pop1030_de 10-19 ans" : 17,
-				"Pop1030_de 20-29 ans" : 22,
-				"Pop1030_de 30-39 ans" : 48,
+				"Pop1030_de 0-9 ans" : 22,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 47,
 				"Pop1030_de 40-49 ans" : 24,
-				"Pop1030_de 50-59 ans" : 19,
-				"Pop1030_de 60-69 ans" : 14,
-				"Pop1030_de 70 ans et plus" : 18,
-				"Pop1030_Population" : 182,
-				"DensityPopulation (hab/km2)" : 17824.439068819964
+				"Pop1030_de 50-59 ans" : 20,
+				"Pop1030_de 60-69 ans" : 15,
+				"Pop1030_de 70 ans et plus" : 19,
+				"Pop1030_Population" : 190,
+				"DensityPopulation (hab/km2)" : 18607.93089602084
 			}
 		},
 		{
@@ -39438,21 +39438,21 @@ var json_SchaerbeekDemographicDistributionWomen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.433",
 				"BlockParcel.Area (m2)" : 9163.9,
-				"BlockParcel.Area (km2)" : 0.009163899999999999,
+				"BlockParcel.Area (km2)" : 0.0091639,
 				"BlockParcel.Perimeter (m)" : 465.87,
 				"BlockParcel.Longitude" : 4.39686635831807,
 				"BlockParcel.Latitude" : 50.8452257832986,
 				"Quartier" : "Linthout",
-				"Pop1030_de 0-9 ans" : 17,
+				"Pop1030_de 0-9 ans" : 16,
 				"Pop1030_de 10-19 ans" : 4,
-				"Pop1030_de 20-29 ans" : 42,
-				"Pop1030_de 30-39 ans" : 51,
-				"Pop1030_de 40-49 ans" : 15,
+				"Pop1030_de 20-29 ans" : 45,
+				"Pop1030_de 30-39 ans" : 49,
+				"Pop1030_de 40-49 ans" : 14,
 				"Pop1030_de 50-59 ans" : 18,
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 11,
-				"Pop1030_Population" : 168,
-				"DensityPopulation (hab/km2)" : 18332.80590141752
+				"Pop1030_Population" : 167,
+				"DensityPopulation (hab/km2)" : 18223.68205676622
 			}
 		},
 		{
@@ -39523,16 +39523,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38898115194964,
 				"BlockParcel.Latitude" : 50.8531137520581,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_de 0-9 ans" : 21,
-				"Pop1030_de 10-19 ans" : 18,
-				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 0-9 ans" : 19,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 17,
 				"Pop1030_de 30-39 ans" : 34,
 				"Pop1030_de 40-49 ans" : 20,
-				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 50-59 ans" : 19,
+				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 8,
-				"Pop1030_Population" : 149,
-				"DensityPopulation (hab/km2)" : 22402.07362012999
+				"Pop1030_Population" : 147,
+				"DensityPopulation (hab/km2)" : 22101.374645363147
 			}
 		},
 		{
@@ -39650,15 +39650,15 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Latitude" : 50.8529661743333,
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 23,
-				"Pop1030_de 10-19 ans" : 23,
-				"Pop1030_de 20-29 ans" : 69,
-				"Pop1030_de 30-39 ans" : 40,
-				"Pop1030_de 40-49 ans" : 27,
-				"Pop1030_de 50-59 ans" : 33,
+				"Pop1030_de 10-19 ans" : 25,
+				"Pop1030_de 20-29 ans" : 78,
+				"Pop1030_de 30-39 ans" : 45,
+				"Pop1030_de 40-49 ans" : 28,
+				"Pop1030_de 50-59 ans" : 29,
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 17,
-				"Pop1030_Population" : 250,
-				"DensityPopulation (hab/km2)" : 13387.913177776494
+				"Pop1030_Population" : 263,
+				"DensityPopulation (hab/km2)" : 14084.08466302087
 			}
 		},
 		{
@@ -39723,16 +39723,16 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"BlockParcel.Longitude" : 4.38637601484224,
 				"BlockParcel.Latitude" : 50.851596102895996,
 				"Quartier" : "Plasky",
-				"Pop1030_de 0-9 ans" : 10,
+				"Pop1030_de 0-9 ans" : 9,
 				"Pop1030_de 10-19 ans" : 15,
-				"Pop1030_de 20-29 ans" : 14,
-				"Pop1030_de 30-39 ans" : 21,
-				"Pop1030_de 40-49 ans" : 16,
+				"Pop1030_de 20-29 ans" : 13,
+				"Pop1030_de 30-39 ans" : 19,
+				"Pop1030_de 40-49 ans" : 17,
 				"Pop1030_de 50-59 ans" : 8,
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 1,
-				"Pop1030_Population" : 92,
-				"DensityPopulation (hab/km2)" : 13750.984615338626
+				"Pop1030_Population" : 89,
+				"DensityPopulation (hab/km2)" : 13302.582943099324
 			}
 		},
 		{
@@ -39814,14 +39814,14 @@ var json_SchaerbeekDemographicDistributionWomen = {
 				"Quartier" : "Bienfaiteurs",
 				"Pop1030_de 0-9 ans" : 15,
 				"Pop1030_de 10-19 ans" : 10,
-				"Pop1030_de 20-29 ans" : 10,
-				"Pop1030_de 30-39 ans" : 23,
-				"Pop1030_de 40-49 ans" : 13,
-				"Pop1030_de 50-59 ans" : 8,
-				"Pop1030_de 60-69 ans" : 8,
+				"Pop1030_de 20-29 ans" : 15,
+				"Pop1030_de 30-39 ans" : 22,
+				"Pop1030_de 40-49 ans" : 14,
+				"Pop1030_de 50-59 ans" : 10,
+				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 6,
-				"Pop1030_Population" : 93,
-				"DensityPopulation (hab/km2)" : 14445.861416036149
+				"Pop1030_Population" : 101,
+				"DensityPopulation (hab/km2)" : 15688.516161501624
 					}
 				}
 			]
