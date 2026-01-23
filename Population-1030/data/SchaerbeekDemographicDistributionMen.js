@@ -666,7 +666,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.006",
 				"BlockParcel.Area (m2)" : 10228.86,
-				"BlockParcel.Area (km2)" : 0.010228860000000001,
+				"BlockParcel.Area (km2)" : 0.01022886,
 				"BlockParcel.Perimeter (m)" : 447.79,
 				"BlockParcel.Longitude" : 4.3784752156935,
 				"BlockParcel.Latitude" : 50.8600866001064,
@@ -680,7 +680,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 252,
-				"DensityPopulation (hab/km2)" : 24636.176465412565
+				"DensityPopulation (hab/km2)" : 24636.17646541257
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.013",
 				"BlockParcel.Area (m2)" : 449.19,
-				"BlockParcel.Area (km2)" : 0.00044919000000000003,
+				"BlockParcel.Area (km2)" : 0.00044919,
 				"BlockParcel.Perimeter (m)" : 93.47,
 				"BlockParcel.Longitude" : 4.381763059635,
 				"BlockParcel.Latitude" : 50.8691563794634,
@@ -2039,7 +2039,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.021",
 				"BlockParcel.Area (m2)" : 6317.16,
-				"BlockParcel.Area (km2)" : 0.0063171600000000005,
+				"BlockParcel.Area (km2)" : 0.00631716,
 				"BlockParcel.Perimeter (m)" : 380.54,
 				"BlockParcel.Longitude" : 4.37626134214118,
 				"BlockParcel.Latitude" : 50.8691319799129,
@@ -2053,7 +2053,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 200,
-				"DensityPopulation (hab/km2)" : 31659.796490828154
+				"DensityPopulation (hab/km2)" : 31659.796490828157
 			}
 		},
 		{
@@ -2826,7 +2826,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.030",
 				"BlockParcel.Area (m2)" : 9806.22,
-				"BlockParcel.Area (km2)" : 0.009806220000000001,
+				"BlockParcel.Area (km2)" : 0.00980622,
 				"BlockParcel.Perimeter (m)" : 612.63,
 				"BlockParcel.Longitude" : 4.37394996151856,
 				"BlockParcel.Latitude" : 50.8612121905707,
@@ -2840,7 +2840,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 362,
-				"DensityPopulation (hab/km2)" : 36915.34556638541
+				"DensityPopulation (hab/km2)" : 36915.34556638542
 			}
 		},
 		{
@@ -3070,7 +3070,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.032",
 				"BlockParcel.Area (m2)" : 15947.72,
-				"BlockParcel.Area (km2)" : 0.015947720000000002,
+				"BlockParcel.Area (km2)" : 0.01594772,
 				"BlockParcel.Perimeter (m)" : 530.42,
 				"BlockParcel.Longitude" : 4.37356779695881,
 				"BlockParcel.Latitude" : 50.8630677409017,
@@ -3084,7 +3084,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 140,
-				"DensityPopulation (hab/km2)" : 8778.684351117274
+				"DensityPopulation (hab/km2)" : 8778.684351117276
 			}
 		},
 		{
@@ -4359,7 +4359,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.046",
 				"BlockParcel.Area (m2)" : 3150.47,
-				"BlockParcel.Area (km2)" : 0.0031504700000000003,
+				"BlockParcel.Area (km2)" : 0.00315047,
 				"BlockParcel.Perimeter (m)" : 309.66,
 				"BlockParcel.Longitude" : 4.36564196981511,
 				"BlockParcel.Latitude" : 50.8584368061672,
@@ -4373,7 +4373,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 105,
-				"DensityPopulation (hab/km2)" : 33328.360530333564
+				"DensityPopulation (hab/km2)" : 33328.36053033357
 			}
 		},
 		{
@@ -5008,7 +5008,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.051",
 				"BlockParcel.Area (m2)" : 9680.59,
-				"BlockParcel.Area (km2)" : 0.009680590000000001,
+				"BlockParcel.Area (km2)" : 0.00968059,
 				"BlockParcel.Perimeter (m)" : 538.14,
 				"BlockParcel.Longitude" : 4.371532246251,
 				"BlockParcel.Latitude" : 50.8574974284991,
@@ -5022,7 +5022,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 253,
-				"DensityPopulation (hab/km2)" : 26134.77071128929
+				"DensityPopulation (hab/km2)" : 26134.770711289293
 			}
 		},
 		{
@@ -5751,7 +5751,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.059",
 				"BlockParcel.Area (m2)" : 7621.23,
-				"BlockParcel.Area (km2)" : 0.0076212300000000005,
+				"BlockParcel.Area (km2)" : 0.00762123,
 				"BlockParcel.Perimeter (m)" : 398.86,
 				"BlockParcel.Longitude" : 4.37586616919744,
 				"BlockParcel.Latitude" : 50.8656196553501,
@@ -5765,7 +5765,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 207,
-				"DensityPopulation (hab/km2)" : 27160.970079632814
+				"DensityPopulation (hab/km2)" : 27160.970079632818
 			}
 		},
 		{
@@ -6535,7 +6535,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.067",
 				"BlockParcel.Area (m2)" : 11439.92,
-				"BlockParcel.Area (km2)" : 0.011439920000000001,
+				"BlockParcel.Area (km2)" : 0.01143992,
 				"BlockParcel.Perimeter (m)" : 524.16,
 				"BlockParcel.Longitude" : 4.36955777046469,
 				"BlockParcel.Latitude" : 50.8652417654932,
@@ -7987,7 +7987,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.081",
 				"BlockParcel.Area (m2)" : 8336.94,
-				"BlockParcel.Area (km2)" : 0.008336940000000001,
+				"BlockParcel.Area (km2)" : 0.00833694,
 				"BlockParcel.Perimeter (m)" : 425.01,
 				"BlockParcel.Longitude" : 4.37853867404508,
 				"BlockParcel.Latitude" : 50.8744248928422,
@@ -8001,7 +8001,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 232,
-				"DensityPopulation (hab/km2)" : 27827.95606061696
+				"DensityPopulation (hab/km2)" : 27827.95606061697
 			}
 		},
 		{
@@ -8191,7 +8191,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.085",
 				"BlockParcel.Area (m2)" : 5.89,
-				"BlockParcel.Area (km2)" : 5.8899999999999995e-6,
+				"BlockParcel.Area (km2)" : 5.89e-6,
 				"BlockParcel.Perimeter (m)" : 10.9,
 				"BlockParcel.Longitude" : 4.36475122976985,
 				"BlockParcel.Latitude" : 50.862207670089,
@@ -9216,41 +9216,6 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 4.3976769835, 50.8652417936 ],
-						[ 4.3978547171, 50.8651323031 ],
-						[ 4.3978886061, 50.8650548407 ],
-						[ 4.3981872439, 50.8652897671 ],
-						[ 4.3979446009, 50.8654375077 ],
-						[ 4.3976769835, 50.8652417936 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.099",
-				"BlockParcel.Area (m2)" : 714.71,
-				"BlockParcel.Area (km2)" : 0.00071471,
-				"BlockParcel.Perimeter (m)" : 112.44,
-				"BlockParcel.Longitude" : 4.39793211372124,
-				"BlockParcel.Latitude" : 50.8652461741852,
-				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 0,
-				"Pop1030_de 10-19 ans" : 0,
-				"Pop1030_de 20-29 ans" : 0,
-				"Pop1030_de 30-39 ans" : 0,
-				"Pop1030_de 40-49 ans" : 0,
-				"Pop1030_de 50-59 ans" : 0,
-				"Pop1030_de 60-69 ans" : 0,
-				"Pop1030_de 70 ans et plus" : 0,
-				"Pop1030_Population" : 0,
-				"DensityPopulation (hab/km2)" : 0
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ 4.3998945792, 50.8640636631 ],
 						[ 4.3998611321, 50.8641034858 ],
 						[ 4.3996871943, 50.8643110648 ],
@@ -9346,7 +9311,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.101",
 				"BlockParcel.Area (m2)" : 2216.56,
-				"BlockParcel.Area (km2)" : 0.0022165600000000002,
+				"BlockParcel.Area (km2)" : 0.00221656,
 				"BlockParcel.Perimeter (m)" : 192.89,
 				"BlockParcel.Longitude" : 4.3970123154889205,
 				"BlockParcel.Latitude" : 50.866831279774,
@@ -9360,7 +9325,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 2,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 18,
-				"DensityPopulation (hab/km2)" : 8120.69152199805
+				"DensityPopulation (hab/km2)" : 8120.691521998052
 			}
 		},
 		{
@@ -9462,7 +9427,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.103",
 				"BlockParcel.Area (m2)" : 6808.02,
-				"BlockParcel.Area (km2)" : 0.0068080200000000006,
+				"BlockParcel.Area (km2)" : 0.00680802,
 				"BlockParcel.Perimeter (m)" : 342.35,
 				"BlockParcel.Longitude" : 4.39576589162835,
 				"BlockParcel.Latitude" : 50.8678196413152,
@@ -9476,7 +9441,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 30,
-				"DensityPopulation (hab/km2)" : 4406.567548273947
+				"DensityPopulation (hab/km2)" : 4406.567548273948
 			}
 		},
 		{
@@ -9595,7 +9560,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.105",
 				"BlockParcel.Area (m2)" : 5174.2,
-				"BlockParcel.Area (km2)" : 0.0051741999999999995,
+				"BlockParcel.Area (km2)" : 0.0051742,
 				"BlockParcel.Perimeter (m)" : 298.68,
 				"BlockParcel.Longitude" : 4.39762675209168,
 				"BlockParcel.Latitude" : 50.8584939047931,
@@ -9609,7 +9574,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 103,
-				"DensityPopulation (hab/km2)" : 19906.458969502535
+				"DensityPopulation (hab/km2)" : 19906.45896950253
 			}
 		},
 		{
@@ -10090,42 +10055,6 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"BlockParcel.Longitude" : 4.39492264053399,
 				"BlockParcel.Latitude" : 50.8669924008324,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 0,
-				"Pop1030_de 10-19 ans" : 0,
-				"Pop1030_de 20-29 ans" : 0,
-				"Pop1030_de 30-39 ans" : 0,
-				"Pop1030_de 40-49 ans" : 0,
-				"Pop1030_de 50-59 ans" : 0,
-				"Pop1030_de 60-69 ans" : 0,
-				"Pop1030_de 70 ans et plus" : 0,
-				"Pop1030_Population" : 0,
-				"DensityPopulation (hab/km2)" : 0
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 4.3941585832, 50.8617967658 ],
-						[ 4.3946009544, 50.8625112222 ],
-						[ 4.394545155, 50.8625250597 ],
-						[ 4.394106447, 50.861809623 ],
-						[ 4.3938930687, 50.8614616338 ],
-						[ 4.3939433597, 50.8614491638 ],
-						[ 4.3941585832, 50.8617967658 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.111",
-				"BlockParcel.Area (m2)" : 509.02,
-				"BlockParcel.Area (km2)" : 0.00050902,
-				"BlockParcel.Perimeter (m)" : 261.82,
-				"BlockParcel.Longitude" : 4.39424701152074,
-				"BlockParcel.Latitude" : 50.8619871117432,
-				"Quartier" : "Jardin",
 				"Pop1030_de 0-9 ans" : 0,
 				"Pop1030_de 10-19 ans" : 0,
 				"Pop1030_de 20-29 ans" : 0,
@@ -11364,7 +11293,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.126",
 				"BlockParcel.Area (m2)" : 4574.64,
-				"BlockParcel.Area (km2)" : 0.0045746400000000005,
+				"BlockParcel.Area (km2)" : 0.00457464,
 				"BlockParcel.Perimeter (m)" : 272.82,
 				"BlockParcel.Longitude" : 4.39107020999061,
 				"BlockParcel.Latitude" : 50.8528187442977,
@@ -11378,7 +11307,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 98,
-				"DensityPopulation (hab/km2)" : 21422.45072836332
+				"DensityPopulation (hab/km2)" : 21422.45072836333
 			}
 		},
 		{
@@ -11800,7 +11729,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.131",
 				"BlockParcel.Area (m2)" : 12554.56,
-				"BlockParcel.Area (km2)" : 0.012554560000000001,
+				"BlockParcel.Area (km2)" : 0.01255456,
 				"BlockParcel.Perimeter (m)" : 474.67,
 				"BlockParcel.Longitude" : 4.38673580942659,
 				"BlockParcel.Latitude" : 50.8668497795431,
@@ -11814,7 +11743,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 154,
-				"DensityPopulation (hab/km2)" : 12266.459358193357
+				"DensityPopulation (hab/km2)" : 12266.459358193359
 			}
 		},
 		{
@@ -12355,7 +12284,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.137",
 				"BlockParcel.Area (m2)" : 5243.84,
-				"BlockParcel.Area (km2)" : 0.0052438400000000005,
+				"BlockParcel.Area (km2)" : 0.00524384,
 				"BlockParcel.Perimeter (m)" : 335.77,
 				"BlockParcel.Longitude" : 4.38351751406381,
 				"BlockParcel.Latitude" : 50.8613637977662,
@@ -12554,7 +12483,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.139",
 				"BlockParcel.Area (m2)" : 14053.31,
-				"BlockParcel.Area (km2)" : 0.014053310000000001,
+				"BlockParcel.Area (km2)" : 0.01405331,
 				"BlockParcel.Perimeter (m)" : 1118.87,
 				"BlockParcel.Longitude" : 4.38196665115606,
 				"BlockParcel.Latitude" : 50.8640145959954,
@@ -12640,7 +12569,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.140",
 				"BlockParcel.Area (m2)" : 6903.98,
-				"BlockParcel.Area (km2)" : 0.0069039800000000005,
+				"BlockParcel.Area (km2)" : 0.00690398,
 				"BlockParcel.Perimeter (m)" : 340.72,
 				"BlockParcel.Longitude" : 4.38970906617737,
 				"BlockParcel.Latitude" : 50.8768373475361,
@@ -13068,7 +12997,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.145",
 				"BlockParcel.Area (m2)" : 6076.46,
-				"BlockParcel.Area (km2)" : 0.0060764600000000005,
+				"BlockParcel.Area (km2)" : 0.00607646,
 				"BlockParcel.Perimeter (m)" : 314.94,
 				"BlockParcel.Longitude" : 4.39205871620553,
 				"BlockParcel.Latitude" : 50.8753707303668,
@@ -13791,7 +13720,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.152",
 				"BlockParcel.Area (m2)" : 13992.86,
-				"BlockParcel.Area (km2)" : 0.013992860000000001,
+				"BlockParcel.Area (km2)" : 0.01399286,
 				"BlockParcel.Perimeter (m)" : 542.49,
 				"BlockParcel.Longitude" : 4.3884472944433,
 				"BlockParcel.Latitude" : 50.8739385510254,
@@ -14342,7 +14271,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.158",
 				"BlockParcel.Area (m2)" : 4606.91,
-				"BlockParcel.Area (km2)" : 0.0046069100000000005,
+				"BlockParcel.Area (km2)" : 0.00460691,
 				"BlockParcel.Perimeter (m)" : 323.51,
 				"BlockParcel.Longitude" : 4.38281241857692,
 				"BlockParcel.Latitude" : 50.8609183785101,
@@ -14356,7 +14285,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 104,
-				"DensityPopulation (hab/km2)" : 22574.784399955715
+				"DensityPopulation (hab/km2)" : 22574.78439995572
 			}
 		},
 		{
@@ -14509,7 +14438,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.161",
 				"BlockParcel.Area (m2)" : 22.21,
-				"BlockParcel.Area (km2)" : 2.2210000000000002e-5,
+				"BlockParcel.Area (km2)" : 2.221e-5,
 				"BlockParcel.Perimeter (m)" : 21.44,
 				"BlockParcel.Longitude" : 4.3828135768375,
 				"BlockParcel.Latitude" : 50.859343706559,
@@ -17827,220 +17756,6 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 4.4090654427, 50.8561038712 ],
-						[ 4.4087552418, 50.856387175 ],
-						[ 4.408742548, 50.8564008643 ],
-						[ 4.4087236904, 50.8564146668 ],
-						[ 4.4086955966, 50.8564279519 ],
-						[ 4.4086633565, 50.8564366846 ],
-						[ 4.4086225004, 50.856440482 ],
-						[ 4.4085832802, 50.8564372876 ],
-						[ 4.4085530399, 50.8564298283 ],
-						[ 4.4083025261, 50.8563667546 ],
-						[ 4.4080650678, 50.8562859483 ],
-						[ 4.4077310737, 50.8561572881 ],
-						[ 4.407490502, 50.856064614 ],
-						[ 4.4073372814, 50.8560048401 ],
-						[ 4.4071454472, 50.8559300119 ],
-						[ 4.4069536121, 50.8558551752 ],
-						[ 4.4067180193, 50.8557632634 ],
-						[ 4.4066825517, 50.8557486347 ],
-						[ 4.4065601746, 50.8557016925 ],
-						[ 4.4064963168, 50.8556767769 ],
-						[ 4.4057459311, 50.8553844121 ],
-						[ 4.4053235791, 50.8552237253 ],
-						[ 4.4051710104, 50.8551730728 ],
-						[ 4.4051029676, 50.8551527778 ],
-						[ 4.4050097832, 50.8551282658 ],
-						[ 4.4049598384, 50.8551156425 ],
-						[ 4.4046583561, 50.8550500801 ],
-						[ 4.4043926003, 50.8549852564 ],
-						[ 4.4043143338, 50.8549662225 ],
-						[ 4.4042353573, 50.854947099 ],
-						[ 4.4041546748, 50.8549275267 ],
-						[ 4.4040739937, 50.8549079542 ],
-						[ 4.4039945912, 50.8548886501 ],
-						[ 4.4039173181, 50.854869977 ],
-						[ 4.4038168935, 50.8548455567 ],
-						[ 4.4037107871, 50.854819879 ],
-						[ 4.4036078058, 50.8547948285 ],
-						[ 4.403501272, 50.8547690618 ],
-						[ 4.403340904, 50.8547301844 ],
-						[ 4.4032535487, 50.8547089958 ],
-						[ 4.4031634916, 50.8546870881 ],
-						[ 4.4030839478, 50.8546677852 ],
-						[ 4.403004262, 50.8546484813 ],
-						[ 4.4029196044, 50.8546279207 ],
-						[ 4.4028252877, 50.8546051154 ],
-						[ 4.4027390678, 50.8545841948 ],
-						[ 4.4026609434, 50.8545652506 ],
-						[ 4.4025680487, 50.8545427134 ],
-						[ 4.4024831075, 50.8545220627 ],
-						[ 4.4024055494, 50.8545009606 ],
-						[ 4.4023204647, 50.8544755445 ],
-						[ 4.4022396368, 50.8544474316 ],
-						[ 4.4021570988, 50.854412846 ],
-						[ 4.402074562, 50.8543763724 ],
-						[ 4.4019962833, 50.8543386388 ],
-						[ 4.401906916, 50.8542852672 ],
-						[ 4.4017893057, 50.8542110843 ],
-						[ 4.4015926414, 50.854087037 ],
-						[ 4.401389729, 50.8539767709 ],
-						[ 4.4013018667, 50.8539784667 ],
-						[ 4.4012673362, 50.8539712678 ],
-						[ 4.4010464696, 50.8539228756 ],
-						[ 4.4007569942, 50.8538534692 ],
-						[ 4.4004775914, 50.853788947 ],
-						[ 4.4001469443, 50.8537125913 ],
-						[ 4.4000980796, 50.8536961531 ],
-						[ 4.4000761989, 50.8536842037 ],
-						[ 4.4000497732, 50.8536635352 ],
-						[ 4.400031575, 50.8536370214 ],
-						[ 4.4000243213, 50.8536194934 ],
-						[ 4.400024168, 50.853601605 ],
-						[ 4.400030542, 50.8535792188 ],
-						[ 4.4000408548, 50.8535609043 ],
-						[ 4.4001139901, 50.8534310933 ],
-						[ 4.4001278463, 50.8534065028 ],
-						[ 4.4002339565, 50.8532358549 ],
-						[ 4.400431903, 50.852900186 ],
-						[ 4.4005613814, 50.852680618 ],
-						[ 4.400800856, 50.8522745497 ],
-						[ 4.4010425986, 50.8523307288 ],
-						[ 4.4011219262, 50.8521942016 ],
-						[ 4.401174337, 50.8521040127 ],
-						[ 4.4009623652, 50.8520528142 ],
-						[ 4.4013944675, 50.8513218276 ],
-						[ 4.4017741739, 50.8506759809 ],
-						[ 4.4019210269, 50.8504295774 ],
-						[ 4.4028454945, 50.8506440666 ],
-						[ 4.4031080877, 50.8507049712 ],
-						[ 4.4034559395, 50.8507856495 ],
-						[ 4.403340443, 50.8509898783 ],
-						[ 4.4033152574, 50.8510345211 ],
-						[ 4.4030316315, 50.851543757 ],
-						[ 4.4032340726, 50.8515915115 ],
-						[ 4.403264369, 50.8515401937 ],
-						[ 4.4032975009, 50.8514840898 ],
-						[ 4.4033273987, 50.8514334599 ],
-						[ 4.4033572794, 50.8513828498 ],
-						[ 4.4033824204, 50.8513887752 ],
-						[ 4.4034906156, 50.8511814451 ],
-						[ 4.4035394604, 50.8511737898 ],
-						[ 4.4035836328, 50.8511824057 ],
-						[ 4.4037260897, 50.8512144549 ],
-						[ 4.4038073317, 50.8512333082 ],
-						[ 4.4038871534, 50.8512518923 ],
-						[ 4.4039733669, 50.8512719122 ],
-						[ 4.404059724, 50.851292022 ],
-						[ 4.404141391, 50.8513109657 ],
-						[ 4.4042273207, 50.8513309846 ],
-						[ 4.4043770248, 50.8513657289 ],
-						[ 4.4044649702, 50.8513861344 ],
-						[ 4.4045456759, 50.8514048705 ],
-						[ 4.4046471294, 50.8514284088 ],
-						[ 4.4047328038, 50.8514482945 ],
-						[ 4.4048107499, 50.8514663843 ],
-						[ 4.4048921646, 50.8514852727 ],
-						[ 4.4051113518, 50.8515361377 ],
-						[ 4.4052771036, 50.8515746051 ],
-						[ 4.4053573412, 50.851593224 ],
-						[ 4.4054502745, 50.8516147954 ],
-						[ 4.4055378955, 50.8516351211 ],
-						[ 4.4056179884, 50.851653712 ],
-						[ 4.4056974294, 50.8516721431 ],
-						[ 4.4057860435, 50.8516927082 ],
-						[ 4.4058643043, 50.8517108691 ],
-						[ 4.4059288026, 50.8517258343 ],
-						[ 4.4060133119, 50.8517454489 ],
-						[ 4.4060923143, 50.8517637801 ],
-						[ 4.4061793237, 50.8517839689 ],
-						[ 4.4062679539, 50.8518045345 ],
-						[ 4.4064335826, 50.8518429743 ],
-						[ 4.4070904565, 50.8519953995 ],
-						[ 4.4071825391, 50.8520167631 ],
-						[ 4.4072841245, 50.8520403368 ],
-						[ 4.4073637799, 50.852058818 ],
-						[ 4.4074493855, 50.8520786846 ],
-						[ 4.4078554679, 50.8521705267 ],
-						[ 4.40788717, 50.8522114107 ],
-						[ 4.4077448423, 50.8524587213 ],
-						[ 4.4079170941, 50.8524976345 ],
-						[ 4.4079491934, 50.8525048873 ],
-						[ 4.4079905988, 50.8524314296 ],
-						[ 4.4081029199, 50.8522525896 ],
-						[ 4.4081328729, 50.8522404429 ],
-						[ 4.4083368381, 50.8522834333 ],
-						[ 4.4084324302, 50.8523082114 ],
-						[ 4.4090059835, 50.8524406089 ],
-						[ 4.4090276324, 50.8524466954 ],
-						[ 4.4091089113, 50.8524695544 ],
-						[ 4.4091441946, 50.8524794845 ],
-						[ 4.4093305511, 50.8525240062 ],
-						[ 4.4095983072, 50.8525959188 ],
-						[ 4.4100439134, 50.8527288941 ],
-						[ 4.4101388429, 50.8527617635 ],
-						[ 4.4102838465, 50.8528119598 ],
-						[ 4.4104348489, 50.8528620689 ],
-						[ 4.4106534794, 50.8529407356 ],
-						[ 4.4107795019, 50.8529889967 ],
-						[ 4.4107794957, 50.8529890025 ],
-						[ 4.4107002236, 50.853063901 ],
-						[ 4.4117270641, 50.8535079038 ],
-						[ 4.4117237221, 50.8535186565 ],
-						[ 4.4117018687, 50.8535694017 ],
-						[ 4.4115891, 50.8537565498 ],
-						[ 4.411170511, 50.854471235 ],
-						[ 4.4111240465, 50.8545505662 ],
-						[ 4.4105505784, 50.8555217482 ],
-						[ 4.4105274356, 50.8555590813 ],
-						[ 4.4105142689, 50.8555735054 ],
-						[ 4.4104927054, 50.8555847591 ],
-						[ 4.410471893, 50.8555919752 ],
-						[ 4.4104458649, 50.8555972446 ],
-						[ 4.4104116529, 50.8555992437 ],
-						[ 4.4102876259, 50.8555977151 ],
-						[ 4.410056128, 50.8555925835 ],
-						[ 4.4099915088, 50.8555941364 ],
-						[ 4.4098850741, 50.8556032352 ],
-						[ 4.4098296229, 50.8556119019 ],
-						[ 4.409766718, 50.8556241506 ],
-						[ 4.4097042437, 50.8556407131 ],
-						[ 4.4095866155, 50.8556810724 ],
-						[ 4.409547717, 50.8556966474 ],
-						[ 4.4095113608, 50.8557137487 ],
-						[ 4.4094561414, 50.8557454931 ],
-						[ 4.4094326669, 50.8557616467 ],
-						[ 4.4090654427, 50.8561038712 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.196",
-				"BlockParcel.Area (m2)" : 287923.84,
-				"BlockParcel.Area (km2)" : 0.28792384,
-				"BlockParcel.Perimeter (m)" : 2508.68,
-				"BlockParcel.Longitude" : 4.40587561605286,
-				"BlockParcel.Latitude" : 50.8534350296989,
-				"Quartier" : "Reyers",
-				"Pop1030_de 0-9 ans" : 89,
-				"Pop1030_de 10-19 ans" : 114,
-				"Pop1030_de 20-29 ans" : 143,
-				"Pop1030_de 30-39 ans" : 172,
-				"Pop1030_de 40-49 ans" : 131,
-				"Pop1030_de 50-59 ans" : 121,
-				"Pop1030_de 60-69 ans" : 83,
-				"Pop1030_de 70 ans et plus" : 68,
-				"Pop1030_Population" : 921,
-				"DensityPopulation (hab/km2)" : 3198.7625616551936
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ 4.3948614295, 50.8555545251 ],
 						[ 4.3946850035, 50.8555915387 ],
 						[ 4.3944521459, 50.8556409253 ],
@@ -18462,7 +18177,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.203",
 				"BlockParcel.Area (m2)" : 7228.37,
-				"BlockParcel.Area (km2)" : 0.0072283700000000005,
+				"BlockParcel.Area (km2)" : 0.00722837,
 				"BlockParcel.Perimeter (m)" : 349.77,
 				"BlockParcel.Longitude" : 4.39380250308795,
 				"BlockParcel.Latitude" : 50.8511914817243,
@@ -18476,7 +18191,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 83,
-				"DensityPopulation (hab/km2)" : 11482.533406563305
+				"DensityPopulation (hab/km2)" : 11482.533406563307
 			}
 		},
 		{
@@ -20065,7 +19780,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.219",
 				"BlockParcel.Area (m2)" : 17477.76,
-				"BlockParcel.Area (km2)" : 0.017477760000000002,
+				"BlockParcel.Area (km2)" : 0.01747776,
 				"BlockParcel.Perimeter (m)" : 621.58,
 				"BlockParcel.Longitude" : 4.38109678024705,
 				"BlockParcel.Latitude" : 50.8660534402247,
@@ -20079,7 +19794,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 193,
-				"DensityPopulation (hab/km2)" : 11042.605002013986
+				"DensityPopulation (hab/km2)" : 11042.605002013988
 			}
 		},
 		{
@@ -21864,7 +21579,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.239",
 				"BlockParcel.Area (m2)" : 7256.25,
-				"BlockParcel.Area (km2)" : 0.0072562500000000005,
+				"BlockParcel.Area (km2)" : 0.00725625,
 				"BlockParcel.Perimeter (m)" : 439.29,
 				"BlockParcel.Longitude" : 4.37712471805551,
 				"BlockParcel.Latitude" : 50.8550635211826,
@@ -21878,7 +21593,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 144,
-				"DensityPopulation (hab/km2)" : 19844.961240310076
+				"DensityPopulation (hab/km2)" : 19844.96124031008
 			}
 		},
 		{
@@ -22528,7 +22243,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.245",
 				"BlockParcel.Area (m2)" : 18250.37,
-				"BlockParcel.Area (km2)" : 0.018250370000000002,
+				"BlockParcel.Area (km2)" : 0.01825037,
 				"BlockParcel.Perimeter (m)" : 694.45,
 				"BlockParcel.Longitude" : 4.37373381180597,
 				"BlockParcel.Latitude" : 50.8606539540471,
@@ -22542,7 +22257,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 382,
-				"DensityPopulation (hab/km2)" : 20931.082493122056
+				"DensityPopulation (hab/km2)" : 20931.08249312206
 			}
 		},
 		{
@@ -22980,7 +22695,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.252",
 				"BlockParcel.Area (m2)" : 82.24,
-				"BlockParcel.Area (km2)" : 8.224000000000001e-5,
+				"BlockParcel.Area (km2)" : 8.224e-5,
 				"BlockParcel.Perimeter (m)" : 36.35,
 				"BlockParcel.Longitude" : 4.36989477459258,
 				"BlockParcel.Latitude" : 50.8709308632075,
@@ -23172,7 +22887,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.254",
 				"BlockParcel.Area (m2)" : 11308.75,
-				"BlockParcel.Area (km2)" : 0.011308750000000001,
+				"BlockParcel.Area (km2)" : 0.01130875,
 				"BlockParcel.Perimeter (m)" : 530.25,
 				"BlockParcel.Longitude" : 4.37398413816721,
 				"BlockParcel.Latitude" : 50.8704997852193,
@@ -23186,7 +22901,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 234,
-				"DensityPopulation (hab/km2)" : 20691.942080247594
+				"DensityPopulation (hab/km2)" : 20691.942080247598
 			}
 		},
 		{
@@ -27464,7 +27179,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.300",
 				"BlockParcel.Area (m2)" : 8491.47,
-				"BlockParcel.Area (km2)" : 0.008491470000000001,
+				"BlockParcel.Area (km2)" : 0.00849147,
 				"BlockParcel.Perimeter (m)" : 362.13,
 				"BlockParcel.Longitude" : 4.37614684085043,
 				"BlockParcel.Latitude" : 50.874741438139,
@@ -27478,7 +27193,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 238,
-				"DensityPopulation (hab/km2)" : 28028.127049851202
+				"DensityPopulation (hab/km2)" : 28028.127049851206
 			}
 		},
 		{
@@ -27650,7 +27365,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.302",
 				"BlockParcel.Area (m2)" : 12359.14,
-				"BlockParcel.Area (km2)" : 0.012359140000000001,
+				"BlockParcel.Area (km2)" : 0.01235914,
 				"BlockParcel.Perimeter (m)" : 509.9,
 				"BlockParcel.Longitude" : 4.37460737854502,
 				"BlockParcel.Latitude" : 50.8727792757677,
@@ -27664,7 +27379,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 134,
-				"DensityPopulation (hab/km2)" : 10842.17833926956
+				"DensityPopulation (hab/km2)" : 10842.178339269562
 			}
 		},
 		{
@@ -27852,7 +27567,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.304",
 				"BlockParcel.Area (m2)" : 15448.96,
-				"BlockParcel.Area (km2)" : 0.015448960000000001,
+				"BlockParcel.Area (km2)" : 0.01544896,
 				"BlockParcel.Perimeter (m)" : 568.1,
 				"BlockParcel.Longitude" : 4.3828056789811995,
 				"BlockParcel.Latitude" : 50.8783043382902,
@@ -27866,7 +27581,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 153,
-				"DensityPopulation (hab/km2)" : 9903.579270060896
+				"DensityPopulation (hab/km2)" : 9903.579270060898
 			}
 		},
 		{
@@ -28758,7 +28473,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.314",
 				"BlockParcel.Area (m2)" : 9411.01,
-				"BlockParcel.Area (km2)" : 0.009411010000000001,
+				"BlockParcel.Area (km2)" : 0.00941101,
 				"BlockParcel.Perimeter (m)" : 533.75,
 				"BlockParcel.Longitude" : 4.36045384030568,
 				"BlockParcel.Latitude" : 50.8666200945882,
@@ -28772,7 +28487,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 43,
-				"DensityPopulation (hab/km2)" : 4569.116386020203
+				"DensityPopulation (hab/km2)" : 4569.116386020204
 			}
 		},
 		{
@@ -28836,7 +28551,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.316",
 				"BlockParcel.Area (m2)" : 480.4,
-				"BlockParcel.Area (km2)" : 0.00048039999999999905,
+				"BlockParcel.Area (km2)" : 0.0004804,
 				"BlockParcel.Perimeter (m)" : 109.16,
 				"BlockParcel.Longitude" : 4.36061535973756,
 				"BlockParcel.Latitude" : 50.8652445231715,
@@ -28850,7 +28565,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 1,
-				"DensityPopulation (hab/km2)" : 2081.598667776857
+				"DensityPopulation (hab/km2)" : 2081.5986677768524
 			}
 		},
 		{
@@ -29486,206 +29201,6 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 70 ans et plus" : 48,
 				"Pop1030_Population" : 420,
 				"DensityPopulation (hab/km2)" : 4151.782444227475
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 4.3945902318, 50.8642008046 ],
-						[ 4.3944026145, 50.864095985 ],
-						[ 4.394231993, 50.8639995391 ],
-						[ 4.3941282087, 50.8639408793 ],
-						[ 4.3940400946, 50.8639100743 ],
-						[ 4.3938447039, 50.8638417699 ],
-						[ 4.3937088107, 50.8637942627 ],
-						[ 4.3936661193, 50.8637521845 ],
-						[ 4.3935279617, 50.8636159789 ],
-						[ 4.3934839746, 50.8635673288 ],
-						[ 4.3934380678, 50.8635175366 ],
-						[ 4.3933945322, 50.8634701709 ],
-						[ 4.3933553462, 50.8634230025 ],
-						[ 4.3933148936, 50.8633743153 ],
-						[ 4.3932788184, 50.8633308947 ],
-						[ 4.3932373878, 50.8632810391 ],
-						[ 4.3931965516, 50.8632318845 ],
-						[ 4.39315829, 50.8631858135 ],
-						[ 4.3931219572, 50.8631372589 ],
-						[ 4.3930840061, 50.8630862076 ],
-						[ 4.393048468, 50.8630383908 ],
-						[ 4.3930144945, 50.8629895856 ],
-						[ 4.3929806632, 50.8629408703 ],
-						[ 4.3929452679, 50.8628899062 ],
-						[ 4.3929108666, 50.8628403829 ],
-						[ 4.3928804024, 50.8627922671 ],
-						[ 4.3928476046, 50.8627404329 ],
-						[ 4.3928169285, 50.8626918416 ],
-						[ 4.3927883631, 50.8626410481 ],
-						[ 4.3927374219, 50.8625504185 ],
-						[ 4.3927084082, 50.8624802166 ],
-						[ 4.3926965896, 50.8624232254 ],
-						[ 4.392686052, 50.8623718981 ],
-						[ 4.3926846045, 50.86231976 ],
-						[ 4.3926901139, 50.862263305 ],
-						[ 4.3926996049, 50.8622110729 ],
-						[ 4.3927231512, 50.8621494005 ],
-						[ 4.3927458514, 50.8621004036 ],
-						[ 4.3927757689, 50.8620538129 ],
-						[ 4.3928090379, 50.8620043195 ],
-						[ 4.3928620965, 50.8619379388 ],
-						[ 4.392863799, 50.8619351524 ],
-						[ 4.3928664984, 50.8619360506 ],
-						[ 4.3927636959, 50.8617292235 ],
-						[ 4.3928133612, 50.861639319 ],
-						[ 4.3929055062, 50.8615635185 ],
-						[ 4.3929719601, 50.8615270961 ],
-						[ 4.3930378468, 50.8614902252 ],
-						[ 4.3932341166, 50.8614418203 ],
-						[ 4.3933269747, 50.8615893539 ],
-						[ 4.3934634159, 50.8615597319 ],
-						[ 4.3937876639, 50.8620608152 ],
-						[ 4.3938349034, 50.8621338161 ],
-						[ 4.3939190063, 50.8622637961 ],
-						[ 4.3941471366, 50.8625464546 ],
-						[ 4.3942295172, 50.8626140015 ],
-						[ 4.3944074901, 50.8627599426 ],
-						[ 4.3946439338, 50.8629083494 ],
-						[ 4.3949368066, 50.8630542268 ],
-						[ 4.394931719, 50.8630715683 ],
-						[ 4.3944616333, 50.862979398 ],
-						[ 4.3941485513, 50.8628643498 ],
-						[ 4.3939043933, 50.8627097217 ],
-						[ 4.3937824242, 50.862609022 ],
-						[ 4.3936407757, 50.8624168387 ],
-						[ 4.3933189132, 50.8625007449 ],
-						[ 4.3934687029, 50.8626425838 ],
-						[ 4.393575661, 50.8626974415 ],
-						[ 4.3937713213, 50.8629273237 ],
-						[ 4.3943686994, 50.863113623 ],
-						[ 4.3944129422, 50.8631066732 ],
-						[ 4.394428185, 50.8631390229 ],
-						[ 4.3944623461, 50.8631346472 ],
-						[ 4.394933036, 50.8631656615 ],
-						[ 4.3949405533, 50.8633178603 ],
-						[ 4.3947744956, 50.8634297007 ],
-						[ 4.394705024, 50.8635065223 ],
-						[ 4.3952107948, 50.8637704537 ],
-						[ 4.3952636156, 50.8637348172 ],
-						[ 4.3948319089, 50.8635033479 ],
-						[ 4.3952703373, 50.8631985212 ],
-						[ 4.3958920141, 50.8635268058 ],
-						[ 4.396041941, 50.8634302152 ],
-						[ 4.3962588193, 50.8635569592 ],
-						[ 4.3962379743, 50.8635715271 ],
-						[ 4.3963457378, 50.8636326298 ],
-						[ 4.3963303506, 50.8636747759 ],
-						[ 4.3969561876, 50.8640719311 ],
-						[ 4.3972768345, 50.8643540128 ],
-						[ 4.39733928, 50.864451003 ],
-						[ 4.3973564089, 50.8644695536 ],
-						[ 4.3974208911, 50.8645043615 ],
-						[ 4.3973726069, 50.864543712 ],
-						[ 4.3974535171, 50.8645926039 ],
-						[ 4.3976069264, 50.8646772276 ],
-						[ 4.3978324968, 50.864921397 ],
-						[ 4.3978178264, 50.8650831749 ],
-						[ 4.3977959571, 50.8650925026 ],
-						[ 4.3970958049, 50.8647171435 ],
-						[ 4.3969287923, 50.8648419034 ],
-						[ 4.3970347683, 50.8649012629 ],
-						[ 4.3976104174, 50.8652379537 ],
-						[ 4.3980245251, 50.8655147246 ],
-						[ 4.3983299865, 50.8657532442 ],
-						[ 4.3982392405, 50.8658671497 ],
-						[ 4.3981548213, 50.8659555524 ],
-						[ 4.3980684648, 50.8660446281 ],
-						[ 4.3979895457, 50.8661283551 ],
-						[ 4.3978460273, 50.8662806731 ],
-						[ 4.397772029, 50.8663655158 ],
-						[ 4.3977318383, 50.8664075525 ],
-						[ 4.39771717, 50.8664060085 ],
-						[ 4.397710765, 50.8663975083 ],
-						[ 4.3976087246, 50.8662569196 ],
-						[ 4.3975689631, 50.8662068852 ],
-						[ 4.3975272418, 50.86615908 ],
-						[ 4.3974848251, 50.8661119313 ],
-						[ 4.3974425351, 50.8660668608 ],
-						[ 4.3973994659, 50.866022419 ],
-						[ 4.3973510572, 50.8659800546 ],
-						[ 4.3973027624, 50.865937799 ],
-						[ 4.3972510705, 50.8658946256 ],
-						[ 4.3972008453, 50.8658540507 ],
-						[ 4.3971488306, 50.8658156077 ],
-						[ 4.3971022014, 50.8657826358 ],
-						[ 4.3970475192, 50.8657442548 ],
-						[ 4.3969932486, 50.865710666 ],
-						[ 4.3969381112, 50.865676547 ],
-						[ 4.3968821084, 50.8656418889 ],
-						[ 4.3968577943, 50.8656268456 ],
-						[ 4.3968219689, 50.8656069957 ],
-						[ 4.3967630288, 50.8655743261 ],
-						[ 4.3967018432, 50.8655419538 ],
-						[ 4.3966299224, 50.8655089395 ],
-						[ 4.3965701088, 50.8654815038 ],
-						[ 4.3965112274, 50.8654545118 ],
-						[ 4.3965007134, 50.8654497508 ],
-						[ 4.3964985004, 50.8654427208 ],
-						[ 4.3964911764, 50.865419549 ],
-						[ 4.3964816381, 50.8653769883 ],
-						[ 4.3964667515, 50.8653107087 ],
-						[ 4.3964502615, 50.8652467265 ],
-						[ 4.3964466104, 50.8652425565 ],
-						[ 4.3963918057, 50.8652130892 ],
-						[ 4.3963286373, 50.8651783046 ],
-						[ 4.3962679101, 50.8651444703 ],
-						[ 4.3962071928, 50.8651106566 ],
-						[ 4.3961464144, 50.8650768096 ],
-						[ 4.3960828165, 50.8650412114 ],
-						[ 4.3960221571, 50.8650067782 ],
-						[ 4.3959616859, 50.864972948 ],
-						[ 4.3959001489, 50.8649385555 ],
-						[ 4.3958388493, 50.8649042932 ],
-						[ 4.3957770453, 50.864869729 ],
-						[ 4.3957186473, 50.8648364356 ],
-						[ 4.3956608049, 50.8648033111 ],
-						[ 4.3956028219, 50.8647700949 ],
-						[ 4.3955451655, 50.8647385228 ],
-						[ 4.395481913, 50.8647038843 ],
-						[ 4.3954186642, 50.8646684807 ],
-						[ 4.3953588787, 50.8646349476 ],
-						[ 4.3952973425, 50.8646004235 ],
-						[ 4.3952348657, 50.8645653845 ],
-						[ 4.3951752978, 50.864531969 ],
-						[ 4.3951142621, 50.8644977323 ],
-						[ 4.3950529565, 50.8644633267 ],
-						[ 4.3949901645, 50.8644281178 ],
-						[ 4.3949330299, 50.8643960597 ],
-						[ 4.3948487535, 50.8643478405 ],
-						[ 4.3946452767, 50.8642313936 ],
-						[ 4.3945902318, 50.8642008046 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.323",
-				"BlockParcel.Area (m2)" : 57392.72,
-				"BlockParcel.Area (km2)" : 0.05739272,
-				"BlockParcel.Perimeter (m)" : 2036.94,
-				"BlockParcel.Longitude" : 4.39550729545946,
-				"BlockParcel.Latitude" : 50.863924686404204,
-				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_de 0-9 ans" : 26,
-				"Pop1030_de 10-19 ans" : 26,
-				"Pop1030_de 20-29 ans" : 24,
-				"Pop1030_de 30-39 ans" : 17,
-				"Pop1030_de 40-49 ans" : 32,
-				"Pop1030_de 50-59 ans" : 18,
-				"Pop1030_de 60-69 ans" : 19,
-				"Pop1030_de 70 ans et plus" : 28,
-				"Pop1030_Population" : 190,
-				"DensityPopulation (hab/km2)" : 3310.5244010041692
 			}
 		},
 		{
@@ -30707,7 +30222,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.334",
 				"BlockParcel.Area (m2)" : 990.27,
-				"BlockParcel.Area (km2)" : 0.0009902700000000001,
+				"BlockParcel.Area (km2)" : 0.00099027,
 				"BlockParcel.Perimeter (m)" : 172.75,
 				"BlockParcel.Longitude" : 4.39434840397602,
 				"BlockParcel.Latitude" : 50.864232419939,
@@ -30721,7 +30236,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 2,
-				"DensityPopulation (hab/km2)" : 2019.6512062366826
+				"DensityPopulation (hab/km2)" : 2019.651206236683
 			}
 		},
 		{
@@ -30808,7 +30323,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.335",
 				"BlockParcel.Area (m2)" : 31943.07,
-				"BlockParcel.Area (km2)" : 0.031943070000000004,
+				"BlockParcel.Area (km2)" : 0.03194307,
 				"BlockParcel.Perimeter (m)" : 766.49,
 				"BlockParcel.Longitude" : 4.39237682975036,
 				"BlockParcel.Latitude" : 50.8635622860785,
@@ -30822,7 +30337,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 117,
-				"DensityPopulation (hab/km2)" : 3662.766290153075
+				"DensityPopulation (hab/km2)" : 3662.7662901530757
 			}
 		},
 		{
@@ -30926,7 +30441,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.336",
 				"BlockParcel.Area (m2)" : 2862.24,
-				"BlockParcel.Area (km2)" : 0.0028622400000000003,
+				"BlockParcel.Area (km2)" : 0.00286224,
 				"BlockParcel.Perimeter (m)" : 210.23,
 				"BlockParcel.Longitude" : 4.39409968308346,
 				"BlockParcel.Latitude" : 50.8670658059,
@@ -30940,7 +30455,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 8,
-				"DensityPopulation (hab/km2)" : 2795.013695567108
+				"DensityPopulation (hab/km2)" : 2795.0136955671082
 			}
 		},
 		{
@@ -31272,93 +30787,6 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 111,
 				"DensityPopulation (hab/km2)" : 14136.741773944583
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 4.3945431267, 50.8611724781 ],
-						[ 4.3945807632, 50.8611640192 ],
-						[ 4.3946927537, 50.8611518042 ],
-						[ 4.3950339191, 50.861735359 ],
-						[ 4.3951817709, 50.8619882703 ],
-						[ 4.3952338954, 50.8620774171 ],
-						[ 4.3952095085, 50.8620831294 ],
-						[ 4.3951479027, 50.8619993721 ],
-						[ 4.3949677688, 50.8617544938 ],
-						[ 4.3945547864, 50.8611930606 ],
-						[ 4.3945431267, 50.8611724781 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.340",
-				"BlockParcel.Area (m2)" : 702.1,
-				"BlockParcel.Area (km2)" : 0.0007021,
-				"BlockParcel.Perimeter (m)" : 234.09,
-				"BlockParcel.Longitude" : 4.39488851103694,
-				"BlockParcel.Latitude" : 50.8616174668056,
-				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 0,
-				"Pop1030_de 10-19 ans" : 0,
-				"Pop1030_de 20-29 ans" : 0,
-				"Pop1030_de 30-39 ans" : 0,
-				"Pop1030_de 40-49 ans" : 0,
-				"Pop1030_de 50-59 ans" : 0,
-				"Pop1030_de 60-69 ans" : 0,
-				"Pop1030_de 70 ans et plus" : 0,
-				"Pop1030_Population" : 0,
-				"DensityPopulation (hab/km2)" : 0
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 4.3953665756, 50.8628401967 ],
-						[ 4.3954884691, 50.8629980413 ],
-						[ 4.3956416287, 50.8631337905 ],
-						[ 4.3956229306, 50.8631492485 ],
-						[ 4.3954286704, 50.8630258952 ],
-						[ 4.3952454769, 50.8628736197 ],
-						[ 4.3951393702, 50.8627740959 ],
-						[ 4.395039847, 50.8626607432 ],
-						[ 4.3949610107, 50.8625560968 ],
-						[ 4.3948953416, 50.8624469622 ],
-						[ 4.3944905781, 50.8618095557 ],
-						[ 4.3941658351, 50.8612981446 ],
-						[ 4.3942209776, 50.8612794981 ],
-						[ 4.3945563569, 50.8617889551 ],
-						[ 4.3945845466, 50.8617801304 ],
-						[ 4.3949621506, 50.8622855218 ],
-						[ 4.3950398671, 50.8623957781 ],
-						[ 4.3953665756, 50.8628401967 ]
-					]
-				]
-			},
-			"properties" : {
-				"BlockParcel" : "BlockParcel.341",
-				"BlockParcel.Area (m2)" : 1870.29,
-				"BlockParcel.Area (km2)" : 0.0018702900000000001,
-				"BlockParcel.Perimeter (m)" : 470.5,
-				"BlockParcel.Longitude" : 4.39490373190883,
-				"BlockParcel.Latitude" : 50.8622143732657,
-				"Quartier" : "Jardin",
-				"Pop1030_de 0-9 ans" : 0,
-				"Pop1030_de 10-19 ans" : 0,
-				"Pop1030_de 20-29 ans" : 0,
-				"Pop1030_de 30-39 ans" : 0,
-				"Pop1030_de 40-49 ans" : 0,
-				"Pop1030_de 50-59 ans" : 0,
-				"Pop1030_de 60-69 ans" : 0,
-				"Pop1030_de 70 ans et plus" : 0,
-				"Pop1030_Population" : 0,
-				"DensityPopulation (hab/km2)" : 0
 			}
 		},
 		{
@@ -32107,7 +31535,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.349",
 				"BlockParcel.Area (m2)" : 6675.6,
-				"BlockParcel.Area (km2)" : 0.006675599999999999,
+				"BlockParcel.Area (km2)" : 0.0066756,
 				"BlockParcel.Perimeter (m)" : 330.91,
 				"BlockParcel.Longitude" : 4.38905290132438,
 				"BlockParcel.Latitude" : 50.8511266798903,
@@ -32121,7 +31549,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 174,
-				"DensityPopulation (hab/km2)" : 26065.072802444727
+				"DensityPopulation (hab/km2)" : 26065.072802444723
 			}
 		},
 		{
@@ -32403,7 +31831,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.352",
 				"BlockParcel.Area (m2)" : 14437.45,
-				"BlockParcel.Area (km2)" : 0.014437450000000001,
+				"BlockParcel.Area (km2)" : 0.01443745,
 				"BlockParcel.Perimeter (m)" : 600.37,
 				"BlockParcel.Longitude" : 4.38785685831761,
 				"BlockParcel.Latitude" : 50.8683781525448,
@@ -32463,7 +31891,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.353",
 				"BlockParcel.Area (m2)" : 7740.27,
-				"BlockParcel.Area (km2)" : 0.0077402700000000005,
+				"BlockParcel.Area (km2)" : 0.00774027,
 				"BlockParcel.Perimeter (m)" : 352.06,
 				"BlockParcel.Longitude" : 4.38907942950772,
 				"BlockParcel.Latitude" : 50.8679272631962,
@@ -32477,7 +31905,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 157,
-				"DensityPopulation (hab/km2)" : 20283.53016109257
+				"DensityPopulation (hab/km2)" : 20283.530161092574
 			}
 		},
 		{
@@ -32571,7 +31999,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.354",
 				"BlockParcel.Area (m2)" : 57678.81,
-				"BlockParcel.Area (km2)" : 0.057678810000000004,
+				"BlockParcel.Area (km2)" : 0.05767881,
 				"BlockParcel.Perimeter (m)" : 1009.66,
 				"BlockParcel.Longitude" : 4.3836605195044,
 				"BlockParcel.Latitude" : 50.8670025361764,
@@ -33152,7 +32580,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.362",
 				"BlockParcel.Area (m2)" : 11348.49,
-				"BlockParcel.Area (km2)" : 0.011348490000000001,
+				"BlockParcel.Area (km2)" : 0.01134849,
 				"BlockParcel.Perimeter (m)" : 425.1,
 				"BlockParcel.Longitude" : 4.38985831899995,
 				"BlockParcel.Latitude" : 50.8623344029058,
@@ -33166,7 +32594,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 4,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 70,
-				"DensityPopulation (hab/km2)" : 6168.221499071682
+				"DensityPopulation (hab/km2)" : 6168.221499071683
 			}
 		},
 		{
@@ -33798,7 +33226,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.368",
 				"BlockParcel.Area (m2)" : 10312.72,
-				"BlockParcel.Area (km2)" : 0.010312720000000001,
+				"BlockParcel.Area (km2)" : 0.01031272,
 				"BlockParcel.Perimeter (m)" : 415.62,
 				"BlockParcel.Longitude" : 4.39046787306335,
 				"BlockParcel.Latitude" : 50.8761249782692,
@@ -33812,7 +33240,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 141,
-				"DensityPopulation (hab/km2)" : 13672.435594101264
+				"DensityPopulation (hab/km2)" : 13672.435594101265
 			}
 		},
 		{
@@ -34195,7 +33623,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.372",
 				"BlockParcel.Area (m2)" : 4748.59,
-				"BlockParcel.Area (km2)" : 0.0047485900000000004,
+				"BlockParcel.Area (km2)" : 0.00474859,
 				"BlockParcel.Perimeter (m)" : 313.01,
 				"BlockParcel.Longitude" : 4.38225401374586,
 				"BlockParcel.Latitude" : 50.8596568155651,
@@ -34209,7 +33637,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 75,
-				"DensityPopulation (hab/km2)" : 15794.162056526251
+				"DensityPopulation (hab/km2)" : 15794.162056526255
 			}
 		},
 		{
@@ -34373,7 +33801,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.374",
 				"BlockParcel.Area (m2)" : 9809.42,
-				"BlockParcel.Area (km2)" : 0.009809420000000001,
+				"BlockParcel.Area (km2)" : 0.00980942,
 				"BlockParcel.Perimeter (m)" : 389.98,
 				"BlockParcel.Longitude" : 4.38787508151248,
 				"BlockParcel.Latitude" : 50.8578204025396,
@@ -34387,7 +33815,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 122,
-				"DensityPopulation (hab/km2)" : 12437.024819000511
+				"DensityPopulation (hab/km2)" : 12437.024819000513
 			}
 		},
 		{
@@ -35006,7 +34434,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.381",
 				"BlockParcel.Area (m2)" : 9052.31,
-				"BlockParcel.Area (km2)" : 0.009052310000000001,
+				"BlockParcel.Area (km2)" : 0.00905231,
 				"BlockParcel.Perimeter (m)" : 421.61,
 				"BlockParcel.Longitude" : 4.39220311996921,
 				"BlockParcel.Latitude" : 50.8713994137451,
@@ -35020,7 +34448,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 171,
-				"DensityPopulation (hab/km2)" : 18890.205925338392
+				"DensityPopulation (hab/km2)" : 18890.205925338396
 			}
 		},
 		{
@@ -35805,7 +35233,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.390",
 				"BlockParcel.Area (m2)" : 24.34,
-				"BlockParcel.Area (km2)" : 2.4340000000000004e-5,
+				"BlockParcel.Area (km2)" : 2.434e-5,
 				"BlockParcel.Perimeter (m)" : 21.14,
 				"BlockParcel.Longitude" : 4.38200442694204,
 				"BlockParcel.Latitude" : 50.8562406756459,
@@ -36476,7 +35904,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.396",
 				"BlockParcel.Area (m2)" : 41778.42,
-				"BlockParcel.Area (km2)" : 0.041778420000000004,
+				"BlockParcel.Area (km2)" : 0.04177842,
 				"BlockParcel.Perimeter (m)" : 896.28,
 				"BlockParcel.Longitude" : 4.40101215566551,
 				"BlockParcel.Latitude" : 50.8448032908131,
@@ -36490,7 +35918,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 222,
-				"DensityPopulation (hab/km2)" : 5313.748102489275
+				"DensityPopulation (hab/km2)" : 5313.748102489276
 			}
 		},
 		{
@@ -36510,7 +35938,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.397",
 				"BlockParcel.Area (m2)" : 58.2,
-				"BlockParcel.Area (km2)" : 5.8200000000000005e-5,
+				"BlockParcel.Area (km2)" : 5.82e-5,
 				"BlockParcel.Perimeter (m)" : 31.14,
 				"BlockParcel.Longitude" : 4.40165865495526,
 				"BlockParcel.Latitude" : 50.8492907262728,
@@ -36650,7 +36078,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.400",
 				"BlockParcel.Area (m2)" : 59.95,
-				"BlockParcel.Area (km2)" : 5.9950000000000014e-5,
+				"BlockParcel.Area (km2)" : 5.995e-5,
 				"BlockParcel.Perimeter (m)" : 31.98,
 				"BlockParcel.Longitude" : 4.40246421232022,
 				"BlockParcel.Latitude" : 50.8493782085048,
@@ -37359,7 +36787,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.407",
 				"BlockParcel.Area (m2)" : 11042.66,
-				"BlockParcel.Area (km2)" : 0.011042660000000001,
+				"BlockParcel.Area (km2)" : 0.01104266,
 				"BlockParcel.Perimeter (m)" : 436.26,
 				"BlockParcel.Longitude" : 4.40716543534327,
 				"BlockParcel.Latitude" : 50.8566775091211,
@@ -37373,7 +36801,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 1,
-				"DensityPopulation (hab/km2)" : 90.55789094294309
+				"DensityPopulation (hab/km2)" : 90.5578909429431
 			}
 		},
 		{
@@ -37734,7 +37162,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.411",
 				"BlockParcel.Area (m2)" : 7628,
-				"BlockParcel.Area (km2)" : 0.007627999999999999,
+				"BlockParcel.Area (km2)" : 0.007628,
 				"BlockParcel.Perimeter (m)" : 367.04,
 				"BlockParcel.Longitude" : 4.3986554900816,
 				"BlockParcel.Latitude" : 50.8539375766645,
@@ -37748,7 +37176,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 207,
-				"DensityPopulation (hab/km2)" : 27136.86418458312
+				"DensityPopulation (hab/km2)" : 27136.864184583115
 			}
 		},
 		{
@@ -37894,7 +37322,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.413",
 				"BlockParcel.Area (m2)" : 8509.87,
-				"BlockParcel.Area (km2)" : 0.008509870000000001,
+				"BlockParcel.Area (km2)" : 0.00850987,
 				"BlockParcel.Perimeter (m)" : 371.36,
 				"BlockParcel.Longitude" : 4.39647668130938,
 				"BlockParcel.Latitude" : 50.853230213742,
@@ -37908,7 +37336,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 4,
 				"Pop1030_Population" : 82,
-				"DensityPopulation (hab/km2)" : 9635.86987815325
+				"DensityPopulation (hab/km2)" : 9635.869878153251
 			}
 		},
 		{
@@ -38041,7 +37469,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.415",
 				"BlockParcel.Area (m2)" : 14051.27,
-				"BlockParcel.Area (km2)" : 0.014051270000000001,
+				"BlockParcel.Area (km2)" : 0.01405127,
 				"BlockParcel.Perimeter (m)" : 619.16,
 				"BlockParcel.Longitude" : 4.41188684212306,
 				"BlockParcel.Latitude" : 50.8547821902332,
@@ -39035,7 +38463,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.428",
 				"BlockParcel.Area (m2)" : 3.48,
-				"BlockParcel.Area (km2)" : 3.4799999999999993e-6,
+				"BlockParcel.Area (km2)" : 3.48e-6,
 				"BlockParcel.Perimeter (m)" : 7.63,
 				"BlockParcel.Longitude" : 4.38970919774039,
 				"BlockParcel.Latitude" : 50.8493152022738,
@@ -39518,7 +38946,7 @@ var json_SchaerbeekDemographicDistributionMen = {
 			"properties" : {
 				"BlockParcel" : "BlockParcel.434",
 				"BlockParcel.Area (m2)" : 6651.17,
-				"BlockParcel.Area (km2)" : 0.0066511700000000005,
+				"BlockParcel.Area (km2)" : 0.00665117,
 				"BlockParcel.Perimeter (m)" : 328.05,
 				"BlockParcel.Longitude" : 4.38898115194964,
 				"BlockParcel.Latitude" : 50.8531137520581,
@@ -39822,6 +39250,675 @@ var json_SchaerbeekDemographicDistributionMen = {
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 109,
 				"DensityPopulation (hab/km2)" : 16931.170906967098
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.401907579, 50.8542861508 ],
+						[ 4.4021170026, 50.8541511742 ],
+						[ 4.4036572155, 50.8545156288 ],
+						[ 4.4036288992, 50.8545581465 ],
+						[ 4.403948791, 50.8546356966 ],
+						[ 4.4039745524, 50.8545947059 ],
+						[ 4.4043966944, 50.8546910362 ],
+						[ 4.4043630352, 50.8547497559 ],
+						[ 4.4044631861, 50.8548766253 ],
+						[ 4.4043926003, 50.8549852564 ],
+						[ 4.4028252877, 50.8546051154 ],
+						[ 4.4024055494, 50.8545009606 ],
+						[ 4.4022396368, 50.8544474316 ],
+						[ 4.4021570988, 50.854412846 ],
+						[ 4.402074562, 50.8543763724 ],
+						[ 4.4019962833, 50.8543386388 ],
+						[ 4.401907579, 50.8542861508 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.442",
+				"BlockParcel.Area (m2)" : 5222.5275,
+				"BlockParcel.Area (km2)" : 0.005,
+				"BlockParcel.Perimeter (m)" : 430.4436,
+				"BlockParcel.Longitude" : 4.40318538255,
+				"BlockParcel.Latitude" : 50.8545682153,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 7,
+				"Pop1030_de 10-19 ans" : 6,
+				"Pop1030_de 20-29 ans" : 8,
+				"Pop1030_de 30-39 ans" : 9,
+				"Pop1030_de 40-49 ans" : 4,
+				"Pop1030_de 50-59 ans" : 6,
+				"Pop1030_de 60-69 ans" : 5,
+				"Pop1030_de 70 ans et plus" : 2,
+				"Pop1030_Population" : 47,
+				"DensityPopulation (hab/km2)" : 9400
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4049509516, 50.8545540376 ],
+						[ 4.4060094845, 50.854803717 ],
+						[ 4.4061998143, 50.8544951151 ],
+						[ 4.4074224663, 50.8547813432 ],
+						[ 4.406464022, 50.8556638234 ],
+						[ 4.4057459311, 50.8553844121 ],
+						[ 4.4053235791, 50.8552237253 ],
+						[ 4.4051710104, 50.8551730728 ],
+						[ 4.4051029676, 50.8551527778 ],
+						[ 4.4046583561, 50.8550500801 ],
+						[ 4.4049509516, 50.8545540376 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.443",
+				"BlockParcel.Area (m2)" : 13406.6765,
+				"BlockParcel.Area (km2)" : 0.013,
+				"BlockParcel.Perimeter (m)" : 531.0388,
+				"BlockParcel.Longitude" : 4.406040411199999,
+				"BlockParcel.Latitude" : 50.85507946925,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 12,
+				"Pop1030_de 10-19 ans" : 54,
+				"Pop1030_de 20-29 ans" : 30,
+				"Pop1030_de 30-39 ans" : 13,
+				"Pop1030_de 40-49 ans" : 13,
+				"Pop1030_de 50-59 ans" : 33,
+				"Pop1030_de 60-69 ans" : 39,
+				"Pop1030_de 70 ans et plus" : 25,
+				"Pop1030_Population" : 219,
+				"DensityPopulation (hab/km2)" : 16846.153846153848
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4066821608, 50.8557467789 ],
+						[ 4.4076891969, 50.8548462473 ],
+						[ 4.4105505784, 50.8555217482 ],
+						[ 4.4105142689, 50.8555735054 ],
+						[ 4.410471893, 50.8555919752 ],
+						[ 4.4104116529, 50.8555992437 ],
+						[ 4.4102876259, 50.8555977151 ],
+						[ 4.410056128, 50.8555925835 ],
+						[ 4.4098850741, 50.8556032352 ],
+						[ 4.4097042437, 50.8556407131 ],
+						[ 4.4095113608, 50.8557137487 ],
+						[ 4.4094326669, 50.8557616467 ],
+						[ 4.4090654427, 50.8561038712 ],
+						[ 4.4087552418, 50.856387175 ],
+						[ 4.408742548, 50.8564008643 ],
+						[ 4.4087236904, 50.8564146668 ],
+						[ 4.4086955966, 50.8564279519 ],
+						[ 4.4086633565, 50.8564366846 ],
+						[ 4.4086225004, 50.856440482 ],
+						[ 4.4085832802, 50.8564372876 ],
+						[ 4.4085530399, 50.8564298283 ],
+						[ 4.4083025261, 50.8563667546 ],
+						[ 4.4080650678, 50.8562859483 ],
+						[ 4.4077310737, 50.8561572881 ],
+						[ 4.4066821608, 50.8557467789 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.444",
+				"BlockParcel.Area (m2)" : 23190.2588,
+				"BlockParcel.Area (km2)" : 0.023,
+				"BlockParcel.Perimeter (m)" : 679.4991,
+				"BlockParcel.Longitude" : 4.4086163696,
+				"BlockParcel.Latitude" : 50.85564336465,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 15,
+				"Pop1030_de 10-19 ans" : 8,
+				"Pop1030_de 20-29 ans" : 28,
+				"Pop1030_de 30-39 ans" : 24,
+				"Pop1030_de 40-49 ans" : 16,
+				"Pop1030_de 50-59 ans" : 7,
+				"Pop1030_de 60-69 ans" : 1,
+				"Pop1030_de 70 ans et plus" : 0,
+				"Pop1030_Population" : 99,
+				"DensityPopulation (hab/km2)" : 4304.347826086957
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4081239922, 50.8522404697 ],
+						[ 4.4081328729, 50.8522404429 ],
+						[ 4.4083368381, 50.8522834333 ],
+						[ 4.4084324302, 50.8523082114 ],
+						[ 4.4091089113, 50.8524695544 ],
+						[ 4.4091441946, 50.8524794845 ],
+						[ 4.4095983072, 50.8525959188 ],
+						[ 4.4101388429, 50.8527617635 ],
+						[ 4.4107794957, 50.8529890025 ],
+						[ 4.4107002299, 50.8530639027 ],
+						[ 4.4117270641, 50.8535079038 ],
+						[ 4.4117237221, 50.8535186565 ],
+						[ 4.4117018687, 50.8535694017 ],
+						[ 4.4096972462, 50.8530929718 ],
+						[ 4.4079227783, 50.852671202 ],
+						[ 4.4080092087, 50.8525359727 ],
+						[ 4.407938491, 50.8525198708 ],
+						[ 4.4079905988, 50.8524314296 ],
+						[ 4.4081029199, 50.8522525896 ],
+						[ 4.4081239922, 50.8522404697 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.445",
+				"BlockParcel.Area (m2)" : 11079.1482,
+				"BlockParcel.Area (km2)" : 0.011,
+				"BlockParcel.Perimeter (m)" : 648.7167,
+				"BlockParcel.Longitude" : 4.4098249212,
+				"BlockParcel.Latitude" : 50.8529049223,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 24,
+				"Pop1030_de 10-19 ans" : 19,
+				"Pop1030_de 20-29 ans" : 22,
+				"Pop1030_de 30-39 ans" : 38,
+				"Pop1030_de 40-49 ans" : 26,
+				"Pop1030_de 50-59 ans" : 32,
+				"Pop1030_de 60-69 ans" : 18,
+				"Pop1030_de 70 ans et plus" : 33,
+				"Pop1030_Population" : 212,
+				"DensityPopulation (hab/km2)" : 19272.727272727272
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4034906156, 50.8511814451 ],
+						[ 4.4035394604, 50.8511737898 ],
+						[ 4.4037260897, 50.8512144549 ],
+						[ 4.4038073317, 50.8512333082 ],
+						[ 4.4044649702, 50.8513861344 ],
+						[ 4.4051113518, 50.8515361377 ],
+						[ 4.4056179884, 50.851653712 ],
+						[ 4.4064335826, 50.8518429743 ],
+						[ 4.4073637799, 50.852058818 ],
+						[ 4.4078554679, 50.8521705267 ],
+						[ 4.40788717, 50.8522114107 ],
+						[ 4.407736293, 50.8524722371 ],
+						[ 4.4072823918, 50.8523651824 ],
+						[ 4.4072858976, 50.852359166 ],
+						[ 4.4071275033, 50.8523152156 ],
+						[ 4.4065574933, 50.8521577339 ],
+						[ 4.4065538669, 50.8521658664 ],
+						[ 4.4065408892, 50.8521626674 ],
+						[ 4.4065201578, 50.852197828 ],
+						[ 4.4062829286, 50.8521433679 ],
+						[ 4.4062746325, 50.8521532268 ],
+						[ 4.4061746399, 50.8521475895 ],
+						[ 4.4059890634, 50.8521103403 ],
+						[ 4.4057368538, 50.8520550872 ],
+						[ 4.4055103549, 50.8519953429 ],
+						[ 4.4053473364, 50.8519619771 ],
+						[ 4.4051366203, 50.8519193365 ],
+						[ 4.4049380678, 50.851870973 ],
+						[ 4.404882316, 50.8519642739 ],
+						[ 4.404638455, 50.8519229085 ],
+						[ 4.4041227907, 50.8518011955 ],
+						[ 4.4037225741, 50.8517067438 ],
+						[ 4.4036357234, 50.8516866998 ],
+						[ 4.4036987726, 50.8515786913 ],
+						[ 4.4032975009, 50.8514840898 ],
+						[ 4.4033572794, 50.8513828498 ],
+						[ 4.4033824204, 50.8513887752 ],
+						[ 4.4034906156, 50.8511814451 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.446",
+				"BlockParcel.Area (m2)" : 13337.7841,
+				"BlockParcel.Area (km2)" : 0.013,
+				"BlockParcel.Perimeter (m)" : 763.8197,
+				"BlockParcel.Longitude" : 4.405592335450001,
+				"BlockParcel.Latitude" : 50.85182301345,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 25,
+				"Pop1030_de 10-19 ans" : 15,
+				"Pop1030_de 20-29 ans" : 18,
+				"Pop1030_de 30-39 ans" : 30,
+				"Pop1030_de 40-49 ans" : 25,
+				"Pop1030_de 50-59 ans" : 15,
+				"Pop1030_de 60-69 ans" : 9,
+				"Pop1030_de 70 ans et plus" : 5,
+				"Pop1030_Population" : 142,
+				"DensityPopulation (hab/km2)" : 10923.076923076924
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4009649037, 50.852052589 ],
+						[ 4.4019210269, 50.8504295774 ],
+						[ 4.4034559395, 50.8507856495 ],
+						[ 4.4030946128, 50.851436332 ],
+						[ 4.402736392, 50.8513521231 ],
+						[ 4.402736392, 50.8513521231 ],
+						[ 4.4025847414, 50.8516205183 ],
+						[ 4.4021731108, 50.8523432232 ],
+						[ 4.4009649037, 50.852052589 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.447",
+				"BlockParcel.Area (m2)" : 19095.891,
+				"BlockParcel.Area (km2)" : 0.019,
+				"BlockParcel.Perimeter (m)" : 618.5094,
+				"BlockParcel.Longitude" : 4.4022104215999995,
+				"BlockParcel.Latitude" : 50.8513816846,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 6,
+				"Pop1030_de 10-19 ans" : 12,
+				"Pop1030_de 20-29 ans" : 37,
+				"Pop1030_de 30-39 ans" : 58,
+				"Pop1030_de 40-49 ans" : 47,
+				"Pop1030_de 50-59 ans" : 28,
+				"Pop1030_de 60-69 ans" : 11,
+				"Pop1030_de 70 ans et plus" : 3,
+				"Pop1030_Population" : 202,
+				"DensityPopulation (hab/km2)" : 10631.578947368422
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4009623652, 50.8520528142 ],
+						[ 4.4021703682, 50.8523431641 ],
+						[ 4.402736392, 50.8513521231 ],
+						[ 4.4036987726, 50.8515786913 ],
+						[ 4.4036357234, 50.8516866998 ],
+						[ 4.404638455, 50.8519229085 ],
+						[ 4.404882316, 50.8519642739 ],
+						[ 4.4049380678, 50.851870973 ],
+						[ 4.4051366203, 50.8519193365 ],
+						[ 4.4053473364, 50.8519619771 ],
+						[ 4.4055092389, 50.8519949351 ],
+						[ 4.4056733304, 50.8520384288 ],
+						[ 4.4061749947, 50.8521466678 ],
+						[ 4.4062746325, 50.8521532268 ],
+						[ 4.4062829286, 50.8521433679 ],
+						[ 4.4065201578, 50.852197828 ],
+						[ 4.4065408892, 50.8521626674 ],
+						[ 4.4065538669, 50.8521658664 ],
+						[ 4.4065574933, 50.8521577339 ],
+						[ 4.4072858976, 50.852359166 ],
+						[ 4.4072823918, 50.8523651824 ],
+						[ 4.407736293, 50.8524722371 ],
+						[ 4.4080092087, 50.8525359727 ],
+						[ 4.4079227783, 50.852671202 ],
+						[ 4.4117018687, 50.8535694017 ],
+						[ 4.4105505784, 50.8555217482 ],
+						[ 4.4061998143, 50.8544951151 ],
+						[ 4.4060094845, 50.854803717 ],
+						[ 4.4049509516, 50.8545540376 ],
+						[ 4.4047175238, 50.8544648291 ],
+						[ 4.4044631861, 50.8548766253 ],
+						[ 4.4043630352, 50.8547497559 ],
+						[ 4.4043966944, 50.8546910362 ],
+						[ 4.4039752827, 50.8545941929 ],
+						[ 4.403948791, 50.8546356966 ],
+						[ 4.4036311399, 50.854558581 ],
+						[ 4.4036572155, 50.8545156288 ],
+						[ 4.4021170026, 50.8541511742 ],
+						[ 4.401906916, 50.8542852672 ],
+						[ 4.4015168296, 50.854032381 ],
+						[ 4.3999931616, 50.8536718579 ],
+						[ 4.4009623652, 50.8520528142 ]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.448",
+				"BlockParcel.Area (m2)" : 199013.362,
+				"BlockParcel.Area (km2)" : 0.199,
+				"BlockParcel.Perimeter (m)" : 2251.1619,
+				"BlockParcel.Longitude" : 4.4058475151500005,
+				"BlockParcel.Latitude" : 50.853436935649995,
+				"Quartier" : "Reyers",
+				"Pop1030_de 0-9 ans" : 0,
+				"Pop1030_de 10-19 ans" : 0,
+				"Pop1030_de 20-29 ans" : 0,
+				"Pop1030_de 30-39 ans" : 0,
+				"Pop1030_de 40-49 ans" : 0,
+				"Pop1030_de 50-59 ans" : 0,
+				"Pop1030_de 60-69 ans" : 0,
+				"Pop1030_de 70 ans et plus" : 0,
+				"Pop1030_Population" : 0,
+				"DensityPopulation (hab/km2)" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 4.3928650955, 50.8619332281 ],
+							[ 4.3928739223, 50.8619384562 ],
+							[ 4.3930024707, 50.8622114394 ],
+							[ 4.3931368326, 50.8624626666 ],
+							[ 4.3932438383, 50.862553797 ],
+							[ 4.3932772391, 50.8625931637 ],
+							[ 4.393442979, 50.8628147186 ],
+							[ 4.3934677192, 50.8628609191 ],
+							[ 4.3935349577, 50.862957901 ],
+							[ 4.393650398, 50.8631449469 ],
+							[ 4.3938380208, 50.8633747667 ],
+							[ 4.3939410464, 50.8634544806 ],
+							[ 4.3940683815, 50.8635695178 ],
+							[ 4.3941182605, 50.8636081614 ],
+							[ 4.3942211393, 50.8636776272 ],
+							[ 4.3943724655, 50.8637644317 ],
+							[ 4.3944152344, 50.8637883341 ],
+							[ 4.3945651324, 50.8638601262 ],
+							[ 4.3948627943, 50.8639954401 ],
+							[ 4.3951147054, 50.8641070316 ],
+							[ 4.3951760859, 50.8641358736 ],
+							[ 4.3954511575, 50.8642567182 ],
+							[ 4.3958488519, 50.8644368637 ],
+							[ 4.3961070221, 50.8645555532 ],
+							[ 4.3964217559, 50.8647196253 ],
+							[ 4.3967514146, 50.8648961883 ],
+							[ 4.3969854429, 50.8650174888 ],
+							[ 4.39713365, 50.865098717 ],
+							[ 4.3972639581, 50.8651778818 ],
+							[ 4.3977981386, 50.8655217747 ],
+							[ 4.3979095573, 50.8656025618 ],
+							[ 4.3981017078, 50.8657563226 ],
+							[ 4.3982336005, 50.8658645219 ],
+							[ 4.3981544805, 50.8659559039 ],
+							[ 4.3980684648, 50.8660446281 ],
+							[ 4.3979895457, 50.8661283551 ],
+							[ 4.3978460273, 50.8662806731 ],
+							[ 4.397772029, 50.8663655158 ],
+							[ 4.3977318383, 50.8664075525 ],
+							[ 4.39771717, 50.8664060085 ],
+							[ 4.397710765, 50.8663975083 ],
+							[ 4.3976087246, 50.8662569196 ],
+							[ 4.3975689631, 50.8662068852 ],
+							[ 4.3975272418, 50.86615908 ],
+							[ 4.3974848251, 50.8661119313 ],
+							[ 4.3974425351, 50.8660668608 ],
+							[ 4.3973994659, 50.866022419 ],
+							[ 4.3973510572, 50.8659800546 ],
+							[ 4.3973027624, 50.865937799 ],
+							[ 4.3972510705, 50.8658946256 ],
+							[ 4.3972008453, 50.8658540507 ],
+							[ 4.3971488306, 50.8658156077 ],
+							[ 4.3971022014, 50.8657826358 ],
+							[ 4.3970475192, 50.8657442548 ],
+							[ 4.3969932486, 50.865710666 ],
+							[ 4.3969381112, 50.865676547 ],
+							[ 4.3968821084, 50.8656418889 ],
+							[ 4.3968577943, 50.8656268456 ],
+							[ 4.3968219689, 50.8656069957 ],
+							[ 4.3967630288, 50.8655743261 ],
+							[ 4.3967018432, 50.8655419538 ],
+							[ 4.3966299224, 50.8655089395 ],
+							[ 4.3965701088, 50.8654815038 ],
+							[ 4.3965112274, 50.8654545118 ],
+							[ 4.3965007134, 50.8654497508 ],
+							[ 4.3964985004, 50.8654427208 ],
+							[ 4.3964911764, 50.865419549 ],
+							[ 4.3964816381, 50.8653769883 ],
+							[ 4.3964667515, 50.8653107087 ],
+							[ 4.3964502615, 50.8652467265 ],
+							[ 4.3964466104, 50.8652425565 ],
+							[ 4.3963918057, 50.8652130892 ],
+							[ 4.3963286373, 50.8651783046 ],
+							[ 4.3962679101, 50.8651444703 ],
+							[ 4.3962071928, 50.8651106566 ],
+							[ 4.3961464144, 50.8650768096 ],
+							[ 4.3960828165, 50.8650412114 ],
+							[ 4.3960221571, 50.8650067782 ],
+							[ 4.3959616859, 50.864972948 ],
+							[ 4.3959001489, 50.8649385555 ],
+							[ 4.3958388493, 50.8649042932 ],
+							[ 4.3957770453, 50.864869729 ],
+							[ 4.3957186473, 50.8648364356 ],
+							[ 4.3956608049, 50.8648033111 ],
+							[ 4.3956028219, 50.8647700949 ],
+							[ 4.3955451655, 50.8647385228 ],
+							[ 4.395481913, 50.8647038843 ],
+							[ 4.3954186642, 50.8646684807 ],
+							[ 4.3953588787, 50.8646349476 ],
+							[ 4.3952973425, 50.8646004235 ],
+							[ 4.3952348657, 50.8645653845 ],
+							[ 4.3951752978, 50.864531969 ],
+							[ 4.3951142621, 50.8644977323 ],
+							[ 4.3950529565, 50.8644633267 ],
+							[ 4.3949901645, 50.8644281178 ],
+							[ 4.3949330299, 50.8643960597 ],
+							[ 4.3948487535, 50.8643478405 ],
+							[ 4.3946452767, 50.8642313936 ],
+							[ 4.3945902318, 50.8642008046 ],
+							[ 4.3944026145, 50.864095985 ],
+							[ 4.394231993, 50.8639995391 ],
+							[ 4.3941282087, 50.8639408793 ],
+							[ 4.3940400946, 50.8639100743 ],
+							[ 4.3938447039, 50.8638417699 ],
+							[ 4.3937088107, 50.8637942627 ],
+							[ 4.3936661193, 50.8637521845 ],
+							[ 4.3935279617, 50.8636159789 ],
+							[ 4.3934839746, 50.8635673288 ],
+							[ 4.3934380678, 50.8635175366 ],
+							[ 4.3933945322, 50.8634701709 ],
+							[ 4.3933553462, 50.8634230025 ],
+							[ 4.3933148936, 50.8633743153 ],
+							[ 4.3932788184, 50.8633308947 ],
+							[ 4.3932373878, 50.8632810391 ],
+							[ 4.3931965516, 50.8632318845 ],
+							[ 4.39315829, 50.8631858135 ],
+							[ 4.3931219572, 50.8631372589 ],
+							[ 4.3930840061, 50.8630862076 ],
+							[ 4.393048468, 50.8630383908 ],
+							[ 4.3930144945, 50.8629895856 ],
+							[ 4.3929806632, 50.8629408703 ],
+							[ 4.3929452679, 50.8628899062 ],
+							[ 4.3929108666, 50.8628403829 ],
+							[ 4.3928804024, 50.8627922671 ],
+							[ 4.3928476046, 50.8627404329 ],
+							[ 4.3928169285, 50.8626918416 ],
+							[ 4.3927883631, 50.8626410481 ],
+							[ 4.3927374219, 50.8625504185 ],
+							[ 4.3927084082, 50.8624802166 ],
+							[ 4.3926965896, 50.8624232254 ],
+							[ 4.392686052, 50.8623718981 ],
+							[ 4.3926846045, 50.86231976 ],
+							[ 4.3926901139, 50.862263305 ],
+							[ 4.3926996049, 50.8622110729 ],
+							[ 4.3927231512, 50.8621494005 ],
+							[ 4.3927458514, 50.8621004036 ],
+							[ 4.3927757689, 50.8620538129 ],
+							[ 4.3928090379, 50.8620043195 ],
+							[ 4.3928620965, 50.8619379388 ],
+							[ 4.392863799, 50.8619351524 ],
+							[ 4.3928664984, 50.8619360506 ],
+							[ 4.3928650955, 50.8619332281 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.440",
+				"BlockParcel.Area (m2)" : 23516.2032,
+				"BlockParcel.Area (km2)" : 0.024,
+				"BlockParcel.Perimeter (m)" : 1304.2193,
+				"BlockParcel.Longitude" : 4.3954591025,
+				"BlockParcel.Latitude" : 50.8641703903,
+				"Quartier" : "Jardin",
+				"Pop1030_de 0-9 ans" : 26,
+				"Pop1030_de 10-19 ans" : 26,
+				"Pop1030_de 20-29 ans" : 24,
+				"Pop1030_de 30-39 ans" : 17,
+				"Pop1030_de 40-49 ans" : 32,
+				"Pop1030_de 50-59 ans" : 18,
+				"Pop1030_de 60-69 ans" : 19,
+				"Pop1030_de 70 ans et plus" : 28,
+				"Pop1030_Population" : 190,
+				"DensityPopulation (hab/km2)" : 7916.666666666666
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 4.398329964, 50.8657532266 ],
+							[ 4.3982336005, 50.8658645219 ],
+							[ 4.3981017078, 50.8657563226 ],
+							[ 4.3979095573, 50.8656025618 ],
+							[ 4.3977981386, 50.8655217747 ],
+							[ 4.3972639581, 50.8651778818 ],
+							[ 4.39713365, 50.865098717 ],
+							[ 4.3969854429, 50.8650174888 ],
+							[ 4.3967514146, 50.8648961883 ],
+							[ 4.3964217559, 50.8647196253 ],
+							[ 4.3961070221, 50.8645555532 ],
+							[ 4.3958488519, 50.8644368637 ],
+							[ 4.3954511575, 50.8642567182 ],
+							[ 4.3951760859, 50.8641358736 ],
+							[ 4.3951147054, 50.8641070316 ],
+							[ 4.3948627943, 50.8639954401 ],
+							[ 4.3945651324, 50.8638601262 ],
+							[ 4.3944152344, 50.8637883341 ],
+							[ 4.3943724655, 50.8637644317 ],
+							[ 4.3942211393, 50.8636776272 ],
+							[ 4.3941182605, 50.8636081614 ],
+							[ 4.3940683815, 50.8635695178 ],
+							[ 4.3939410464, 50.8634544806 ],
+							[ 4.3938380208, 50.8633747667 ],
+							[ 4.393650398, 50.8631449469 ],
+							[ 4.3935349577, 50.862957901 ],
+							[ 4.3934677192, 50.8628609191 ],
+							[ 4.393442979, 50.8628147186 ],
+							[ 4.3932772391, 50.8625931637 ],
+							[ 4.3932438383, 50.862553797 ],
+							[ 4.3931368326, 50.8624626666 ],
+							[ 4.3930024707, 50.8622114394 ],
+							[ 4.3928739223, 50.8619384562 ],
+							[ 4.3928650955, 50.8619332281 ],
+							[ 4.3927636959, 50.8617292235 ],
+							[ 4.3928133612, 50.861639319 ],
+							[ 4.3929055062, 50.8615635185 ],
+							[ 4.3929719601, 50.8615270961 ],
+							[ 4.3930378468, 50.8614902252 ],
+							[ 4.3932276719, 50.86142392 ],
+							[ 4.3934862167, 50.8613541334 ],
+							[ 4.3940170411, 50.8612585267 ],
+							[ 4.3943232127, 50.8611898135 ],
+							[ 4.3947963758, 50.8610778716 ],
+							[ 4.3950614263, 50.8612542321 ],
+							[ 4.3953211198, 50.8614649195 ],
+							[ 4.3956885256, 50.8619437594 ],
+							[ 4.3960202115, 50.8623968275 ],
+							[ 4.3962787563, 50.8627790333 ],
+							[ 4.3964301411, 50.8629840918 ],
+							[ 4.3965730212, 50.8631494263 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3966572184, 50.8632690317 ],
+							[ 4.3969856593, 50.8636377253 ],
+							[ 4.3971183336, 50.8638009103 ],
+							[ 4.3972169889, 50.8638953856 ],
+							[ 4.3973530651, 50.8640714526 ],
+							[ 4.3974755337, 50.8642088703 ],
+							[ 4.3977970138, 50.864514838 ],
+							[ 4.3979943244, 50.8647209624 ],
+							[ 4.3980470539, 50.86478806 ],
+							[ 4.3981627187, 50.8649206446 ],
+							[ 4.3985854056, 50.8653216178 ],
+							[ 4.3985854056, 50.8653216178 ],
+							[ 4.3985854056, 50.8653216178 ],
+							[ 4.3985854056, 50.8653216178 ],
+							[ 4.3985854056, 50.8653216178 ],
+							[ 4.3986478857, 50.865387035 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3986138666, 50.8654213885 ],
+							[ 4.3985832495, 50.8654664775 ],
+							[ 4.3985050056, 50.8655566552 ],
+							[ 4.3984165561, 50.8656575681 ],
+							[ 4.398329964, 50.8657532266 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"BlockParcel" : "BlockParcel.441",
+				"BlockParcel.Area (m2)" : 78842.1094,
+				"BlockParcel.Area (km2)" : 0.079,
+				"BlockParcel.Perimeter (m)" : 1396.28,
+				"BlockParcel.Longitude" : 4.3957057908,
+				"BlockParcel.Latitude" : 50.86347119675,
+				"Quartier" : "Terdelt-Fleur",
+				"Pop1030_de 0-9 ans" : 0,
+				"Pop1030_de 10-19 ans" : 0,
+				"Pop1030_de 20-29 ans" : 0,
+				"Pop1030_de 30-39 ans" : 0,
+				"Pop1030_de 40-49 ans" : 0,
+				"Pop1030_de 50-59 ans" : 0,
+				"Pop1030_de 60-69 ans" : 0,
+				"Pop1030_de 70 ans et plus" : 0,
+				"Pop1030_Population" : 0,
+				"DensityPopulation (hab/km2)" : 0
 					}
 				}
 			]
