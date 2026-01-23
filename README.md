@@ -4,6 +4,9 @@ It focuses on factors such as age, sex, and number of families based on the geog
 
 This study measures the population density of Schaerbeek based on the number of people living in a specific geographic area. The results are expressed as the number of people per square kilometer. The areas studied correspond to the urban blocks in the municipality of Schaerbeek.
 
+## Link
+https://gis1030.github.io/POP-Demographic-Schaerbeek/
+
 ## Type od Study
 Population demographic of Schaerbeek
 
