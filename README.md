@@ -4,6 +4,9 @@ It focuses on factors such as age, sex, and number of families based on the geog
 
 This study measures the population density of Schaerbeek based on the number of people living in a specific geographic area. The results are expressed as the number of people per square kilometer. The areas studied correspond to the urban blocks in the municipality of Schaerbeek.
 
+## Observation
+Refreshment with new divisions for the urban islets.
+
 ## Link
 https://gis1030.github.io/POP-Demographic-Schaerbeek/
 
@@ -14,10 +17,10 @@ Population demographic of Schaerbeek
 The data represented correspond to the results of the analysis of the Belgian National Register of the municipality of Schaerbeek.
 
 ### Previous Updates
-January 2025, August 2025
+January 2025, August 2025, December 2025
 
 ### Last Updates
 December 18, 2025
 
 ### Publication date
-December 26, 2025
+January 23, 2026 (Refreshment with new divisions for the urban islets)
