@@ -1,4 +1,4 @@
-# Review Demographic study of the population of Schaerbeek.
+# Demographic study of the population of Schaerbeek.
 This research analyzes the characteristics of the Schaerbeek population and determines its size, distribution, structure, and age distribution.
 It focuses on factors such as age, sex, and number of families based on the geographic distribution of individuals.
 
