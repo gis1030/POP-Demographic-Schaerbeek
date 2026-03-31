@@ -20,7 +20,7 @@ The data represented correspond to the results of the analysis of the Belgian Na
 January 2025, August 2025, December 2025
 
 ### Last Updates
-December 18, 2025
+Mars 27, 2026
 
 ### Publication date
-January 23, 2026 (Refreshment with new divisions for the urban islets)
+Mars 31, 2026 (Refreshment with new divisions for the urban islets)
