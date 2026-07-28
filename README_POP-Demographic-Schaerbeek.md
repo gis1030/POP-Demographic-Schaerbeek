@@ -1,6 +1,6 @@
 # 👥 Demographic Study of the Population — Schaerbeek 1030
 
-> Analysis of the size, distribution, structure, and age profile of the Schaerbeek population, based on the Belgian National Register · Data as of March 2026
+> Analysis of the size, distribution, structure, and age profile of the Schaerbeek population, based on the Belgian National Register · Data as of Aout 2026
 
 ---
 
@@ -71,6 +71,7 @@ POP-Demographic-Schaerbeek/
 
 | Date | Description |
 |---|---|
+| Aout 2026 | Intermediate update |
 | March 2026 | Dataset refreshed with new urban block boundaries |
 | December 2025 | Annual data update |
 | August 2025 | Intermediate update |
