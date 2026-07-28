@@ -17,10 +17,10 @@ Population demographic of Schaerbeek
 The data represented correspond to the results of the analysis of the Belgian National Register of the municipality of Schaerbeek.
 
 ### Previous Updates
-January 2025, August 2025, December 2025
+Mars 2026, January 2025, August 2025, December 2025
 
 ### Last Updates
-Mars 27, 2026
+August 01, 2026
 
 ### Publication date
-Mars 31, 2026 (Refreshment with new divisions for the urban islets)
+August 01, 2026 (Refreshment with new divisions for the urban islets)
