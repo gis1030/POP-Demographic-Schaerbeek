@@ -83,7 +83,7 @@ POP-Demographic-Schaerbeek/
 
 | Dataset | Source | Date |
 |---|---|---|
-| Population statistics | Belgian National Register (Registre National) — Commune de Schaerbeek | March 2026 |
+| Population statistics | Belgian National Register (Registre National) — Commune de Schaerbeek | Aout 2026 |
 | Urban block boundaries | Municipal GIS reference layer — updated boundaries | March 2026 |
 
 Data is extracted from the National Register and aggregated at the urban block level. Published as static GeoJSON files for client-side rendering. No individual-level data is published.
