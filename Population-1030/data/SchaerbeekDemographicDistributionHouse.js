@@ -172,10 +172,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.381853868882,
 				"BlockParcel.Latitude" : 50.8608290685138,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 79,
+				"Pop1030_Femme" : 72,
+				"Pop1030_Menages1030" : 151,
+				"DensityPopulation (hab/km2)" : 14462.050048270683
 			}
 		},
 		{
@@ -240,10 +240,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38081814638207,
 				"BlockParcel.Latitude" : 50.8576692096674,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 53,
+				"Pop1030_Menages1030" : 90,
+				"DensityPopulation (hab/km2)" : 25327.213528108987
 			}
 		},
 		{
@@ -363,10 +363,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38027831512279,
 				"BlockParcel.Latitude" : 50.8608064762657,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 134,
+				"Pop1030_Femme" : 137,
+				"Pop1030_Menages1030" : 271,
+				"DensityPopulation (hab/km2)" : 12701.900457409029
 			}
 		},
 		{
@@ -492,10 +492,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37877903718173,
 				"BlockParcel.Latitude" : 50.8621166643484,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 102,
+				"Pop1030_Femme" : 128,
+				"Pop1030_Menages1030" : 230,
+				"DensityPopulation (hab/km2)" : 12855.747888722883
 			}
 		},
 		{
@@ -574,10 +574,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3784752156935,
 				"BlockParcel.Latitude" : 50.8600866001064,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 119,
+				"Pop1030_Femme" : 121,
+				"Pop1030_Menages1030" : 240,
+				"DensityPopulation (hab/km2)" : 23463.025205154827
 			}
 		},
 		{
@@ -642,10 +642,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37918340931843,
 				"BlockParcel.Latitude" : 50.8579557722434,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 136,
+				"Pop1030_Femme" : 120,
+				"Pop1030_Menages1030" : 256,
+				"DensityPopulation (hab/km2)" : 23744.42098858413
 			}
 		},
 		{
@@ -732,10 +732,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38003192300292,
 				"BlockParcel.Latitude" : 50.8576827998799,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 29,
+				"Pop1030_Menages1030" : 60,
+				"DensityPopulation (hab/km2)" : 9645.387334641891
 			}
 		},
 		{
@@ -826,10 +826,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37859736271241,
 				"BlockParcel.Latitude" : 50.8632826961262,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 65,
+				"Pop1030_Femme" : 71,
+				"Pop1030_Menages1030" : 136,
+				"DensityPopulation (hab/km2)" : 27391.466349784994
 			}
 		},
 		{
@@ -907,10 +907,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37709520650541,
 				"BlockParcel.Latitude" : 50.8645063404891,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 163,
+				"DensityPopulation (hab/km2)" : 28528.373480164028
 			}
 		},
 		{
@@ -1045,10 +1045,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37721055247848,
 				"BlockParcel.Latitude" : 50.8619977922732,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 145,
+				"Pop1030_Femme" : 201,
+				"Pop1030_Menages1030" : 346,
+				"DensityPopulation (hab/km2)" : 11051.30841422987
 			}
 		},
 		{
@@ -1146,10 +1146,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38312862589844,
 				"BlockParcel.Latitude" : 50.8689584868551,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 74,
+				"Pop1030_Menages1030" : 145,
+				"DensityPopulation (hab/km2)" : 11111.826355106381
 			}
 		},
 		{
@@ -1233,10 +1233,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37854532740841,
 				"BlockParcel.Latitude" : 50.8671927761359,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 77,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 166,
+				"DensityPopulation (hab/km2)" : 14501.856849200782
 			}
 		},
 		{
@@ -1354,10 +1354,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37906127033777,
 				"BlockParcel.Latitude" : 50.8704513036507,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 57,
+				"Pop1030_Menages1030" : 110,
+				"DensityPopulation (hab/km2)" : 9206.045526405867
 			}
 		},
 		{
@@ -1410,10 +1410,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37736928313638,
 				"BlockParcel.Latitude" : 50.866938374651,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 32,
+				"Pop1030_Femme" : 34,
+				"Pop1030_Menages1030" : 66,
+				"DensityPopulation (hab/km2)" : 36797.29707126968
 			}
 		},
 		{
@@ -1483,10 +1483,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37645312479351,
 				"BlockParcel.Latitude" : 50.8674746907771,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 24,
+				"Pop1030_Femme" : 38,
+				"Pop1030_Menages1030" : 62,
+				"DensityPopulation (hab/km2)" : 18383.06149134069
 			}
 		},
 		{
@@ -1560,10 +1560,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37752510862848,
 				"BlockParcel.Latitude" : 50.8692408107978,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 49,
+				"Pop1030_Femme" : 87,
+				"Pop1030_Menages1030" : 136,
+				"DensityPopulation (hab/km2)" : 12875.52022782097
 			}
 		},
 		{
@@ -1648,10 +1648,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37626134214118,
 				"BlockParcel.Latitude" : 50.8691319799129,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 138,
+				"DensityPopulation (hab/km2)" : 21845.25957867143
 			}
 		},
 		{
@@ -1722,10 +1722,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37629216585395,
 				"BlockParcel.Latitude" : 50.8659544605903,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 34,
+				"Pop1030_Femme" : 85,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 26662.36483973454
 			}
 		},
 		{
@@ -1828,10 +1828,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37765618474368,
 				"BlockParcel.Latitude" : 50.8725030774084,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 90,
+				"Pop1030_Femme" : 116,
+				"Pop1030_Menages1030" : 206,
+				"DensityPopulation (hab/km2)" : 12202.598679631434
 			}
 		},
 		{
@@ -1895,10 +1895,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37719301132486,
 				"BlockParcel.Latitude" : 50.8565418544018,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 56,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 114,
+				"DensityPopulation (hab/km2)" : 23020.118371871835
 			}
 		},
 		{
@@ -1993,10 +1993,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37648802668489,
 				"BlockParcel.Latitude" : 50.8555688874333,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 58,
+				"Pop1030_Femme" : 81,
+				"Pop1030_Menages1030" : 139,
+				"DensityPopulation (hab/km2)" : 13925.497586080113
 			}
 		},
 		{
@@ -2057,10 +2057,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37441883306202,
 				"BlockParcel.Latitude" : 50.8561209846358,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 34,
+				"Pop1030_Femme" : 61,
+				"Pop1030_Menages1030" : 95,
+				"DensityPopulation (hab/km2)" : 25334.481829842953
 			}
 		},
 		{
@@ -2153,10 +2153,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37499938118552,
 				"BlockParcel.Latitude" : 50.8649169602357,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 64,
+				"Pop1030_Femme" : 97,
+				"Pop1030_Menages1030" : 161,
+				"DensityPopulation (hab/km2)" : 21753.905231341298
 			}
 		},
 		{
@@ -2289,10 +2289,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37394996151856,
 				"BlockParcel.Latitude" : 50.8612121905707,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 93,
+				"Pop1030_Femme" : 161,
+				"Pop1030_Menages1030" : 254,
+				"DensityPopulation (hab/km2)" : 25901.927552104687
 			}
 		},
 		{
@@ -2408,10 +2408,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37413700104279,
 				"BlockParcel.Latitude" : 50.861659980564,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 177,
+				"DensityPopulation (hab/km2)" : 15114.705241899328
 			}
 		},
 		{
@@ -2521,10 +2521,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37356779695881,
 				"BlockParcel.Latitude" : 50.8630677409017,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 57,
+				"Pop1030_Femme" : 62,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 7461.881698449685
 			}
 		},
 		{
@@ -2587,10 +2587,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37244046912442,
 				"BlockParcel.Latitude" : 50.8639579034476,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 51,
+				"Pop1030_Menages1030" : 94,
+				"DensityPopulation (hab/km2)" : 31129.95098688568
 			}
 		},
 		{
@@ -2661,10 +2661,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37216042890229,
 				"BlockParcel.Latitude" : 50.8634389157433,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 44,
+				"Pop1030_Femme" : 77,
+				"Pop1030_Menages1030" : 121,
+				"DensityPopulation (hab/km2)" : 18307.813351086366
 			}
 		},
 		{
@@ -2747,10 +2747,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37181867914536,
 				"BlockParcel.Latitude" : 50.8653658318696,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 61,
+				"Pop1030_Menages1030" : 111,
+				"DensityPopulation (hab/km2)" : 15395.327032807303
 			}
 		},
 		{
@@ -2781,10 +2781,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37336676899101,
 				"BlockParcel.Latitude" : 50.8723664963621,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 11,
+				"Pop1030_Femme" : 11,
+				"Pop1030_Menages1030" : 22,
+				"DensityPopulation (hab/km2)" : 11407.711613050422
 			}
 		},
 		{
@@ -2886,10 +2886,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37596089438801,
 				"BlockParcel.Latitude" : 50.8730742166584,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 69,
+				"Pop1030_Femme" : 130,
+				"Pop1030_Menages1030" : 199,
+				"DensityPopulation (hab/km2)" : 12714.42819255139
 			}
 		},
 		{
@@ -2948,10 +2948,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37183833290558,
 				"BlockParcel.Latitude" : 50.871225252805,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 29,
+				"Pop1030_Femme" : 40,
+				"Pop1030_Menages1030" : 69,
+				"DensityPopulation (hab/km2)" : 28109.112240907314
 			}
 		},
 		{
@@ -3057,10 +3057,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37333404421205,
 				"BlockParcel.Latitude" : 50.8694099842347,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 106,
+				"Pop1030_Menages1030" : 158,
+				"DensityPopulation (hab/km2)" : 11973.270809620446
 			}
 		},
 		{
@@ -3175,10 +3175,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36999273757222,
 				"BlockParcel.Latitude" : 50.8688805076301,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 46,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 130,
+				"DensityPopulation (hab/km2)" : 7151.261840151694
 			}
 		},
 		{
@@ -3276,10 +3276,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37525841773874,
 				"BlockParcel.Latitude" : 50.8690263203661,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 66,
+				"Pop1030_Femme" : 82,
+				"Pop1030_Menages1030" : 148,
+				"DensityPopulation (hab/km2)" : 13796.819460227405
 			}
 		},
 		{
@@ -3392,10 +3392,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3683821636874605,
 				"BlockParcel.Latitude" : 50.8703275861259,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 65,
+				"Pop1030_Menages1030" : 120,
+				"DensityPopulation (hab/km2)" : 14911.407599598882
 			}
 		},
 		{
@@ -3458,10 +3458,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36874561699053,
 				"BlockParcel.Latitude" : 50.8600251121845,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 64,
+				"Pop1030_Menages1030" : 106,
+				"DensityPopulation (hab/km2)" : 18582.50544765431
 			}
 		},
 		{
@@ -3511,10 +3511,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36788031348514,
 				"BlockParcel.Latitude" : 50.8590042264296,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 10,
+				"Pop1030_Femme" : 12,
+				"Pop1030_Menages1030" : 22,
+				"DensityPopulation (hab/km2)" : 9438.981276493505
 			}
 		},
 		{
@@ -3633,10 +3633,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37234891323104,
 				"BlockParcel.Latitude" : 50.8587092993003,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 92,
+				"Pop1030_Femme" : 109,
+				"Pop1030_Menages1030" : 201,
+				"DensityPopulation (hab/km2)" : 16308.0121020054
 			}
 		},
 		{
@@ -3726,10 +3726,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36564196981511,
 				"BlockParcel.Latitude" : 50.8584368061672,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 15,
+				"Pop1030_Femme" : 49,
+				"Pop1030_Menages1030" : 64,
+				"DensityPopulation (hab/km2)" : 20314.42927563189
 			}
 		},
 		{
@@ -3798,10 +3798,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36960836591541,
 				"BlockParcel.Latitude" : 50.8585951217832,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 73,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 18945.609185913938
 			}
 		},
 		{
@@ -3938,10 +3938,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37195276750845,
 				"BlockParcel.Latitude" : 50.8580703912564,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 107,
+				"Pop1030_Femme" : 146,
+				"Pop1030_Menages1030" : 253,
+				"DensityPopulation (hab/km2)" : 13039.328263285168
 			}
 		},
 		{
@@ -4062,10 +4062,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37565229553051,
 				"BlockParcel.Latitude" : 50.858957279691,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 106,
+				"Pop1030_Femme" : 149,
+				"Pop1030_Menages1030" : 255,
+				"DensityPopulation (hab/km2)" : 14509.180043561679
 			}
 		},
 		{
@@ -4179,10 +4179,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.371532246251,
 				"BlockParcel.Latitude" : 50.8574974284991,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 70,
+				"Pop1030_Femme" : 114,
+				"Pop1030_Menages1030" : 184,
+				"DensityPopulation (hab/km2)" : 19007.10597184676
 			}
 		},
 		{
@@ -4250,10 +4250,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37652569210056,
 				"BlockParcel.Latitude" : 50.8570256563819,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 54,
+				"Pop1030_Menages1030" : 109,
+				"DensityPopulation (hab/km2)" : 23770.321989728604
 			}
 		},
 		{
@@ -4296,10 +4296,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36772203439742,
 				"BlockParcel.Latitude" : 50.8581774012309,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 15,
+				"Pop1030_Femme" : 8,
+				"Pop1030_Menages1030" : 23,
+				"DensityPopulation (hab/km2)" : 5092.743283668015
 			}
 		},
 		{
@@ -4364,10 +4364,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37479656795838,
 				"BlockParcel.Latitude" : 50.868293191812,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 41,
+				"Pop1030_Femme" : 73,
+				"Pop1030_Menages1030" : 114,
+				"DensityPopulation (hab/km2)" : 28147.31415365471
 			}
 		},
 		{
@@ -4450,10 +4450,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37115489963437,
 				"BlockParcel.Latitude" : 50.8678871892436,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 66,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 16454.03172171393
 			}
 		},
 		{
@@ -4600,10 +4600,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36772520474107,
 				"BlockParcel.Latitude" : 50.868200731293,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 104,
+				"Pop1030_Femme" : 163,
+				"Pop1030_Menages1030" : 267,
+				"DensityPopulation (hab/km2)" : 10573.679537514385
 			}
 		},
 		{
@@ -4708,10 +4708,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37501022917066,
 				"BlockParcel.Latitude" : 50.8672472214291,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 63,
+				"Pop1030_Femme" : 100,
+				"Pop1030_Menages1030" : 163,
+				"DensityPopulation (hab/km2)" : 9855.23089052592
 			}
 		},
 		{
@@ -4796,10 +4796,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37586616919744,
 				"BlockParcel.Latitude" : 50.8656196553501,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 62,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 146,
+				"DensityPopulation (hab/km2)" : 19157.01271317097
 			}
 		},
 		{
@@ -4887,10 +4887,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37001954377455,
 				"BlockParcel.Latitude" : 50.8662531030315,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 73,
+				"Pop1030_Menages1030" : 125,
+				"DensityPopulation (hab/km2)" : 17010.852924165618
 			}
 		},
 		{
@@ -4973,10 +4973,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37231195960378,
 				"BlockParcel.Latitude" : 50.8665351360613,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 58,
+				"Pop1030_Femme" : 67,
+				"Pop1030_Menages1030" : 125,
+				"DensityPopulation (hab/km2)" : 17318.24844620675
 			}
 		},
 		{
@@ -5030,10 +5030,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37090429897559,
 				"BlockParcel.Latitude" : 50.8636892261825,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 24,
+				"Pop1030_Femme" : 32,
+				"Pop1030_Menages1030" : 56,
+				"DensityPopulation (hab/km2)" : 18084.993008212525
 			}
 		},
 		{
@@ -5146,10 +5146,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36909341637527,
 				"BlockParcel.Latitude" : 50.8647230833751,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 114,
+				"Pop1030_Menages1030" : 199,
+				"DensityPopulation (hab/km2)" : 14423.97946721154
 			}
 		},
 		{
@@ -5243,10 +5243,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36848412329776,
 				"BlockParcel.Latitude" : 50.8629425436857,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 68,
+				"Pop1030_Femme" : 101,
+				"Pop1030_Menages1030" : 169,
+				"DensityPopulation (hab/km2)" : 15370.818728023822
 			}
 		},
 		{
@@ -5357,10 +5357,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36856400666648,
 				"BlockParcel.Latitude" : 50.8635150203322,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 117,
+				"Pop1030_Menages1030" : 208,
+				"DensityPopulation (hab/km2)" : 18579.05925648034
 			}
 		},
 		{
@@ -5421,10 +5421,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36957152560931,
 				"BlockParcel.Latitude" : 50.8615758551665,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 32049.045377829814
 			}
 		},
 		{
@@ -5532,10 +5532,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36955777046469,
 				"BlockParcel.Latitude" : 50.8652417654932,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 70,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 159,
+				"DensityPopulation (hab/km2)" : 13898.69859229785
 			}
 		},
 		{
@@ -5704,10 +5704,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36792485028257,
 				"BlockParcel.Latitude" : 50.8666069987498,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 163,
+				"Pop1030_Femme" : 202,
+				"Pop1030_Menages1030" : 365,
+				"DensityPopulation (hab/km2)" : 7948.637429327902
 			}
 		},
 		{
@@ -5788,10 +5788,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36668740276197,
 				"BlockParcel.Latitude" : 50.8625143150606,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 66,
+				"Pop1030_Femme" : 67,
+				"Pop1030_Menages1030" : 133,
+				"DensityPopulation (hab/km2)" : 16839.83418461016
 			}
 		},
 		{
@@ -5879,10 +5879,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36841943964106,
 				"BlockParcel.Latitude" : 50.8623758027351,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 47,
+				"Pop1030_Femme" : 81,
+				"Pop1030_Menages1030" : 128,
+				"DensityPopulation (hab/km2)" : 20317.91182661202
 			}
 		},
 		{
@@ -5966,10 +5966,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36518215095501,
 				"BlockParcel.Latitude" : 50.8649534526961,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 61,
+				"Pop1030_Femme" : 70,
+				"Pop1030_Menages1030" : 131,
+				"DensityPopulation (hab/km2)" : 24132.652215322207
 			}
 		},
 		{
@@ -6052,10 +6052,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36522887922541,
 				"BlockParcel.Latitude" : 50.864048904777,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 62,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 141,
+				"DensityPopulation (hab/km2)" : 17003.480286816153
 			}
 		},
 		{
@@ -6138,10 +6138,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36516726970996,
 				"BlockParcel.Latitude" : 50.8672061528173,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 42,
+				"Pop1030_Menages1030" : 73,
+				"DensityPopulation (hab/km2)" : 13428.003826061364
 			}
 		},
 		{
@@ -6235,10 +6235,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36681160985268,
 				"BlockParcel.Latitude" : 50.8686553613262,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 79,
+				"Pop1030_Femme" : 103,
+				"Pop1030_Menages1030" : 182,
+				"DensityPopulation (hab/km2)" : 13853.715421849442
 			}
 		},
 		{
@@ -6336,10 +6336,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36448063097876,
 				"BlockParcel.Latitude" : 50.8684386468847,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 65,
+				"DensityPopulation (hab/km2)" : 13390.024637645332
 			}
 		},
 		{
@@ -6422,10 +6422,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37916483374019,
 				"BlockParcel.Latitude" : 50.8753047905932,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 69,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 149,
+				"DensityPopulation (hab/km2)" : 15505.376411223395
 			}
 		},
 		{
@@ -6538,10 +6538,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38099995026341,
 				"BlockParcel.Latitude" : 50.8761588903799,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 159,
+				"Pop1030_Femme" : 182,
+				"Pop1030_Menages1030" : 341,
+				"DensityPopulation (hab/km2)" : 15529.64043645121
 			}
 		},
 		{
@@ -6592,10 +6592,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37557765365049,
 				"BlockParcel.Latitude" : 50.8754229550411,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 43,
+				"Pop1030_Menages1030" : 74,
+				"DensityPopulation (hab/km2)" : 23647.08326010194
 			}
 		},
 		{
@@ -6687,10 +6687,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38160598966659,
 				"BlockParcel.Latitude" : 50.8750836902167,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 100,
+				"Pop1030_Femme" : 83,
+				"Pop1030_Menages1030" : 183,
+				"DensityPopulation (hab/km2)" : 18314.395114560044
 			}
 		},
 		{
@@ -6814,10 +6814,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37933544595594,
 				"BlockParcel.Latitude" : 50.8736937015904,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 102,
+				"Pop1030_Menages1030" : 193,
+				"DensityPopulation (hab/km2)" : 8302.050090182633
 			}
 		},
 		{
@@ -6900,10 +6900,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37853867404508,
 				"BlockParcel.Latitude" : 50.8744248928422,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 74,
+				"Pop1030_Menages1030" : 165,
+				"DensityPopulation (hab/km2)" : 19791.434267249137
 			}
 		},
 		{
@@ -6963,10 +6963,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3744702518997,
 				"BlockParcel.Latitude" : 50.8741796282272,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 91,
+				"Pop1030_Menages1030" : 146,
+				"DensityPopulation (hab/km2)" : 23405.200122476526
 			}
 		},
 		{
@@ -7058,10 +7058,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38248502365746,
 				"BlockParcel.Latitude" : 50.8792237840695,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 24,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 80,
+				"DensityPopulation (hab/km2)" : 9599.623694751166
 			}
 		},
 		{
@@ -7148,10 +7148,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36505971538869,
 				"BlockParcel.Latitude" : 50.8615128215891,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 48,
+				"Pop1030_Femme" : 70,
+				"Pop1030_Menages1030" : 118,
+				"DensityPopulation (hab/km2)" : 11088.568531582217
 			}
 		},
 		{
@@ -7236,10 +7236,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3640771038823996,
 				"BlockParcel.Latitude" : 50.8598075750583,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 57,
+				"Pop1030_Femme" : 91,
+				"Pop1030_Menages1030" : 148,
+				"DensityPopulation (hab/km2)" : 14633.18172829741
 			}
 		},
 		{
@@ -7293,10 +7293,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36235350879179,
 				"BlockParcel.Latitude" : 50.8594422482618,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 7,
+				"Pop1030_Femme" : 11,
+				"Pop1030_Menages1030" : 18,
+				"DensityPopulation (hab/km2)" : 16881.119405784597
 			}
 		},
 		{
@@ -7354,10 +7354,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36441302955383,
 				"BlockParcel.Latitude" : 50.8589366217119,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 21,
+				"Pop1030_Femme" : 40,
+				"Pop1030_Menages1030" : 61,
+				"DensityPopulation (hab/km2)" : 22467.35787554557
 			}
 		},
 		{
@@ -7391,10 +7391,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36074635830167,
 				"BlockParcel.Latitude" : 50.8625455747157,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 124,
+				"Pop1030_Femme" : 210,
+				"Pop1030_Menages1030" : 334,
+				"DensityPopulation (hab/km2)" : 32434.67908118575
 			}
 		},
 		{
@@ -7493,10 +7493,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36132206108093,
 				"BlockParcel.Latitude" : 50.8665630641734,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 80,
+				"Pop1030_Femme" : 110,
+				"Pop1030_Menages1030" : 190,
+				"DensityPopulation (hab/km2)" : 17860.23146859983
 			}
 		},
 		{
@@ -7569,10 +7569,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40406581777919,
 				"BlockParcel.Latitude" : 50.8597007352207,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 15,
+				"Pop1030_Femme" : 21,
+				"Pop1030_Menages1030" : 36,
+				"DensityPopulation (hab/km2)" : 7037.806706638802
 			}
 		},
 		{
@@ -7637,10 +7637,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40034311634137,
 				"BlockParcel.Latitude" : 50.8582669492481,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 76,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 168,
+				"DensityPopulation (hab/km2)" : 20533.102906289605
 			}
 		},
 		{
@@ -7761,10 +7761,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40005928518698,
 				"BlockParcel.Latitude" : 50.8604427940645,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 16,
+				"Pop1030_Menages1030" : 33,
+				"DensityPopulation (hab/km2)" : 3159.9630763102355
 			}
 		},
 		{
@@ -7859,10 +7859,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39999122791791,
 				"BlockParcel.Latitude" : 50.8568799070008,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 79,
+				"Pop1030_Femme" : 69,
+				"Pop1030_Menages1030" : 148,
+				"DensityPopulation (hab/km2)" : 10642.321636846593
 			}
 		},
 		{
@@ -7917,10 +7917,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3970123154889205,
 				"BlockParcel.Latitude" : 50.866831279774,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 1,
+				"Pop1030_Femme" : 11,
+				"Pop1030_Menages1030" : 12,
+				"DensityPopulation (hab/km2)" : 5413.794347998702
 			}
 		},
 		{
@@ -7992,10 +7992,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39576589162835,
 				"BlockParcel.Latitude" : 50.8678196413152,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 12,
+				"Pop1030_Femme" : 13,
+				"Pop1030_Menages1030" : 25,
+				"DensityPopulation (hab/km2)" : 3672.139623561623
 			}
 		},
 		{
@@ -8052,10 +8052,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39564918435489,
 				"BlockParcel.Latitude" : 50.8581079319074,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 15,
+				"Pop1030_Menages1030" : 32,
+				"DensityPopulation (hab/km2)" : 1342.7679566890195
 			}
 		},
 		{
@@ -8113,10 +8113,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39762675209168,
 				"BlockParcel.Latitude" : 50.8584939047931,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 21645.85829693479
 			}
 		},
 		{
@@ -8183,10 +8183,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39614188746174,
 				"BlockParcel.Latitude" : 50.8671024405151,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 13,
+				"Pop1030_Femme" : 14,
+				"Pop1030_Menages1030" : 27,
+				"DensityPopulation (hab/km2)" : 4090.2831536386097
 			}
 		},
 		{
@@ -8334,10 +8334,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39459916805559,
 				"BlockParcel.Latitude" : 50.8676322063404,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 17,
+				"Pop1030_Menages1030" : 34,
+				"DensityPopulation (hab/km2)" : 6224.860261041345
 			}
 		},
 		{
@@ -8467,10 +8467,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39943415795432,
 				"BlockParcel.Latitude" : 50.8593920495489,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 16,
+				"Pop1030_Femme" : 22,
+				"Pop1030_Menages1030" : 38,
+				"DensityPopulation (hab/km2)" : 3648.632818876106
 			}
 		},
 		{
@@ -8510,10 +8510,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39502895568057,
 				"BlockParcel.Latitude" : 50.8646444744036,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 1,
+				"Pop1030_Femme" : 4,
+				"Pop1030_Menages1030" : 5,
+				"DensityPopulation (hab/km2)" : 6725.763710469324
 			}
 		},
 		{
@@ -8596,10 +8596,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39369064213226,
 				"BlockParcel.Latitude" : 50.8720985070722,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 35,
+				"Pop1030_Femme" : 68,
+				"Pop1030_Menages1030" : 103,
+				"DensityPopulation (hab/km2)" : 14151.559075889452
 			}
 		},
 		{
@@ -8677,10 +8677,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39350072084243,
 				"BlockParcel.Latitude" : 50.8715593756335,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 41,
+				"Pop1030_Menages1030" : 80,
+				"DensityPopulation (hab/km2)" : 15765.28641584096
 			}
 		},
 		{
@@ -8770,10 +8770,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39417452888118,
 				"BlockParcel.Latitude" : 50.8708931864867,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 36,
+				"Pop1030_Femme" : 70,
+				"Pop1030_Menages1030" : 106,
+				"DensityPopulation (hab/km2)" : 9999.056692764834
 			}
 		},
 		{
@@ -8841,10 +8841,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39022870047679,
 				"BlockParcel.Latitude" : 50.856108398437,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 49,
+				"Pop1030_Menages1030" : 88,
+				"DensityPopulation (hab/km2)" : 24681.939551686224
 			}
 		},
 		{
@@ -8919,10 +8919,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38860963306311,
 				"BlockParcel.Latitude" : 50.856671851847,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 63,
+				"Pop1030_Menages1030" : 113,
+				"DensityPopulation (hab/km2)" : 22655.68768031822
 			}
 		},
 		{
@@ -8987,10 +8987,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38925246595076,
 				"BlockParcel.Latitude" : 50.8561134685657,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 45,
+				"Pop1030_Menages1030" : 90,
+				"DensityPopulation (hab/km2)" : 26108.44869399738
 			}
 		},
 		{
@@ -9056,10 +9056,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38839293405608,
 				"BlockParcel.Latitude" : 50.8545865274008,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 51,
+				"Pop1030_Femme" : 65,
+				"Pop1030_Menages1030" : 116,
+				"DensityPopulation (hab/km2)" : 27100.904142233023
 			}
 		},
 		{
@@ -9161,10 +9161,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38801462477862,
 				"BlockParcel.Latitude" : 50.8553132495858,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 169,
+				"DensityPopulation (hab/km2)" : 12368.330341270777
 			}
 		},
 		{
@@ -9241,10 +9241,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38939880721497,
 				"BlockParcel.Latitude" : 50.8544832650192,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 67,
+				"Pop1030_Femme" : 94,
+				"Pop1030_Menages1030" : 161,
+				"DensityPopulation (hab/km2)" : 22795.072300022795
 			}
 		},
 		{
@@ -9352,10 +9352,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39079765964941,
 				"BlockParcel.Latitude" : 50.8554032556669,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 87,
+				"Pop1030_Femme" : 99,
+				"Pop1030_Menages1030" : 186,
+				"DensityPopulation (hab/km2)" : 13632.9054360111
 			}
 		},
 		{
@@ -9456,10 +9456,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3938444709321,
 				"BlockParcel.Latitude" : 50.853614769595,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 107,
+				"Pop1030_Femme" : 137,
+				"Pop1030_Menages1030" : 244,
+				"DensityPopulation (hab/km2)" : 13850.250411392173
 			}
 		},
 		{
@@ -9540,10 +9540,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39013775319071,
 				"BlockParcel.Latitude" : 50.8537203831431,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 101,
+				"Pop1030_Femme" : 102,
+				"Pop1030_Menages1030" : 203,
+				"DensityPopulation (hab/km2)" : 16305.823347689955
 			}
 		},
 		{
@@ -9607,10 +9607,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39107020999061,
 				"BlockParcel.Latitude" : 50.8528187442977,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 48,
+				"Pop1030_Menages1030" : 79,
+				"DensityPopulation (hab/km2)" : 17269.118444292886
 			}
 		},
 		{
@@ -9699,10 +9699,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39226081812578,
 				"BlockParcel.Latitude" : 50.8520502394035,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 58,
+				"Pop1030_Femme" : 55,
+				"Pop1030_Menages1030" : 113,
+				"DensityPopulation (hab/km2)" : 14209.6004084317
 			}
 		},
 		{
@@ -9762,10 +9762,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38992998463803,
 				"BlockParcel.Latitude" : 50.8525243583067,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 44,
+				"Pop1030_Menages1030" : 98,
+				"DensityPopulation (hab/km2)" : 20459.71732186476
 			}
 		},
 		{
@@ -9842,10 +9842,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38838117381826,
 				"BlockParcel.Latitude" : 50.8667571361981,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 41,
+				"Pop1030_Femme" : 49,
+				"Pop1030_Menages1030" : 90,
+				"DensityPopulation (hab/km2)" : 9982.275914542844
 			}
 		},
 		{
@@ -9924,10 +9924,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38761555055686,
 				"BlockParcel.Latitude" : 50.8674642628384,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 44,
+				"Pop1030_Menages1030" : 83,
+				"DensityPopulation (hab/km2)" : 10687.213585894939
 			}
 		},
 		{
@@ -10013,10 +10013,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38673580942659,
 				"BlockParcel.Latitude" : 50.8668497795431,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 52,
+				"Pop1030_Menages1030" : 111,
+				"DensityPopulation (hab/km2)" : 8841.40901791859
 			}
 		},
 		{
@@ -10081,10 +10081,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3879253075983,
 				"BlockParcel.Latitude" : 50.8656528858606,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 27,
+				"Pop1030_Femme" : 30,
+				"Pop1030_Menages1030" : 57,
+				"DensityPopulation (hab/km2)" : 6468.437429783409
 			}
 		},
 		{
@@ -10160,10 +10160,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39198027929697,
 				"BlockParcel.Latitude" : 50.8655577547154,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 195,
+				"Pop1030_Femme" : 163,
+				"Pop1030_Menages1030" : 358,
+				"DensityPopulation (hab/km2)" : 9307.622110542312
 			}
 		},
 		{
@@ -10282,10 +10282,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39407306260974,
 				"BlockParcel.Latitude" : 50.8662976036178,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 12,
+				"Pop1030_Femme" : 12,
+				"Pop1030_Menages1030" : 24,
+				"DensityPopulation (hab/km2)" : 3101.167848125473
 			}
 		},
 		{
@@ -10373,10 +10373,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38864422046977,
 				"BlockParcel.Latitude" : 50.8646073865971,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 32,
+				"Pop1030_Femme" : 40,
+				"Pop1030_Menages1030" : 72,
+				"DensityPopulation (hab/km2)" : 5482.907037311183
 			}
 		},
 		{
@@ -10451,10 +10451,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38671059589027,
 				"BlockParcel.Latitude" : 50.8642238393316,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 24,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 61,
+				"DensityPopulation (hab/km2)" : 3185.0975031446314
 			}
 		},
 		{
@@ -10532,10 +10532,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38351751406381,
 				"BlockParcel.Latitude" : 50.8613637977662,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 48,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 107,
+				"DensityPopulation (hab/km2)" : 20404.894123390495
 			}
 		},
 		{
@@ -10614,10 +10614,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38791564497638,
 				"BlockParcel.Latitude" : 50.8630329926367,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 22,
+				"Pop1030_Femme" : 34,
+				"Pop1030_Menages1030" : 56,
+				"DensityPopulation (hab/km2)" : 2907.245374624524
 			}
 		},
 		{
@@ -10694,10 +10694,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38970906617737,
 				"BlockParcel.Latitude" : 50.8768373475361,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 47,
+				"Pop1030_Femme" : 47,
+				"Pop1030_Menages1030" : 94,
+				"DensityPopulation (hab/km2)" : 13615.334922754702
 			}
 		},
 		{
@@ -10786,10 +10786,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38443365952325,
 				"BlockParcel.Latitude" : 50.876715834856,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 13846.73396344215
 			}
 		},
 		{
@@ -10866,10 +10866,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39167482308654,
 				"BlockParcel.Latitude" : 50.8764840936857,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 55,
+				"Pop1030_Menages1030" : 108,
+				"DensityPopulation (hab/km2)" : 12180.377862388797
 			}
 		},
 		{
@@ -10933,10 +10933,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38837939298407,
 				"BlockParcel.Latitude" : 50.8752491200636,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 35,
+				"Pop1030_Femme" : 45,
+				"Pop1030_Menages1030" : 80,
+				"DensityPopulation (hab/km2)" : 19678.79290284334
 			}
 		},
 		{
@@ -11012,10 +11012,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38927969230134,
 				"BlockParcel.Latitude" : 50.8756042871668,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 60,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 120,
+				"DensityPopulation (hab/km2)" : 15439.167108398391
 			}
 		},
 		{
@@ -11092,10 +11092,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39205871620553,
 				"BlockParcel.Latitude" : 50.8753707303668,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 50,
+				"Pop1030_Menages1030" : 76,
+				"DensityPopulation (hab/km2)" : 12507.282200491734
 			}
 		},
 		{
@@ -11214,10 +11214,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38547560985585,
 				"BlockParcel.Latitude" : 50.8757220846453,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 94,
+				"Pop1030_Femme" : 100,
+				"Pop1030_Menages1030" : 194,
+				"DensityPopulation (hab/km2)" : 11963.1682416116
 			}
 		},
 		{
@@ -11304,10 +11304,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39005735773879,
 				"BlockParcel.Latitude" : 50.8742173648864,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 56,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 136,
+				"DensityPopulation (hab/km2)" : 14198.998970572573
 			}
 		},
 		{
@@ -11406,10 +11406,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39204624025899,
 				"BlockParcel.Latitude" : 50.8745169586997,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 62,
+				"Pop1030_Menages1030" : 117,
+				"DensityPopulation (hab/km2)" : 8706.704609046637
 			}
 		},
 		{
@@ -11502,10 +11502,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3931437837257,
 				"BlockParcel.Latitude" : 50.8734311540913,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 117,
+				"DensityPopulation (hab/km2)" : 12912.225560026398
 			}
 		},
 		{
@@ -11645,10 +11645,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3817437754132005,
 				"BlockParcel.Latitude" : 50.873410432383,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 110,
+				"Pop1030_Femme" : 131,
+				"Pop1030_Menages1030" : 241,
+				"DensityPopulation (hab/km2)" : 11162.115132817591
 			}
 		},
 		{
@@ -11742,10 +11742,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3884472944433,
 				"BlockParcel.Latitude" : 50.8739385510254,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 117,
+				"DensityPopulation (hab/km2)" : 8361.407174802007
 			}
 		},
 		{
@@ -11852,10 +11852,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39263413982178,
 				"BlockParcel.Latitude" : 50.8729323341887,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 90,
+				"Pop1030_Menages1030" : 149,
+				"DensityPopulation (hab/km2)" : 10631.61800382453
 			}
 		},
 		{
@@ -11958,10 +11958,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39060309615928,
 				"BlockParcel.Latitude" : 50.8735421917937,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 77,
+				"Pop1030_Menages1030" : 132,
+				"DensityPopulation (hab/km2)" : 16563.666593468643
 			}
 		},
 		{
@@ -12057,10 +12057,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38506826408893,
 				"BlockParcel.Latitude" : 50.8603538726048,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 79,
+				"Pop1030_Femme" : 76,
+				"Pop1030_Menages1030" : 155,
+				"DensityPopulation (hab/km2)" : 12103.011463503954
 			}
 		},
 		{
@@ -12129,10 +12129,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38281241857692,
 				"BlockParcel.Latitude" : 50.8609183785101,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 54,
+				"Pop1030_Menages1030" : 109,
+				"DensityPopulation (hab/km2)" : 23660.110573030513
 			}
 		},
 		{
@@ -12217,10 +12217,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38650724577937,
 				"BlockParcel.Latitude" : 50.8590613283831,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 99,
+				"DensityPopulation (hab/km2)" : 5667.444652250748
 			}
 		},
 		{
@@ -12283,10 +12283,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38834512016185,
 				"BlockParcel.Latitude" : 50.8585412126893,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 41,
+				"Pop1030_Menages1030" : 86,
+				"DensityPopulation (hab/km2)" : 22741.81691250747
 			}
 		},
 		{
@@ -12358,10 +12358,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38854980481821,
 				"BlockParcel.Latitude" : 50.8591825318497,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 66,
+				"Pop1030_Femme" : 69,
+				"Pop1030_Menages1030" : 135,
+				"DensityPopulation (hab/km2)" : 18038.000053445925
 			}
 		},
 		{
@@ -12460,10 +12460,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39005591559018,
 				"BlockParcel.Latitude" : 50.8585213233762,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 76,
+				"Pop1030_Femme" : 73,
+				"Pop1030_Menages1030" : 149,
+				"DensityPopulation (hab/km2)" : 11669.01352195889
 			}
 		},
 		{
@@ -12538,10 +12538,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39175913736136,
 				"BlockParcel.Latitude" : 50.8581950913165,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 150,
+				"Pop1030_Femme" : 120,
+				"Pop1030_Menages1030" : 270,
+				"DensityPopulation (hab/km2)" : 17500.931762570694
 			}
 		},
 		{
@@ -12618,10 +12618,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38557347066246,
 				"BlockParcel.Latitude" : 50.8572653651985,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 44,
+				"Pop1030_Menages1030" : 86,
+				"DensityPopulation (hab/km2)" : 14980.986341172802
 			}
 		},
 		{
@@ -12703,10 +12703,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38944771711386,
 				"BlockParcel.Latitude" : 50.8574703096537,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 51,
+				"Pop1030_Femme" : 68,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 11070.498609675617
 			}
 		},
 		{
@@ -12821,10 +12821,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38296980871556,
 				"BlockParcel.Latitude" : 50.8571033417658,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 100,
+				"Pop1030_Femme" : 127,
+				"Pop1030_Menages1030" : 227,
+				"DensityPopulation (hab/km2)" : 12848.763264083971
 			}
 		},
 		{
@@ -12884,10 +12884,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39055804068566,
 				"BlockParcel.Latitude" : 50.8728037095743,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 25,
+				"Pop1030_Femme" : 43,
+				"Pop1030_Menages1030" : 68,
+				"DensityPopulation (hab/km2)" : 25408.307769337403
 			}
 		},
 		{
@@ -12955,10 +12955,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38354943057472,
 				"BlockParcel.Latitude" : 50.8730519351178,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 21724.709141059313
 			}
 		},
 		{
@@ -13068,10 +13068,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3906565188828,
 				"BlockParcel.Latitude" : 50.8717569369065,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 66,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 155,
+				"DensityPopulation (hab/km2)" : 12255.512410880681
 			}
 		},
 		{
@@ -13189,10 +13189,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38735910367701,
 				"BlockParcel.Latitude" : 50.8726421386637,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 103,
+				"Pop1030_Femme" : 118,
+				"Pop1030_Menages1030" : 221,
+				"DensityPopulation (hab/km2)" : 7928.4615986218105
 			}
 		},
 		{
@@ -13264,10 +13264,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38218288347837,
 				"BlockParcel.Latitude" : 50.8698150411129,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 82,
+				"Pop1030_Femme" : 97,
+				"Pop1030_Menages1030" : 179,
+				"DensityPopulation (hab/km2)" : 19127.058162285073
 			}
 		},
 		{
@@ -13358,10 +13358,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38507714592561,
 				"BlockParcel.Latitude" : 50.8713554071046,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 59,
+				"Pop1030_Femme" : 68,
+				"Pop1030_Menages1030" : 127,
+				"DensityPopulation (hab/km2)" : 15275.402272306297
 			}
 		},
 		{
@@ -13469,10 +13469,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38644699113252,
 				"BlockParcel.Latitude" : 50.8703239147291,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 87,
+				"Pop1030_Menages1030" : 158,
+				"DensityPopulation (hab/km2)" : 2510.900965298395
 			}
 		},
 		{
@@ -13606,10 +13606,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38981682529444,
 				"BlockParcel.Latitude" : 50.8714592037342,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 79,
+				"Pop1030_Femme" : 115,
+				"Pop1030_Menages1030" : 194,
+				"DensityPopulation (hab/km2)" : 8502.432396897051
 			}
 		},
 		{
@@ -13679,10 +13679,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3903762151235,
 				"BlockParcel.Latitude" : 50.8698803493695,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 99,
+				"Pop1030_Femme" : 104,
+				"Pop1030_Menages1030" : 203,
+				"DensityPopulation (hab/km2)" : 18300.389627014618
 			}
 		},
 		{
@@ -13750,10 +13750,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39244375387339,
 				"BlockParcel.Latitude" : 50.870444462967,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 131,
+				"Pop1030_Femme" : 94,
+				"Pop1030_Menages1030" : 225,
+				"DensityPopulation (hab/km2)" : 22906.73193218793
 			}
 		},
 		{
@@ -13848,10 +13848,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39107591155765,
 				"BlockParcel.Latitude" : 50.8692379021719,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 82,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 162,
+				"DensityPopulation (hab/km2)" : 11731.513452135425
 			}
 		},
 		{
@@ -13966,10 +13966,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38734446926049,
 				"BlockParcel.Latitude" : 50.8689724668478,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 92,
+				"Pop1030_Femme" : 100,
+				"Pop1030_Menages1030" : 192,
+				"DensityPopulation (hab/km2)" : 10837.966752279079
 			}
 		},
 		{
@@ -14048,10 +14048,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38847642371676,
 				"BlockParcel.Latitude" : 50.8767430217878,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 18,
+				"Pop1030_Femme" : 34,
+				"Pop1030_Menages1030" : 52,
+				"DensityPopulation (hab/km2)" : 13478.591072507044
 			}
 		},
 		{
@@ -14147,10 +14147,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38624896390475,
 				"BlockParcel.Latitude" : 50.8776053119571,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 103,
+				"Pop1030_Menages1030" : 188,
+				"DensityPopulation (hab/km2)" : 11255.874159326899
 			}
 		},
 		{
@@ -14194,10 +14194,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38298962747484,
 				"BlockParcel.Latitude" : 50.8561739022828,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 23,
+				"Pop1030_Femme" : 25,
+				"Pop1030_Menages1030" : 48,
+				"DensityPopulation (hab/km2)" : 36874.00613030352
 			}
 		},
 		{
@@ -14308,10 +14308,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38700957000559,
 				"BlockParcel.Latitude" : 50.856331755736,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 78,
+				"Pop1030_Femme" : 88,
+				"Pop1030_Menages1030" : 166,
+				"DensityPopulation (hab/km2)" : 7121.410176495143
 			}
 		},
 		{
@@ -14401,10 +14401,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38535010714321,
 				"BlockParcel.Latitude" : 50.8556599395897,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 70,
+				"Pop1030_Femme" : 72,
+				"Pop1030_Menages1030" : 142,
+				"DensityPopulation (hab/km2)" : 7314.6106772711355
 			}
 		},
 		{
@@ -14528,10 +14528,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38029925029423,
 				"BlockParcel.Latitude" : 50.8556841097954,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 88,
+				"Pop1030_Femme" : 86,
+				"Pop1030_Menages1030" : 174,
+				"DensityPopulation (hab/km2)" : 6083.992665641946
 			}
 		},
 		{
@@ -14619,10 +14619,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38431831395436,
 				"BlockParcel.Latitude" : 50.8547958320101,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 68,
+				"Pop1030_Femme" : 69,
+				"Pop1030_Menages1030" : 137,
+				"DensityPopulation (hab/km2)" : 16957.775139901645
 			}
 		},
 		{
@@ -14690,10 +14690,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38491357357281,
 				"BlockParcel.Latitude" : 50.8541385955529,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 38,
+				"Pop1030_Femme" : 42,
+				"Pop1030_Menages1030" : 80,
+				"DensityPopulation (hab/km2)" : 15502.043363090796
 			}
 		},
 		{
@@ -14848,10 +14848,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40068644519474,
 				"BlockParcel.Latitude" : 50.8460882223833,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 104,
+				"Pop1030_Femme" : 109,
+				"Pop1030_Menages1030" : 213,
+				"DensityPopulation (hab/km2)" : 8110.9826131758155
 			}
 		},
 		{
@@ -14938,10 +14938,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40954585811849,
 				"BlockParcel.Latitude" : 50.8489468676847,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 71,
+				"Pop1030_Menages1030" : 123,
+				"DensityPopulation (hab/km2)" : 7804.226845398266
 			}
 		},
 		{
@@ -15053,10 +15053,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40459005859641,
 				"BlockParcel.Latitude" : 50.8475062596939,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 95,
+				"Pop1030_Femme" : 101,
+				"Pop1030_Menages1030" : 196,
+				"DensityPopulation (hab/km2)" : 5911.696744434635
 			}
 		},
 		{
@@ -15133,10 +15133,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39866476082028,
 				"BlockParcel.Latitude" : 50.849108888327,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 144,
+				"Pop1030_Femme" : 140,
+				"Pop1030_Menages1030" : 284,
+				"DensityPopulation (hab/km2)" : 20950.580972888914
 			}
 		},
 		{
@@ -15202,10 +15202,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40671311774074,
 				"BlockParcel.Latitude" : 50.8476294694626,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 65,
+				"Pop1030_Femme" : 64,
+				"Pop1030_Menages1030" : 129,
+				"DensityPopulation (hab/km2)" : 11439.263275974443
 			}
 		},
 		{
@@ -15270,10 +15270,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40183177164233,
 				"BlockParcel.Latitude" : 50.8561588096708,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 43,
+				"Pop1030_Menages1030" : 74,
+				"DensityPopulation (hab/km2)" : 16721.00994900092
 			}
 		},
 		{
@@ -15348,10 +15348,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39587587385319,
 				"BlockParcel.Latitude" : 50.8549407448357,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 53,
+				"Pop1030_Femme" : 51,
+				"Pop1030_Menages1030" : 104,
+				"DensityPopulation (hab/km2)" : 5516.000644947768
 			}
 		},
 		{
@@ -15414,10 +15414,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40103699209758,
 				"BlockParcel.Latitude" : 50.8498442786317,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 73,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 133,
+				"DensityPopulation (hab/km2)" : 22561.87551951687
 			}
 		},
 		{
@@ -15470,10 +15470,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40020209560357,
 				"BlockParcel.Latitude" : 50.8504061264449,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 120,
+				"Pop1030_Femme" : 115,
+				"Pop1030_Menages1030" : 235,
+				"DensityPopulation (hab/km2)" : 27908.28032739382
 			}
 		},
 		{
@@ -15538,10 +15538,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39539400949742,
 				"BlockParcel.Latitude" : 50.8502171054107,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 30,
+				"Pop1030_Menages1030" : 67,
+				"DensityPopulation (hab/km2)" : 15665.515524058257
 			}
 		},
 		{
@@ -15614,10 +15614,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39380250308795,
 				"BlockParcel.Latitude" : 50.8511914817243,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 73,
+				"Pop1030_Femme" : 32,
+				"Pop1030_Menages1030" : 105,
+				"DensityPopulation (hab/km2)" : 14526.096478182495
 			}
 		},
 		{
@@ -15714,10 +15714,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39398605445292,
 				"BlockParcel.Latitude" : 50.8479597978348,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 47,
+				"Pop1030_Menages1030" : 102,
+				"DensityPopulation (hab/km2)" : 8204.461618402445
 			}
 		},
 		{
@@ -15823,10 +15823,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39465298016622,
 				"BlockParcel.Latitude" : 50.8492667927135,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 103,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 195,
+				"DensityPopulation (hab/km2)" : 11072.69422499374
 			}
 		},
 		{
@@ -15936,10 +15936,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39185858994965,
 				"BlockParcel.Latitude" : 50.8481145487628,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 92,
+				"Pop1030_Femme" : 104,
+				"Pop1030_Menages1030" : 196,
+				"DensityPopulation (hab/km2)" : 13364.398741837318
 			}
 		},
 		{
@@ -16051,10 +16051,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39571473043161,
 				"BlockParcel.Latitude" : 50.846205018085,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 122,
+				"Pop1030_Femme" : 133,
+				"Pop1030_Menages1030" : 255,
+				"DensityPopulation (hab/km2)" : 6666.157773053665
 			}
 		},
 		{
@@ -16151,10 +16151,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39718101320119,
 				"BlockParcel.Latitude" : 50.8443013695897,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 64,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 144,
+				"DensityPopulation (hab/km2)" : 7888.949882158811
 			}
 		},
 		{
@@ -16220,10 +16220,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37991497824082,
 				"BlockParcel.Latitude" : 50.8532011873832,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 18,
+				"Pop1030_Femme" : 17,
+				"Pop1030_Menages1030" : 35,
+				"DensityPopulation (hab/km2)" : 11591.668571012216
 			}
 		},
 		{
@@ -16298,10 +16298,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38107281502422,
 				"BlockParcel.Latitude" : 50.8528774063559,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 36,
+				"Pop1030_Menages1030" : 73,
+				"DensityPopulation (hab/km2)" : 12929.118322685998
 			}
 		},
 		{
@@ -16406,10 +16406,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38210503412787,
 				"BlockParcel.Latitude" : 50.8532730849091,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 65,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 6169.277000537325
 			}
 		},
 		{
@@ -16522,10 +16522,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38585720409314,
 				"BlockParcel.Latitude" : 50.8527239343357,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 115,
+				"Pop1030_Femme" : 124,
+				"Pop1030_Menages1030" : 239,
+				"DensityPopulation (hab/km2)" : 10939.982523492354
 			}
 		},
 		{
@@ -16612,10 +16612,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38344095434581,
 				"BlockParcel.Latitude" : 50.8518913418442,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 103,
+				"DensityPopulation (hab/km2)" : 12085.031690942327
 			}
 		},
 		{
@@ -16729,10 +16729,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38856904040857,
 				"BlockParcel.Latitude" : 50.8504143540086,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 174,
+				"Pop1030_Femme" : 161,
+				"Pop1030_Menages1030" : 335,
+				"DensityPopulation (hab/km2)" : 17156.769856528434
 			}
 		},
 		{
@@ -16775,10 +16775,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38863748363115,
 				"BlockParcel.Latitude" : 50.8518342024159,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 35,
+				"Pop1030_Menages1030" : 63,
+				"DensityPopulation (hab/km2)" : 5430.163784082897
 			}
 		},
 		{
@@ -16826,10 +16826,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.41017156263514,
 				"BlockParcel.Latitude" : 50.8522702887337,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 19,
+				"Pop1030_Femme" : 11,
+				"Pop1030_Menages1030" : 30,
+				"DensityPopulation (hab/km2)" : 3463.655287789345
 			}
 		},
 		{
@@ -16909,10 +16909,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38190346328387,
 				"BlockParcel.Latitude" : 50.8581992965297,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 56,
+				"Pop1030_Femme" : 66,
+				"Pop1030_Menages1030" : 122,
+				"DensityPopulation (hab/km2)" : 21723.87881636912
 			}
 		},
 		{
@@ -16997,10 +16997,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38259854968159,
 				"BlockParcel.Latitude" : 50.8587171017323,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 170,
+				"DensityPopulation (hab/km2)" : 16861.165166022965
 			}
 		},
 		{
@@ -17121,10 +17121,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38109678024705,
 				"BlockParcel.Latitude" : 50.8660534402247,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 83,
+				"Pop1030_Femme" : 103,
+				"Pop1030_Menages1030" : 186,
+				"DensityPopulation (hab/km2)" : 10642.096012303637
 			}
 		},
 		{
@@ -17270,10 +17270,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37954043974908,
 				"BlockParcel.Latitude" : 50.8618468512917,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 117,
+				"Pop1030_Femme" : 151,
+				"Pop1030_Menages1030" : 268,
+				"DensityPopulation (hab/km2)" : 19329.608777373393
 			}
 		},
 		{
@@ -17342,10 +17342,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37828716102769,
 				"BlockParcel.Latitude" : 50.8641394151774,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 38,
+				"Pop1030_Femme" : 64,
+				"Pop1030_Menages1030" : 102,
+				"DensityPopulation (hab/km2)" : 21462.794666285103
 			}
 		},
 		{
@@ -17454,10 +17454,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37927414953325,
 				"BlockParcel.Latitude" : 50.8655112029951,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 223,
+				"Pop1030_Femme" : 227,
+				"Pop1030_Menages1030" : 450,
+				"DensityPopulation (hab/km2)" : 12332.896109327561
 			}
 		},
 		{
@@ -17509,10 +17509,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37811023104595,
 				"BlockParcel.Latitude" : 50.8646690157879,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 62,
+				"Pop1030_Menages1030" : 105,
+				"DensityPopulation (hab/km2)" : 29699.02162937318
 			}
 		},
 		{
@@ -17588,10 +17588,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37745235943964,
 				"BlockParcel.Latitude" : 50.8659422948273,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 82,
+				"Pop1030_Menages1030" : 134,
+				"DensityPopulation (hab/km2)" : 19846.20670861029
 			}
 		},
 		{
@@ -17648,10 +17648,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37781895901903,
 				"BlockParcel.Latitude" : 50.8591710706055,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 41,
+				"Pop1030_Menages1030" : 67,
+				"DensityPopulation (hab/km2)" : 32070.91981312706
 			}
 		},
 		{
@@ -17748,10 +17748,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37722768265972,
 				"BlockParcel.Latitude" : 50.858072285096,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 120,
+				"Pop1030_Femme" : 146,
+				"Pop1030_Menages1030" : 266,
+				"DensityPopulation (hab/km2)" : 15015.862621792194
 			}
 		},
 		{
@@ -17800,10 +17800,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38106850324701,
 				"BlockParcel.Latitude" : 50.8689821821612,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 49,
+				"Pop1030_Femme" : 33,
+				"Pop1030_Menages1030" : 82,
+				"DensityPopulation (hab/km2)" : 28885.037550548815
 			}
 		},
 		{
@@ -17907,10 +17907,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38200395160292,
 				"BlockParcel.Latitude" : 50.8723494397729,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 116,
+				"Pop1030_Femme" : 107,
+				"Pop1030_Menages1030" : 223,
+				"DensityPopulation (hab/km2)" : 9902.480549174697
 			}
 		},
 		{
@@ -17974,10 +17974,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38042692466874,
 				"BlockParcel.Latitude" : 50.8686658872989,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 21,
+				"Pop1030_Femme" : 45,
+				"Pop1030_Menages1030" : 66,
+				"DensityPopulation (hab/km2)" : 6379.1845275778915
 			}
 		},
 		{
@@ -18033,10 +18033,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38077555072836,
 				"BlockParcel.Latitude" : 50.8676046227212,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 25,
+				"Pop1030_Menages1030" : 53,
+				"DensityPopulation (hab/km2)" : 5513.281286570998
 			}
 		},
 		{
@@ -18126,10 +18126,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37811795191488,
 				"BlockParcel.Latitude" : 50.8682659530861,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 103,
+				"Pop1030_Femme" : 108,
+				"Pop1030_Menages1030" : 211,
+				"DensityPopulation (hab/km2)" : 13508.789676467688
 			}
 		},
 		{
@@ -18244,10 +18244,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38078554235877,
 				"BlockParcel.Latitude" : 50.8710889310179,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 117,
+				"Pop1030_Femme" : 137,
+				"Pop1030_Menages1030" : 254,
+				"DensityPopulation (hab/km2)" : 10011.394859266986
 			}
 		},
 		{
@@ -18355,10 +18355,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3781248693557,
 				"BlockParcel.Latitude" : 50.8715818212166,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 89,
+				"Pop1030_Femme" : 112,
+				"Pop1030_Menages1030" : 201,
+				"DensityPopulation (hab/km2)" : 11584.914251461802
 			}
 		},
 		{
@@ -18459,10 +18459,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37800032610251,
 				"BlockParcel.Latitude" : 50.8701549043584,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 83,
+				"Pop1030_Femme" : 105,
+				"Pop1030_Menages1030" : 188,
+				"DensityPopulation (hab/km2)" : 13162.952450234588
 			}
 		},
 		{
@@ -18531,10 +18531,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37633793291422,
 				"BlockParcel.Latitude" : 50.8668472505854,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 72,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 25405.827359207662
 			}
 		},
 		{
@@ -18590,10 +18590,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37653328953174,
 				"BlockParcel.Latitude" : 50.8679547632227,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 22,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 59,
+				"DensityPopulation (hab/km2)" : 14932.701604126487
 			}
 		},
 		{
@@ -18681,10 +18681,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.379438974645,
 				"BlockParcel.Latitude" : 50.8543960655453,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 124,
+				"Pop1030_Femme" : 108,
+				"Pop1030_Menages1030" : 232,
+				"DensityPopulation (hab/km2)" : 10665.872243078908
 			}
 		},
 		{
@@ -18768,10 +18768,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37712471805551,
 				"BlockParcel.Latitude" : 50.8550635211826,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 61,
+				"Pop1030_Femme" : 63,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 17088.716623600347
 			}
 		},
 		{
@@ -18876,10 +18876,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37556445295233,
 				"BlockParcel.Latitude" : 50.8561092910375,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 69,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 10369.583669578235
 			}
 		},
 		{
@@ -18939,10 +18939,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37563019213556,
 				"BlockParcel.Latitude" : 50.8642614239428,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 56,
+				"Pop1030_Femme" : 50,
+				"Pop1030_Menages1030" : 106,
+				"DensityPopulation (hab/km2)" : 26841.286963744
 			}
 		},
 		{
@@ -19026,10 +19026,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37626171308977,
 				"BlockParcel.Latitude" : 50.8644539764747,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 76,
+				"Pop1030_Menages1030" : 128,
+				"DensityPopulation (hab/km2)" : 29552.533090756293
 			}
 		},
 		{
@@ -19159,10 +19159,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37487610782042,
 				"BlockParcel.Latitude" : 50.8626740020173,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 114,
+				"Pop1030_Femme" : 136,
+				"Pop1030_Menages1030" : 250,
+				"DensityPopulation (hab/km2)" : 9090.033142260836
 			}
 		},
 		{
@@ -19268,10 +19268,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37430613012215,
 				"BlockParcel.Latitude" : 50.8651366831634,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 62,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 146,
+				"DensityPopulation (hab/km2)" : 20250.636299959082
 			}
 		},
 		{
@@ -19396,10 +19396,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37373381180597,
 				"BlockParcel.Latitude" : 50.8606539540471,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 121,
+				"Pop1030_Femme" : 172,
+				"Pop1030_Menages1030" : 293,
+				"DensityPopulation (hab/km2)" : 16054.469032682626
 			}
 		},
 		{
@@ -19465,10 +19465,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37336174186719,
 				"BlockParcel.Latitude" : 50.8653040504319,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 29,
+				"Pop1030_Menages1030" : 55,
+				"DensityPopulation (hab/km2)" : 3201.482693948732
 			}
 		},
 		{
@@ -19569,10 +19569,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37155210518238,
 				"BlockParcel.Latitude" : 50.862337020489,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 68,
+				"Pop1030_Femme" : 88,
+				"Pop1030_Menages1030" : 156,
+				"DensityPopulation (hab/km2)" : 8913.633745646031
 			}
 		},
 		{
@@ -19619,10 +19619,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37118084948122,
 				"BlockParcel.Latitude" : 50.8642192908286,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 13,
+				"Pop1030_Femme" : 26,
+				"Pop1030_Menages1030" : 39,
+				"DensityPopulation (hab/km2)" : 22042.24197860207
 			}
 		},
 		{
@@ -19679,10 +19679,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37333164899852,
 				"BlockParcel.Latitude" : 50.856477930501796,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 21,
+				"Pop1030_Femme" : 25,
+				"Pop1030_Menages1030" : 46,
+				"DensityPopulation (hab/km2)" : 13788.307515227089
 			}
 		},
 		{
@@ -19750,10 +19750,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37444257325045,
 				"BlockParcel.Latitude" : 50.8723951427056,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 33,
+				"Pop1030_Femme" : 35,
+				"Pop1030_Menages1030" : 68,
+				"DensityPopulation (hab/km2)" : 14272.700940738907
 			}
 		},
 		{
@@ -19828,10 +19828,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37108944847602,
 				"BlockParcel.Latitude" : 50.871018425716,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 30,
+				"Pop1030_Femme" : 53,
+				"Pop1030_Menages1030" : 83,
+				"DensityPopulation (hab/km2)" : 13459.75775679353
 			}
 		},
 		{
@@ -19930,10 +19930,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37398413816721,
 				"BlockParcel.Latitude" : 50.8704997852193,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 89,
+				"Pop1030_Femme" : 90,
+				"Pop1030_Menages1030" : 179,
+				"DensityPopulation (hab/km2)" : 15828.451420360341
 			}
 		},
 		{
@@ -20031,10 +20031,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36966848152014,
 				"BlockParcel.Latitude" : 50.8702843421601,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 12136.776370206357
 			}
 		},
 		{
@@ -20100,10 +20100,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37571157746205,
 				"BlockParcel.Latitude" : 50.8704404896118,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 46,
+				"Pop1030_Femme" : 77,
+				"Pop1030_Menages1030" : 123,
+				"DensityPopulation (hab/km2)" : 29600.822084619846
 			}
 		},
 		{
@@ -20216,10 +20216,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37355388639826,
 				"BlockParcel.Latitude" : 50.8709839696969,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 77,
+				"Pop1030_Femme" : 102,
+				"Pop1030_Menages1030" : 179,
+				"DensityPopulation (hab/km2)" : 7539.737364411092
 			}
 		},
 		{
@@ -20296,10 +20296,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37103640469643,
 				"BlockParcel.Latitude" : 50.8702643206905,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 36,
+				"Pop1030_Femme" : 71,
+				"Pop1030_Menages1030" : 107,
+				"DensityPopulation (hab/km2)" : 17471.042155828633
 			}
 		},
 		{
@@ -20391,10 +20391,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37166703224512,
 				"BlockParcel.Latitude" : 50.8688372401122,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 39,
+				"Pop1030_Femme" : 54,
+				"Pop1030_Menages1030" : 93,
+				"DensityPopulation (hab/km2)" : 7582.589070961619
 			}
 		},
 		{
@@ -20472,10 +20472,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37252285819943,
 				"BlockParcel.Latitude" : 50.8691802545119,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 33,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 70,
+				"DensityPopulation (hab/km2)" : 16591.137488386204
 			}
 		},
 		{
@@ -20546,10 +20546,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37356107082638,
 				"BlockParcel.Latitude" : 50.8685786320273,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 46,
+				"Pop1030_Femme" : 52,
+				"Pop1030_Menages1030" : 98,
+				"DensityPopulation (hab/km2)" : 19045.43502300028
 			}
 		},
 		{
@@ -20646,10 +20646,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37686394036369,
 				"BlockParcel.Latitude" : 50.8602897235005,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 97,
+				"Pop1030_Femme" : 110,
+				"Pop1030_Menages1030" : 207,
+				"DensityPopulation (hab/km2)" : 13682.784149122517
 			}
 		},
 		{
@@ -20724,10 +20724,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37006116358495,
 				"BlockParcel.Latitude" : 50.8597313772399,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 32,
+				"Pop1030_Femme" : 70,
+				"Pop1030_Menages1030" : 102,
+				"DensityPopulation (hab/km2)" : 9497.648866334559
 			}
 		},
 		{
@@ -20856,10 +20856,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37315639224242,
 				"BlockParcel.Latitude" : 50.8596185970764,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 124,
+				"Pop1030_Femme" : 133,
+				"Pop1030_Menages1030" : 257,
+				"DensityPopulation (hab/km2)" : 6236.249010268458
 			}
 		},
 		{
@@ -20930,10 +20930,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36901112419357,
 				"BlockParcel.Latitude" : 50.8578159604503,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 62,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 10905.932437748548
 			}
 		},
 		{
@@ -21030,10 +21030,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37414506496548,
 				"BlockParcel.Latitude" : 50.8573594414457,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 62,
+				"Pop1030_Femme" : 98,
+				"Pop1030_Menages1030" : 160,
+				"DensityPopulation (hab/km2)" : 14166.136912171722
 			}
 		},
 		{
@@ -21143,10 +21143,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37542825014878,
 				"BlockParcel.Latitude" : 50.8580015691349,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 118,
+				"Pop1030_Menages1030" : 203,
+				"DensityPopulation (hab/km2)" : 14914.955365342934
 			}
 		},
 		{
@@ -21232,10 +21232,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37127226427053,
 				"BlockParcel.Latitude" : 50.8571782326733,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 15,
+				"Pop1030_Menages1030" : 32,
+				"DensityPopulation (hab/km2)" : 7938.929782646987
 			}
 		},
 		{
@@ -21321,10 +21321,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37464012407872,
 				"BlockParcel.Latitude" : 50.8567606100271,
 				"Quartier" : "Coteaux-Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 38,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 94,
+				"DensityPopulation (hab/km2)" : 20125.721528527138
 			}
 		},
 		{
@@ -21393,10 +21393,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37269378969279,
 				"BlockParcel.Latitude" : 50.8680391378387,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 34,
+				"Pop1030_Femme" : 41,
+				"Pop1030_Menages1030" : 75,
+				"DensityPopulation (hab/km2)" : 19049.5058558181
 			}
 		},
 		{
@@ -21482,10 +21482,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37187705156715,
 				"BlockParcel.Latitude" : 50.867480086627,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 61,
+				"Pop1030_Menages1030" : 111,
+				"DensityPopulation (hab/km2)" : 16185.14640995955
 			}
 		},
 		{
@@ -21552,10 +21552,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37383810378115,
 				"BlockParcel.Latitude" : 50.8664814260003,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 27,
+				"Pop1030_Menages1030" : 55,
+				"DensityPopulation (hab/km2)" : 9570.676838266001
 			}
 		},
 		{
@@ -21686,10 +21686,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36926404978071,
 				"BlockParcel.Latitude" : 50.8668363315464,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 95,
+				"Pop1030_Femme" : 142,
+				"Pop1030_Menages1030" : 237,
+				"DensityPopulation (hab/km2)" : 12808.761408985374
 			}
 		},
 		{
@@ -21773,10 +21773,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37149334071725,
 				"BlockParcel.Latitude" : 50.8664728567784,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 76,
+				"Pop1030_Menages1030" : 107,
+				"DensityPopulation (hab/km2)" : 15824.446255300081
 			}
 		},
 		{
@@ -21855,10 +21855,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3705313965997,
 				"BlockParcel.Latitude" : 50.8605483506202,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 64,
+				"Pop1030_Menages1030" : 118,
+				"DensityPopulation (hab/km2)" : 14303.845188756208
 			}
 		},
 		{
@@ -21931,10 +21931,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37094326333764,
 				"BlockParcel.Latitude" : 50.8612718317136,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 47,
+				"Pop1030_Femme" : 69,
+				"Pop1030_Menages1030" : 116,
+				"DensityPopulation (hab/km2)" : 16999.37571258159
 			}
 		},
 		{
@@ -22025,10 +22025,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3702210525220195,
 				"BlockParcel.Latitude" : 50.8626166147621,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 78,
+				"Pop1030_Femme" : 102,
+				"Pop1030_Menages1030" : 180,
+				"DensityPopulation (hab/km2)" : 21088.617887131375
 			}
 		},
 		{
@@ -22148,10 +22148,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36875807631301,
 				"BlockParcel.Latitude" : 50.8641111571988,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 95,
+				"Pop1030_Femme" : 159,
+				"Pop1030_Menages1030" : 254,
+				"DensityPopulation (hab/km2)" : 15943.657374569239
 			}
 		},
 		{
@@ -22215,10 +22215,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36916698553578,
 				"BlockParcel.Latitude" : 50.8608580819751,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 44,
+				"Pop1030_Femme" : 65,
+				"Pop1030_Menages1030" : 109,
+				"DensityPopulation (hab/km2)" : 23797.67175805846
 			}
 		},
 		{
@@ -22284,10 +22284,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36833991622274,
 				"BlockParcel.Latitude" : 50.8618098276866,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 68,
+				"DensityPopulation (hab/km2)" : 10377.987677665807
 			}
 		},
 		{
@@ -22359,10 +22359,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36821894728771,
 				"BlockParcel.Latitude" : 50.860790521643096,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 76,
+				"Pop1030_Femme" : 102,
+				"Pop1030_Menages1030" : 178,
+				"DensityPopulation (hab/km2)" : 26177.202010056164
 			}
 		},
 		{
@@ -22488,10 +22488,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36580574903205,
 				"BlockParcel.Latitude" : 50.8656790041308,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 107,
+				"Pop1030_Femme" : 159,
+				"Pop1030_Menages1030" : 266,
+				"DensityPopulation (hab/km2)" : 20695.750680003235
 			}
 		},
 		{
@@ -22580,10 +22580,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36582013123916,
 				"BlockParcel.Latitude" : 50.8628558779477,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 49,
+				"Pop1030_Femme" : 76,
+				"Pop1030_Menages1030" : 125,
+				"DensityPopulation (hab/km2)" : 18852.529481585603
 			}
 		},
 		{
@@ -22669,10 +22669,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3649406766153795,
 				"BlockParcel.Latitude" : 50.8634213527426,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 51,
+				"Pop1030_Femme" : 91,
+				"Pop1030_Menages1030" : 142,
+				"DensityPopulation (hab/km2)" : 17539.37404197345
 			}
 		},
 		{
@@ -22793,10 +22793,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36381224283309,
 				"BlockParcel.Latitude" : 50.8689515629655,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 102,
+				"Pop1030_Femme" : 134,
+				"Pop1030_Menages1030" : 236,
+				"DensityPopulation (hab/km2)" : 14991.560894640454
 			}
 		},
 		{
@@ -22890,10 +22890,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36351400834576,
 				"BlockParcel.Latitude" : 50.8701766005378,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 96,
+				"DensityPopulation (hab/km2)" : 6395.557219584795
 			}
 		},
 		{
@@ -22961,10 +22961,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36296355496098,
 				"BlockParcel.Latitude" : 50.8678567324299,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 88,
+				"Pop1030_Femme" : 115,
+				"Pop1030_Menages1030" : 203,
+				"DensityPopulation (hab/km2)" : 26512.86592326158
 			}
 		},
 		{
@@ -23044,10 +23044,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36244812462639,
 				"BlockParcel.Latitude" : 50.8664097862445,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 129,
+				"Pop1030_Femme" : 114,
+				"Pop1030_Menages1030" : 243,
+				"DensityPopulation (hab/km2)" : 15224.68629627866
 			}
 		},
 		{
@@ -23123,10 +23123,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3645150725871495,
 				"BlockParcel.Latitude" : 50.8627434895306,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 63,
+				"Pop1030_Menages1030" : 89,
+				"DensityPopulation (hab/km2)" : 11482.226416603557
 			}
 		},
 		{
@@ -23225,10 +23225,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3616553252173595,
 				"BlockParcel.Latitude" : 50.8681767441981,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 98,
+				"Pop1030_Menages1030" : 169,
+				"DensityPopulation (hab/km2)" : 14471.284347893099
 			}
 		},
 		{
@@ -23312,10 +23312,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36195761665961,
 				"BlockParcel.Latitude" : 50.8649035924312,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 40,
+				"Pop1030_Femme" : 87,
+				"Pop1030_Menages1030" : 127,
+				"DensityPopulation (hab/km2)" : 12224.079897356229
 			}
 		},
 		{
@@ -23395,10 +23395,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36124827785302,
 				"BlockParcel.Latitude" : 50.8638442603419,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 88,
+				"Pop1030_Femme" : 100,
+				"Pop1030_Menages1030" : 188,
+				"DensityPopulation (hab/km2)" : 14775.83176929582
 			}
 		},
 		{
@@ -23460,10 +23460,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37758231805373,
 				"BlockParcel.Latitude" : 50.8762220714973,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 48,
+				"Pop1030_Femme" : 51,
+				"Pop1030_Menages1030" : 99,
+				"DensityPopulation (hab/km2)" : 24425.025041818604
 			}
 		},
 		{
@@ -23539,10 +23539,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3783422660741,
 				"BlockParcel.Latitude" : 50.8767289694168,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 91,
+				"Pop1030_Menages1030" : 162,
+				"DensityPopulation (hab/km2)" : 21967.53144611446
 			}
 		},
 		{
@@ -23620,10 +23620,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37930557539272,
 				"BlockParcel.Latitude" : 50.8764105871155,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 83,
+				"Pop1030_Femme" : 107,
+				"Pop1030_Menages1030" : 190,
+				"DensityPopulation (hab/km2)" : 23524.371868317994
 			}
 		},
 		{
@@ -23691,10 +23691,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37657552799029,
 				"BlockParcel.Latitude" : 50.8759029381009,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 62,
+				"Pop1030_Menages1030" : 105,
+				"DensityPopulation (hab/km2)" : 19085.56513267194
 			}
 		},
 		{
@@ -23764,10 +23764,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37704836130134,
 				"BlockParcel.Latitude" : 50.8752699213877,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 40,
+				"Pop1030_Femme" : 44,
+				"Pop1030_Menages1030" : 84,
+				"DensityPopulation (hab/km2)" : 26062.917123026276
 			}
 		},
 		{
@@ -23818,10 +23818,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37792663230049,
 				"BlockParcel.Latitude" : 50.8755647300543,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 37,
+				"Pop1030_Menages1030" : 65,
+				"DensityPopulation (hab/km2)" : 32867.12579513162
 			}
 		},
 		{
@@ -23904,10 +23904,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37614684085043,
 				"BlockParcel.Latitude" : 50.874741438139,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 177,
+				"DensityPopulation (hab/km2)" : 20844.44742783052
 			}
 		},
 		{
@@ -23990,10 +23990,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37708874906614,
 				"BlockParcel.Latitude" : 50.8744489740306,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 31,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 91,
+				"DensityPopulation (hab/km2)" : 15817.999144785103
 			}
 		},
 		{
@@ -24078,10 +24078,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.37460737854502,
 				"BlockParcel.Latitude" : 50.8727792757677,
 				"Quartier" : "Colignon",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 97,
+				"DensityPopulation (hab/km2)" : 7848.442529172742
 			}
 		},
 		{
@@ -24188,10 +24188,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38262373720499,
 				"BlockParcel.Latitude" : 50.8772547611993,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 97,
+				"Pop1030_Femme" : 153,
+				"Pop1030_Menages1030" : 250,
+				"DensityPopulation (hab/km2)" : 14601.686436376654
 			}
 		},
 		{
@@ -24268,10 +24268,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3828056789811995,
 				"BlockParcel.Latitude" : 50.8783043382902,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 67,
+				"Pop1030_Menages1030" : 121,
+				"DensityPopulation (hab/km2)" : 7832.242429263847
 			}
 		},
 		{
@@ -24356,10 +24356,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36395747671718,
 				"BlockParcel.Latitude" : 50.8619059065168,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 129,
+				"DensityPopulation (hab/km2)" : 14643.415798088863
 			}
 		},
 		{
@@ -24452,10 +24452,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36458682352255,
 				"BlockParcel.Latitude" : 50.8605699913028,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 46,
+				"Pop1030_Femme" : 85,
+				"Pop1030_Menages1030" : 131,
+				"DensityPopulation (hab/km2)" : 12301.751637964146
 			}
 		},
 		{
@@ -24535,10 +24535,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36311632012651,
 				"BlockParcel.Latitude" : 50.8605331140398,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 27,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 87,
+				"DensityPopulation (hab/km2)" : 11538.323813110985
 			}
 		},
 		{
@@ -24640,10 +24640,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36612158533807,
 				"BlockParcel.Latitude" : 50.8585623078913,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 71,
+				"Pop1030_Femme" : 91,
+				"Pop1030_Menages1030" : 162,
+				"DensityPopulation (hab/km2)" : 19026.031604352498
 			}
 		},
 		{
@@ -24773,10 +24773,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36646355560386,
 				"BlockParcel.Latitude" : 50.8603123122961,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 127,
+				"Pop1030_Menages1030" : 212,
+				"DensityPopulation (hab/km2)" : 4600.641529079635
 			}
 		},
 		{
@@ -24835,10 +24835,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36372828272048,
 				"BlockParcel.Latitude" : 50.8591175622034,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 33,
+				"Pop1030_Femme" : 54,
+				"Pop1030_Menages1030" : 87,
+				"DensityPopulation (hab/km2)" : 21246.407037200748
 			}
 		},
 		{
@@ -24891,10 +24891,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36290988944673,
 				"BlockParcel.Latitude" : 50.8592974501551,
 				"Quartier" : "Palais-Reine",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 41,
+				"Pop1030_Menages1030" : 58,
+				"DensityPopulation (hab/km2)" : 17621.091839307795
 			}
 		},
 		{
@@ -24967,10 +24967,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36163007192118,
 				"BlockParcel.Latitude" : 50.8689109863817,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 21,
+				"Pop1030_Femme" : 48,
+				"Pop1030_Menages1030" : 69,
+				"DensityPopulation (hab/km2)" : 11594.534101373196
 			}
 		},
 		{
@@ -25038,10 +25038,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.36045384030568,
 				"BlockParcel.Latitude" : 50.8666200945882,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 20,
+				"Pop1030_Femme" : 21,
+				"Pop1030_Menages1030" : 41,
+				"DensityPopulation (hab/km2)" : 4356.5993448099625
 			}
 		},
 		{
@@ -25073,9 +25073,9 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Latitude" : 50.8652445231715,
 				"Quartier" : "Nord",
 				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Femme" : 1,
+				"Pop1030_Menages1030" : 1,
+				"DensityPopulation (hab/km2)" : 2081.5986677768524
 			}
 		},
 		{
@@ -25115,10 +25115,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3595080083612,
 				"BlockParcel.Latitude" : 50.8645009116916,
 				"Quartier" : "Nord",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 96,
+				"DensityPopulation (hab/km2)" : 8985.878130899908
 			}
 		},
 		{
@@ -25222,10 +25222,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40234036606609,
 				"BlockParcel.Latitude" : 50.8590350258888,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 40,
+				"Pop1030_Femme" : 47,
+				"Pop1030_Menages1030" : 87,
+				"DensityPopulation (hab/km2)" : 7005.299065879603
 			}
 		},
 		{
@@ -25397,10 +25397,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40406333856458,
 				"BlockParcel.Latitude" : 50.8579370977644,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 89,
+				"Pop1030_Femme" : 126,
+				"Pop1030_Menages1030" : 215,
+				"DensityPopulation (hab/km2)" : 2205.7202430642155
 			}
 		},
 		{
@@ -25475,10 +25475,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40252231542699,
 				"BlockParcel.Latitude" : 50.8603474821736,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 117,
+				"Pop1030_Femme" : 111,
+				"Pop1030_Menages1030" : 228,
+				"DensityPopulation (hab/km2)" : 11131.589547046833
 			}
 		},
 		{
@@ -25628,10 +25628,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39840586226123,
 				"BlockParcel.Latitude" : 50.8611035154899,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 221,
+				"Pop1030_Femme" : 194,
+				"Pop1030_Menages1030" : 415,
+				"DensityPopulation (hab/km2)" : 4102.356462748577
 			}
 		},
 		{
@@ -25717,10 +25717,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39661345973073,
 				"BlockParcel.Latitude" : 50.8660653313398,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 12,
+				"Pop1030_Femme" : 15,
+				"Pop1030_Menages1030" : 27,
+				"DensityPopulation (hab/km2)" : 4350.9719587914615
 			}
 		},
 		{
@@ -25783,10 +25783,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39703330875242,
 				"BlockParcel.Latitude" : 50.8564595912207,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 13,
+				"Pop1030_Femme" : 20,
+				"Pop1030_Menages1030" : 33,
+				"DensityPopulation (hab/km2)" : 2726.6124814404448
 			}
 		},
 		{
@@ -25857,10 +25857,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39897850019547,
 				"BlockParcel.Latitude" : 50.8575026301992,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 138,
+				"Pop1030_Femme" : 147,
+				"Pop1030_Menages1030" : 285,
+				"DensityPopulation (hab/km2)" : 38903.49476236107
 			}
 		},
 		{
@@ -25960,10 +25960,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3992422551123695,
 				"BlockParcel.Latitude" : 50.8562072520401,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 67,
+				"Pop1030_Femme" : 93,
+				"Pop1030_Menages1030" : 160,
+				"DensityPopulation (hab/km2)" : 9869.82320062328
 			}
 		},
 		{
@@ -26015,10 +26015,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39583302215015,
 				"BlockParcel.Latitude" : 50.8650821439305,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 4,
+				"Pop1030_Femme" : 7,
+				"Pop1030_Menages1030" : 11,
+				"DensityPopulation (hab/km2)" : 7337.393357657904
 			}
 		},
 		{
@@ -26108,10 +26108,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3955254202939,
 				"BlockParcel.Latitude" : 50.8655388018912,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 15,
+				"Pop1030_Femme" : 21,
+				"Pop1030_Menages1030" : 36,
+				"DensityPopulation (hab/km2)" : 5038.051281764214
 			}
 		},
 		{
@@ -26189,10 +26189,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39557289508256,
 				"BlockParcel.Latitude" : 50.8664364026907,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 13,
+				"Pop1030_Femme" : 17,
+				"Pop1030_Menages1030" : 30,
+				"DensityPopulation (hab/km2)" : 5510.9070034443175
 			}
 		},
 		{
@@ -26292,10 +26292,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39511344834379,
 				"BlockParcel.Latitude" : 50.8683845664576,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 19,
+				"Pop1030_Femme" : 27,
+				"Pop1030_Menages1030" : 46,
+				"DensityPopulation (hab/km2)" : 6779.10150378156
 			}
 		},
 		{
@@ -26433,10 +26433,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39352070575239,
 				"BlockParcel.Latitude" : 50.868196746706,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 29,
+				"Pop1030_Femme" : 33,
+				"Pop1030_Menages1030" : 62,
+				"DensityPopulation (hab/km2)" : 6492.5885007880115
 			}
 		},
 		{
@@ -26543,10 +26543,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3942175555041,
 				"BlockParcel.Latitude" : 50.8653722682374,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 16,
+				"Pop1030_Femme" : 18,
+				"Pop1030_Menages1030" : 34,
+				"DensityPopulation (hab/km2)" : 5981.75564528189
 			}
 		},
 		{
@@ -26598,10 +26598,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39434840397602,
 				"BlockParcel.Latitude" : 50.864232419939,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
+				"Pop1030_Homme" : 1,
 				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Menages1030" : 1,
+				"DensityPopulation (hab/km2)" : 1009.8256031183415
 			}
 		},
 		{
@@ -26693,10 +26693,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39237682975036,
 				"BlockParcel.Latitude" : 50.8635622860785,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 41,
+				"Pop1030_Femme" : 57,
+				"Pop1030_Menages1030" : 98,
+				"DensityPopulation (hab/km2)" : 3067.9580891880464
 			}
 		},
 		{
@@ -26805,10 +26805,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39409968308346,
 				"BlockParcel.Latitude" : 50.8670658059,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 7,
+				"Pop1030_Femme" : 5,
+				"Pop1030_Menages1030" : 12,
+				"DensityPopulation (hab/km2)" : 4192.520543350663
 			}
 		},
 		{
@@ -27007,10 +27007,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39337931103897,
 				"BlockParcel.Latitude" : 50.8672070867725,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 13,
+				"Pop1030_Femme" : 10,
+				"Pop1030_Menages1030" : 23,
+				"DensityPopulation (hab/km2)" : 3831.889988104481
 			}
 		},
 		{
@@ -27067,10 +27067,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39293062049922,
 				"BlockParcel.Latitude" : 50.8593333648592,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
+				"Pop1030_Homme" : 1,
 				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Menages1030" : 1,
+				"DensityPopulation (hab/km2)" : 29.233885113170214
 			}
 		},
 		{
@@ -27118,10 +27118,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39352619241914,
 				"BlockParcel.Latitude" : 50.8608700911025,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 52,
+				"Pop1030_Menages1030" : 104,
+				"DensityPopulation (hab/km2)" : 13245.235535948079
 			}
 		},
 		{
@@ -27236,10 +27236,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39474872665243,
 				"BlockParcel.Latitude" : 50.8696999038711,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 44,
+				"Pop1030_Femme" : 66,
+				"Pop1030_Menages1030" : 110,
+				"DensityPopulation (hab/km2)" : 5990.443608686796
 			}
 		},
 		{
@@ -27332,10 +27332,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39303002055818,
 				"BlockParcel.Latitude" : 50.8694638069239,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 89,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 178,
+				"DensityPopulation (hab/km2)" : 12819.598717752047
 			}
 		},
 		{
@@ -27401,10 +27401,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39488368608734,
 				"BlockParcel.Latitude" : 50.8567493996924,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 16,
+				"Pop1030_Femme" : 27,
+				"Pop1030_Menages1030" : 43,
+				"DensityPopulation (hab/km2)" : 6063.930752731237
 			}
 		},
 		{
@@ -27530,10 +27530,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39208035009791,
 				"BlockParcel.Latitude" : 50.8550833033674,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 111,
+				"Pop1030_Femme" : 137,
+				"Pop1030_Menages1030" : 248,
+				"DensityPopulation (hab/km2)" : 12838.206502551595
 			}
 		},
 		{
@@ -27619,10 +27619,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39248358879181,
 				"BlockParcel.Latitude" : 50.8545077048104,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 82,
+				"Pop1030_Femme" : 117,
+				"Pop1030_Menages1030" : 199,
+				"DensityPopulation (hab/km2)" : 7448.786783531518
 			}
 		},
 		{
@@ -27699,10 +27699,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39451794946091,
 				"BlockParcel.Latitude" : 50.852164435514,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 55,
+				"Pop1030_Menages1030" : 98,
+				"DensityPopulation (hab/km2)" : 20256.05304605565
 			}
 		},
 		{
@@ -27792,10 +27792,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3932814687979,
 				"BlockParcel.Latitude" : 50.8525279494101,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 95,
+				"Pop1030_Femme" : 96,
+				"Pop1030_Menages1030" : 191,
+				"DensityPopulation (hab/km2)" : 16768.33015525191
 			}
 		},
 		{
@@ -27833,10 +27833,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38905290132438,
 				"BlockParcel.Latitude" : 50.8511266798903,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 76,
+				"Pop1030_Femme" : 63,
+				"Pop1030_Menages1030" : 139,
+				"DensityPopulation (hab/km2)" : 20822.098388159866
 			}
 		},
 		{
@@ -27910,10 +27910,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38231898159971,
 				"BlockParcel.Latitude" : 50.8679372005219,
 				"Quartier" : "Parc Josaphat",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 24,
+				"Pop1030_Femme" : 46,
+				"Pop1030_Menages1030" : 70,
+				"DensityPopulation (hab/km2)" : 9552.42781776151
 			}
 		},
 		{
@@ -27989,10 +27989,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39151712589118,
 				"BlockParcel.Latitude" : 50.8683351966572,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 102,
+				"Pop1030_Femme" : 98,
+				"Pop1030_Menages1030" : 200,
+				"DensityPopulation (hab/km2)" : 16742.03372180432
 			}
 		},
 		{
@@ -28111,10 +28111,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38785685831761,
 				"BlockParcel.Latitude" : 50.8683781525448,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 65,
+				"Pop1030_Femme" : 90,
+				"Pop1030_Menages1030" : 155,
+				"DensityPopulation (hab/km2)" : 10735.967916772006
 			}
 		},
 		{
@@ -28165,10 +28165,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38907942950772,
 				"BlockParcel.Latitude" : 50.8679272631962,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 103,
+				"Pop1030_Femme" : 104,
+				"Pop1030_Menages1030" : 207,
+				"DensityPopulation (hab/km2)" : 26743.253142332247
 			}
 		},
 		{
@@ -28246,10 +28246,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3896027226082,
 				"BlockParcel.Latitude" : 50.8652115990481,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 94,
+				"Pop1030_Femme" : 115,
+				"Pop1030_Menages1030" : 209,
+				"DensityPopulation (hab/km2)" : 14243.16975268678
 			}
 		},
 		{
@@ -28323,10 +28323,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39045542128785,
 				"BlockParcel.Latitude" : 50.8632588177994,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 38,
+				"Pop1030_Femme" : 45,
+				"Pop1030_Menages1030" : 83,
+				"DensityPopulation (hab/km2)" : 7975.462480733973
 			}
 		},
 		{
@@ -28391,10 +28391,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38908093328528,
 				"BlockParcel.Latitude" : 50.8637123793981,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 26,
+				"Pop1030_Menages1030" : 52,
+				"DensityPopulation (hab/km2)" : 7139.807032984536
 			}
 		},
 		{
@@ -28455,10 +28455,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3863076757282,
 				"BlockParcel.Latitude" : 50.8656105557225,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 14,
+				"Pop1030_Femme" : 24,
+				"Pop1030_Menages1030" : 38,
+				"DensityPopulation (hab/km2)" : 4174.209536530924
 			}
 		},
 		{
@@ -28543,10 +28543,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39147526524918,
 				"BlockParcel.Latitude" : 50.8620435601204,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 67,
+				"Pop1030_Femme" : 67,
+				"Pop1030_Menages1030" : 134,
+				"DensityPopulation (hab/km2)" : 9391.303372739429
 			}
 		},
 		{
@@ -28612,10 +28612,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38985831899995,
 				"BlockParcel.Latitude" : 50.8623344029058,
 				"Quartier" : "Terdelt-Fleur",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 17,
+				"Pop1030_Femme" : 39,
+				"Pop1030_Menages1030" : 56,
+				"DensityPopulation (hab/km2)" : 4934.577199257346
 			}
 		},
 		{
@@ -28769,9 +28769,9 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Latitude" : 50.8626880835918,
 				"Quartier" : "Parc Josaphat",
 				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Femme" : 2,
+				"Pop1030_Menages1030" : 2,
+				"DensityPopulation (hab/km2)" : 10.69929294792483
 			}
 		},
 		{
@@ -28843,10 +28843,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38811069452253,
 				"BlockParcel.Latitude" : 50.8764058348831,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 15,
+				"Pop1030_Femme" : 33,
+				"Pop1030_Menages1030" : 48,
+				"DensityPopulation (hab/km2)" : 11294.782046002705
 			}
 		},
 		{
@@ -28919,10 +28919,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3875557749738,
 				"BlockParcel.Latitude" : 50.8758610191765,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 35,
+				"Pop1030_Menages1030" : 72,
+				"DensityPopulation (hab/km2)" : 17359.185661312644
 			}
 		},
 		{
@@ -29025,10 +29025,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38667662730418,
 				"BlockParcel.Latitude" : 50.8765197895788,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 68,
+				"Pop1030_Femme" : 60,
+				"Pop1030_Menages1030" : 128,
+				"DensityPopulation (hab/km2)" : 12646.57179103121
 			}
 		},
 		{
@@ -29118,10 +29118,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3905887569290805,
 				"BlockParcel.Latitude" : 50.8749907784232,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 65,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 10897.7652255059
 			}
 		},
 		{
@@ -29222,10 +29222,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39046787306335,
 				"BlockParcel.Latitude" : 50.8761249782692,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 61,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 117,
+				"DensityPopulation (hab/km2)" : 11345.212514254243
 			}
 		},
 		{
@@ -29312,10 +29312,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38742368742107,
 				"BlockParcel.Latitude" : 50.8746455454754,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 100,
+				"DensityPopulation (hab/km2)" : 8227.026440017573
 			}
 		},
 		{
@@ -29428,10 +29428,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38335899262072,
 				"BlockParcel.Latitude" : 50.8745450211044,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 76,
+				"Pop1030_Femme" : 71,
+				"Pop1030_Menages1030" : 147,
+				"DensityPopulation (hab/km2)" : 6865.248253448152
 			}
 		},
 		{
@@ -29521,10 +29521,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38347732458226,
 				"BlockParcel.Latitude" : 50.8600320490948,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 52,
+				"Pop1030_Femme" : 72,
+				"Pop1030_Menages1030" : 124,
+				"DensityPopulation (hab/km2)" : 10581.63131207108
 			}
 		},
 		{
@@ -29595,10 +29595,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38225401374586,
 				"BlockParcel.Latitude" : 50.8596568155651,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 26,
+				"Pop1030_Femme" : 42,
+				"Pop1030_Menages1030" : 68,
+				"DensityPopulation (hab/km2)" : 14320.040264583804
 			}
 		},
 		{
@@ -29675,10 +29675,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38609695452375,
 				"BlockParcel.Latitude" : 50.8580445858418,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 73,
+				"Pop1030_Femme" : 66,
+				"Pop1030_Menages1030" : 139,
+				"DensityPopulation (hab/km2)" : 18961.173246466606
 			}
 		},
 		{
@@ -29761,10 +29761,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38787508151248,
 				"BlockParcel.Latitude" : 50.8578204025396,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 51,
+				"Pop1030_Femme" : 61,
+				"Pop1030_Menages1030" : 112,
+				"DensityPopulation (hab/km2)" : 11417.596555148011
 			}
 		},
 		{
@@ -29846,10 +29846,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38409718979797,
 				"BlockParcel.Latitude" : 50.8589665082737,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 48,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 106,
+				"DensityPopulation (hab/km2)" : 12287.760810621261
 			}
 		},
 		{
@@ -29914,10 +29914,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38529685021664,
 				"BlockParcel.Latitude" : 50.858723141157,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 55,
+				"Pop1030_Menages1030" : 109,
+				"DensityPopulation (hab/km2)" : 18843.298095789647
 			}
 		},
 		{
@@ -30019,10 +30019,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39136947577524,
 				"BlockParcel.Latitude" : 50.8570300973131,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 90,
+				"Pop1030_Femme" : 90,
+				"Pop1030_Menages1030" : 180,
+				"DensityPopulation (hab/km2)" : 14009.03582810913
 			}
 		},
 		{
@@ -30100,10 +30100,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39326830832902,
 				"BlockParcel.Latitude" : 50.8571441331775,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 87,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 143,
+				"DensityPopulation (hab/km2)" : 8753.469250837701
 			}
 		},
 		{
@@ -30133,10 +30133,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3913994822437,
 				"BlockParcel.Latitude" : 50.8728505629735,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 95,
+				"Pop1030_Femme" : 64,
+				"Pop1030_Menages1030" : 159,
+				"DensityPopulation (hab/km2)" : 37743.015168419304
 			}
 		},
 		{
@@ -30259,10 +30259,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38543371536518,
 				"BlockParcel.Latitude" : 50.8727846469926,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 116,
+				"Pop1030_Femme" : 163,
+				"Pop1030_Menages1030" : 279,
+				"DensityPopulation (hab/km2)" : 10316.98664116633
 			}
 		},
 		{
@@ -30352,10 +30352,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39220311996921,
 				"BlockParcel.Latitude" : 50.8713994137451,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 58,
+				"Pop1030_Femme" : 72,
+				"Pop1030_Menages1030" : 130,
+				"DensityPopulation (hab/km2)" : 14360.975264877143
 			}
 		},
 		{
@@ -30438,10 +30438,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38288516260449,
 				"BlockParcel.Latitude" : 50.8714998069683,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 104,
+				"Pop1030_Menages1030" : 195,
+				"DensityPopulation (hab/km2)" : 13361.582230603093
 			}
 		},
 		{
@@ -30532,10 +30532,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38795821933713,
 				"BlockParcel.Latitude" : 50.8719097936834,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 116,
+				"Pop1030_Femme" : 125,
+				"Pop1030_Menages1030" : 241,
+				"DensityPopulation (hab/km2)" : 17574.33359731295
 			}
 		},
 		{
@@ -30618,10 +30618,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39055269424409,
 				"BlockParcel.Latitude" : 50.8775902061899,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 50,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 106,
+				"DensityPopulation (hab/km2)" : 12208.394999164992
 			}
 		},
 		{
@@ -30712,10 +30712,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3890408706945,
 				"BlockParcel.Latitude" : 50.8774881034049,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 99,
+				"DensityPopulation (hab/km2)" : 10541.570523639206
 			}
 		},
 		{
@@ -30813,10 +30813,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38731737946026,
 				"BlockParcel.Latitude" : 50.8793683790163,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 49,
+				"Pop1030_Femme" : 39,
+				"Pop1030_Menages1030" : 88,
+				"DensityPopulation (hab/km2)" : 1046.115630013628
 			}
 		},
 		{
@@ -30896,10 +30896,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38509563097057,
 				"BlockParcel.Latitude" : 50.8783229027347,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 49,
+				"Pop1030_Menages1030" : 86,
+				"DensityPopulation (hab/km2)" : 7525.646264872997
 			}
 		},
 		{
@@ -30974,10 +30974,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38419486991676,
 				"BlockParcel.Latitude" : 50.8790877608078,
 				"Quartier" : "Helmet-Hamoir",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 73,
+				"Pop1030_Femme" : 83,
+				"Pop1030_Menages1030" : 156,
+				"DensityPopulation (hab/km2)" : 11379.319399988912
 			}
 		},
 		{
@@ -31069,10 +31069,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38462975935563,
 				"BlockParcel.Latitude" : 50.8567990008023,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 77,
+				"Pop1030_Femme" : 87,
+				"Pop1030_Menages1030" : 164,
+				"DensityPopulation (hab/km2)" : 19647.283343775944
 			}
 		},
 		{
@@ -31182,10 +31182,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38127047131381,
 				"BlockParcel.Latitude" : 50.8568937418191,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 83,
+				"Pop1030_Femme" : 121,
+				"Pop1030_Menages1030" : 204,
+				"DensityPopulation (hab/km2)" : 11356.532204954232
 			}
 		},
 		{
@@ -31266,10 +31266,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38639527650771,
 				"BlockParcel.Latitude" : 50.8545117796136,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 73,
+				"Pop1030_Menages1030" : 127,
+				"DensityPopulation (hab/km2)" : 11013.32091516361
 			}
 		},
 		{
@@ -31391,10 +31391,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38168115683452,
 				"BlockParcel.Latitude" : 50.8551310104013,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 91,
+				"Pop1030_Femme" : 112,
+				"Pop1030_Menages1030" : 203,
+				"DensityPopulation (hab/km2)" : 10571.187836989158
 			}
 		},
 		{
@@ -31483,10 +31483,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38737397503787,
 				"BlockParcel.Latitude" : 50.8535385802453,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 86,
+				"Pop1030_Femme" : 97,
+				"Pop1030_Menages1030" : 183,
+				"DensityPopulation (hab/km2)" : 12509.168263351487
 			}
 		},
 		{
@@ -31585,10 +31585,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38230847991247,
 				"BlockParcel.Latitude" : 50.854787320712504,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 85,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 169,
+				"DensityPopulation (hab/km2)" : 10424.094090710589
 			}
 		},
 		{
@@ -31704,10 +31704,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40101215566551,
 				"BlockParcel.Latitude" : 50.8448032908131,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 120,
+				"Pop1030_Femme" : 112,
+				"Pop1030_Menages1030" : 232,
+				"DensityPopulation (hab/km2)" : 5553.106125123928
 			}
 		},
 		{
@@ -31764,10 +31764,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4041197427137195,
 				"BlockParcel.Latitude" : 50.8489580392244,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 25,
+				"Pop1030_Femme" : 28,
+				"Pop1030_Menages1030" : 53,
+				"DensityPopulation (hab/km2)" : 10715.166610732149
 			}
 		},
 		{
@@ -31834,10 +31834,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40017583260394,
 				"BlockParcel.Latitude" : 50.8488344166097,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 201,
+				"Pop1030_Femme" : 212,
+				"Pop1030_Menages1030" : 413,
+				"DensityPopulation (hab/km2)" : 27164.72610984021
 			}
 		},
 		{
@@ -31965,10 +31965,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40751236954357,
 				"BlockParcel.Latitude" : 50.8495691149538,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 88,
+				"Pop1030_Femme" : 107,
+				"Pop1030_Menages1030" : 195,
+				"DensityPopulation (hab/km2)" : 5682.583144933846
 			}
 		},
 		{
@@ -32045,10 +32045,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40701058781832,
 				"BlockParcel.Latitude" : 50.8486420484531,
 				"Quartier" : "Cerisiers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 42,
+				"Pop1030_Menages1030" : 84,
+				"DensityPopulation (hab/km2)" : 6538.878302133542
 			}
 		},
 		{
@@ -32216,10 +32216,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39957892423968,
 				"BlockParcel.Latitude" : 50.8473023389373,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 267,
+				"Pop1030_Femme" : 226,
+				"Pop1030_Menages1030" : 493,
+				"DensityPopulation (hab/km2)" : 5657.813813856548
 			}
 		},
 		{
@@ -32295,10 +32295,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40115060089831,
 				"BlockParcel.Latitude" : 50.8565183175981,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 30,
+				"Pop1030_Femme" : 34,
+				"Pop1030_Menages1030" : 64,
+				"DensityPopulation (hab/km2)" : 14835.694681403458
 			}
 		},
 		{
@@ -32373,10 +32373,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4050330235757,
 				"BlockParcel.Latitude" : 50.856059672955,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 145,
+				"Pop1030_Femme" : 196,
+				"Pop1030_Menages1030" : 341,
+				"DensityPopulation (hab/km2)" : 14859.125899935769
 			}
 		},
 		{
@@ -32470,10 +32470,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39605587958573,
 				"BlockParcel.Latitude" : 50.8559547220621,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 97,
+				"Pop1030_Femme" : 115,
+				"Pop1030_Menages1030" : 212,
+				"DensityPopulation (hab/km2)" : 15174.235293696607
 			}
 		},
 		{
@@ -32604,10 +32604,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40179187196725,
 				"BlockParcel.Latitude" : 50.8549764489797,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 143,
+				"Pop1030_Femme" : 151,
+				"Pop1030_Menages1030" : 294,
+				"DensityPopulation (hab/km2)" : 6212.0252977334985
 			}
 		},
 		{
@@ -32666,10 +32666,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39868633268784,
 				"BlockParcel.Latitude" : 50.8530841708356,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 106,
+				"Pop1030_Femme" : 118,
+				"Pop1030_Menages1030" : 224,
+				"DensityPopulation (hab/km2)" : 23860.98420168497
 			}
 		},
 		{
@@ -32724,10 +32724,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3986554900816,
 				"BlockParcel.Latitude" : 50.8539375766645,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 100,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 189,
+				"DensityPopulation (hab/km2)" : 24777.136864184584
 			}
 		},
 		{
@@ -32800,10 +32800,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39597361779522,
 				"BlockParcel.Latitude" : 50.8519496629695,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 118,
+				"Pop1030_Femme" : 89,
+				"Pop1030_Menages1030" : 207,
+				"DensityPopulation (hab/km2)" : 12611.016545410017
 			}
 		},
 		{
@@ -32872,10 +32872,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39647668130938,
 				"BlockParcel.Latitude" : 50.853230213742,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 33,
+				"Pop1030_Menages1030" : 78,
+				"DensityPopulation (hab/km2)" : 9165.827445072604
 			}
 		},
 		{
@@ -32951,10 +32951,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3969150852627,
 				"BlockParcel.Latitude" : 50.8541793815007,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 103,
+				"Pop1030_Femme" : 92,
+				"Pop1030_Menages1030" : 195,
+				"DensityPopulation (hab/km2)" : 17894.422904861316
 			}
 		},
 		{
@@ -33007,10 +33007,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.41188684212306,
 				"BlockParcel.Latitude" : 50.8547821902332,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 28,
+				"Pop1030_Femme" : 38,
+				"Pop1030_Menages1030" : 66,
+				"DensityPopulation (hab/km2)" : 4697.084320492027
 			}
 		},
 		{
@@ -33104,10 +33104,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39854294327277,
 				"BlockParcel.Latitude" : 50.8518982788944,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 161,
+				"Pop1030_Femme" : 165,
+				"Pop1030_Menages1030" : 326,
+				"DensityPopulation (hab/km2)" : 13588.491298155257
 			}
 		},
 		{
@@ -33190,10 +33190,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39691408854248,
 				"BlockParcel.Latitude" : 50.8497157461874,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 48,
+				"Pop1030_Femme" : 66,
+				"Pop1030_Menages1030" : 114,
+				"DensityPopulation (hab/km2)" : 10529.222749401728
 			}
 		},
 		{
@@ -33276,10 +33276,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39782556375235,
 				"BlockParcel.Latitude" : 50.850026651804,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 58,
+				"Pop1030_Femme" : 61,
+				"Pop1030_Menages1030" : 119,
+				"DensityPopulation (hab/km2)" : 17676.74141898185
 			}
 		},
 		{
@@ -33386,10 +33386,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39890987586479,
 				"BlockParcel.Latitude" : 50.8509560907019,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 139,
+				"Pop1030_Femme" : 127,
+				"Pop1030_Menages1030" : 266,
+				"DensityPopulation (hab/km2)" : 11492.331029250576
 			}
 		},
 		{
@@ -33429,10 +33429,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4108400110861,
 				"BlockParcel.Latitude" : 50.8509822380991,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 3,
+				"Pop1030_Femme" : 1,
+				"Pop1030_Menages1030" : 4,
+				"DensityPopulation (hab/km2)" : 4201.901360365566
 			}
 		},
 		{
@@ -33467,10 +33467,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40633030516987,
 				"BlockParcel.Latitude" : 50.851362519669,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 37,
+				"Pop1030_Femme" : 45,
+				"Pop1030_Menages1030" : 82,
+				"DensityPopulation (hab/km2)" : 3155.4299369491223
 			}
 		},
 		{
@@ -33531,10 +33531,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39512822367196,
 				"BlockParcel.Latitude" : 50.850937625981,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 54,
+				"Pop1030_Femme" : 44,
+				"Pop1030_Menages1030" : 98,
+				"DensityPopulation (hab/km2)" : 23470.861404563406
 			}
 		},
 		{
@@ -33592,10 +33592,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39131820811172,
 				"BlockParcel.Latitude" : 50.8516606007565,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 49,
+				"Pop1030_Femme" : 28,
+				"Pop1030_Menages1030" : 77,
+				"DensityPopulation (hab/km2)" : 6658.63019005633
 			}
 		},
 		{
@@ -33671,10 +33671,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39322948544009,
 				"BlockParcel.Latitude" : 50.8507393095486,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 60,
+				"Pop1030_Femme" : 58,
+				"Pop1030_Menages1030" : 118,
+				"DensityPopulation (hab/km2)" : 17087.75430705536
 			}
 		},
 		{
@@ -33722,10 +33722,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39084179183298,
 				"BlockParcel.Latitude" : 50.8507736859412,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 122,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 206,
+				"DensityPopulation (hab/km2)" : 12068.443305558338
 			}
 		},
 		{
@@ -33806,10 +33806,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39308765856387,
 				"BlockParcel.Latitude" : 50.8493732233811,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 61,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 117,
+				"DensityPopulation (hab/km2)" : 10346.529137417825
 			}
 		},
 		{
@@ -33895,10 +33895,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39186077378212,
 				"BlockParcel.Latitude" : 50.8501609341757,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 80,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 139,
+				"DensityPopulation (hab/km2)" : 16343.34667060161
 			}
 		},
 		{
@@ -33987,10 +33987,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39130067001107,
 				"BlockParcel.Latitude" : 50.8492332062525,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 45,
+				"Pop1030_Femme" : 52,
+				"Pop1030_Menages1030" : 97,
+				"DensityPopulation (hab/km2)" : 11664.303743279495
 			}
 		},
 		{
@@ -34067,10 +34067,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39615977708733,
 				"BlockParcel.Latitude" : 50.8486235521337,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 61,
+				"Pop1030_Femme" : 59,
+				"Pop1030_Menages1030" : 120,
+				"DensityPopulation (hab/km2)" : 12736.446828518603
 			}
 		},
 		{
@@ -34141,10 +34141,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39687820566494,
 				"BlockParcel.Latitude" : 50.8481045188214,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 94,
+				"Pop1030_Femme" : 84,
+				"Pop1030_Menages1030" : 178,
+				"DensityPopulation (hab/km2)" : 17432.693155219524
 			}
 		},
 		{
@@ -34240,10 +34240,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.39686635831807,
 				"BlockParcel.Latitude" : 50.8452257832986,
 				"Quartier" : "Linthout",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 88,
+				"Pop1030_Femme" : 78,
+				"Pop1030_Menages1030" : 166,
+				"DensityPopulation (hab/km2)" : 18114.558212114927
 			}
 		},
 		{
@@ -34314,10 +34314,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38898115194964,
 				"BlockParcel.Latitude" : 50.8531137520581,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 56,
+				"Pop1030_Femme" : 79,
+				"Pop1030_Menages1030" : 135,
+				"DensityPopulation (hab/km2)" : 20297.180796762073
 			}
 		},
 		{
@@ -34434,10 +34434,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38457896874695,
 				"BlockParcel.Latitude" : 50.8529661743333,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 104,
+				"Pop1030_Femme" : 105,
+				"Pop1030_Menages1030" : 209,
+				"DensityPopulation (hab/km2)" : 11192.29541662115
 			}
 		},
 		{
@@ -34502,10 +34502,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38637601484224,
 				"BlockParcel.Latitude" : 50.851596102895996,
 				"Quartier" : "Plasky",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 41,
+				"Pop1030_Femme" : 56,
+				"Pop1030_Menages1030" : 97,
+				"DensityPopulation (hab/km2)" : 14498.320735737465
 			}
 		},
 		{
@@ -34585,10 +34585,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.38212304705045,
 				"BlockParcel.Latitude" : 50.8523526869391,
 				"Quartier" : "Bienfaiteurs",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 47,
+				"Pop1030_Menages1030" : 89,
+				"DensityPopulation (hab/km2)" : 13824.53404330341
 			}
 		},
 		{
@@ -34625,10 +34625,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.40318538255,
 				"BlockParcel.Latitude" : 50.8545682153,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 20,
+				"Pop1030_Femme" : 19,
+				"Pop1030_Menages1030" : 39,
+				"DensityPopulation (hab/km2)" : 7800
 			}
 		},
 		{
@@ -34659,10 +34659,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.406040411199999,
 				"BlockParcel.Latitude" : 50.85507946925,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 159,
+				"Pop1030_Femme" : 96,
+				"Pop1030_Menages1030" : 255,
+				"DensityPopulation (hab/km2)" : 19615.384615384617
 			}
 		},
 		{
@@ -34707,10 +34707,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4086163696,
 				"BlockParcel.Latitude" : 50.85564336465,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 43,
+				"Pop1030_Femme" : 53,
+				"Pop1030_Menages1030" : 96,
+				"DensityPopulation (hab/km2)" : 4173.913043478261
 			}
 		},
 		{
@@ -34750,10 +34750,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4098249212,
 				"BlockParcel.Latitude" : 50.8529049223,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 134,
+				"Pop1030_Femme" : 117,
+				"Pop1030_Menages1030" : 251,
+				"DensityPopulation (hab/km2)" : 22818.18181818182
 			}
 		},
 		{
@@ -34811,10 +34811,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.405592335450001,
 				"BlockParcel.Latitude" : 50.85182301345,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 55,
+				"Pop1030_Femme" : 81,
+				"Pop1030_Menages1030" : 136,
+				"DensityPopulation (hab/km2)" : 10461.538461538463
 			}
 		},
 		{
@@ -34843,10 +34843,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.4022104215999995,
 				"BlockParcel.Latitude" : 50.8513816846,
 				"Quartier" : "Reyers",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 42,
+				"Pop1030_Femme" : 140,
+				"Pop1030_Menages1030" : 182,
+				"DensityPopulation (hab/km2)" : 9578.947368421053
 			}
 		},
 		{
@@ -35010,10 +35010,10 @@ var json_SchaerbeekDemographicDistributionHouse = {
 				"BlockParcel.Longitude" : 4.3954591025,
 				"BlockParcel.Latitude" : 50.8641703903,
 				"Quartier" : "Jardin",
-				"Pop1030_Homme" : 0,
-				"Pop1030_Femme" : 0,
-				"Pop1030_Menages1030" : 0,
-				"DensityPopulation (hab/km2)" : 0
+				"Pop1030_Homme" : 102,
+				"Pop1030_Femme" : 80,
+				"Pop1030_Menages1030" : 182,
+				"DensityPopulation (hab/km2)" : 7583.333333333333
 					}
 				}
 			]
