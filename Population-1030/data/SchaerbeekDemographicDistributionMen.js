@@ -8,11 +8,10 @@ var json_SchaerbeekDemographicDistributionMen = {
 		}
 	},
 	"features": [
-	{
+		{
 	"type" : "FeatureCollection",
 	"name" : "Population1030_Men_RN",
 	"features" : [
-	
 		{
 			"type" : "Feature",
 			"geometry" : {

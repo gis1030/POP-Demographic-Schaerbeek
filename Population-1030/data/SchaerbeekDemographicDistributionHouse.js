@@ -8,7 +8,7 @@ var json_SchaerbeekDemographicDistributionHouse = {
 		}
 	},
 	"features": [
-	{
+		{
 	"type" : "FeatureCollection",
 	"name" : "Population1030_House_RN",
 	"features" : [

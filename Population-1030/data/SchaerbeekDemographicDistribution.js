@@ -9,15 +9,15 @@ var json_SchaerbeekDemographicDistribution = {
 	},
 	"features": [
 		{
-			"type": "FeatureCollection",
-			"name": "Population1030_RN",
-			"features": [
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Polygon",
-						"coordinates": [
-							[
+	"type" : "FeatureCollection",
+	"name" : "Population1030_RN",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
 						[ 4.3819823476, 50.8625711523 ],
 						[ 4.3820341904, 50.8623782047 ],
 						[ 4.382052989, 50.8622538431 ],
@@ -182,7 +182,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 332,
-				"Pop1030_Femmes" : 163,
+				"Pop1030_Femme" : 163,
 				"DensityPopulation (hab/km2)" : 31797.355073018985
 			}
 		},
@@ -258,7 +258,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 203,
-				"Pop1030_Femmes" : 102,
+				"Pop1030_Femme" : 102,
 				"DensityPopulation (hab/km2)" : 57126.937180068046
 			}
 		},
@@ -389,7 +389,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 46,
 				"Pop1030_de 70 ans et plus" : 46,
 				"Pop1030_Population" : 611,
-				"Pop1030_Femmes" : 293,
+				"Pop1030_Femme" : 293,
 				"DensityPopulation (hab/km2)" : 28637.86413091113
 			}
 		},
@@ -526,7 +526,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 46,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 585,
-				"Pop1030_Femmes" : 276,
+				"Pop1030_Femme" : 276,
 				"DensityPopulation (hab/km2)" : 32698.31528218646
 			}
 		},
@@ -616,7 +616,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 531,
-				"Pop1030_Femmes" : 253,
+				"Pop1030_Femme" : 253,
 				"DensityPopulation (hab/km2)" : 51911.943266405055
 			}
 		},
@@ -692,7 +692,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 46,
 				"Pop1030_Population" : 537,
-				"Pop1030_Femmes" : 250,
+				"Pop1030_Femme" : 250,
 				"DensityPopulation (hab/km2)" : 49807.633089334675
 			}
 		},
@@ -790,7 +790,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 141,
-				"Pop1030_Femmes" : 69,
+				"Pop1030_Femme" : 69,
 				"DensityPopulation (hab/km2)" : 22666.660236408443
 			}
 		},
@@ -892,7 +892,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 318,
-				"Pop1030_Femmes" : 157,
+				"Pop1030_Femme" : 157,
 				"DensityPopulation (hab/km2)" : 64047.69337670315
 			}
 		},
@@ -981,7 +981,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 414,
-				"Pop1030_Femmes" : 209,
+				"Pop1030_Femme" : 209,
 				"DensityPopulation (hab/km2)" : 72458.56822569268
 			}
 		},
@@ -1127,7 +1127,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 51,
 				"Pop1030_de 70 ans et plus" : 50,
 				"Pop1030_Population" : 863,
-				"Pop1030_Femmes" : 427,
+				"Pop1030_Femme" : 427,
 				"DensityPopulation (hab/km2)" : 27564.390640116697
 			}
 		},
@@ -1236,7 +1236,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 460,
-				"Pop1030_Femmes" : 229,
+				"Pop1030_Femme" : 229,
 				"DensityPopulation (hab/km2)" : 35251.3111955099
 			}
 		},
@@ -1331,7 +1331,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 395,
-				"Pop1030_Femmes" : 201,
+				"Pop1030_Femme" : 201,
 				"DensityPopulation (hab/km2)" : 34507.43045442355
 			}
 		},
@@ -1460,7 +1460,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 297,
-				"Pop1030_Femmes" : 152,
+				"Pop1030_Femme" : 152,
 				"DensityPopulation (hab/km2)" : 24856.322921295843
 			}
 		},
@@ -1524,7 +1524,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 184,
-				"Pop1030_Femmes" : 94,
+				"Pop1030_Femme" : 94,
 				"DensityPopulation (hab/km2)" : 102586.40395626698
 			}
 		},
@@ -1605,7 +1605,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 176,
-				"Pop1030_Femmes" : 100,
+				"Pop1030_Femme" : 100,
 				"DensityPopulation (hab/km2)" : 52184.17455606389
 			}
 		},
@@ -1690,7 +1690,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 305,
-				"Pop1030_Femmes" : 177,
+				"Pop1030_Femme" : 177,
 				"DensityPopulation (hab/km2)" : 28875.24756974556
 			}
 		},
@@ -1786,7 +1786,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 397,
-				"Pop1030_Femmes" : 200,
+				"Pop1030_Femme" : 200,
 				"DensityPopulation (hab/km2)" : 62844.6960342939
 			}
 		},
@@ -1868,7 +1868,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 316,
-				"Pop1030_Femmes" : 170,
+				"Pop1030_Femme" : 170,
 				"DensityPopulation (hab/km2)" : 70800.90159122786
 			}
 		},
@@ -1982,7 +1982,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 37,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 471,
-				"Pop1030_Femmes" : 248,
+				"Pop1030_Femme" : 248,
 				"DensityPopulation (hab/km2)" : 27900.11639857478
 			}
 		},
@@ -2057,7 +2057,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 238,
-				"Pop1030_Femmes" : 116,
+				"Pop1030_Femme" : 116,
 				"DensityPopulation (hab/km2)" : 48059.54537285524
 			}
 		},
@@ -2163,7 +2163,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 306,
-				"Pop1030_Femmes" : 152,
+				"Pop1030_Femme" : 152,
 				"DensityPopulation (hab/km2)" : 30656.131376550464
 			}
 		},
@@ -2235,7 +2235,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 284,
-				"Pop1030_Femmes" : 156,
+				"Pop1030_Femme" : 156,
 				"DensityPopulation (hab/km2)" : 75736.76673342525
 			}
 		},
@@ -2339,7 +2339,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 421,
-				"Pop1030_Femmes" : 218,
+				"Pop1030_Femme" : 218,
 				"DensityPopulation (hab/km2)" : 56884.43541860054
 			}
 		},
@@ -2483,7 +2483,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 81,
 				"Pop1030_de 70 ans et plus" : 46,
 				"Pop1030_Population" : 735,
-				"Pop1030_Femmes" : 369,
+				"Pop1030_Femme" : 369,
 				"DensityPopulation (hab/km2)" : 74952.42815274387
 			}
 		},
@@ -2610,7 +2610,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 474,
-				"Pop1030_Femmes" : 231,
+				"Pop1030_Femme" : 231,
 				"DensityPopulation (hab/km2)" : 40476.66827491685
 			}
 		},
@@ -2731,7 +2731,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 296,
-				"Pop1030_Femmes" : 146,
+				"Pop1030_Femme" : 146,
 				"DensityPopulation (hab/km2)" : 18560.646913790813
 			}
 		},
@@ -2805,7 +2805,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 223,
-				"Pop1030_Femmes" : 114,
+				"Pop1030_Femme" : 114,
 				"DensityPopulation (hab/km2)" : 73850.84117101603
 			}
 		},
@@ -2887,7 +2887,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 323,
-				"Pop1030_Femmes" : 174,
+				"Pop1030_Femme" : 174,
 				"DensityPopulation (hab/km2)" : 48871.27035042063
 			}
 		},
@@ -2981,7 +2981,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 294,
-				"Pop1030_Femmes" : 147,
+				"Pop1030_Femme" : 147,
 				"DensityPopulation (hab/km2)" : 40776.81214094907
 			}
 		},
@@ -3023,7 +3023,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 1,
 				"Pop1030_Population" : 53,
-				"Pop1030_Femmes" : 24,
+				"Pop1030_Femme" : 24,
 				"DensityPopulation (hab/km2)" : 27482.21434053056
 			}
 		},
@@ -3136,7 +3136,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 530,
-				"Pop1030_Femmes" : 278,
+				"Pop1030_Femme" : 278,
 				"DensityPopulation (hab/km2)" : 33862.54744749868
 			}
 		},
@@ -3206,7 +3206,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 204,
-				"Pop1030_Femmes" : 105,
+				"Pop1030_Femme" : 105,
 				"DensityPopulation (hab/km2)" : 83105.20140789988
 			}
 		},
@@ -3323,7 +3323,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 39,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 405,
-				"Pop1030_Femmes" : 212,
+				"Pop1030_Femme" : 212,
 				"DensityPopulation (hab/km2)" : 30690.978974027093
 			}
 		},
@@ -3449,7 +3449,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 371,
-				"Pop1030_Femmes" : 182,
+				"Pop1030_Femme" : 182,
 				"DensityPopulation (hab/km2)" : 20408.601097663683
 			}
 		},
@@ -3558,7 +3558,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 398,
-				"Pop1030_Femmes" : 201,
+				"Pop1030_Femme" : 201,
 				"DensityPopulation (hab/km2)" : 37102.25773763856
 			}
 		},
@@ -3682,7 +3682,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 51,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 364,
-				"Pop1030_Femmes" : 170,
+				"Pop1030_Femme" : 170,
 				"DensityPopulation (hab/km2)" : 45231.269718783275
 			}
 		},
@@ -3756,7 +3756,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 284,
-				"Pop1030_Femmes" : 145,
+				"Pop1030_Femme" : 145,
 				"DensityPopulation (hab/km2)" : 49787.090067300225
 			}
 		},
@@ -3817,7 +3817,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 34,
-				"Pop1030_Femmes" : 16,
+				"Pop1030_Femme" : 16,
 				"DensityPopulation (hab/km2)" : 14587.516518217235
 			}
 		},
@@ -3947,7 +3947,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 499,
-				"Pop1030_Femmes" : 254,
+				"Pop1030_Femme" : 254,
 				"DensityPopulation (hab/km2)" : 40486.05989502833
 			}
 		},
@@ -4048,7 +4048,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 167,
-				"Pop1030_Femmes" : 99,
+				"Pop1030_Femme" : 99,
 				"DensityPopulation (hab/km2)" : 53007.963891101965
 			}
 		},
@@ -4128,7 +4128,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 270,
-				"Pop1030_Femmes" : 152,
+				"Pop1030_Femme" : 152,
 				"DensityPopulation (hab/km2)" : 45672.450716042535
 			}
 		},
@@ -4276,7 +4276,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 61,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 702,
-				"Pop1030_Femmes" : 370,
+				"Pop1030_Femme" : 370,
 				"DensityPopulation (hab/km2)" : 36180.270517099554
 			}
 		},
@@ -4408,7 +4408,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 48,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 604,
-				"Pop1030_Femmes" : 310,
+				"Pop1030_Femme" : 310,
 				"DensityPopulation (hab/km2)" : 34366.84214239708
 			}
 		},
@@ -4533,7 +4533,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 39,
 				"Pop1030_de 70 ans et plus" : 36,
 				"Pop1030_Population" : 474,
-				"Pop1030_Femmes" : 239,
+				"Pop1030_Femme" : 239,
 				"DensityPopulation (hab/km2)" : 48963.95777530089
 			}
 		},
@@ -4612,7 +4612,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 260,
-				"Pop1030_Femmes" : 133,
+				"Pop1030_Femme" : 133,
 				"DensityPopulation (hab/km2)" : 56699.85061770126
 			}
 		},
@@ -4666,7 +4666,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 1,
 				"Pop1030_Population" : 28,
-				"Pop1030_Femmes" : 9,
+				"Pop1030_Femme" : 9,
 				"DensityPopulation (hab/km2)" : 6199.861388813235
 			}
 		},
@@ -4742,7 +4742,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 248,
-				"Pop1030_Femmes" : 138,
+				"Pop1030_Femme" : 138,
 				"DensityPopulation (hab/km2)" : 61232.75359742428
 			}
 		},
@@ -4836,7 +4836,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 36,
 				"Pop1030_Population" : 310,
-				"Pop1030_Femmes" : 159,
+				"Pop1030_Femme" : 159,
 				"DensityPopulation (hab/km2)" : 42863.443980935444
 			}
 		},
@@ -4994,7 +4994,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 51,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 705,
-				"Pop1030_Femmes" : 366,
+				"Pop1030_Femme" : 366,
 				"DensityPopulation (hab/km2)" : 27919.266194560456
 			}
 		},
@@ -5110,7 +5110,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 382,
-				"Pop1030_Femmes" : 197,
+				"Pop1030_Femme" : 197,
 				"DensityPopulation (hab/km2)" : 23096.307976569944
 			}
 		},
@@ -5206,7 +5206,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 420,
-				"Pop1030_Femmes" : 209,
+				"Pop1030_Femme" : 209,
 				"DensityPopulation (hab/km2)" : 55109.21465432745
 			}
 		},
@@ -5305,7 +5305,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 289,
-				"Pop1030_Femmes" : 152,
+				"Pop1030_Femme" : 152,
 				"DensityPopulation (hab/km2)" : 39329.09196067091
 			}
 		},
@@ -5399,7 +5399,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 295,
-				"Pop1030_Femmes" : 159,
+				"Pop1030_Femme" : 159,
 				"DensityPopulation (hab/km2)" : 40871.06633304793
 			}
 		},
@@ -5464,7 +5464,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 175,
-				"Pop1030_Femmes" : 83,
+				"Pop1030_Femme" : 83,
 				"DensityPopulation (hab/km2)" : 56515.60315066414
 			}
 		},
@@ -5588,7 +5588,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 46,
 				"Pop1030_de 70 ans et plus" : 39,
 				"Pop1030_Population" : 519,
-				"Pop1030_Femmes" : 269,
+				"Pop1030_Femme" : 269,
 				"DensityPopulation (hab/km2)" : 37618.31830895874
 			}
 		},
@@ -5693,7 +5693,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 38,
 				"Pop1030_Population" : 428,
-				"Pop1030_Femmes" : 217,
+				"Pop1030_Femme" : 217,
 				"DensityPopulation (hab/km2)" : 38927.28056564613
 			}
 		},
@@ -5815,7 +5815,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 522,
-				"Pop1030_Femmes" : 257,
+				"Pop1030_Femme" : 257,
 				"DensityPopulation (hab/km2)" : 46626.29294174393
 			}
 		},
@@ -5887,7 +5887,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 287,
-				"Pop1030_Femmes" : 140,
+				"Pop1030_Femme" : 140,
 				"DensityPopulation (hab/km2)" : 74178.03244707384
 			}
 		},
@@ -6006,7 +6006,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 424,
-				"Pop1030_Femmes" : 224,
+				"Pop1030_Femme" : 224,
 				"DensityPopulation (hab/km2)" : 37063.1962461276
 			}
 		},
@@ -6186,7 +6186,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 67,
 				"Pop1030_de 70 ans et plus" : 42,
 				"Pop1030_Population" : 926,
-				"Pop1030_Femmes" : 466,
+				"Pop1030_Femme" : 466,
 				"DensityPopulation (hab/km2)" : 20165.58427276065
 			}
 		},
@@ -6278,7 +6278,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 300,
-				"Pop1030_Femmes" : 143,
+				"Pop1030_Femme" : 143,
 				"DensityPopulation (hab/km2)" : 37984.58838633871
 			}
 		},
@@ -6377,7 +6377,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 359,
-				"Pop1030_Femmes" : 183,
+				"Pop1030_Femme" : 183,
 				"DensityPopulation (hab/km2)" : 56985.3933262009
 			}
 		},
@@ -6472,7 +6472,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 242,
-				"Pop1030_Femmes" : 125,
+				"Pop1030_Femme" : 125,
 				"DensityPopulation (hab/km2)" : 44580.930046625755
 			}
 		},
@@ -6566,7 +6566,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 314,
-				"Pop1030_Femmes" : 163,
+				"Pop1030_Femme" : 163,
 				"DensityPopulation (hab/km2)" : 37865.90645432817
 			}
 		},
@@ -6660,7 +6660,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 211,
-				"Pop1030_Femmes" : 97,
+				"Pop1030_Femme" : 97,
 				"DensityPopulation (hab/km2)" : 38812.44941505408
 			}
 		},
@@ -6765,7 +6765,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 484,
-				"Pop1030_Femmes" : 239,
+				"Pop1030_Femme" : 239,
 				"DensityPopulation (hab/km2)" : 36841.74870425896
 			}
 		},
@@ -6874,7 +6874,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 181,
-				"Pop1030_Femmes" : 99,
+				"Pop1030_Femme" : 99,
 				"DensityPopulation (hab/km2)" : 37286.068606366236
 			}
 		},
@@ -6968,7 +6968,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 364,
-				"Pop1030_Femmes" : 175,
+				"Pop1030_Femme" : 175,
 				"DensityPopulation (hab/km2)" : 37878.906132116215
 			}
 		},
@@ -7092,7 +7092,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 56,
 				"Pop1030_de 70 ans et plus" : 52,
 				"Pop1030_Population" : 791,
-				"Pop1030_Femmes" : 389,
+				"Pop1030_Femme" : 389,
 				"DensityPopulation (hab/km2)" : 36023.300836460134
 			}
 		},
@@ -7154,7 +7154,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 174,
-				"Pop1030_Femmes" : 92,
+				"Pop1030_Femme" : 92,
 				"DensityPopulation (hab/km2)" : 55602.60117915861
 			}
 		},
@@ -7257,7 +7257,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 34,
 				"Pop1030_Population" : 359,
-				"Pop1030_Femmes" : 169,
+				"Pop1030_Femme" : 169,
 				"DensityPopulation (hab/km2)" : 35928.23959632271
 			}
 		},
@@ -7392,7 +7392,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 481,
-				"Pop1030_Femmes" : 224,
+				"Pop1030_Femme" : 224,
 				"DensityPopulation (hab/km2)" : 20690.601520092467
 			}
 		},
@@ -7486,7 +7486,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 441,
-				"Pop1030_Femmes" : 213,
+				"Pop1030_Femme" : 213,
 				"DensityPopulation (hab/km2)" : 52897.10613246587
 			}
 		},
@@ -7557,7 +7557,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 441,
-				"Pop1030_Femmes" : 214,
+				"Pop1030_Femme" : 214,
 				"DensityPopulation (hab/km2)" : 70696.5291370695
 			}
 		},
@@ -7660,7 +7660,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 243,
-				"Pop1030_Femmes" : 121,
+				"Pop1030_Femme" : 121,
 				"DensityPopulation (hab/km2)" : 29158.85697280667
 			}
 		},
@@ -7758,7 +7758,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 331,
-				"Pop1030_Femmes" : 183,
+				"Pop1030_Femme" : 183,
 				"DensityPopulation (hab/km2)" : 31104.374440285712
 			}
 		},
@@ -7854,7 +7854,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 422,
-				"Pop1030_Femmes" : 206,
+				"Pop1030_Femme" : 206,
 				"DensityPopulation (hab/km2)" : 41724.34249555072
 			}
 		},
@@ -7919,7 +7919,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 46,
-				"Pop1030_Femmes" : 24,
+				"Pop1030_Femme" : 24,
 				"DensityPopulation (hab/km2)" : 43140.638481449525
 			}
 		},
@@ -7988,7 +7988,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 124,
-				"Pop1030_Femmes" : 74,
+				"Pop1030_Femme" : 74,
 				"DensityPopulation (hab/km2)" : 45671.350435535256
 			}
 		},
@@ -8033,7 +8033,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 56,
 				"Pop1030_de 70 ans et plus" : 62,
 				"Pop1030_Population" : 681,
-				"Pop1030_Femmes" : 397,
+				"Pop1030_Femme" : 397,
 				"DensityPopulation (hab/km2)" : 66131.78579127992
 			}
 		},
@@ -8143,7 +8143,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 494,
-				"Pop1030_Femmes" : 258,
+				"Pop1030_Femme" : 258,
 				"DensityPopulation (hab/km2)" : 46436.601818359566
 			}
 		},
@@ -8227,7 +8227,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 88,
-				"Pop1030_Femmes" : 38,
+				"Pop1030_Femme" : 38,
 				"DensityPopulation (hab/km2)" : 17203.527505117072
 			}
 		},
@@ -8303,7 +8303,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 379,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 46321.70238978429
 			}
 		},
@@ -8435,7 +8435,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 98,
-				"Pop1030_Femmes" : 48,
+				"Pop1030_Femme" : 48,
 				"DensityPopulation (hab/km2)" : 9384.13277207282
 			}
 		},
@@ -8541,7 +8541,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 323,
-				"Pop1030_Femmes" : 149,
+				"Pop1030_Femme" : 149,
 				"DensityPopulation (hab/km2)" : 23226.147896631417
 			}
 		},
@@ -8607,7 +8607,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 2,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 32,
-				"Pop1030_Femmes" : 18,
+				"Pop1030_Femme" : 18,
 				"DensityPopulation (hab/km2)" : 14436.784927996536
 			}
 		},
@@ -8690,7 +8690,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 58,
-				"Pop1030_Femmes" : 29,
+				"Pop1030_Femme" : 29,
 				"DensityPopulation (hab/km2)" : 8519.363926662965
 			}
 		},
@@ -8758,7 +8758,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 91,
-				"Pop1030_Femmes" : 45,
+				"Pop1030_Femme" : 45,
 				"DensityPopulation (hab/km2)" : 3818.496376834399
 			}
 		},
@@ -8827,7 +8827,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 244,
-				"Pop1030_Femmes" : 116,
+				"Pop1030_Femme" : 116,
 				"DensityPopulation (hab/km2)" : 47157.04843260794
 			}
 		},
@@ -8905,7 +8905,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 55,
-				"Pop1030_Femmes" : 27,
+				"Pop1030_Femme" : 27,
 				"DensityPopulation (hab/km2)" : 8332.058275930502
 			}
 		},
@@ -9064,7 +9064,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 95,
-				"Pop1030_Femmes" : 42,
+				"Pop1030_Femme" : 42,
 				"DensityPopulation (hab/km2)" : 17392.99190585082
 			}
 		},
@@ -9205,7 +9205,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 94,
-				"Pop1030_Femmes" : 42,
+				"Pop1030_Femme" : 42,
 				"DensityPopulation (hab/km2)" : 9025.565394061947
 			}
 		},
@@ -9256,7 +9256,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 3,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 12,
-				"Pop1030_Femmes" : 7,
+				"Pop1030_Femme" : 7,
 				"DensityPopulation (hab/km2)" : 16141.832905126377
 			}
 		},
@@ -9350,7 +9350,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 286,
-				"Pop1030_Femmes" : 151,
+				"Pop1030_Femme" : 151,
 				"DensityPopulation (hab/km2)" : 39294.6203466445
 			}
 		},
@@ -9439,7 +9439,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 215,
-				"Pop1030_Femmes" : 102,
+				"Pop1030_Femme" : 102,
 				"DensityPopulation (hab/km2)" : 42369.20724257258
 			}
 		},
@@ -9540,7 +9540,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 306,
-				"Pop1030_Femmes" : 158,
+				"Pop1030_Femme" : 158,
 				"DensityPopulation (hab/km2)" : 28865.20139609471
 			}
 		},
@@ -9619,7 +9619,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 174,
-				"Pop1030_Femmes" : 88,
+				"Pop1030_Femme" : 88,
 				"DensityPopulation (hab/km2)" : 48802.925931743215
 			}
 		},
@@ -9705,7 +9705,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 259,
-				"Pop1030_Femmes" : 132,
+				"Pop1030_Femme" : 132,
 				"DensityPopulation (hab/km2)" : 51927.63813453468
 			}
 		},
@@ -9781,7 +9781,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 201,
-				"Pop1030_Femmes" : 93,
+				"Pop1030_Femme" : 93,
 				"DensityPopulation (hab/km2)" : 58308.868749927475
 			}
 		},
@@ -9858,7 +9858,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 240,
-				"Pop1030_Femmes" : 124,
+				"Pop1030_Femme" : 124,
 				"DensityPopulation (hab/km2)" : 56070.83615634418
 			}
 		},
@@ -9971,7 +9971,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 352,
-				"Pop1030_Femmes" : 173,
+				"Pop1030_Femme" : 173,
 				"DensityPopulation (hab/km2)" : 25761.25609542789
 			}
 		},
@@ -10059,7 +10059,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 358,
-				"Pop1030_Femmes" : 181,
+				"Pop1030_Femme" : 181,
 				"DensityPopulation (hab/km2)" : 50687.179400050685
 			}
 		},
@@ -10178,7 +10178,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 382,
-				"Pop1030_Femmes" : 182,
+				"Pop1030_Femme" : 182,
 				"DensityPopulation (hab/km2)" : 27998.76277718409
 			}
 		},
@@ -10290,7 +10290,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 552,
-				"Pop1030_Femmes" : 266,
+				"Pop1030_Femme" : 266,
 				"DensityPopulation (hab/km2)" : 31333.35338970688
 			}
 		},
@@ -10382,7 +10382,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 416,
-				"Pop1030_Femmes" : 197,
+				"Pop1030_Femme" : 197,
 				"DensityPopulation (hab/km2)" : 33414.889224822764
 			}
 		},
@@ -10457,7 +10457,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 168,
-				"Pop1030_Femmes" : 93,
+				"Pop1030_Femme" : 93,
 				"DensityPopulation (hab/km2)" : 36724.20124862285
 			}
 		},
@@ -10557,7 +10557,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 241,
-				"Pop1030_Femmes" : 114,
+				"Pop1030_Femme" : 114,
 				"DensityPopulation (hab/km2)" : 30305.430959575573
 			}
 		},
@@ -10628,7 +10628,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 220,
-				"Pop1030_Femmes" : 104,
+				"Pop1030_Femme" : 104,
 				"DensityPopulation (hab/km2)" : 45929.97766132905
 			}
 		},
@@ -10716,7 +10716,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 195,
-				"Pop1030_Femmes" : 95,
+				"Pop1030_Femme" : 95,
 				"DensityPopulation (hab/km2)" : 21628.264481509497
 			}
 		},
@@ -10806,7 +10806,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 189,
-				"Pop1030_Femmes" : 95,
+				"Pop1030_Femme" : 95,
 				"DensityPopulation (hab/km2)" : 24335.944189567992
 			}
 		},
@@ -10903,7 +10903,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 288,
-				"Pop1030_Femmes" : 145,
+				"Pop1030_Femme" : 145,
 				"DensityPopulation (hab/km2)" : 22939.872046491477
 			}
 		},
@@ -10979,7 +10979,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 140,
-				"Pop1030_Femmes" : 63,
+				"Pop1030_Femme" : 63,
 				"DensityPopulation (hab/km2)" : 15887.390178415391
 			}
 		},
@@ -11066,7 +11066,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 104,
 				"Pop1030_de 70 ans et plus" : 192,
 				"Pop1030_Population" : 868,
-				"Pop1030_Femmes" : 388,
+				"Pop1030_Femme" : 388,
 				"DensityPopulation (hab/km2)" : 22567.08377639868
 			}
 		},
@@ -11196,7 +11196,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 64,
-				"Pop1030_Femmes" : 33,
+				"Pop1030_Femme" : 33,
 				"DensityPopulation (hab/km2)" : 8269.780928334596
 			}
 		},
@@ -11295,7 +11295,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 174,
-				"Pop1030_Femmes" : 80,
+				"Pop1030_Femme" : 80,
 				"DensityPopulation (hab/km2)" : 13250.358673502025
 			}
 		},
@@ -11381,7 +11381,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 160,
-				"Pop1030_Femmes" : 75,
+				"Pop1030_Femme" : 75,
 				"DensityPopulation (hab/km2)" : 8354.35410660887
 			}
 		},
@@ -11470,7 +11470,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 193,
-				"Pop1030_Femmes" : 101,
+				"Pop1030_Femme" : 101,
 				"DensityPopulation (hab/km2)" : 36805.08940013425
 			}
 		},
@@ -11560,7 +11560,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 163,
-				"Pop1030_Femmes" : 76,
+				"Pop1030_Femme" : 76,
 				"DensityPopulation (hab/km2)" : 8462.160643996383
 			}
 		},
@@ -11648,7 +11648,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 252,
-				"Pop1030_Femmes" : 123,
+				"Pop1030_Femme" : 123,
 				"DensityPopulation (hab/km2)" : 36500.685112065796
 			}
 		},
@@ -11748,7 +11748,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 248,
-				"Pop1030_Femmes" : 115,
+				"Pop1030_Femme" : 115,
 				"DensityPopulation (hab/km2)" : 30660.62520476476
 			}
 		},
@@ -11836,7 +11836,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 237,
-				"Pop1030_Femmes" : 114,
+				"Pop1030_Femme" : 114,
 				"DensityPopulation (hab/km2)" : 26729.162531353195
 			}
 		},
@@ -11911,7 +11911,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 222,
-				"Pop1030_Femmes" : 115,
+				"Pop1030_Femme" : 115,
 				"DensityPopulation (hab/km2)" : 54608.65030539026
 			}
 		},
@@ -11998,7 +11998,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 315,
-				"Pop1030_Femmes" : 154,
+				"Pop1030_Femme" : 154,
 				"DensityPopulation (hab/km2)" : 40527.813659545776
 			}
 		},
@@ -12086,7 +12086,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 247,
-				"Pop1030_Femmes" : 130,
+				"Pop1030_Femme" : 130,
 				"DensityPopulation (hab/km2)" : 40648.667151598136
 			}
 		},
@@ -12216,7 +12216,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 459,
-				"Pop1030_Femmes" : 220,
+				"Pop1030_Femme" : 220,
 				"DensityPopulation (hab/km2)" : 28304.609396390333
 			}
 		},
@@ -12314,7 +12314,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 338,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 35288.68861804066
 			}
 		},
@@ -12424,7 +12424,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 267,
-				"Pop1030_Femmes" : 136,
+				"Pop1030_Femme" : 136,
 				"DensityPopulation (hab/km2)" : 19869.146415516687
 			}
 		},
@@ -12528,7 +12528,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 282,
-				"Pop1030_Femmes" : 141,
+				"Pop1030_Femme" : 141,
 				"DensityPopulation (hab/km2)" : 31121.77442673029
 			}
 		},
@@ -12679,7 +12679,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 53,
 				"Pop1030_de 70 ans et plus" : 47,
 				"Pop1030_Population" : 509,
-				"Pop1030_Femmes" : 253,
+				"Pop1030_Femme" : 253,
 				"DensityPopulation (hab/km2)" : 23574.757687154164
 			}
 		},
@@ -12784,7 +12784,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 310,
-				"Pop1030_Femmes" : 160,
+				"Pop1030_Femme" : 160,
 				"DensityPopulation (hab/km2)" : 22154.155762295915
 			}
 		},
@@ -12902,7 +12902,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 394,
-				"Pop1030_Femmes" : 205,
+				"Pop1030_Femme" : 205,
 				"DensityPopulation (hab/km2)" : 28113.137540314525
 			}
 		},
@@ -13016,7 +13016,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 338,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 42413.02506509395
 			}
 		},
@@ -13123,7 +13123,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 379,
-				"Pop1030_Femmes" : 173,
+				"Pop1030_Femme" : 173,
 				"DensityPopulation (hab/km2)" : 29593.815126890313
 			}
 		},
@@ -13203,7 +13203,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 215,
-				"Pop1030_Femmes" : 108,
+				"Pop1030_Femme" : 108,
 				"DensityPopulation (hab/km2)" : 46669.02544221615
 			}
 		},
@@ -13299,7 +13299,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 223,
-				"Pop1030_Femmes" : 106,
+				"Pop1030_Femme" : 106,
 				"DensityPopulation (hab/km2)" : 12766.062196484008
 			}
 		},
@@ -13373,7 +13373,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 181,
-				"Pop1030_Femmes" : 92,
+				"Pop1030_Femme" : 92,
 				"DensityPopulation (hab/km2)" : 47863.591408882
 			}
 		},
@@ -13456,7 +13456,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 287,
-				"Pop1030_Femmes" : 139,
+				"Pop1030_Femme" : 139,
 				"DensityPopulation (hab/km2)" : 38347.451965473934
 			}
 		},
@@ -13566,7 +13566,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 358,
-				"Pop1030_Femmes" : 175,
+				"Pop1030_Femme" : 175,
 				"DensityPopulation (hab/km2)" : 28036.958663498543
 			}
 		},
@@ -13652,7 +13652,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 61,
 				"Pop1030_de 70 ans et plus" : 76,
 				"Pop1030_Population" : 538,
-				"Pop1030_Femmes" : 249,
+				"Pop1030_Femme" : 249,
 				"DensityPopulation (hab/km2)" : 34872.22699356679
 			}
 		},
@@ -13740,7 +13740,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 180,
-				"Pop1030_Femmes" : 91,
+				"Pop1030_Femme" : 91,
 				"DensityPopulation (hab/km2)" : 31355.552807105865
 			}
 		},
@@ -13833,7 +13833,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 271,
-				"Pop1030_Femmes" : 130,
+				"Pop1030_Femme" : 130,
 				"DensityPopulation (hab/km2)" : 25210.967422034384
 			}
 		},
@@ -13959,7 +13959,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 471,
-				"Pop1030_Femmes" : 241,
+				"Pop1030_Femme" : 241,
 				"DensityPopulation (hab/km2)" : 26659.76871094075
 			}
 		},
@@ -14030,7 +14030,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 170,
-				"Pop1030_Femmes" : 81,
+				"Pop1030_Femme" : 81,
 				"DensityPopulation (hab/km2)" : 63520.76942334351
 			}
 		},
@@ -14109,7 +14109,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 29,
 				"Pop1030_Population" : 220,
-				"Pop1030_Femmes" : 106,
+				"Pop1030_Femme" : 106,
 				"DensityPopulation (hab/km2)" : 42673.535812795075
 			}
 		},
@@ -14230,7 +14230,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 408,
-				"Pop1030_Femmes" : 203,
+				"Pop1030_Femme" : 203,
 				"DensityPopulation (hab/km2)" : 32259.67137831818
 			}
 		},
@@ -14359,7 +14359,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 550,
-				"Pop1030_Femmes" : 275,
+				"Pop1030_Femme" : 275,
 				"DensityPopulation (hab/km2)" : 19731.46551693211
 			}
 		},
@@ -14442,7 +14442,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 413,
-				"Pop1030_Femmes" : 201,
+				"Pop1030_Femme" : 201,
 				"DensityPopulation (hab/km2)" : 44131.14536884768
 			}
 		},
@@ -14544,7 +14544,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 356,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 42819.237865677496
 			}
 		},
@@ -14663,7 +14663,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 88,
 				"Pop1030_Population" : 437,
-				"Pop1030_Femmes" : 188,
+				"Pop1030_Femme" : 188,
 				"DensityPopulation (hab/km2)" : 6944.707100224042
 			}
 		},
@@ -14808,7 +14808,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 44,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 473,
-				"Pop1030_Femmes" : 238,
+				"Pop1030_Femme" : 238,
 				"DensityPopulation (hab/km2)" : 20730.157338826313
 			}
 		},
@@ -14889,7 +14889,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 44,
 				"Pop1030_de 70 ans et plus" : 51,
 				"Pop1030_Population" : 637,
-				"Pop1030_Femmes" : 295,
+				"Pop1030_Femme" : 295,
 				"DensityPopulation (hab/km2)" : 57425.36055373553
 			}
 		},
@@ -14968,7 +14968,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 70,
 				"Pop1030_de 70 ans et plus" : 74,
 				"Pop1030_Population" : 550,
-				"Pop1030_Femmes" : 249,
+				"Pop1030_Femme" : 249,
 				"DensityPopulation (hab/km2)" : 55994.233612014934
 			}
 		},
@@ -15074,7 +15074,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 387,
-				"Pop1030_Femmes" : 195,
+				"Pop1030_Femme" : 195,
 				"DensityPopulation (hab/km2)" : 28025.28213565685
 			}
 		},
@@ -15200,7 +15200,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 40,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 479,
-				"Pop1030_Femmes" : 237,
+				"Pop1030_Femme" : 237,
 				"DensityPopulation (hab/km2)" : 27038.469137196244
 			}
 		},
@@ -15290,7 +15290,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 149,
-				"Pop1030_Femmes" : 76,
+				"Pop1030_Femme" : 76,
 				"DensityPopulation (hab/km2)" : 38621.34749622211
 			}
 		},
@@ -15397,7 +15397,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 38,
 				"Pop1030_Population" : 489,
-				"Pop1030_Femmes" : 252,
+				"Pop1030_Femme" : 252,
 				"DensityPopulation (hab/km2)" : 29277.247148461985
 			}
 		},
@@ -15452,7 +15452,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 107,
-				"Pop1030_Femmes" : 56,
+				"Pop1030_Femme" : 56,
 				"DensityPopulation (hab/km2)" : 82198.30533213493
 			}
 		},
@@ -15574,7 +15574,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 45,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 380,
-				"Pop1030_Femmes" : 184,
+				"Pop1030_Femme" : 184,
 				"DensityPopulation (hab/km2)" : 16302.02329559129
 			}
 		},
@@ -15675,7 +15675,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 29,
 				"Pop1030_Population" : 307,
-				"Pop1030_Femmes" : 132,
+				"Pop1030_Femme" : 132,
 				"DensityPopulation (hab/km2)" : 15813.982238889004
 			}
 		},
@@ -15810,7 +15810,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 43,
 				"Pop1030_Population" : 416,
-				"Pop1030_Femmes" : 180,
+				"Pop1030_Femme" : 180,
 				"DensityPopulation (hab/km2)" : 14545.637637396834
 			}
 		},
@@ -15909,7 +15909,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 296,
-				"Pop1030_Femmes" : 141,
+				"Pop1030_Femme" : 141,
 				"DensityPopulation (hab/km2)" : 36638.69665263421
 			}
 		},
@@ -15988,7 +15988,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 151,
-				"Pop1030_Femmes" : 72,
+				"Pop1030_Femme" : 72,
 				"DensityPopulation (hab/km2)" : 29260.10684783388
 			}
 		},
@@ -16154,7 +16154,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 37,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 442,
-				"Pop1030_Femmes" : 214,
+				"Pop1030_Femme" : 214,
 				"DensityPopulation (hab/km2)" : 16831.240915604274
 			}
 		},
@@ -16252,7 +16252,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 262,
-				"Pop1030_Femmes" : 131,
+				"Pop1030_Femme" : 131,
 				"DensityPopulation (hab/km2)" : 16623.637670685737
 			}
 		},
@@ -16375,7 +16375,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 39,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 450,
-				"Pop1030_Femmes" : 205,
+				"Pop1030_Femme" : 205,
 				"DensityPopulation (hab/km2)" : 13572.77313773258
 			}
 		},
@@ -16463,7 +16463,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 48,
 				"Pop1030_Population" : 535,
-				"Pop1030_Femmes" : 254,
+				"Pop1030_Femme" : 254,
 				"DensityPopulation (hab/km2)" : 39466.76345244919
 			}
 		},
@@ -16540,7 +16540,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 284,
-				"Pop1030_Femmes" : 129,
+				"Pop1030_Femme" : 129,
 				"DensityPopulation (hab/km2)" : 25184.11449904451
 			}
 		},
@@ -16616,7 +16616,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 160,
-				"Pop1030_Femmes" : 82,
+				"Pop1030_Femme" : 82,
 				"DensityPopulation (hab/km2)" : 36153.535024866855
 			}
 		},
@@ -16702,7 +16702,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 216,
-				"Pop1030_Femmes" : 93,
+				"Pop1030_Femme" : 93,
 				"DensityPopulation (hab/km2)" : 11456.309031814593
 			}
 		},
@@ -16776,7 +16776,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 260,
-				"Pop1030_Femmes" : 119,
+				"Pop1030_Femme" : 119,
 				"DensityPopulation (hab/km2)" : 44105.92206822847
 			}
 		},
@@ -16840,7 +16840,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 44,
 				"Pop1030_Population" : 490,
-				"Pop1030_Femmes" : 218,
+				"Pop1030_Femme" : 218,
 				"DensityPopulation (hab/km2)" : 58191.73344860839
 			}
 		},
@@ -16916,7 +16916,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 136,
-				"Pop1030_Femmes" : 61,
+				"Pop1030_Femme" : 61,
 				"DensityPopulation (hab/km2)" : 31798.658377192878
 			}
 		},
@@ -17000,7 +17000,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 192,
-				"Pop1030_Femmes" : 78,
+				"Pop1030_Femme" : 78,
 				"DensityPopulation (hab/km2)" : 26562.004988676563
 			}
 		},
@@ -17108,7 +17108,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 200,
-				"Pop1030_Femmes" : 93,
+				"Pop1030_Femme" : 93,
 				"DensityPopulation (hab/km2)" : 16087.179643926365
 			}
 		},
@@ -17225,7 +17225,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 408,
-				"Pop1030_Femmes" : 193,
+				"Pop1030_Femme" : 193,
 				"DensityPopulation (hab/km2)" : 23167.48330152536
 			}
 		},
@@ -17346,7 +17346,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 369,
-				"Pop1030_Femmes" : 190,
+				"Pop1030_Femme" : 190,
 				"DensityPopulation (hab/km2)" : 25160.52620274475
 			}
 		},
@@ -17469,7 +17469,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 48,
 				"Pop1030_de 70 ans et plus" : 36,
 				"Pop1030_Population" : 518,
-				"Pop1030_Femmes" : 255,
+				"Pop1030_Femme" : 255,
 				"DensityPopulation (hab/km2)" : 13541.449907614895
 			}
 		},
@@ -17577,7 +17577,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 301,
-				"Pop1030_Femmes" : 148,
+				"Pop1030_Femme" : 148,
 				"DensityPopulation (hab/km2)" : 16490.09662867918
 			}
 		},
@@ -17654,7 +17654,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 5,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 89,
-				"Pop1030_Femmes" : 39,
+				"Pop1030_Femme" : 39,
 				"DensityPopulation (hab/km2)" : 29475.957223431065
 			}
 		},
@@ -17740,7 +17740,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 176,
-				"Pop1030_Femmes" : 80,
+				"Pop1030_Femme" : 80,
 				"DensityPopulation (hab/km2)" : 31171.57294236624
 			}
 		},
@@ -17856,7 +17856,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 295,
-				"Pop1030_Femmes" : 132,
+				"Pop1030_Femme" : 132,
 				"DensityPopulation (hab/km2)" : 14676.908993213796
 			}
 		},
@@ -17980,7 +17980,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 39,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 541,
-				"Pop1030_Femmes" : 267,
+				"Pop1030_Femme" : 267,
 				"DensityPopulation (hab/km2)" : 24763.72613058311
 			}
 		},
@@ -18078,7 +18078,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 267,
-				"Pop1030_Femmes" : 130,
+				"Pop1030_Femme" : 130,
 				"DensityPopulation (hab/km2)" : 31327.218072636908
 			}
 		},
@@ -18203,7 +18203,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 49,
 				"Pop1030_de 70 ans et plus" : 43,
 				"Pop1030_Population" : 624,
-				"Pop1030_Femmes" : 309,
+				"Pop1030_Femme" : 309,
 				"DensityPopulation (hab/km2)" : 31957.68474768281
 			}
 		},
@@ -18257,7 +18257,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 116,
-				"Pop1030_Femmes" : 55,
+				"Pop1030_Femme" : 55,
 				"DensityPopulation (hab/km2)" : 9998.396808787556
 			}
 		},
@@ -18316,7 +18316,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 4,
 				"Pop1030_de 70 ans et plus" : 1,
 				"Pop1030_Population" : 67,
-				"Pop1030_Femmes" : 27,
+				"Pop1030_Femme" : 27,
 				"DensityPopulation (hab/km2)" : 7735.496809396204
 			}
 		},
@@ -18407,7 +18407,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 307,
-				"Pop1030_Femmes" : 148,
+				"Pop1030_Femme" : 148,
 				"DensityPopulation (hab/km2)" : 54665.82620184689
 			}
 		},
@@ -18503,7 +18503,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 377,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 37392.11333876858
 			}
 		},
@@ -18635,7 +18635,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 36,
 				"Pop1030_de 70 ans et plus" : 42,
 				"Pop1030_Population" : 410,
-				"Pop1030_Femmes" : 199,
+				"Pop1030_Femme" : 199,
 				"DensityPopulation (hab/km2)" : 23458.3836830349
 			}
 		},
@@ -18792,7 +18792,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 47,
 				"Pop1030_de 70 ans et plus" : 53,
 				"Pop1030_Population" : 614,
-				"Pop1030_Femmes" : 331,
+				"Pop1030_Femme" : 331,
 				"DensityPopulation (hab/km2)" : 44284.99921383308
 			}
 		},
@@ -18872,7 +18872,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 244,
-				"Pop1030_Femmes" : 132,
+				"Pop1030_Femme" : 132,
 				"DensityPopulation (hab/km2)" : 51342.3715546428
 			}
 		},
@@ -18992,7 +18992,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 67,
 				"Pop1030_de 70 ans et plus" : 124,
 				"Pop1030_Population" : 956,
-				"Pop1030_Femmes" : 453,
+				"Pop1030_Femme" : 453,
 				"DensityPopulation (hab/km2)" : 26200.552623371444
 			}
 		},
@@ -19055,7 +19055,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 252,
-				"Pop1030_Femmes" : 125,
+				"Pop1030_Femme" : 125,
 				"DensityPopulation (hab/km2)" : 71277.65191049562
 			}
 		},
@@ -19142,7 +19142,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 37,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 336,
-				"Pop1030_Femmes" : 168,
+				"Pop1030_Femme" : 168,
 				"DensityPopulation (hab/km2)" : 49763.62279173924
 			}
 		},
@@ -19210,7 +19210,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 180,
-				"Pop1030_Femmes" : 101,
+				"Pop1030_Femme" : 101,
 				"DensityPopulation (hab/km2)" : 86160.68009496822
 			}
 		},
@@ -19318,7 +19318,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 41,
 				"Pop1030_Population" : 639,
-				"Pop1030_Femmes" : 327,
+				"Pop1030_Femme" : 327,
 				"DensityPopulation (hab/km2)" : 36071.94065911734
 			}
 		},
@@ -19378,7 +19378,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 187,
-				"Pop1030_Femmes" : 81,
+				"Pop1030_Femme" : 81,
 				"DensityPopulation (hab/km2)" : 65871.97587747108
 			}
 		},
@@ -19493,7 +19493,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 29,
 				"Pop1030_Population" : 531,
-				"Pop1030_Femmes" : 255,
+				"Pop1030_Femme" : 255,
 				"DensityPopulation (hab/km2)" : 23579.449200052753
 			}
 		},
@@ -19568,7 +19568,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 185,
-				"Pop1030_Femmes" : 101,
+				"Pop1030_Femme" : 101,
 				"DensityPopulation (hab/km2)" : 17881.047539422878
 			}
 		},
@@ -19635,7 +19635,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 121,
-				"Pop1030_Femmes" : 63,
+				"Pop1030_Femme" : 63,
 				"DensityPopulation (hab/km2)" : 12586.925201416809
 			}
 		},
@@ -19736,7 +19736,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 44,
 				"Pop1030_de 70 ans et plus" : 46,
 				"Pop1030_Population" : 535,
-				"Pop1030_Femmes" : 276,
+				"Pop1030_Femme" : 276,
 				"DensityPopulation (hab/km2)" : 34252.14444033276
 			}
 		},
@@ -19862,7 +19862,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 47,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 581,
-				"Pop1030_Femmes" : 291,
+				"Pop1030_Femme" : 291,
 				"DensityPopulation (hab/km2)" : 22900.08036706346
 			}
 		},
@@ -19981,7 +19981,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 29,
 				"Pop1030_Population" : 501,
-				"Pop1030_Femmes" : 262,
+				"Pop1030_Femme" : 262,
 				"DensityPopulation (hab/km2)" : 28875.831044688373
 			}
 		},
@@ -20093,7 +20093,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 399,
-				"Pop1030_Femmes" : 221,
+				"Pop1030_Femme" : 221,
 				"DensityPopulation (hab/km2)" : 27936.266104487237
 			}
 		},
@@ -20173,7 +20173,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 334,
-				"Pop1030_Femmes" : 170,
+				"Pop1030_Femme" : 170,
 				"DensityPopulation (hab/km2)" : 68431.8253062529
 			}
 		},
@@ -20240,7 +20240,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 153,
-				"Pop1030_Femmes" : 81,
+				"Pop1030_Femme" : 81,
 				"DensityPopulation (hab/km2)" : 38723.78551578564
 			}
 		},
@@ -20339,7 +20339,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 48,
 				"Pop1030_de 70 ans et plus" : 60,
 				"Pop1030_Population" : 457,
-				"Pop1030_Femmes" : 211,
+				"Pop1030_Femme" : 211,
 				"DensityPopulation (hab/km2)" : 21009.92937537526
 			}
 		},
@@ -20434,7 +20434,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 274,
-				"Pop1030_Femmes" : 132,
+				"Pop1030_Femme" : 132,
 				"DensityPopulation (hab/km2)" : 37760.551248923344
 			}
 		},
@@ -20550,7 +20550,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 356,
-				"Pop1030_Femmes" : 171,
+				"Pop1030_Femme" : 171,
 				"DensityPopulation (hab/km2)" : 29770.740212660094
 			}
 		},
@@ -20621,7 +20621,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 216,
-				"Pop1030_Femmes" : 97,
+				"Pop1030_Femme" : 97,
 				"DensityPopulation (hab/km2)" : 54695.45268083684
 			}
 		},
@@ -20716,7 +20716,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 283,
-				"Pop1030_Femmes" : 145,
+				"Pop1030_Femme" : 145,
 				"DensityPopulation (hab/km2)" : 65338.80363034399
 			}
 		},
@@ -20857,7 +20857,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 46,
 				"Pop1030_de 70 ans et plus" : 39,
 				"Pop1030_Population" : 654,
-				"Pop1030_Femmes" : 313,
+				"Pop1030_Femme" : 313,
 				"DensityPopulation (hab/km2)" : 23779.526700154347
 			}
 		},
@@ -20974,7 +20974,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 347,
-				"Pop1030_Femmes" : 179,
+				"Pop1030_Femme" : 179,
 				"DensityPopulation (hab/km2)" : 48129.936959491795
 			}
 		},
@@ -21110,7 +21110,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 56,
 				"Pop1030_de 70 ans et plus" : 41,
 				"Pop1030_Population" : 770,
-				"Pop1030_Femmes" : 383,
+				"Pop1030_Femme" : 383,
 				"DensityPopulation (hab/km2)" : 42190.92544425127
 			}
 		},
@@ -21187,7 +21187,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 134,
-				"Pop1030_Femmes" : 68,
+				"Pop1030_Femme" : 68,
 				"DensityPopulation (hab/km2)" : 7799.976017984183
 			}
 		},
@@ -21299,7 +21299,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 399,
-				"Pop1030_Femmes" : 202,
+				"Pop1030_Femme" : 202,
 				"DensityPopulation (hab/km2)" : 22798.332464825427
 			}
 		},
@@ -21357,7 +21357,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 138,
-				"Pop1030_Femmes" : 75,
+				"Pop1030_Femme" : 75,
 				"DensityPopulation (hab/km2)" : 77995.62546274578
 			}
 		},
@@ -21425,7 +21425,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 126,
-				"Pop1030_Femmes" : 62,
+				"Pop1030_Femme" : 62,
 				"DensityPopulation (hab/km2)" : 37767.97275910028
 			}
 		},
@@ -21504,7 +21504,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 197,
-				"Pop1030_Femmes" : 94,
+				"Pop1030_Femme" : 94,
 				"DensityPopulation (hab/km2)" : 41348.85419596419
 			}
 		},
@@ -21590,7 +21590,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 258,
-				"Pop1030_Femmes" : 143,
+				"Pop1030_Femme" : 143,
 				"DensityPopulation (hab/km2)" : 41838.7650753341
 			}
 		},
@@ -21700,7 +21700,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 39,
 				"Pop1030_de 70 ans et plus" : 39,
 				"Pop1030_Population" : 478,
-				"Pop1030_Femmes" : 232,
+				"Pop1030_Femme" : 232,
 				"DensityPopulation (hab/km2)" : 42268.1551895656
 			}
 		},
@@ -21809,7 +21809,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 345,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 35186.45250185876
 			}
 		},
@@ -21886,7 +21886,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 315,
-				"Pop1030_Femmes" : 162,
+				"Pop1030_Femme" : 162,
 				"DensityPopulation (hab/km2)" : 75806.98338744107
 			}
 		},
@@ -22010,7 +22010,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 485,
-				"Pop1030_Femmes" : 263,
+				"Pop1030_Femme" : 263,
 				"DensityPopulation (hab/km2)" : 20428.897328152958
 			}
 		},
@@ -22098,7 +22098,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 284,
-				"Pop1030_Femmes" : 150,
+				"Pop1030_Femme" : 150,
 				"DensityPopulation (hab/km2)" : 46371.738058461044
 			}
 		},
@@ -22201,7 +22201,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 234,
-				"Pop1030_Femmes" : 115,
+				"Pop1030_Femme" : 115,
 				"DensityPopulation (hab/km2)" : 19078.772501129235
 			}
 		},
@@ -22290,7 +22290,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 233,
-				"Pop1030_Femmes" : 113,
+				"Pop1030_Femme" : 113,
 				"DensityPopulation (hab/km2)" : 55224.78621134265
 			}
 		},
@@ -22372,7 +22372,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 208,
-				"Pop1030_Femmes" : 104,
+				"Pop1030_Femme" : 104,
 				"DensityPopulation (hab/km2)" : 40422.96413044957
 			}
 		},
@@ -22480,7 +22480,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 46,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 489,
-				"Pop1030_Femmes" : 243,
+				"Pop1030_Femme" : 243,
 				"DensityPopulation (hab/km2)" : 32323.09878705754
 			}
 		},
@@ -22566,7 +22566,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 228,
-				"Pop1030_Femmes" : 127,
+				"Pop1030_Femme" : 127,
 				"DensityPopulation (hab/km2)" : 21230.038642394895
 			}
 		},
@@ -22706,7 +22706,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 64,
 				"Pop1030_de 70 ans et plus" : 50,
 				"Pop1030_Population" : 697,
-				"Pop1030_Femmes" : 355,
+				"Pop1030_Femme" : 355,
 				"DensityPopulation (hab/km2)" : 16913.095564813677
 			}
 		},
@@ -22788,7 +22788,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 241,
-				"Pop1030_Femmes" : 122,
+				"Pop1030_Femme" : 122,
 				"DensityPopulation (hab/km2)" : 23467.229620512502
 			}
 		},
@@ -22896,7 +22896,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 44,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 376,
-				"Pop1030_Femmes" : 190,
+				"Pop1030_Femme" : 190,
 				"DensityPopulation (hab/km2)" : 33290.42174360355
 			}
 		},
@@ -23017,7 +23017,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 40,
 				"Pop1030_Population" : 527,
-				"Pop1030_Femmes" : 269,
+				"Pop1030_Femme" : 269,
 				"DensityPopulation (hab/km2)" : 38720.1058006686
 			}
 		},
@@ -23114,7 +23114,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 86,
-				"Pop1030_Femmes" : 33,
+				"Pop1030_Femme" : 33,
 				"DensityPopulation (hab/km2)" : 21335.873790863778
 			}
 		},
@@ -23211,7 +23211,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 270,
-				"Pop1030_Femmes" : 130,
+				"Pop1030_Femme" : 130,
 				"DensityPopulation (hab/km2)" : 57807.923539386466
 			}
 		},
@@ -23291,7 +23291,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 206,
-				"Pop1030_Femmes" : 107,
+				"Pop1030_Femme" : 107,
 				"DensityPopulation (hab/km2)" : 52322.64275064705
 			}
 		},
@@ -23388,7 +23388,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 286,
-				"Pop1030_Femmes" : 145,
+				"Pop1030_Femme" : 145,
 				"DensityPopulation (hab/km2)" : 41702.26912836425
 			}
 		},
@@ -23466,7 +23466,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 157,
-				"Pop1030_Femmes" : 70,
+				"Pop1030_Femme" : 70,
 				"DensityPopulation (hab/km2)" : 27319.932065595676
 			}
 		},
@@ -23608,7 +23608,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 50,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 610,
-				"Pop1030_Femmes" : 307,
+				"Pop1030_Femme" : 307,
 				"DensityPopulation (hab/km2)" : 32967.698141270375
 			}
 		},
@@ -23703,7 +23703,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 263,
-				"Pop1030_Femmes" : 138,
+				"Pop1030_Femme" : 138,
 				"DensityPopulation (hab/km2)" : 38895.601543401135
 			}
 		},
@@ -23793,7 +23793,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 310,
-				"Pop1030_Femmes" : 153,
+				"Pop1030_Femme" : 153,
 				"DensityPopulation (hab/km2)" : 37577.89837724089
 			}
 		},
@@ -23877,7 +23877,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 278,
-				"Pop1030_Femmes" : 137,
+				"Pop1030_Femme" : 137,
 				"DensityPopulation (hab/km2)" : 40739.88317325588
 			}
 		},
@@ -23979,7 +23979,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 34,
 				"Pop1030_Population" : 417,
-				"Pop1030_Femmes" : 208,
+				"Pop1030_Femme" : 208,
 				"DensityPopulation (hab/km2)" : 48855.298105187685
 			}
 		},
@@ -24110,7 +24110,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 51,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 682,
-				"Pop1030_Femmes" : 360,
+				"Pop1030_Femme" : 360,
 				"DensityPopulation (hab/km2)" : 42809.34775376465
 			}
 		},
@@ -24185,7 +24185,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 291,
-				"Pop1030_Femmes" : 148,
+				"Pop1030_Femme" : 148,
 				"DensityPopulation (hab/km2)" : 63533.23377610103
 			}
 		},
@@ -24262,7 +24262,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 171,
-				"Pop1030_Femmes" : 84,
+				"Pop1030_Femme" : 84,
 				"DensityPopulation (hab/km2)" : 26097.586660012545
 			}
 		},
@@ -24345,7 +24345,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 410,
-				"Pop1030_Femmes" : 211,
+				"Pop1030_Femme" : 211,
 				"DensityPopulation (hab/km2)" : 60295.802382713635
 			}
 		},
@@ -24482,7 +24482,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 73,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 701,
-				"Pop1030_Femmes" : 360,
+				"Pop1030_Femme" : 360,
 				"DensityPopulation (hab/km2)" : 54540.305363467174
 			}
 		},
@@ -24582,7 +24582,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 352,
-				"Pop1030_Femmes" : 183,
+				"Pop1030_Femme" : 183,
 				"DensityPopulation (hab/km2)" : 53088.72302014506
 			}
 		},
@@ -24679,7 +24679,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 356,
-				"Pop1030_Femmes" : 197,
+				"Pop1030_Femme" : 197,
 				"DensityPopulation (hab/km2)" : 43971.95182353907
 			}
 		},
@@ -24811,7 +24811,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 63,
 				"Pop1030_de 70 ans et plus" : 48,
 				"Pop1030_Population" : 643,
-				"Pop1030_Femmes" : 330,
+				"Pop1030_Femme" : 330,
 				"DensityPopulation (hab/km2)" : 40845.65108158395
 			}
 		},
@@ -24916,7 +24916,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 259,
-				"Pop1030_Femmes" : 128,
+				"Pop1030_Femme" : 128,
 				"DensityPopulation (hab/km2)" : 17254.680415338145
 			}
 		},
@@ -24995,7 +24995,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 532,
-				"Pop1030_Femmes" : 266,
+				"Pop1030_Femme" : 266,
 				"DensityPopulation (hab/km2)" : 69481.99345406482
 			}
 		},
@@ -25086,7 +25086,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 74,
 				"Pop1030_de 70 ans et plus" : 61,
 				"Pop1030_Population" : 583,
-				"Pop1030_Femmes" : 278,
+				"Pop1030_Femme" : 278,
 				"DensityPopulation (hab/km2)" : 36526.71650506362
 			}
 		},
@@ -25173,7 +25173,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 254,
-				"Pop1030_Femmes" : 151,
+				"Pop1030_Femme" : 151,
 				"DensityPopulation (hab/km2)" : 32769.50011030678
 			}
 		},
@@ -25283,7 +25283,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 55,
 				"Pop1030_de 70 ans et plus" : 59,
 				"Pop1030_Population" : 495,
-				"Pop1030_Femmes" : 253,
+				"Pop1030_Femme" : 253,
 				"DensityPopulation (hab/km2)" : 42386.306226077424
 			}
 		},
@@ -25378,7 +25378,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 327,
-				"Pop1030_Femmes" : 175,
+				"Pop1030_Femme" : 175,
 				"DensityPopulation (hab/km2)" : 31474.599420751867
 			}
 		},
@@ -25469,7 +25469,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 32,
 				"Pop1030_Population" : 464,
-				"Pop1030_Femmes" : 236,
+				"Pop1030_Femme" : 236,
 				"DensityPopulation (hab/km2)" : 36468.010324219475
 			}
 		},
@@ -25542,7 +25542,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 282,
-				"Pop1030_Femmes" : 137,
+				"Pop1030_Femme" : 137,
 				"DensityPopulation (hab/km2)" : 69574.3137554833
 			}
 		},
@@ -25629,7 +25629,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 342,
-				"Pop1030_Femmes" : 180,
+				"Pop1030_Femme" : 180,
 				"DensityPopulation (hab/km2)" : 46375.89971957497
 			}
 		},
@@ -25718,7 +25718,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 30,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 458,
-				"Pop1030_Femmes" : 242,
+				"Pop1030_Femme" : 242,
 				"DensityPopulation (hab/km2)" : 56706.11745099811
 			}
 		},
@@ -25797,7 +25797,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 285,
-				"Pop1030_Femmes" : 143,
+				"Pop1030_Femme" : 143,
 				"DensityPopulation (hab/km2)" : 51803.67678868099
 			}
 		},
@@ -25878,7 +25878,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 202,
-				"Pop1030_Femmes" : 95,
+				"Pop1030_Femme" : 95,
 				"DensityPopulation (hab/km2)" : 62675.110224420336
 			}
 		},
@@ -25940,7 +25940,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 157,
-				"Pop1030_Femmes" : 79,
+				"Pop1030_Femme" : 79,
 				"DensityPopulation (hab/km2)" : 79386.74999747176
 			}
 		},
@@ -26034,7 +26034,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 34,
 				"Pop1030_Population" : 510,
-				"Pop1030_Femmes" : 244,
+				"Pop1030_Femme" : 244,
 				"DensityPopulation (hab/km2)" : 60060.272249681155
 			}
 		},
@@ -26128,7 +26128,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 278,
-				"Pop1030_Femmes" : 150,
+				"Pop1030_Femme" : 150,
 				"DensityPopulation (hab/km2)" : 48323.11826648635
 			}
 		},
@@ -26224,7 +26224,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 265,
-				"Pop1030_Femmes" : 125,
+				"Pop1030_Femme" : 125,
 				"DensityPopulation (hab/km2)" : 21441.621342585328
 			}
 		},
@@ -26342,7 +26342,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 596,
-				"Pop1030_Femmes" : 302,
+				"Pop1030_Femme" : 302,
 				"DensityPopulation (hab/km2)" : 34810.42046432195
 			}
 		},
@@ -26430,7 +26430,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 296,
-				"Pop1030_Femmes" : 153,
+				"Pop1030_Femme" : 153,
 				"DensityPopulation (hab/km2)" : 19159.865777372717
 			}
 		},
@@ -26526,7 +26526,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 297,
-				"Pop1030_Femmes" : 154,
+				"Pop1030_Femme" : 154,
 				"DensityPopulation (hab/km2)" : 33713.91079094878
 			}
 		},
@@ -26630,7 +26630,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 34,
 				"Pop1030_Population" : 352,
-				"Pop1030_Femmes" : 188,
+				"Pop1030_Femme" : 188,
 				"DensityPopulation (hab/km2)" : 33055.088370712816
 			}
 		},
@@ -26721,7 +26721,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 207,
-				"Pop1030_Femmes" : 117,
+				"Pop1030_Femme" : 117,
 				"DensityPopulation (hab/km2)" : 27453.253210505445
 			}
 		},
@@ -26834,7 +26834,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 363,
-				"Pop1030_Femmes" : 183,
+				"Pop1030_Femme" : 183,
 				"DensityPopulation (hab/km2)" : 42632.40415049356
 			}
 		},
@@ -26975,7 +26975,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 522,
-				"Pop1030_Femmes" : 276,
+				"Pop1030_Femme" : 276,
 				"DensityPopulation (hab/km2)" : 11327.994708394195
 			}
 		},
@@ -27045,7 +27045,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 167,
-				"Pop1030_Femmes" : 102,
+				"Pop1030_Femme" : 102,
 				"DensityPopulation (hab/km2)" : 40783.33304841983
 			}
 		},
@@ -27109,7 +27109,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 117,
-				"Pop1030_Femmes" : 70,
+				"Pop1030_Femme" : 70,
 				"DensityPopulation (hab/km2)" : 35545.995606879515
 			}
 		},
@@ -27193,7 +27193,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 198,
-				"Pop1030_Femmes" : 105,
+				"Pop1030_Femme" : 105,
 				"DensityPopulation (hab/km2)" : 33271.271769157865
 			}
 		},
@@ -27272,7 +27272,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 100,
-				"Pop1030_Femmes" : 43,
+				"Pop1030_Femme" : 43,
 				"DensityPopulation (hab/km2)" : 10625.852060512103
 			}
 		},
@@ -27314,7 +27314,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 1,
-				"Pop1030_Femmes" : 1,
+				"Pop1030_Femme" : 1,
 				"DensityPopulation (hab/km2)" : 2081.5986677768524
 			}
 		},
@@ -27365,7 +27365,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 6,
 				"Pop1030_Population" : 255,
-				"Pop1030_Femmes" : 140,
+				"Pop1030_Femme" : 140,
 				"DensityPopulation (hab/km2)" : 23868.738785202877
 			}
 		},
@@ -27480,7 +27480,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 203,
-				"Pop1030_Femmes" : 90,
+				"Pop1030_Femme" : 90,
 				"DensityPopulation (hab/km2)" : 16345.697820385742
 			}
 		},
@@ -27663,7 +27663,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 57,
 				"Pop1030_de 70 ans et plus" : 41,
 				"Pop1030_Population" : 549,
-				"Pop1030_Femmes" : 279,
+				"Pop1030_Femme" : 279,
 				"DensityPopulation (hab/km2)" : 5632.2809927546705
 			}
 		},
@@ -27749,7 +27749,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 505,
-				"Pop1030_Femmes" : 235,
+				"Pop1030_Femme" : 235,
 				"DensityPopulation (hab/km2)" : 24655.49439148531
 			}
 		},
@@ -27910,7 +27910,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 84,
 				"Pop1030_de 70 ans et plus" : 122,
 				"Pop1030_Population" : 944,
-				"Pop1030_Femmes" : 412,
+				"Pop1030_Femme" : 412,
 				"DensityPopulation (hab/km2)" : 9331.62530321604
 			}
 		},
@@ -28007,7 +28007,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 6,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 77,
-				"Pop1030_Femmes" : 33,
+				"Pop1030_Femme" : 33,
 				"DensityPopulation (hab/km2)" : 12408.327438034908
 			}
 		},
@@ -28081,7 +28081,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 8,
 				"Pop1030_Population" : 79,
-				"Pop1030_Femmes" : 36,
+				"Pop1030_Femme" : 36,
 				"DensityPopulation (hab/km2)" : 6527.345031327125
 			}
 		},
@@ -28163,7 +28163,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 38,
 				"Pop1030_Population" : 565,
-				"Pop1030_Femmes" : 269,
+				"Pop1030_Femme" : 269,
 				"DensityPopulation (hab/km2)" : 77124.4720727509
 			}
 		},
@@ -28274,7 +28274,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 47,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 306,
-				"Pop1030_Femmes" : 163,
+				"Pop1030_Femme" : 163,
 				"DensityPopulation (hab/km2)" : 18876.03687119202
 			}
 		},
@@ -28337,7 +28337,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 4,
 				"Pop1030_de 70 ans et plus" : 10,
 				"Pop1030_Population" : 22,
-				"Pop1030_Femmes" : 10,
+				"Pop1030_Femme" : 10,
 				"DensityPopulation (hab/km2)" : 14674.786715315808
 			}
 		},
@@ -28438,7 +28438,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 98,
-				"Pop1030_Femmes" : 48,
+				"Pop1030_Femme" : 48,
 				"DensityPopulation (hab/km2)" : 13714.695155913692
 			}
 		},
@@ -28527,7 +28527,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 11,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 74,
-				"Pop1030_Femmes" : 38,
+				"Pop1030_Femme" : 38,
 				"DensityPopulation (hab/km2)" : 13593.570608495982
 			}
 		},
@@ -28638,7 +28638,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 119,
-				"Pop1030_Femmes" : 61,
+				"Pop1030_Femme" : 61,
 				"DensityPopulation (hab/km2)" : 17537.240846739252
 			}
 		},
@@ -28787,7 +28787,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 194,
-				"Pop1030_Femmes" : 101,
+				"Pop1030_Femme" : 101,
 				"DensityPopulation (hab/km2)" : 20315.518857304425
 			}
 		},
@@ -28905,7 +28905,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 101,
-				"Pop1030_Femmes" : 47,
+				"Pop1030_Femme" : 47,
 				"DensityPopulation (hab/km2)" : 17769.332946278555
 			}
 		},
@@ -28968,7 +28968,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 4,
-				"Pop1030_Femmes" : 2,
+				"Pop1030_Femme" : 2,
 				"DensityPopulation (hab/km2)" : 4039.302412473366
 			}
 		},
@@ -29071,7 +29071,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 245,
-				"Pop1030_Femmes" : 117,
+				"Pop1030_Femme" : 117,
 				"DensityPopulation (hab/km2)" : 7669.895222970116
 			}
 		},
@@ -29191,7 +29191,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 27,
-				"Pop1030_Femmes" : 13,
+				"Pop1030_Femme" : 13,
 				"DensityPopulation (hab/km2)" : 9433.171222538991
 			}
 		},
@@ -29401,7 +29401,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 55,
-				"Pop1030_Femmes" : 28,
+				"Pop1030_Femme" : 28,
 				"DensityPopulation (hab/km2)" : 9163.215188945498
 			}
 		},
@@ -29469,7 +29469,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 1,
 				"Pop1030_de 70 ans et plus" : 0,
 				"Pop1030_Population" : 3,
-				"Pop1030_Femmes" : 1,
+				"Pop1030_Femme" : 1,
 				"DensityPopulation (hab/km2)" : 87.70165533951064
 			}
 		},
@@ -29528,7 +29528,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 221,
-				"Pop1030_Femmes" : 103,
+				"Pop1030_Femme" : 103,
 				"DensityPopulation (hab/km2)" : 28146.125513889667
 			}
 		},
@@ -29654,7 +29654,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 320,
-				"Pop1030_Femmes" : 167,
+				"Pop1030_Femme" : 167,
 				"DensityPopulation (hab/km2)" : 17426.745043452498
 			}
 		},
@@ -29758,7 +29758,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 50,
 				"Pop1030_de 70 ans et plus" : 45,
 				"Pop1030_Population" : 426,
-				"Pop1030_Femmes" : 201,
+				"Pop1030_Femme" : 201,
 				"DensityPopulation (hab/km2)" : 30680.61266158636
 			}
 		},
@@ -29835,7 +29835,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 98,
-				"Pop1030_Femmes" : 55,
+				"Pop1030_Femme" : 55,
 				"DensityPopulation (hab/km2)" : 13820.121250410724
 			}
 		},
@@ -29972,7 +29972,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 29,
 				"Pop1030_Population" : 495,
-				"Pop1030_Femmes" : 249,
+				"Pop1030_Femme" : 249,
 				"DensityPopulation (hab/km2)" : 25624.646043399352
 			}
 		},
@@ -30069,7 +30069,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 360,
-				"Pop1030_Femmes" : 213,
+				"Pop1030_Femme" : 213,
 				"DensityPopulation (hab/km2)" : 13475.192171212797
 			}
 		},
@@ -30157,7 +30157,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 210,
-				"Pop1030_Femmes" : 111,
+				"Pop1030_Femme" : 111,
 				"DensityPopulation (hab/km2)" : 43405.827955833534
 			}
 		},
@@ -30258,7 +30258,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 404,
-				"Pop1030_Femmes" : 199,
+				"Pop1030_Femme" : 199,
 				"DensityPopulation (hab/km2)" : 35468.09100901452
 			}
 		},
@@ -30307,7 +30307,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 358,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 53628.13829468512
 			}
 		},
@@ -30392,7 +30392,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 174,
-				"Pop1030_Femmes" : 91,
+				"Pop1030_Femme" : 91,
 				"DensityPopulation (hab/km2)" : 23744.60628986433
 			}
 		},
@@ -30479,7 +30479,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 104,
 				"Pop1030_Population" : 372,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 31140.18272255604
 			}
 		},
@@ -30609,7 +30609,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 374,
-				"Pop1030_Femmes" : 192,
+				"Pop1030_Femme" : 192,
 				"DensityPopulation (hab/km2)" : 25904.851618533747
 			}
 		},
@@ -30671,7 +30671,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 45,
 				"Pop1030_de 70 ans et plus" : 62,
 				"Pop1030_Population" : 324,
-				"Pop1030_Femmes" : 159,
+				"Pop1030_Femme" : 159,
 				"DensityPopulation (hab/km2)" : 41859.00491843308
 			}
 		},
@@ -30760,7 +30760,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 38,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 382,
-				"Pop1030_Femmes" : 189,
+				"Pop1030_Femme" : 189,
 				"DensityPopulation (hab/km2)" : 26032.970552757655
 			}
 		},
@@ -30845,7 +30845,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 200,
-				"Pop1030_Femmes" : 87,
+				"Pop1030_Femme" : 87,
 				"DensityPopulation (hab/km2)" : 19217.981881286683
 			}
 		},
@@ -30921,7 +30921,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 95,
-				"Pop1030_Femmes" : 43,
+				"Pop1030_Femme" : 43,
 				"DensityPopulation (hab/km2)" : 13043.878233337133
 			}
 		},
@@ -30993,7 +30993,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 7,
 				"Pop1030_de 70 ans et plus" : 5,
 				"Pop1030_Population" : 125,
-				"Pop1030_Femmes" : 74,
+				"Pop1030_Femme" : 74,
 				"DensityPopulation (hab/km2)" : 13730.952422799093
 			}
 		},
@@ -31089,7 +31089,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 24,
 				"Pop1030_Population" : 305,
-				"Pop1030_Femmes" : 146,
+				"Pop1030_Femme" : 146,
 				"DensityPopulation (hab/km2)" : 21375.72782601139
 			}
 		},
@@ -31166,7 +31166,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 8,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 122,
-				"Pop1030_Femmes" : 67,
+				"Pop1030_Femme" : 67,
 				"DensityPopulation (hab/km2)" : 10750.328898382077
 			}
 		},
@@ -31330,7 +31330,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 1,
 				"Pop1030_Population" : 5,
-				"Pop1030_Femmes" : 2,
+				"Pop1030_Femme" : 2,
 				"DensityPopulation (hab/km2)" : 26.748232369812072
 			}
 		},
@@ -31413,7 +31413,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 127,
-				"Pop1030_Femmes" : 64,
+				"Pop1030_Femme" : 64,
 				"DensityPopulation (hab/km2)" : 29884.110830048827
 			}
 		},
@@ -31497,7 +31497,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 12,
 				"Pop1030_Population" : 174,
-				"Pop1030_Femmes" : 93,
+				"Pop1030_Femme" : 93,
 				"DensityPopulation (hab/km2)" : 41951.36534817222
 			}
 		},
@@ -31611,7 +31611,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 349,
-				"Pop1030_Femmes" : 181,
+				"Pop1030_Femme" : 181,
 				"DensityPopulation (hab/km2)" : 34481.66839898354
 			}
 		},
@@ -31712,7 +31712,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 39,
 				"Pop1030_Population" : 296,
-				"Pop1030_Femmes" : 143,
+				"Pop1030_Femme" : 143,
 				"DensityPopulation (hab/km2)" : 27107.04627520795
 			}
 		},
@@ -31824,7 +31824,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 286,
-				"Pop1030_Femmes" : 140,
+				"Pop1030_Femme" : 140,
 				"DensityPopulation (hab/km2)" : 27732.74170151037
 			}
 		},
@@ -31922,7 +31922,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 253,
-				"Pop1030_Femmes" : 122,
+				"Pop1030_Femme" : 122,
 				"DensityPopulation (hab/km2)" : 20814.37689324446
 			}
 		},
@@ -32046,7 +32046,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 322,
-				"Pop1030_Femmes" : 165,
+				"Pop1030_Femme" : 165,
 				"DensityPopulation (hab/km2)" : 15038.162840886429
 			}
 		},
@@ -32147,7 +32147,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 28,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 279,
-				"Pop1030_Femmes" : 141,
+				"Pop1030_Femme" : 141,
 				"DensityPopulation (hab/km2)" : 23808.67045215993
 			}
 		},
@@ -32229,7 +32229,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 142,
-				"Pop1030_Femmes" : 72,
+				"Pop1030_Femme" : 72,
 				"DensityPopulation (hab/km2)" : 29903.613493689707
 			}
 		},
@@ -32317,7 +32317,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 280,
-				"Pop1030_Femmes" : 134,
+				"Pop1030_Femme" : 134,
 				"DensityPopulation (hab/km2)" : 38195.16912957302
 			}
 		},
@@ -32411,7 +32411,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 244,
-				"Pop1030_Femmes" : 121,
+				"Pop1030_Femme" : 121,
 				"DensityPopulation (hab/km2)" : 24874.049638001026
 			}
 		},
@@ -32504,7 +32504,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 224,
-				"Pop1030_Femmes" : 116,
+				"Pop1030_Femme" : 116,
 				"DensityPopulation (hab/km2)" : 25966.58888282229
 			}
 		},
@@ -32580,7 +32580,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 244,
-				"Pop1030_Femmes" : 115,
+				"Pop1030_Femme" : 115,
 				"DensityPopulation (hab/km2)" : 42181.32784745572
 			}
 		},
@@ -32693,7 +32693,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 34,
 				"Pop1030_Population" : 352,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 27395.447841635632
 			}
 		},
@@ -32782,7 +32782,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 48,
 				"Pop1030_Population" : 292,
-				"Pop1030_Femmes" : 135,
+				"Pop1030_Femme" : 135,
 				"DensityPopulation (hab/km2)" : 17874.21693178048
 			}
 		},
@@ -32823,7 +32823,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 43,
 				"Pop1030_de 70 ans et plus" : 51,
 				"Pop1030_Population" : 290,
-				"Pop1030_Femmes" : 135,
+				"Pop1030_Femme" : 135,
 				"DensityPopulation (hab/km2)" : 68839.46162793458
 			}
 		},
@@ -32957,7 +32957,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 50,
 				"Pop1030_de 70 ans et plus" : 46,
 				"Pop1030_Population" : 674,
-				"Pop1030_Femmes" : 350,
+				"Pop1030_Femme" : 350,
 				"DensityPopulation (hab/km2)" : 24923.47310446633
 			}
 		},
@@ -33058,7 +33058,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 341,
-				"Pop1030_Femmes" : 167,
+				"Pop1030_Femme" : 167,
 				"DensityPopulation (hab/km2)" : 37669.94281017774
 			}
 		},
@@ -33152,7 +33152,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 27,
 				"Pop1030_Population" : 489,
-				"Pop1030_Femmes" : 240,
+				"Pop1030_Femme" : 240,
 				"DensityPopulation (hab/km2)" : 33506.7369782816
 			}
 		},
@@ -33254,7 +33254,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 547,
-				"Pop1030_Femmes" : 268,
+				"Pop1030_Femme" : 268,
 				"DensityPopulation (hab/km2)" : 39888.63268767711
 			}
 		},
@@ -33348,7 +33348,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 22,
 				"Pop1030_Population" : 261,
-				"Pop1030_Femmes" : 126,
+				"Pop1030_Femme" : 126,
 				"DensityPopulation (hab/km2)" : 30060.293347000592
 			}
 		},
@@ -33450,7 +33450,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 26,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 273,
-				"Pop1030_Femmes" : 148,
+				"Pop1030_Femme" : 148,
 				"DensityPopulation (hab/km2)" : 29069.17932276266
 			}
 		},
@@ -33559,7 +33559,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 23,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 241,
-				"Pop1030_Femmes" : 108,
+				"Pop1030_Femme" : 108,
 				"DensityPopulation (hab/km2)" : 2864.930304923686
 			}
 		},
@@ -33650,7 +33650,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 24,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 253,
-				"Pop1030_Femmes" : 134,
+				"Pop1030_Femme" : 134,
 				"DensityPopulation (hab/km2)" : 22139.40122107986
 			}
 		},
@@ -33736,7 +33736,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 364,
-				"Pop1030_Femmes" : 184,
+				"Pop1030_Femme" : 184,
 				"DensityPopulation (hab/km2)" : 26551.745266640795
 			}
 		},
@@ -33839,7 +33839,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 27,
 				"Pop1030_de 70 ans et plus" : 18,
 				"Pop1030_Population" : 364,
-				"Pop1030_Femmes" : 176,
+				"Pop1030_Femme" : 176,
 				"DensityPopulation (hab/km2)" : 43607.384982527095
 			}
 		},
@@ -33960,7 +33960,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 45,
 				"Pop1030_Population" : 453,
-				"Pop1030_Femmes" : 226,
+				"Pop1030_Femme" : 226,
 				"DensityPopulation (hab/km2)" : 25218.18180806013
 			}
 		},
@@ -34052,7 +34052,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 20,
 				"Pop1030_Population" : 297,
-				"Pop1030_Femmes" : 138,
+				"Pop1030_Femme" : 138,
 				"DensityPopulation (hab/km2)" : 25755.561510264502
 			}
 		},
@@ -34185,7 +34185,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 48,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 478,
-				"Pop1030_Femmes" : 240,
+				"Pop1030_Femme" : 240,
 				"DensityPopulation (hab/km2)" : 24891.762493008955
 			}
 		},
@@ -34285,7 +34285,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 395,
-				"Pop1030_Femmes" : 203,
+				"Pop1030_Femme" : 203,
 				"DensityPopulation (hab/km2)" : 27000.663737835177
 			}
 		},
@@ -34395,7 +34395,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 30,
 				"Pop1030_Population" : 374,
-				"Pop1030_Femmes" : 191,
+				"Pop1030_Femme" : 191,
 				"DensityPopulation (hab/km2)" : 23068.7052658329
 			}
 		},
@@ -34522,7 +34522,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 49,
 				"Pop1030_de 70 ans et plus" : 50,
 				"Pop1030_Population" : 486,
-				"Pop1030_Femmes" : 218,
+				"Pop1030_Femme" : 218,
 				"DensityPopulation (hab/km2)" : 11632.79990004409
 			}
 		},
@@ -34590,7 +34590,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 119,
-				"Pop1030_Femmes" : 56,
+				"Pop1030_Femme" : 56,
 				"DensityPopulation (hab/km2)" : 24058.581635417468
 			}
 		},
@@ -34668,7 +34668,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 45,
 				"Pop1030_de 70 ans et plus" : 45,
 				"Pop1030_Population" : 728,
-				"Pop1030_Femmes" : 347,
+				"Pop1030_Femme" : 347,
 				"DensityPopulation (hab/km2)" : 47883.58500717596
 			}
 		},
@@ -34807,7 +34807,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 40,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 456,
-				"Pop1030_Femmes" : 218,
+				"Pop1030_Femme" : 218,
 				"DensityPopulation (hab/km2)" : 13288.50212353761
 			}
 		},
@@ -34895,7 +34895,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 180,
-				"Pop1030_Femmes" : 87,
+				"Pop1030_Femme" : 87,
 				"DensityPopulation (hab/km2)" : 14011.88207600045
 			}
 		},
@@ -35074,7 +35074,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 86,
 				"Pop1030_de 70 ans et plus" : 75,
 				"Pop1030_Population" : 1026,
-				"Pop1030_Femmes" : 475,
+				"Pop1030_Femme" : 475,
 				"DensityPopulation (hab/km2)" : 11774.679458451965
 			}
 		},
@@ -35161,7 +35161,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 145,
-				"Pop1030_Femmes" : 75,
+				"Pop1030_Femme" : 75,
 				"DensityPopulation (hab/km2)" : 33612.12076255471
 			}
 		},
@@ -35247,7 +35247,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 31,
 				"Pop1030_de 70 ans et plus" : 21,
 				"Pop1030_Population" : 694,
-				"Pop1030_Femmes" : 357,
+				"Pop1030_Femme" : 357,
 				"DensityPopulation (hab/km2)" : 30241.153591071623
 			}
 		},
@@ -35352,7 +35352,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 31,
 				"Pop1030_Population" : 436,
-				"Pop1030_Femmes" : 205,
+				"Pop1030_Femme" : 205,
 				"DensityPopulation (hab/km2)" : 31207.3895662817
 			}
 		},
@@ -35494,7 +35494,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 40,
 				"Pop1030_de 70 ans et plus" : 41,
 				"Pop1030_Population" : 669,
-				"Pop1030_Femmes" : 320,
+				"Pop1030_Femme" : 320,
 				"DensityPopulation (hab/km2)" : 14135.526953005818
 			}
 		},
@@ -35564,7 +35564,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 52,
 				"Pop1030_de 70 ans et plus" : 115,
 				"Pop1030_Population" : 557,
-				"Pop1030_Femmes" : 262,
+				"Pop1030_Femme" : 262,
 				"DensityPopulation (hab/km2)" : 59332.893751511285
 			}
 		},
@@ -35630,7 +35630,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 414,
-				"Pop1030_Femmes" : 194,
+				"Pop1030_Femme" : 194,
 				"DensityPopulation (hab/km2)" : 54273.72836916623
 			}
 		},
@@ -35714,7 +35714,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 34,
 				"Pop1030_de 70 ans et plus" : 35,
 				"Pop1030_Population" : 427,
-				"Pop1030_Femmes" : 198,
+				"Pop1030_Femme" : 198,
 				"DensityPopulation (hab/km2)" : 26014.02929898588
 			}
 		},
@@ -35794,7 +35794,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 157,
-				"Pop1030_Femmes" : 78,
+				"Pop1030_Femme" : 78,
 				"DensityPopulation (hab/km2)" : 18449.165498415372
 			}
 		},
@@ -35881,7 +35881,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 33,
 				"Pop1030_Population" : 387,
-				"Pop1030_Femmes" : 167,
+				"Pop1030_Femme" : 167,
 				"DensityPopulation (hab/km2)" : 35513.54699580169
 			}
 		},
@@ -35945,7 +35945,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 9,
 				"Pop1030_de 70 ans et plus" : 3,
 				"Pop1030_Population" : 114,
-				"Pop1030_Femmes" : 56,
+				"Pop1030_Femme" : 56,
 				"DensityPopulation (hab/km2)" : 8113.145644486228
 			}
 		},
@@ -36050,7 +36050,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 49,
 				"Pop1030_de 70 ans et plus" : 79,
 				"Pop1030_Population" : 651,
-				"Pop1030_Femmes" : 300,
+				"Pop1030_Femme" : 300,
 				"DensityPopulation (hab/km2)" : 27135.300107665866
 			}
 		},
@@ -36144,7 +36144,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 23,
 				"Pop1030_Population" : 217,
-				"Pop1030_Femmes" : 115,
+				"Pop1030_Femme" : 115,
 				"DensityPopulation (hab/km2)" : 20042.467865089253
 			}
 		},
@@ -36238,7 +36238,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 11,
 				"Pop1030_Population" : 243,
-				"Pop1030_Femmes" : 120,
+				"Pop1030_Femme" : 120,
 				"DensityPopulation (hab/km2)" : 36096.203065652015
 			}
 		},
@@ -36356,7 +36356,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 55,
 				"Pop1030_de 70 ans et plus" : 49,
 				"Pop1030_Population" : 564,
-				"Pop1030_Femmes" : 265,
+				"Pop1030_Femme" : 265,
 				"DensityPopulation (hab/km2)" : 24367.198122170394
 			}
 		},
@@ -36407,7 +36407,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 0,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 15,
-				"Pop1030_Femmes" : 7,
+				"Pop1030_Femme" : 7,
 				"DensityPopulation (hab/km2)" : 15757.13010137087
 			}
 		},
@@ -36453,7 +36453,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 33,
 				"Pop1030_de 70 ans et plus" : 14,
 				"Pop1030_Population" : 306,
-				"Pop1030_Femmes" : 154,
+				"Pop1030_Femme" : 154,
 				"DensityPopulation (hab/km2)" : 11775.140984224774
 			}
 		},
@@ -36525,7 +36525,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 14,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 176,
-				"Pop1030_Femmes" : 87,
+				"Pop1030_Femme" : 87,
 				"DensityPopulation (hab/km2)" : 42151.75109390979
 			}
 		},
@@ -36594,7 +36594,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 15,
 				"Pop1030_de 70 ans et plus" : 17,
 				"Pop1030_Population" : 162,
-				"Pop1030_Femmes" : 73,
+				"Pop1030_Femme" : 73,
 				"DensityPopulation (hab/km2)" : 14009.066114144487
 			}
 		},
@@ -36681,7 +36681,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 32,
 				"Pop1030_de 70 ans et plus" : 26,
 				"Pop1030_Population" : 260,
-				"Pop1030_Femmes" : 123,
+				"Pop1030_Femme" : 123,
 				"DensityPopulation (hab/km2)" : 37650.98406639317
 			}
 		},
@@ -36740,7 +36740,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 29,
 				"Pop1030_de 70 ans et plus" : 51,
 				"Pop1030_Population" : 394,
-				"Pop1030_Femmes" : 173,
+				"Pop1030_Femme" : 173,
 				"DensityPopulation (hab/km2)" : 23082.362438786335
 			}
 		},
@@ -36832,7 +36832,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 12,
 				"Pop1030_de 70 ans et plus" : 19,
 				"Pop1030_Population" : 204,
-				"Pop1030_Femmes" : 95,
+				"Pop1030_Femme" : 95,
 				"DensityPopulation (hab/km2)" : 18040.102085754155
 			}
 		},
@@ -36929,7 +36929,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 25,
 				"Pop1030_Population" : 265,
-				"Pop1030_Femmes" : 130,
+				"Pop1030_Femme" : 130,
 				"DensityPopulation (hab/km2)" : 31158.178904384367
 			}
 		},
@@ -37029,7 +37029,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 17,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 207,
-				"Pop1030_Femmes" : 94,
+				"Pop1030_Femme" : 94,
 				"DensityPopulation (hab/km2)" : 24891.864689266553
 			}
 		},
@@ -37117,7 +37117,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 18,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 217,
-				"Pop1030_Femmes" : 95,
+				"Pop1030_Femme" : 95,
 				"DensityPopulation (hab/km2)" : 23031.741348237807
 			}
 		},
@@ -37199,7 +37199,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 25,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 348,
-				"Pop1030_Femmes" : 155,
+				"Pop1030_Femme" : 155,
 				"DensityPopulation (hab/km2)" : 34081.894483238175
 			}
 		},
@@ -37306,7 +37306,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 16,
 				"Pop1030_de 70 ans et plus" : 13,
 				"Pop1030_Population" : 325,
-				"Pop1030_Femmes" : 155,
+				"Pop1030_Femme" : 155,
 				"DensityPopulation (hab/km2)" : 35465.249511670794
 			}
 		},
@@ -37388,7 +37388,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 20,
 				"Pop1030_de 70 ans et plus" : 15,
 				"Pop1030_Population" : 277,
-				"Pop1030_Femmes" : 131,
+				"Pop1030_Femme" : 131,
 				"DensityPopulation (hab/km2)" : 41646.808005208106
 			}
 		},
@@ -37516,7 +37516,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 35,
 				"Pop1030_de 70 ans et plus" : 28,
 				"Pop1030_Population" : 488,
-				"Pop1030_Femmes" : 229,
+				"Pop1030_Femme" : 229,
 				"DensityPopulation (hab/km2)" : 26133.206523019715
 			}
 		},
@@ -37592,7 +37592,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 13,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 193,
-				"Pop1030_Femmes" : 102,
+				"Pop1030_Femme" : 102,
 				"DensityPopulation (hab/km2)" : 28847.17424739516
 			}
 		},
@@ -37683,7 +37683,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 19,
 				"Pop1030_de 70 ans et plus" : 9,
 				"Pop1030_Population" : 205,
-				"Pop1030_Femmes" : 107,
+				"Pop1030_Femme" : 107,
 				"DensityPopulation (hab/km2)" : 31843.0278525528
 			}
 		},
@@ -37731,7 +37731,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 10,
 				"Pop1030_de 70 ans et plus" : 7,
 				"Pop1030_Population" : 97,
-				"Pop1030_Femmes" : 46,
+				"Pop1030_Femme" : 46,
 				"DensityPopulation (hab/km2)" : 19400
 			}
 		},
@@ -37773,7 +37773,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 98,
 				"Pop1030_de 70 ans et plus" : 92,
 				"Pop1030_Population" : 508,
-				"Pop1030_Femmes" : 214,
+				"Pop1030_Femme" : 214,
 				"DensityPopulation (hab/km2)" : 39076.92307692308
 			}
 		},
@@ -37829,7 +37829,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 4,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 219,
-				"Pop1030_Femmes" : 107,
+				"Pop1030_Femme" : 107,
 				"DensityPopulation (hab/km2)" : 9521.739130434782
 			}
 		},
@@ -37880,7 +37880,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 42,
 				"Pop1030_de 70 ans et plus" : 88,
 				"Pop1030_Population" : 467,
-				"Pop1030_Femmes" : 205,
+				"Pop1030_Femme" : 205,
 				"DensityPopulation (hab/km2)" : 42454.545454545456
 			}
 		},
@@ -37949,7 +37949,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 21,
 				"Pop1030_de 70 ans et plus" : 16,
 				"Pop1030_Population" : 297,
-				"Pop1030_Femmes" : 152,
+				"Pop1030_Femme" : 152,
 				"DensityPopulation (hab/km2)" : 22846.153846153848
 			}
 		},
@@ -37989,7 +37989,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 22,
 				"Pop1030_de 70 ans et plus" : 2,
 				"Pop1030_Population" : 260,
-				"Pop1030_Femmes" : 203,
+				"Pop1030_Femme" : 203,
 				"DensityPopulation (hab/km2)" : 13684.21052631579
 			}
 		},
@@ -38164,7 +38164,7 @@ var json_SchaerbeekDemographicDistribution = {
 				"Pop1030_de 60-69 ans" : 53,
 				"Pop1030_de 70 ans et plus" : 64,
 				"Pop1030_Population" : 411,
-				"Pop1030_Femmes" : 192,
+				"Pop1030_Femme" : 192,
 				"DensityPopulation (hab/km2)" : 17125
 					}
 				}

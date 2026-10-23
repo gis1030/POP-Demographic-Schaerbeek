@@ -8,7 +8,7 @@ var json_SchaerbeekDemographicDistributionWomen = {
 		}
 	},
 	"features": [
-	{
+		{
 	"type" : "FeatureCollection",
 	"name" : "Population1030_Women_RN",
 	"features" : [
